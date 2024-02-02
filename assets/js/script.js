@@ -1,4 +1,4 @@
-const articles = "../../Outputs/articles.json";
+const articles = "assets/js/articles.json";
 const storyCards = $(".news");
 const sourceMapping = {
   mirror: "Mirror",
