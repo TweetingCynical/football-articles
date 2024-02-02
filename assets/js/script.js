@@ -91,7 +91,7 @@ const showAllNews = (data) => {
     columnLeft.append(headlineElement, articleDate, articleSource);
     const columnRight = $("<div>").addClass("col-lg-4 col-md-4 col-sm-4");
     const correctedImage =
-      image == null ? "../../assets/images/default.jpeg" : image;
+      image == null ? "assets/images/default.jpeg" : image;
 
     const imageElement = $("<img>")
       .attr("src", correctedImage)
