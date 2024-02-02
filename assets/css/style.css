@@ -1,0 +1,117 @@
+/* Import two fonts from Google api */
+@import url("https://fonts.googleapis.com/css?family=Comfortaa&display=swap");
+@import url("https://fonts.googleapis.com/css?family=Montserrat&display=swap");
+
+/* Add stored options for main and secondary colours used in site */
+:root {
+  --Maroon: #7b0101;
+  --UERed: #b80102;
+  --RossoCorsa: #da0106;
+  --VividYellow: #ffe600;
+  --Tangerine: #ef9101;
+  --Persimmon: #e14f01;
+  --SkySports: #002672;
+  --coreFont: Montserrat;
+  --titleFont: Comfortaa;
+}
+
+html {
+  max-width: 1280px;
+  background-color: white;
+  margin: 0 auto;
+}
+
+body {
+  font-family: var(--coreFont), var(--titleFont), -apple-system,
+    BlinkMacSystemFont, "Segoe UI", Roboto, Helvetica, Arial, sans-serif,
+    "Apple Color Emoji", "Segoe UI Emoji", "Segoe UI Symbol";
+  line-height: 1.5;
+  padding-bottom: 50px;
+  background-color: White;
+}
+
+a {
+  text-decoration: none;
+}
+
+header {
+  background-color: var(--RossoCorsa);
+  color: white;
+  padding: 10px;
+  margin: 10px;
+  text-align: center;
+}
+
+header img {
+  height: 250px;
+}
+
+.headline-image {
+  width: 350px;
+}
+
+.source {
+  font-weight: bold;
+}
+
+.mirror {
+  color: white;
+  background-color: var(--UERed);
+  padding: 3px 6px;
+  transition: transform 0.3s ease;
+}
+
+.manchestereveningnews {
+  color: black;
+  background-color: var(--VividYellow);
+  padding: 3px 6px;
+  transition: transform 0.3s ease;
+}
+
+.skysports {
+  color: white;
+  background-color: var(--SkySports);
+  padding: 3px 6px;
+  transition: transform 0.3s ease;
+}
+
+.mirror:hover,
+.manchestereveningnews:hover,
+.skysports:hover {
+  text-decoration: none;
+  color: white;
+  background-color: var(--Maroon);
+}
+
+.tags {
+  display: flex;
+  flex-wrap: wrap;
+}
+
+.tag {
+  color: white;
+  background-color: var(--UERed);
+  margin: 5px;
+  padding: 3px 10px;
+  border-radius: 5px;
+  font-family: var(--coreFont), var(--titleFont), -apple-system,
+    BlinkMacSystemFont, "Segoe UI", Roboto, Helvetica, Arial, sans-serif,
+    "Apple Color Emoji", "Segoe UI Emoji", "Segoe UI Symbol";
+}
+
+.rounded {
+  border-radius: 15px;
+}
+
+.hidden {
+  display: none;
+  visibility: hidden;
+}
+
+.bodyCard p {
+  font-size: x-large;
+}
+
+.storyCard {
+  cursor: pointer;
+}

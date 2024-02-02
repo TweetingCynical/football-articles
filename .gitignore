@@ -129,6 +129,7 @@ dist
 .yarn/install-state.gz
 .pnp.*
 
-# Ignore folders
+# Ignore folders & files
 Raw/
 venv/
+articles.ipynb
