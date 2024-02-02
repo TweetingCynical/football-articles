@@ -133,3 +133,6 @@ dist
 Raw/
 venv/
 articles.ipynb
+articles.py
+automate_git.sh
+automate_git.workflow
