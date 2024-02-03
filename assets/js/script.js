@@ -49,11 +49,14 @@ const showAllNews = (data) => {
     const storyCard = $("<article>")
       .addClass("storyCard card p-3 m-3 shadow-lg rounded")
       .click(() => toggleBodyVisibility(bodyCard));
-    const bodyCard = $("<section>").addClass(
-      "bodyCard card p-3 m-3 shadow-lg rounded hidden"
-    );
-    body.forEach((paragraph) => {
-      const paragraphElement = $("<p>").addClass("hidden").text(`${paragraph}`);
+    const bodyCard = $("<section>").addClass("bodyCard p-2 m-2");
+    body.forEach((paragraph, index) => {
+      const paragraphElement = $("<p>").text(`${paragraph}`);
+      if (index === 0) {
+        paragraphElement.addClass("subHeader");
+      } else {
+        paragraphElement.addClass("hidden");
+      }
       bodyCard.append(paragraphElement);
     });
     const columnLeft = $("<div>").addClass("col-lg-8 col-md-8 col-sm-8");
@@ -62,10 +65,12 @@ const showAllNews = (data) => {
       .text(`${correctedHeadline}`);
     const tagsElement = $("<div>").addClass("tags");
     tags.forEach((tag) => {
-      const tagElement = $("<h4>").addClass("tag shadow-lg").text(`${tag}`);
+      const tagElement = $("<h4>")
+        .addClass("tag rounded shadow-lg")
+        .text(`${tag}`);
       tagsElement.append(tagElement);
     });
-    const articleDate = $("<h4>")
+    const articleDate = $("<h5>")
       .addClass("date")
       .text(
         new Date(date).toLocaleDateString("en-US", {
@@ -78,24 +83,19 @@ const showAllNews = (data) => {
           hour12: false, // Use 24-hour format
         })
       );
-    // const correctedSource =
-    //   source == "mirror" ? "Mirror" : "Manchester Evening News";
     const correctedSource = sourceMapping[source] || "Other";
 
-    // const sourceElement = $("<div>").addClass(`${source}`);
     const articleSource = $("<a>")
       .addClass(`source ${source} shadow-lg rounded`)
       .attr("href", link)
       .text(`${correctedSource}`);
-    // sourceElement.append(articleSource);
     columnLeft.append(headlineElement, articleDate, articleSource);
     const columnRight = $("<div>").addClass("col-lg-4 col-md-4 col-sm-4");
-    const correctedImage =
-      image == null ? "assets/images/default.jpeg" : image;
+    const correctedImage = image == null ? "assets/images/default.jpeg" : image;
 
     const imageElement = $("<img>")
       .attr("src", correctedImage)
-      .addClass("headline-image shadow-lg rounded p-0 m-2");
+      .addClass("headlineImage shadow-lg rounded p-0 m-2");
     columnRight.append(imageElement);
     // Use Bootstrap row class to ensure columns sit side by side
     const row = $("<div>").addClass("row");
@@ -107,10 +107,8 @@ const showAllNews = (data) => {
 };
 
 const toggleBodyVisibility = (bodyCard) => {
-  bodyCard.toggleClass("hidden");
-
-  // Find all p elements within bodyCard and toggle the "hidden" class
-  bodyCard.find("p").toggleClass("hidden");
+  // Find all p elements (not the first one) within bodyCard and toggle the "hidden" class
+  bodyCard.find("p:not(:first-child)").toggleClass("hidden");
 };
 
 init();
