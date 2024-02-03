@@ -65,7 +65,7 @@ const showAllNews = (data) => {
       .text(`${correctedHeadline}`);
     const tagsElement = $("<div>").addClass("tags");
     tags.forEach((tag) => {
-      const tagElement = $("<h4>")
+      const tagElement = $("<h5>")
         .addClass("tag rounded shadow-lg")
         .text(`${tag}`);
       tagsElement.append(tagElement);
