@@ -80,32 +80,6 @@ git push</string>
 					<key>source</key>
 					<string></string>
 				</dict>
-				<key>ActionRuntimeParameters</key>
-				<dict>
-					<key>COMMAND_STRING</key>
-					<string>#!/bin/bash
-
-# Run your Python script
-python "/Users/jonathan/Bootcamp/Repos/football-articles/articles.py"
-
-Sleep 60
-
-# Perform git add, commit, and push
-cd "/Users/jonathan/Bootcamp/Repos/football-articles/"
-git add .
-git commit -m "Automated commit of updated articles"
-git push</string>
-					<key>CheckedForUserDefaultShell</key>
-					<true/>
-					<key>inputMethod</key>
-					<integer>1</integer>
-					<key>shell</key>
-					<string>/bin/zsh</string>
-					<key>source</key>
-					<string></string>
-					<key>temporary items path</key>
-					<string>/var/folders/5k/x2hr6k4d2gg16665h3_p0ylc0000gn/T/B564D1DF-E6A0-4784-8BE4-2F2BD8BD416F/1/com.apple.RunShellScript</string>
-				</dict>
 				<key>BundleIdentifier</key>
 				<string>com.apple.RunShellScript</string>
 				<key>CFBundleVersion</key>
