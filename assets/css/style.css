@@ -49,6 +49,7 @@ header img {
 .headline {
   color: var(--Maroon);
   padding-left: 5px;
+  padding-top: 10px;
 }
 
 .headlineImage {
