@@ -77,6 +77,13 @@ const showAllNews = (data) => {
       } else {
         paragraphElement.addClass("hidden");
       }
+
+      // Check if the paragraph contains a double quote mark
+      if (paragraph.includes('"')) {
+        paragraphElement.addClass("quote");
+      }
+
+      // Check if the paragraph starts with a double quote mark
       bodyCard.append(paragraphElement);
     });
     const columnLeft = $("<div>").addClass("col-lg-8 col-md-8 col-sm-8");

@@ -139,3 +139,8 @@ header img {
   display: none;
   visibility: hidden;
 }
+
+.quote {
+  font-style: italic;
+  color: var(--Maroon);
+}
