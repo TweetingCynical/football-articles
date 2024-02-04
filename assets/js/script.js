@@ -84,13 +84,16 @@ const showAllNews = (data) => {
       }
 
       // Check if the cleaned paragraph contains a single quote
-      const quotePhrases = ["said: ", "continued: ", "added: ", "concluded: "];
+      const quotePhrases = [
+        '"',
+        "“",
+        "said: ",
+        "continued: ",
+        "added: ",
+        "concluded: ",
+      ];
 
-      if (
-        quotePhrases.some((phrase) => cleanedParagraph.includes(phrase)) ||
-        cleanedParagraph.startsWith('"') ||
-        cleanedParagraph.endsWith('"')
-      ) {
+      if (quotePhrases.some((phrase) => cleanedParagraph.includes(phrase))) {
         paragraphElement.addClass("quote");
       }
 
