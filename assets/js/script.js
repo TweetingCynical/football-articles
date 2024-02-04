@@ -71,19 +71,30 @@ const showAllNews = (data) => {
       .click(() => toggleBodyVisibility(bodyCard));
     const bodyCard = $("<section>").addClass("bodyCard p-2 m-2");
     body.forEach((paragraph, index) => {
-      const paragraphElement = $("<p>").text(`${paragraph}`);
+      // Remove leading and trailing whitespace, including zero-width non-joiners
+      const cleanedParagraph = paragraph
+        .trim()
+        .replace(/[\x00-\x1F\x7F-\x9F\u200B-\u200D\uFEFF]/g, "");
+
+      const paragraphElement = $("<p>").text(`${cleanedParagraph}`);
       if (index === 0) {
         paragraphElement.addClass("subHeader");
       } else {
         paragraphElement.addClass("hidden");
       }
 
-      // Check if the paragraph contains a double quote mark
-      if (paragraph.includes('"')) {
+      // Check if the cleaned paragraph contains a single quote
+      const quotePhrases = ["said: ", "continued: ", "added: ", "concluded: "];
+
+      if (
+        quotePhrases.some((phrase) => cleanedParagraph.includes(phrase)) ||
+        cleanedParagraph.startsWith('"') ||
+        cleanedParagraph.endsWith('"')
+      ) {
         paragraphElement.addClass("quote");
       }
 
-      // Check if the paragraph starts with a double quote mark
+      // Check if the cleaned paragraph starts with a single quote
       bodyCard.append(paragraphElement);
     });
     const columnLeft = $("<div>").addClass("col-lg-8 col-md-8 col-sm-8");
