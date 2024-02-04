@@ -130,7 +130,7 @@ const showAllNews = (data) => {
       .addClass(`source ${source} shadow-lg rounded`)
       .attr("href", link)
       .text(`${correctedSource}`);
-    columnLeft.append(headlineElement, articleDate, articleSource);
+    columnLeft.append(headlineElement, articleSource, articleDate);
     const columnRight = $("<div>").addClass("col-lg-4 col-md-4 col-sm-4");
     const correctedImage = image == null ? "assets/images/default.jpeg" : image;
 
