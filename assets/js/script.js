@@ -28,7 +28,7 @@ const showAllNews = (data) => {
     .click(() => toggleVisibility("All"));
   const menBtn = $("<h2>")
     .addClass("sourceButton manchestereveningnews rounded shadow-lg")
-    .text("Manchester Evening News")
+    .text("MEN")
     .click(() => toggleVisibility("manchestereveningnews"));
   const mirrorBtn = $("<h2>")
     .addClass("sourceButton mirror rounded shadow-lg")
