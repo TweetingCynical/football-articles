@@ -1,4 +1,5 @@
 const articles = "assets/js/articles.json";
+const sourceButtons = $(".sourceButtons");
 const storyCards = $(".news");
 const sourceMapping = {
   mirror: "Mirror",
@@ -20,6 +21,25 @@ const init = () => {
 
 // Create all news articles
 const showAllNews = (data) => {
+  // Create four buttons for sources
+  const allBtn = $("<h2>")
+    .addClass("sourceButton tag rounded shadow-lg")
+    .text("All")
+    .click(() => toggleVisibility("All"));
+  const menBtn = $("<h2>")
+    .addClass("sourceButton manchestereveningnews rounded shadow-lg")
+    .text("Manchester Evening News")
+    .click(() => toggleVisibility("manchestereveningnews"));
+  const mirrorBtn = $("<h2>")
+    .addClass("sourceButton mirror rounded shadow-lg")
+    .text("Mirror")
+    .click(() => toggleVisibility("mirror"));
+  const skySportsBtn = $("<h2>")
+    .addClass("sourceButton skysports rounded shadow-lg")
+    .text("Sky Sports")
+    .click(() => toggleVisibility("skysports"));
+  sourceButtons.append(allBtn, menBtn, mirrorBtn, skySportsBtn);
+
   // Filter out objects with null or undefined 'headline' values
   const filteredData = data.filter(
     (element) => element.headline !== null && element.headline !== undefined
@@ -109,6 +129,27 @@ const showAllNews = (data) => {
 const toggleBodyVisibility = (bodyCard) => {
   // Find all p elements (not the first one) within bodyCard and toggle the "hidden" class
   bodyCard.find("p:not(:first-child)").toggleClass("hidden");
+};
+
+const toggleVisibility = (selectedSource) => {
+  storyCards.find(".storyCard").each((index, card) => {
+    const source = $(card).find(".source").attr("class");
+    const isMatch = source.includes(selectedSource);
+
+    // Toggle visibility based on the selected source
+    if (selectedSource === "All" || isMatch) {
+      $(card).show(); // Show the storyCard
+    } else {
+      $(card).hide(); // Hide the storyCard
+    }
+  });
+
+  // If a specific source button is clicked, also remove hidden class from all other source buttons
+  sourceButtons.find("h2").each((index, button) => {
+    if ($(button).text() !== selectedSource) {
+      $(button).removeClass("hidden");
+    }
+  });
 };
 
 init();

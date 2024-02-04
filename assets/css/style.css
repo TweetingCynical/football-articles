@@ -91,9 +91,14 @@ header img {
   background-color: var(--Maroon);
 }
 
-.tags {
+.tags,
+.sourceButtons {
   display: flex;
   flex-wrap: wrap;
+}
+
+.sourceButtons {
+  justify-content: center;
 }
 
 .tag,
@@ -121,15 +126,16 @@ header img {
   font-weight: bold;
 }
 
-.hidden {
-  display: none;
-  visibility: hidden;
-}
-
 .bodyCard p {
   font-size: x-large;
 }
 
-.storyCard {
+.storyCard,
+.sourceButton {
   cursor: pointer;
+}
+
+.hidden {
+  display: none;
+  visibility: hidden;
 }
