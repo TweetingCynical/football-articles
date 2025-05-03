@@ -11,6 +11,7 @@
   --Tangerine: #ef9101;
   --Persimmon: #e14f01;
   --SkySports: #002672;
+  --Football365: cyan;
   --coreFont: Montserrat;
   --titleFont: Comfortaa;
 }
@@ -72,21 +73,31 @@ header img {
   transition: transform 0.3s ease;
 }
 
+.football365 {
+  color: rgb(22, 30, 38);
+  background-color: var(--Football365);
+  padding: 3px 6px;
+  transition: transform 0.3s ease;
+}
+
 .manchestereveningnews {
   color: black;
   background-color: var(--VividYellow);
+  padding: 3px 6px;
   transition: transform 0.3s ease;
 }
 
 .skysports {
   color: white;
   background-color: var(--SkySports);
+  padding: 3px 6px;
   transition: transform 0.3s ease;
 }
 
 .mirror:hover,
 .manchestereveningnews:hover,
-.skysports:hover {
+.skysports:hover,
+.football365:hover {
   text-decoration: none;
   color: white;
   background-color: var(--Maroon);
@@ -105,7 +116,8 @@ header img {
 .tag,
 .mirror,
 .skysports,
-.manchestereveningnews {
+.manchestereveningnews,
+.football365 {
   margin: 3px;
   padding: 2px 5px;
   border-radius: 5px;

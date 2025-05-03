@@ -5,6 +5,7 @@ const sourceMapping = {
   mirror: "Mirror",
   manchestereveningnews: "Manchester Evening News",
   skysports: "Sky Sports",
+  football365: "Football365",
 };
 
 const init = () => {
@@ -38,7 +39,11 @@ const showAllNews = (data) => {
     .addClass("sourceButton skysports rounded shadow-lg")
     .text("Sky Sports")
     .click(() => toggleVisibility("skysports"));
-  sourceButtons.append(allBtn, menBtn, mirrorBtn, skySportsBtn);
+  const football365Btn = $("<h2>")
+    .addClass("sourceButton football365 rounded shadow-lg")
+    .text("Football 365")
+    .click(() => toggleVisibility("football365"));
+  sourceButtons.append(allBtn, menBtn, mirrorBtn, skySportsBtn, football365Btn);
 
   // Filter out objects with null or undefined 'headline' values
   const filteredData = data.filter(
