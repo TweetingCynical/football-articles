@@ -23,7 +23,7 @@ jobs:
           pip install httpx selectolax
 
       - name: Run script
-        run: python articles.py
+        run: python get_articles.py
 
       - name: Commit and push if changed
         run: |
