@@ -134,6 +134,8 @@ const showAllNews = (data) => {
     const articleSource = $("<a>")
       .addClass(`source ${source} shadow-lg rounded`)
       .attr("href", link)
+      .attr("target", "_blank")
+      .attr("rel", "noopener noreferrer")
       .text(`${correctedSource}`);
     columnLeft.append(headlineElement, articleSource, articleDate);
     const columnRight = $("<div>").addClass("col-lg-4 col-md-4 col-sm-4");
