@@ -40,6 +40,9 @@ def scrape_site(config):
     results = []
 
     for article in articles:
+        if len(results) >= 20:
+            break
+        
         try:
             link = article.css_first(config["link_selector"]).attributes.get("href", "")
             full_link = urljoin(config.get("prepend_domain") or '', link)
