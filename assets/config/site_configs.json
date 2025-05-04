@@ -1,0 +1,67 @@
+[
+  {
+    "name": "mirror",
+    "url": "https://www.mirror.co.uk/all-about/manchester-united-fc",
+    "article_selector": "article.story",
+    "link_selector": "a",
+    "headline_selector": "a",
+    "image_selector": "a div amp-img",
+    "content_selector": "p",
+    "date_selector": "span[data-testid='byline-publishedDate']",
+    "date_format": "%H:%M, %d %B %Y",
+    "prepend_domain": false,
+    "domain_trim": ".co.uk"
+  },
+  {
+    "name": "men",
+    "url": "https://www.manchestereveningnews.co.uk/all-about/manchester-united-fc",
+    "article_selector": "div.teaser",
+    "link_selector": "a",
+    "headline_selector": "a.headline",
+    "image_selector": "div.img-container img",
+    "content_selector": "p",
+    "date_selector": "div.article-information ul li span.time-container",
+    "date_format": "%H:%M, %d %b %Y",
+    "prepend_domain": false,
+    "domain_trim": ".co.uk"
+  },
+  {
+    "name": "football365-latest",
+    "url": "https://www.football365.com/manchester-united",
+    "article_selector": "div.news-card",
+    "link_selector": "a",
+    "headline_selector": "h2",
+    "image_selector": "img.object-cover",
+    "content_selector": "p",
+    "date_selector": "header time[data-ps-datetime]",
+    "timestamp": true,
+    "prepend_domain": false,
+    "domain_trim": ".com"
+  },
+  {
+    "name": "football365",
+    "url": "https://www.football365.com/manchester-united",
+    "article_selector": "article.ps-more-articles-card",
+    "link_selector": "a",
+    "headline_selector": "h3",
+    "image_selector": "img.object-cover",
+    "content_selector": "p",
+    "date_selector": "header time[data-ps-datetime]",
+    "timestamp": true,
+    "prepend_domain": false,
+    "domain_trim": ".com"
+  },
+  {
+    "name": "skysports",
+    "url": "https://www.skysports.com/manchester-united-news",
+    "article_selector": "div.sdc-site-tiles__item",
+    "link_selector": "a",
+    "headline_selector": "span.sdc-site-tile__headline-text",
+    "image_selector": "picture img",
+    "content_selector": "p",
+    "date_selector": "p.sdc-article-date__date-time",
+    "date_format": "%d %B %Y %H:%M",
+    "prepend_domain": "https://www.skysports.com",
+    "domain_trim": ".com"
+  }
+]
