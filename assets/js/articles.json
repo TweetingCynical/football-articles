@@ -1,12 +1,39 @@
 [
   {
+    "headline": "LiveTransfer news LIVE: Liverpool's Frimpong contract details, Arsenal's summer vow, Aston Villa concern",
+    "tags": [
+      "Transfer News",
+      "LIVE"
+    ],
+    "link": "https://www.mirror.co.uk/sport/football/transfer-news/transfer-news-live-arsenal-liverpool-35247739",
+    "image": null,
+    "date": null,
+    "source": "mirror",
+    "body": [
+      "We've entered the final week of the Premier League season before attention turns firmly to the summer transfer window - with a number of clubs poised to act.",
+      "Liverpool won't waste any time in bolstering their champion squad with Jeremie Frimpong set to replace Trent Alexander-Arnold, who has ran down his contract and is poised to join Real Madrid imminently. They are also among those linked with Florian Wirtz.",
+      "They face competition from Manchester City, who will wave goodbye to Kevin De Bruyne this week with the Belgian leaving when his deal expires. Across town Manchester United's focus is on Wednesday's Europa League final - which will have a huge influence on their transfer business.",
+      "Arsenal have wrapped up second place and know they face a massive summer if they want to take that next step. A move for either Viktor Gyokeres or Benjamin Sesko has been tipped.",
+      "Napoli remain keen on Darwin Nunez, according to reports in Italy. Sporting director Giovanni Manna is said to have held talks over a move for the Uruguayan, though the Serie A side also have other options.",
+      "If Nunez goes down a different route, Jonathan David could find himself at Stadio Diego Armando Maradona. The Canadian is out of contract at Lille this summer and available on a free transfer.",
+      "Napoli are expected to cash in on Victor Osimhen this summer, with those funds going towards attacking reinforcements. Osimhen has starred for Galatasaray during a loan spell, and is the subject of Premier League interest.",
+      "Arsenal co-chair Josh Kroenke has set the tone for a big summer with Andrea Berta in charge of transfers. Kroenke covered the topic in a letter to fans, which was shared in the programme ahead of the final home league game of the season.",
+      "\"We plan to invest to get behind winning and doing better next season,\" the American wrote. \"We’re delighted we have our sporting director, Andrea, who will play an important role in this.",
+      "\"He is part of a unified and strong team, supported by the board, who are crystal clear on exactly what we need to do and the way in which we want to do it. The right way. The Arsenal way.\"",
+      "Jeremie Frimpong is expected to sign a five-year deal with Liverpool. The Leverkusen star is on his way for a medical, with the deal all but done.",
+      "Frimpong's release clause - in the region of £30m - makes things a little more straightforward. He is understood to have already agreed personal terms, and could well be announced as the first new arrival this summer.",
+      "Of course, one new signing has already been confirmed the best part of a year ago. Giorgi Mamardashvili is on his way from Valencia, with the Georgian becoming Arne Slot's first signing but only joining this year.",
+      "Rise and shine - we're here to bring you all the latest! Stay tuned throughout the day"
+    ]
+  },
+  {
     "headline": "Man Utd transfer news: Target to be 'shielded' from move as PSG 'jump' into £37m chase",
     "tags": [
       "Man Utd",
       "Transfer News"
     ],
     "link": "https://www.mirror.co.uk/sport/football/transfer-news/man-utd-psg-ruben-amorim-35246305",
-    "image": null,
+    "image": "https://i2-prod.mirror.co.uk/incoming/article35115455.ece/ALTERNATES/n615/2_Newcastle-United-FC-v-Manchester-United-FC-Premier-League.jpg",
     "date": "2025-05-19 03:00:00",
     "source": "mirror",
     "body": [
@@ -56,7 +83,7 @@
       "Martinez"
     ],
     "link": "https://www.mirror.co.uk/sport/football/transfer-news/emi-martinez-next-club-transfers-35246698",
-    "image": "https://i2-prod.mirror.co.uk/incoming/article35246826.ece/ALTERNATES/n615/0_Aston-Villa-v-Tottenham-Hotspur-Premier-League-Villa-Park.jpg",
+    "image": null,
     "date": "2025-05-19 01:00:00",
     "source": "mirror",
     "body": [
@@ -78,7 +105,7 @@
       "Amorim"
     ],
     "link": "https://www.mirror.co.uk/sport/football/news/tottenham-man-utd-europa-league-35245656",
-    "image": null,
+    "image": "https://i2-prod.mirror.co.uk/incoming/article35243576.ece/ALTERNATES/n615/0_Chelsea-FC-v-Manchester-United-FC-Premier-League.jpg",
     "date": "2025-05-18 22:30:00",
     "source": "mirror",
     "body": [
@@ -273,7 +300,7 @@
       "Man Utd"
     ],
     "link": "https://www.mirror.co.uk/sport/football/transfer-news/man-utd-transfer-list-targets-35245139",
-    "image": "https://i2-prod.mirror.co.uk/incoming/article35238717.ece/ALTERNATES/n615/2_GettyImages-2214415412.jpg",
+    "image": null,
     "date": "2025-05-18 10:34:00",
     "source": "mirror",
     "body": [
@@ -299,7 +326,7 @@
       "Ratcliffe"
     ],
     "link": "https://www.mirror.co.uk/sport/football/news/jim-ratcliffe-united-project-150-35211950",
-    "image": null,
+    "image": "https://i2-prod.mirror.co.uk/sport/football/news/article35211949.ece/ALTERNATES/n615/0_Manchester-United-Announce-Plans-to-Build-New-World-Class-Stadium.jpg",
     "date": "2025-05-18 08:00:00",
     "source": "mirror",
     "body": [
@@ -323,7 +350,7 @@
       "Ronaldo"
     ],
     "link": "https://www.mirror.co.uk/sport/football/transfer-news/cristiano-ronaldo-next-club-transfers-35236623",
-    "image": "https://i2-prod.mirror.co.uk/incoming/article35236847.ece/ALTERNATES/n615/0_Al-Hilal-v-Al-Nassr-Saudi-Pro-League.jpg",
+    "image": null,
     "date": "2025-05-18 07:30:00",
     "source": "mirror",
     "body": [
@@ -412,7 +439,7 @@
       "Fernandes"
     ],
     "link": "https://www.mirror.co.uk/sport/football/news/bruno-fernandes-man-utd-captain-35243939",
-    "image": null,
+    "image": "https://i2-prod.mirror.co.uk/incoming/article35243955.ece/ALTERNATES/n615/1_Chelsea-FC-v-Manchester-United-FC-Premier-League.jpg",
     "date": "2025-05-18 00:00:00",
     "source": "mirror",
     "body": [
@@ -463,7 +490,7 @@
       "Premier League"
     ],
     "link": "https://www.mirror.co.uk/sport/football/transfer-news/man-utd-transfer-news-fulham-35240270",
-    "image": "https://i2-prod.mirror.co.uk/incoming/article34775049.ece/ALTERNATES/n615/0_GettyImages-2192514754.jpg",
+    "image": null,
     "date": "2025-05-17 22:30:00",
     "source": "mirror",
     "body": [
@@ -513,30 +540,6 @@
       "“The fabric of United has been lost since Alex Ferguson left and I suspect that Amorim recognises that and is doing what’s needed to restore things that used to be non-negotiable.",
       "“Fergie made it clear that you had to be special to play for Manchester United. That meant being a good player, or course, but he also made it clear that you had to be someone who was capable of carrying the mantle of all that history.”",
       "Brian McClair was speaking through betting experts Gambling.com ahead of the Europa League Final"
-    ]
-  },
-  {
-    "headline": "Jim Ratcliffe paid no attention to Pep Guardiola's 'extraordinary' message about Man Utd boss",
-    "tags": [
-      "Man Utd",
-      "Ratcliffe"
-    ],
-    "link": "https://www.mirror.co.uk/sport/football/news/jim-ratcliffe-pep-guardiola-united-35226377",
-    "image": null,
-    "date": "2025-05-17 16:30:00",
-    "source": "mirror",
-    "body": [
-      "Sir Jim Ratcliffe made the tough decision to sack Erik ten Hag last year despite high praise from Pep Guardiola. Ten Hag led United to a stunning 2-1 victory over arch-rivals Manchester City in the 2024 FA Cup final thanks to goals from Alejandro Garnacho and Kobbie Mainoo.",
-      "Guardiola, impressed by United's tactical prowess in overcoming his formidable City team, didn't hold back in his admiration for Ten Hag. Speaking after the game, Guardiola said: \"He's a lovely person and an extraordinary manager.",
-      "\"Winning the FA Cup is important for them like last season it was for us.\" Yet, despite the FA Cup triumph, Ten Hag's tenure at United was marred by a disappointing league campaign.",
-      "The Red Devils finished an unprecedented eighth in the Premier League in the 2023/24 season, managing only 18 victories in 38 games, and were also knocked out of the League Cup by Newcastle in the fourth round. In the Champions League, Ten Hag's squad failed to progress past the group stage, finishing last behind Bayern Munich, Copenhagen, and Galatasaray, with just one win in six matches.",
-      "Despite nearly £200million spent on players such as Joshua Zirkzee, Matthijs de Ligt, Manuel Ugarte, Leny Yoro, and Noussair Mazraoui, Ten Hag found it difficult to change the team's fortunes as the 2024/25 season began. The 55-year-old managed only three victories from the first nine matches of the season before being dismissed following a 2-1 defeat to West Ham United in October.",
-      "Despite Guardiola's glowing endorsement, Ratcliffe evidently felt that Ten Hag wasn't the right person to restore United's former glory - he even later confessed that it was an error to let him stay on after the FA Cup win. Ruben Amorim took over as manager of the club the following month, with supporters in the northwest anticipating great things from the highly successful former Sporting CP strategist.",
-      "However, some argue that the 49-year-old Portuguese maestro has performed worse than Ten Hag in his final season. As the 2024/25 season draws to a close, the club is on course for another record-low finish, while also failing to progress beyond the fifth round of the FA Cup and the quarter-finals of the League Cup.",
-      "Despite this, Amorim could still secure the Europa League title, with the Red Devils set to face Tottenham Hotspur in the European competition's final on Wednesday. A victory would not only significantly improve the team's overall performance in 2024/25 but also secure them a spot in next season's Champions League.",
-      "However, further investment from the board will be required, as Amorim continues to struggle to adapt the squad he inherited from Ten Hag to his style of play, with United lagging far behind their rivals. Meanwhile, Guardiola is aiming to make amends for last year and guide Manchester City to an eighth FA Cup on Saturday afternoon, with The Cityzens set to face Crystal Palace at Wembley.",
-      "If successful, it would mark the third time Guardiola has led the team to the trophy, and it would be his 19th piece of silverware with the side, including Premier Leagues, domestic and European titles, Super Cups, and Club World Cups. Conversely, a victory for Palace would represent the London club's first triumph in the tournament.",
-      "The Eagles have notably reached the final of the competition twice before, falling short against Manchester United in 1990 and again in 2016."
     ]
   },
   {
@@ -753,6 +756,44 @@
     ]
   },
   {
+    "headline": "£60m signing, wildcard transfer, three out - Man United's dream midfield after transfer overhaul",
+    "tags": [],
+    "link": "https://www.manchestereveningnews.co.uk/sport/football/transfer-news/60m-signing-wildcard-transfer-three-31669598",
+    "image": null,
+    "date": "2025-05-19 06:00:00",
+    "source": "manchestereveningnews",
+    "body": [
+      "This summer's transfer window promises to be eventful for Manchester United.",
+      "With just two games left to play, United's direction of travel in this summer's window could be dictated by the outcome of Wednesday night's Europa League final against Tottenham Hotspur in Bilbao.",
+      "Coming out on top at the San Mames Stadium will secure Champions League qualification for the Reds, meaning they will be much more attractive to prospective signings.",
+      "Champions League qualification will also boost their transfer budget, offering Ruben Amorim more leverage to get his desired targets through the door.",
+      "United plan to strengthen their squad this summer, meaning exits and arrivals are likely across various areas, and the midfield department is no exception. With that said, MEN Sport has had a look at what deals United should be striving to complete to freshen up their midfield options.",
+      "Following United's transition to a 3-4-2-1 system under Amorim last November, full-backs who previously played in a back-four have had to adjust.",
+      "Two wing-backs flank two central midfielders in Amorim's preferred shape, meaning they are expected to attack just as much they are expected to get back and assist the three centre-backs.",
+      "Of United's current pool of wing-backs, Tyrell Malacia, who is currently out on loan at PSV Eindhoven, is the only one the Reds should be actively striving to offload this summer. His eight appearances under Amorim after returning from a lengthy spell on the sidelines quickly proved that he is not effective enough as a wing-back.",
+      "Malacia's career has been built on playing as a traditional full-back, operating on the left of a four-man defence. He does not have the attack-minded profile and athleticism to operate as a wing-back.",
+      "He has not set the world alight out on loan at PSV, playing just 12 times since arriving in February, meaning offers might not be forthcoming. However, one way or another, United need to move him on.",
+      "Elsewhere, United need to lower the average age of their central midfielders by offloading Christian Eriksen and Casemiro. Eriksen will be released when his contract expires and will leave the club after three seasons.",
+      "He has often done a solid job when called upon, proving key to United's success in 2022/23, but the time has come for the two parties to go their separate ways.",
+      "Despite his eye-catching performances in the Europa League, United should also be looking to try and cash-in on Casemiro. The Brazilian is now 33 and he has struggled to keep up with the pace of the play in the Premier League.",
+      "United must sell him for £15million this summer to avoid a financial loss under profit and sustainability rules [PSR].",
+      "Elsewhere, United should look to try and send Dan Gore out on loan for the season. He has left Old Trafford in the last two January windows, joining Port Vale and Rotherham United respectively, but both loan stints were derailed by injury issues.",
+      "Highly-rated by United staff, Gore would benefit from a full season out on loan, earning regular game time.",
+      "Following Harry Amass' promotion to the first-team squad this season, there is confidence he will be able to compete with and challenge Patrick Dorgu at left wing-back next season.",
+      "On the opposite flank, however, United may need fresh legs. As good as Noussair Mazraoui has been this season, he is restricted in an attacking sense, meaning his long-term position under Amorim could be as a centre-back.",
+      "If that proves to be the case, and Amad is utilised as one of the two No.10s, Diogo Dalot may need a competitor at right-sided wing-back. United do have players within their academy that are emerging who could play in that position, such as Jaydan Kamason, but they may feel they need someone more experienced to challenge Dalot.",
+      "Dorgu can play at right wing-back, likewise Amad, meaning they do, at least, have options.",
+      "In the centre, Manuel Ugarte has grown into his first season at Old Trafford, but he is yet to prove himself as the elite-level destroyer United thought they were buying. If Casemiro departs, he will need replacing with a younger operator and multiple midfielders have been linked with the club.",
+      "Crystal Palace ace Adam Wharton, who was linked with United before moving to London in January 2024, has excelled since making the switch to Selhurst Park. He is able to dictate games, progress the ball and win back possession.",
+      "He would be perfect to help United continue evolving their midfield, but he will command a hefty price tag, with £60m having been reported as a possible fee. A player of his profile is exactly what United should be looking for.",
+      "United may also make a case for trying to replace Eriksen with a younger operator. That, however, would likely be dependent on United finding a player who is happy to bide his time and develop before becoming a regular starter.",
+      "Sunderland's Chris Rigg has been linked with Old Trafford and he is a player with enormous potential.",
+      "However, Bruno Fernandes has demonstrated this season that he is very effective when playing in midfield, while Kobbie Mainoo is also capable of playing as a No.8, although his long-term position is yet to be determined.",
+      "Wing-back options: Diogo Dalot, Patrick Dorgu, Harry Amass, Jaydan Kamason, one new right wing-back.",
+      "Central-midfield options: Manuel Ugarte, Adam Wharton, Bruno Fernandes, Kobbie Mainoo, Chris Rigg."
+    ]
+  },
+  {
     "headline": "RAILSTON: Manchester United star who is leaving on a free transfer could start in Europa League final",
     "tags": [
       "Man Utd",
@@ -780,6 +821,51 @@
       "Solskjaer oversaw the 2021 Europa League final against Villarreal. Maguire's absence in that final due to injury was a huge blow, but Lindelof and Shaw started in the defeat to the Spaniards on penalties.",
       "Ayden Heaven returned to the squad against Chelsea and came on from the bench with 10 minutes remaining. Tyler Fredricson is another option, but they could obviously not be thrown in.",
       "Amorim's best defensive options for the final could be three players who Solskjaer loved."
+    ]
+  },
+  {
+    "headline": "Yoro, Martinez, Zirkzee - Man United injury news and return dates before Europa League final",
+    "tags": [
+      "Europa League",
+      "Yoro",
+      "Martinez"
+    ],
+    "link": "https://www.manchestereveningnews.co.uk/sport/football/yoro-martinez-zirkzee-man-united-31669980",
+    "image": null,
+    "date": null,
+    "source": "manchestereveningnews",
+    "body": [
+      "Manchester United are preparing for their biggest game in years as they face Tottenham in the Europa League final on Wednesday.",
+      "European silverware is enough of an incentive for both clubs but, perhaps more importantly, the winner will also secure a spot in next season's Champions League. Both sides have been awful this season but a win on Wednesday would at least offer hope heading into next season.",
+      "The two teams have injury issues to contend with ahead of the final, and so with just a few days to go until the huge clash, here's the latest on the United injury front:",
+      "Injury: calf",
+      "Dalot suffered a muscle injury in the 1-0 defeat to Wolves at Old Trafford on Easter Sunday.",
+      "United head coach Ruben Amorim confirmed his fellow countryman would miss the next block of games, but he refused to rule him out for the remainder of the season.",
+      "On Wednesday, Dalot was spotted doing an individual training session at Carrington before the main group session took place.",
+      "Amorim said: \"Dalot is trying really bad. I don't want to risk Dalot, when you start getting one injury, a second injury is a big thing. We cannot have these kind of problems in our squad. He's working really hard to get in the final.\"",
+      "Possible return date: May 21 (Tottenham Hotspur, N).",
+      "Injury: knee",
+      "Making his first start since recovering from a previous injury, De Ligt was forced off 35 minutes into United's 4-3 defeat to Brentford with a knee issue.",
+      "Absent from training again on Wednesday morning, Amorim has confirmed De Ligt is in a race against time to be fit for the clash with Spurs.",
+      "\"I don't know if they're going to be available, we'll try to push, it's a final, all the players want to play really bad,\" said the United boss.",
+      "Possible return date: May 21 (Tottenham Hotspur, N).",
+      "Injury: foot",
+      "Yoro was forced off in the second half of the defeat to West Ham United last weekend with a foot problem. He went down clutching his left foot and was substituted.",
+      "He was later spotted limping out of Old Trafford. He was not involved in Wednesday morning's open training session, instead doing fitness work in the gym.",
+      "Possible return date: May 21 (Tottenham Hotspur, N).",
+      "Injury: unknown",
+      "Evans trained on Wednesday morning but he was not part of the squad that travelled for the clash with Chelsea on Friday night.",
+      "The experienced centre-back last played for United when he came off the bench to score in their 4-3 defeat to Spurs in December.",
+      "Possible return date: unknown.",
+      "Injury: anterior cruciate ligament (ACL)",
+      "Martinez is a long-term absentee after rupturing his ACL in United's 2-0 defeat to Crystal Palace at Old Trafford at the start of February. He soon underwent successful surgery and is well underway with his recovery.",
+      "United have not put a specific timeframe on how long he will be out for, but he will not feature again this season. ACL injuries usually take around six months to fully recover from.",
+      "Possible return date: August.",
+      "Injury: hamstring.",
+      "Zirkzee was forced off with a hamstring injury in United's 4-1 defeat to Newcastle United last month.",
+      "\"Joshua is out for the season, so he's not going to play any more this season,\" Amorim said. \"Let's prepare him for the next one.\"",
+      "However, he has since said he is pushing to return in time for the final. It remains to be seen whether he will make the flight to Spain.",
+      "Possible return date: May 21 (Tottenham Hotspur, N)"
     ]
   },
   {
@@ -838,62 +924,6 @@
       "\"What this team has done, in my own opinion, to sustain the level throughout the season with everything that has happened, is incredible.\"",
       "When asked if this season had been his most testing in charge, Arteta said: \"Yeah, and brought out more pride. Because of the culture that we’ve set, because of the standards we have set – that regardless of what happens you have to seek for the best and do your best, and that’s what we’ve done.",
       "\"We are there [challenging for major honours]. Nobody wants us to be there. We have been there now for three or four seasons and I want to take us from there [to the next level], and that is going to be difficult.\""
-    ]
-  },
-  {
-    "headline": "Sir Jim Ratcliffe's Man United final absence exposed as manager makes investment plea",
-    "tags": [
-      "Ratcliffe"
-    ],
-    "link": "https://www.manchestereveningnews.co.uk/sport/football/football-news/sir-jim-ratcliffes-man-united-31670211",
-    "image": null,
-    "date": null,
-    "source": "manchestereveningnews",
-    "body": [
-      "Manchester United Women's manager Marc Skinner has insisted he does not expect an explanation as to why Sir Jim Ratcliffe was not at Wembley Stadium for the FA Cup final against Chelsea this afternoon.",
-      "The Reds fell to a 3-0 defeat at the hands of the Women's Super League champions under the arch with Sandy Baltimore's brace and Catarina Macario's goal securing the victory for Chelsea. United went into the match as underdogs but the achievement of reaching the showpiece fixture was of great credit to Skinner and his team.",
-      "However, a notable absentee from proceedings was Ratcliffe. He was not present in the Wembley director's box despite even members of the Glazer family being in attendance.",
-      "Asked about that in his post-match press conference, Skinner explained: \"In all honesty, I don’t know why he [Ratcliffe] wasn’t here. But I feel we were well represented.",
-      "\"Omar [Berrada] was here, the Glazer family, Jason [Wilcox] is up there. Those are the people I deal with everyday.",
-      "\"That’s the people I need to be here, because they need to be able to look at what we need to do to close a growing gap in finance that Chelsea have created. The reality is that it’s the investment in the team that needs to happen.",
-      "\"It’s not whether you’re visible. I get you the representation, the visibility is how you see investment, but as long as I play the team are being invested in, that is also a way of showing your support for the team.\"",
-      "When asked if Ratcliffe would contact him about missing the match, Skinner replied: \"I would never get that explanation, I’m here to work with the team but reality is I felt we were well supported from the club.\" The Ineos founder's absence comes in the same week that Chelsea Women gained a £20m investment from Reddit co-founder and Serena Williams' husband Alexis Ohanian.",
-      "Both Ohanian and Williams attended the final at Wembley Stadium. Back in March, Ratcliffe was asked about his lack of support for the women's team and he suggested that the criticism he had received was unfair.",
-      "\"What I said at the beginning was my main focus is on the men's team because that, at the end of the day, is what moves the needle at Manchester United,\" the billionaire explained. \"The women's team is much smaller than the men's team.",
-      "\"Of our £650m of income, £640m of that comes from the men's team and £10m comes from the women's team. With my business background you tend to focus on the bigger issues before you focus on the smaller issues.",
-      "\"But the women's team wear the Manchester United brand, the Manchester United logo, so in that sense they are every bit as important as the men's team. And frankly, they are doing better than the men's team - they are second in the league and won the FA Cup last season.",
-      "\"Marc Skinner is doing a great job as the coach and the new captain Maya [le Tissier] is doing a great job.\" Ratcliffe is expected to be in attendance on Wednesday night when United's men travel to Bilbao to face Tottenham Hotspur in the Europa League final."
-    ]
-  },
-  {
-    "headline": "Manchester United given green light to sign world-class striker for free",
-    "tags": [
-      "Man Utd"
-    ],
-    "link": "https://www.manchestereveningnews.co.uk/sport/football/transfer-news/manchester-united-given-green-light-31669027",
-    "image": null,
-    "date": "2025-05-18 15:45:00",
-    "source": "manchestereveningnews",
-    "body": [
-      "The 2024/25 Ligue 1 season came to an end on Saturday, and for Jonathan David it marked the end of an era.",
-      "After five successful years at Lille, the Canada international made his 232nd and final appearance for the club, starting their 2-1 win over Stade Reims.",
-      "The striker's contract is up at the end of the season and he confirmed during the week that he will be leaving the club when it expires.",
-      "In an emotional video montage he shared on his Instagram page, David said: \"I wanted you [the fans] to hear from me. After five years at the club, it is time to say goodbye.\"",
-      "David was substituted with 73 minutes on the clock and received a standing ovation from Lille's supporters, who watched him score 109 goals for the club after arriving from Belgian club Gent in 2020. He was visibly emotional as he walked off the pitch, taking his time to applaud each corner of the stadium.",
-      "Amid his contract situation, David has been linked with a plethora of big-name European clubs over the last few months, including Barcelona, Inter Milan, Liverpool, Newcastle United and Manchester United.",
-      "United, of course, plan to sign a striker in this summer's transfer window and have earmarked Ipswich Town ace Liam Delap as their prime target. Both Rasmus Hojlund and Joshua Zirkzee have failed to deliver the goods this season and United's need for a new goal-getter has never been greater.",
-      "Delap will be available for £30million this summer via a release clause that has become active as a result of Ipswich being relegated straight back to the Championship. Despite their collective struggles, Delap has scored a respectable 12 goals in his first full season as a Premier League player.",
-      "Earning plenty of credit for that return, the theory is that he will surpass that tally with better players around him. However, it is feared by some that he is still not experienced enough to become the starting striker at Old Trafford.",
-      "Although David is only three years Delap's senior, the Canada international, who does not turn 26 until next January, has much more experience in his locker. He has played in the top tier of French football for five seasons, he has a very respectable goalscoring record in the Champions League and he has represented his country at a World Cup.",
-      "David has been one of the most consistent strikers in Europe since joining Lille five years ago. Of his 109 goals for the club, 25 came this season. He also registered an impressive 12 assists this term, meaning he was directly involved in 37 goals.",
-      "Of his 25 goals this season, seven came in the Champions League. He scored against Real Madrid, Atletico Madrid, Liverpool, Juventus and Borussia Dortmund, proving he can cut it against the continent's elite.",
-      "Having done just that, David is expected to join a club that will be playing in the Champions League next season. United, despite their domestic struggles, are still in with a shot of taking a seat at European football's top table thanks to their Europa League run.",
-      "United face Tottenham Hotspur in the final on Wednesday night and a victory will see them secure qualification for next season's Champions League. That particular attraction could be game-changing when it comes to recruitment this summer.",
-      "The best players all aspire to play in Europe's leading club competition and David is no exception. Alongside his tally of seven goals in the Champions League this season, he ended 2024 with 47 direct goal contributions, with only Mohamed Salah (52), Harry Kane (50) and Kylian Mbappe (49) racking up more from Europe's top five league across all competitions.",
-      "Having rubbed shoulders with such leading figures, David is not going to be short of offers this summer. Where he will end up, however, remains to be seen.",
-      "United would be able to offer him the guarantee of a starting berth and Champions League football if they beat Spurs. However, it is a big if.",
-      "But in the event of Ruben Amorim's men coming out on top, they should at least be aspiring to present an offer to a seasoned goalscorer, who will be attainable without the need for a transfer fee.",
-      "It is rare that goalscorers of David's pedigree are on the market."
     ]
   },
   {
