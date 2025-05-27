@@ -1,12 +1,38 @@
 [
   {
+    "headline": "Ruben Amorim's secret Monaco trip for Man Utd showdown talks after Europa League loss",
+    "tags": [
+      "Man Utd",
+      "Europa League",
+      "Amorim"
+    ],
+    "link": "https://www.mirror.co.uk/sport/football/news/man-utd-ruben-amorim-ratcliffe-35291160",
+    "image": null,
+    "date": "2025-05-27 08:00:00",
+    "source": "mirror",
+    "body": [
+      "Ruben Amorim was summoned to Monaco for crunch talks in the wake of Manchester United’s defeat by Tottenham in the Europa League final. United’s season ended in disaster, with Spurs’ 1-0 win in Bilbao denying them a place in the Champions League and making a crucial summer of recruitment more difficult.",
+      "After a dreadful domestic campaign, which saw them finish 15th following a contentious 2-0 win over Aston Villa on the final day, United were counting on the Europa League to offer solace. But Brennan Johnson’s scrappy goal was hugely damaging for the club’s shaky finances and Amorim, who will now have a task convincing new recruits to join in the summer transfer window.",
+      "United reacted by making it clear they would listen to offers for any of their underperforming squad, who have now jetted off to Malaysia for the first of two money-spinning post-season friendlies. But that wasn’t the first flight for Amorim, who travelled to Monaco on Friday to attend a high-profile meeting with the club’s owners and executives.",
+      "The meeting takes place every month in INEOS’ spiritual home, but doesn’t normally involve the manager, The Athletic reports. Amorim left having received backing from Sir Jim Ratcliffe and the other club bigwigs, but he is under increasing pressure to deliver following a miserable start which has seen him win just 16 of his 42 games in charge.",
+      "Speaking after the Europa League final defeat, but before he flew to Monaco, Amorim offered to walk away without compensation. “I have nothing to show to the fans, so at this moment it's a little bit of faith,” said Amorim.",
+      "“So let’s see. I'm always open. If the board and the fans feel I'm not the right guy, I will go the next day, without any conversation about compensation. But I will not quit. I'm still really confident in my job and, as you can see, I will not change anything in the way I do things. I am always really honest.”",
+      "He sounded a different note on the Old Trafford pitch, when addressing supporters following the Villa win. “First of all, I want to apologise,” he said. “It was really disappointing with the team. Secondly, I want to say thank you.",
+      "\"We are very grateful for your support during the season. I know it was really hard to support us in many games. But now we have to make a choice or we stay stuck in the past. Because this season is in the past, it's over.",
+      "\"We fight each other or we stick together and move forward. Six months ago, in my first three games in charge, with two victories and one draw, I said to you a storm is coming. Today, after this disaster season, I want to tell you the good days are coming.”",
+      "United are planning to be busy in the summer transfer window, with the £62.5million arrival of Matheus Cunha from Wolves the first of what the club hopes will be many signings. The club are also in the running to sign Ipswich striker Liam Delap, but Amorim knows he only has around £100m to play with and that sales are therefore key.",
+      "Marcus Rashford, Antony and Jadon Sancho are the top priorities when it comes to exits, while Alejandro Garnacho has been told he is not part of Amorim’s plans. He is being targeted by Napoli, while there is also interest from Saudi Arabian side Al-Hilal in captain Bruno Fernandes.",
+      "Sky will show at least 215 live Premier League games next season, an increase of up to 100 more."
+    ]
+  },
+  {
     "headline": "Man Utd transfer news: Matheus Cunha issues statement as new striker deadline set",
     "tags": [
       "Man Utd",
       "Transfer News"
     ],
     "link": "https://www.mirror.co.uk/sport/football/transfer-news/man-utd-alejandro-garnacho-cunha-35288265",
-    "image": null,
+    "image": "https://i2-prod.mirror.co.uk/incoming/article35286532.ece/ALTERNATES/n615/0_GettyImages-2216987215.jpg",
     "date": "2025-05-27 03:00:00",
     "source": "mirror",
     "body": [
@@ -62,7 +88,7 @@
       "Premier League"
     ],
     "link": "https://www.mirror.co.uk/sport/football/news/premier-league-free-agents-contracts-35289286",
-    "image": "https://i2-prod.mirror.co.uk/incoming/article35289407.ece/ALTERNATES/n615/0_Manchester-City-v-AFC-Bournemouth-Premier-League-Etihad-Stadium.jpg",
+    "image": null,
     "date": "2025-05-27 00:00:00",
     "source": "mirror",
     "body": [
@@ -116,7 +142,7 @@
       "Man Utd"
     ],
     "link": "https://www.mirror.co.uk/sport/football/transfer-news/wolves-cunha-future-man-utd-35289354",
-    "image": null,
+    "image": "https://i2-prod.mirror.co.uk/incoming/article35286322.ece/ALTERNATES/n615/0_GettyImages-2216995628.jpg",
     "date": "2025-05-26 16:07:00",
     "source": "mirror",
     "body": [
@@ -288,7 +314,7 @@
       "Man Utd"
     ],
     "link": "https://www.mirror.co.uk/sport/football/news/breaking-erik-ten-hag-leverkusen-35287026",
-    "image": "https://i2-prod.mirror.co.uk/incoming/article35287208.ece/ALTERNATES/n615/0_GettyImages-2216485257.jpg",
+    "image": null,
     "date": null,
     "source": "mirror",
     "body": [
@@ -316,7 +342,7 @@
       "Garnacho"
     ],
     "link": "https://www.mirror.co.uk/sport/football/transfer-news/alejandro-garnacho-man-utd-transfer-35286945",
-    "image": null,
+    "image": "https://i2-prod.mirror.co.uk/sport/football/news/article35286973.ece/ALTERNATES/n615/0_GettyImages-2216347162.jpg",
     "date": "2025-05-26 09:49:00",
     "source": "mirror",
     "body": [
@@ -340,7 +366,7 @@
       "Amorim"
     ],
     "link": "https://www.mirror.co.uk/sport/football/news/man-utd-ruben-amorim-speech-35286645",
-    "image": "https://i2-prod.mirror.co.uk/incoming/article35285434.ece/ALTERNATES/n615/1_GettyImages-2216329521.jpg",
+    "image": null,
     "date": "2025-05-26 09:09:00",
     "source": "mirror",
     "body": [
@@ -607,13 +633,14 @@
     ]
   },
   {
-    "headline": "LiveTransfer news LIVE: Liverpool make record bid, Gyokeres' Arsenal answer, De Bruyne makes decision",
+    "headline": "LiveTransfer news LIVE: Liverpool make record bid, Man Utd Cunha terms, Gyokeres' Arsenal response",
     "tags": [
+      "Man Utd",
       "Transfer News",
       "LIVE"
     ],
     "link": "https://www.mirror.co.uk/sport/football/transfer-news/transfer-news-live-mufc-liverpool-35286302",
-    "image": "https://i2-prod.mirror.co.uk/incoming/article35286366.ece/ALTERNATES/n615/0_Boavista-FC-v-Sporting-Clube-de-Portugal-Liga-Portugal-Betclic.jpg",
+    "image": "https://i2-prod.mirror.co.uk/incoming/article35291026.ece/ALTERNATES/n615/0_TLB.jpg",
     "date": null,
     "source": "mirror",
     "body": [
@@ -622,6 +649,14 @@
       "Manchester United look keen to make a fast start, having made significant progress in their £62.5million pursuit of Wolves forward Matheus Cunha. A deal looks all but done for the Brazil international and we could soon see it over the line.",
       "Liverpool have also been busy during the run-in, as the newly-crowned champions prepare to welcome Bayer Leverkusen duo Florian Wirtz and Jeremie Frimpong for what could be towards £150m combined. Heading out the door will be Trent Alexander-Arnold, whose move to Real Madrid will soon be confirmed after his teary farewell to Anfield on Sunday.",
       "Arsenal haven't wasted time either, with midfielder Martin Zubimendi set to complete his long-awaited £51m move to the Emirates after he said his goodbyes to Real Sociedad. Now their search for a striker is taking centre stage, with Sporting Lisbon's Viktor Gyokeres their No.1 target following his incredible 53-goal season.",
+      "Ruben Amorim was summoned to Monaco for crunch talks after Manchester United’s defeat by Tottenham in the Europa League final.",
+      "The meeting takes place every month in INEOS’ spiritual home, but doesn’t normally involve the manager, The Athletic reports",
+      "Full story.",
+      "Reports claim Liverpool have agreed terms with Bournemouth defender Milos Kerkez as they prepare for a busy transfer window. Recent reports have been taken up by Wirtz and Frimpong but the Reds look set to land the Bournemouth defender too.",
+      "Small details must be clarified with the defender and then Liverpool will contact the Cherries it is said.",
+      "We all know about the £62.5m release clause but is there room to negotiate between Manchester United and Wolves? It appears the Reds Devils will need to pay the full fee across three instalments, during a two-year period.",
+      "Reports suggest United will need to pay the first £20.8m upon completing the signing and the second instalment at the end of next season, before squaring up in the summer of 2027.",
+      "The club's formal approach to Wolves is expected in days.",
       "Barcelona look set to beat Arsenal to the signing of highly-rated goalkeeper Joan Garcia after offering him guaranteed game-time.Spanish outlet Carrusel Deportivo explain, Barca have offered the 24-year-old the chance to join Valencia on loan next season.",
       "Gyokeres is set for a great deal of questions over his future but is yet to give much away. The Swede has not ruled anything out so far though, after he was asked about his future over the weekend.",
       "“Let us see,” Gyokeres said. \"It’s hard for me to say, because yeah it is football and you never know what’s going to happen in the summer. So for me to say anything else than that is impossible.”",
@@ -698,26 +733,7 @@
       "Arsenal are interested in signing Brighton star Kaoru Mitoma, who's also a target for Bayern Munich.",
       "The Japan international, who's under contract until 2027, enjoyed his most prolific season in England to date, scoring 11 goals.",
       "Sky Germany report that Arsenal sporting director Andrea Berta and his team are working on signing a winger and have identified Mitoma, 28, as a candidate.",
-      "Real Madrid star Rodrygo remains the Gunners' dream target but should he not be available, they chould challenge Bayern.",
-      "Inter Milan coach Simone Inzhagi has been offered a €50million (£42m) contract by Saudi club Al Hilal on the eve of the Champions League final.",
-      "The Italian, 49, will bid to end a season of near misses by beating Paris Saint-Germain in Munich on Saturday night.",
-      "But Inzhaghi also faces a decision over his future with the offer to quadruple his current €6.5m (£5.4m) salary in a two-year deal with Al Hilal to replace Portuguese coach Jorge Jesus.",
-      "He would work with former Premier League stars Joao Cancelo, Kalidou Koulibaly, Ruben Neves and Aleksandar Mitrovic.",
-      "Gazzetta dello Sport claims that he will delay any decision until after Saturday's final.",
-      "Inzhagi's Inter finished second in Serie A to Napoli and lost in the semi-finals of the Coppa Italia to Milan.",
-      "But the former Lazio coach has won six trophies since joining the club in 2021 and led them to the 2023 Champions League final where they lost to Manchester City.",
-      "Inzhagi, who has one year left on his current contract, will speak publicly today at Inter Milan's media day at thor Appiano Gentile training base.",
-      "Manchester United are set to strip Marcus Rashford of the No.10 shirt and give it to the incoming Matheus Cunha.",
-      "The Red Devils are understood to have reached a full agreement to sign Wolves star Cunha, handing him a long-term contract until 2030 with the option of an additional 12 months.",
-      "United will pay the Brazilian's £62.5million release clause and make him their first signing of the summer transfer window. Cunha, 25, impressed Old Trafford chiefs after firing Wolves to safety with 15 goals and six assists in the Premier League.",
-      "Entering his peak years and proven in the English top flight, the ex-Atletico Madrid forward is viewed as the ideal signing to transform Ruben Amorim's goal-shy attack.",
-      "Cunha was the subject of interest from Arsenal and Nottingham Forest in the January transfer window, but despite not playing in Europe next season, United have convinced him to head north.",
-      "Read the full story on Cunha here.",
-      "Ruud van Nistelrooy is still waiting to sit down with Leicester's owners and discuss his future.",
-      "The Foxes boss said after losing 2-0 at Bournemouth: \"I still have to wait to have a conversation on whether we have a future together or not.",
-      "\"You cannot start planning before that. I need to speak to be able to get a feeling of the hopes (of the club). It's all dependent on that.\"",
-      "Van Nistelrooy added amid mounting speculation that Russell Martin is being lined up to replace him: \"It's not about feeling. It doesn't matter what you feel.",
-      "\"It's about finishing the season, everyone goes away now, including myself, we rest, evaluate, make your observations of the season and wait and see what happens.\""
+      "Real Madrid star Rodrygo remains the Gunners' dream target but should he not be available, they chould challenge Bayern."
     ]
   },
   {
@@ -754,7 +770,7 @@
       "Amorim"
     ],
     "link": "https://www.mirror.co.uk/sport/football/news/amorim-man-utd-asia-squad-35286131",
-    "image": "https://i2-prod.mirror.co.uk/incoming/article35287958.ece/ALTERNATES/n615/0_JS370540027.jpg",
+    "image": null,
     "date": "2025-05-25 23:32:00",
     "source": "mirror",
     "body": [
@@ -796,28 +812,6 @@
     ]
   },
   {
-    "headline": "Aston Villa get instant verdict on Man Utd controversy after launching official complaint",
-    "tags": [
-      "Man Utd"
-    ],
-    "link": "https://www.mirror.co.uk/sport/football/news/aston-villa-receive-new-verdict-35285774",
-    "image": null,
-    "date": "2025-05-25 20:15:00",
-    "source": "mirror",
-    "body": [
-      "Roy Keane has maintained that \"human error is part of the game\" after Aston Villa were on the wrong end of a refereeing howler that played a massive role in them missing out on Champions League football. They lost at Manchester United but saw the game's opening goal wrongly disallowed.",
-      "Villa needed a result at Old Trafford and were on course for the European Cup with their game level and Everton winning at Newcastle. Their situation improved even more when they thought Morgan Rogers had scored the game's opening goal.",
-      "He looked to have pounced on an error from Altay Bayindir, who struggled to gather the ball, with the Villa man nipping in and scoring into an empty net. However Thomas Brammall blew the whistle before it hit the back of the net.",
-      "Replays showed that Rogers was well within his rights to take the ball, but the whistle being blown before the ball crossed the line meant that VAR couldn't come in and change the decision.",
-      "Villa then conceded twice in the final twenty minutes but were left raging and have lodged a complaint with the Premier League. Keane understands their frustration, but maintain that VAR will never be able to eradicate all of the mistakes.",
-      "Villa are ready to lodge an official complaint to the Premier League saying that a 'more experienced referee had to be selected' to take charge of a game of such magnitude as they were left to accept a place in next season's Europa League.",
-      "Emery confirmed he'd aired his frustration with the referee as he said: \"Yes, I told him but he knows it.\" Asked if the official had admitted his mistake, Emery remained tightlipped: \"The next question?\" Pressed on whether the VAR rules need to be changed, he said: \"I don't want to speak about VAR now.\"",
-      "Villa's Director of Football Operations, Damian Vidagany, said: “The complaint is not about the decision. The complaint is about the selection of the referees. One of the most inexperienced referees for one of the most difficult matches of the season, involving another four or five teams.",
-      "“The decision is clear. It's a mistake. The referee apologised for the mistake. We can do nothing. The problem is why the experienced international referees were not here today.”",
-      "Sky will show at least 215 live Premier League games next season, an increase of up to 100 more."
-    ]
-  },
-  {
     "headline": "Ruben Amorim press conference LIVE Manchester United injury and team news from post-season tour",
     "tags": [
       "Man Utd",
@@ -826,7 +820,7 @@
     ],
     "link": "https://www.manchestereveningnews.co.uk/sport/football/ruben-amorim-press-conference-live-31728799",
     "image": null,
-    "date": "2025-05-27 07:15:00",
+    "date": "2025-05-27 08:07:00",
     "source": "manchestereveningnews",
     "body": [
       "The season might have just finished but Manchester United are already back in action as they prepare for their post-season friendlies.",
@@ -834,12 +828,35 @@
       "The United manager will provide team news and injury updates, with the final day win against Aston Villa seeing some players pick up knocks.",
       "Amorim is also likely to be asked about any transfer activity, with the transfer window opening later this week before temporarily closing on June 10.",
       "Stick with us as we bring you all the updates you need from today's press conference.",
+      "We're still waiting for the press conference to get started. We'll update you as soon as it is underway.",
+      "Ruben Amorim and Mason Mount will be among several people taking questions at this press conference.",
+      "Stay tuned for updates on this live blog.",
+      "The press conference, which will feature Ruben Amorim and Mason Mount, is due to start at 8am BST, meaning they should soon be in position.",
+      "It will be interesting to hear what the pair have to say ahead of tomorrow's first post-season tour friendly.",
+      "United's clash with ASEAN All-Stars at the Bukit Jalil Stadium tomorrow will be decided via a penalty shoot-out if the contest is level at the end of 90 minutes.",
+      "The game will be shown live on MUTV and coverage will begin at 1pm BST, offering 45 minutes worth of build-up ahead of kick-off at 1.45pm BST.",
+      "In response, United plan to make much-needed changes. In order to do so, under contract players have been informed that none of them are assured of being retained in this summer's transfer window.",
+      "Click here to read the full story.",
+      "United press conferences in Asia can be chaotic due to the fervent support out here. When United came to Malaysia in 1995, a signing session had to be abandoned due to overcrowding.",
+      "In Beijing nine years ago, the press conference room was as hot as a sauna and Jose Mourinho refused to do it indoors. He hated that trip. Fortunately, today's gathering is well-organised in terms of the setting.",
+      "Also taking part in the press conference will be:",
+      "Kim Sang-sik, Manager of the ASEAN All Stars (Kim is a South Korean national and current Head Coach of the Vietnamese national team)",
+      "A player from the ASEAN All Stars",
+      "President of the ASEAN Football Federation",
+      "President of the Football Association of Malaysia",
+      "Vice-President of Maybank (match sponsor)",
+      "Mason Mount will be speaking alongside Ruben Amorim. He came to prominence at the right time to get a place in United’s Europa League final XI but then regressed in Bilbao.",
+      "He has had two forgettable years at United but his willingness to speak, having stayed almost silent during his time at the club, augurs well for a player who has really got to pass muster next season.",
+      "United announced plans to have a post-season tour in early-April, with chief executive Omar Berrada confirming it would bring in \"significant additional revenue\".",
+      "United will face an ASEAN All-Stars XI tomorrow and Hong Kong on Friday, meaning they will play in front of fans who never get the chance to see their heroes up close and personal.",
+      "Explaining why the tour had been organised, Berrada, speaking last month, said:",
+      "\"We appreciate the amazing level of support that Manchester United enjoys around the world. And this summer, we are delighted to deliver a schedule that provides our fans in Asia, Scandinavia and the United States the opportunity to connect with the club and watch the men’s first team play live in local settings. Importantly, Tour fixtures drive significant additional revenue which help make the club stronger, allowing us to keep investing in success on the pitch. They also create unique opportunities for us to collaborate with our valued commercial partners, and to deepen relationships with our fans in regions such as Asia and the US.\"",
       "Despite being left out of United's matchday squad for Sunday's 2-0 win over Aston Villa at Old Trafford, Alejandro Garnacho has travelled to Malaysia for the post-season tour.",
       "United head coach Ruben Amorim informed Garnacho that he is free to leave the club this summer on Saturday. It is understood United will entertain offers for him if they are deemed acceptable.",
       "Ahead of the win over Villa, Amorim was asked about Garnacho's future at the club and he confirmed that he would be present on the tour.",
       "\"No. Garnacho is a Manchester United player that is not in the squad today, but he continues to be a Manchester United player. Yes, everybody is going because we have to go to meet our fans and give something to our fans in the other side of the world.\"",
       "He was later named in the 32-man squad announced by the club.",
-      "United's post-season tour will feature two friendlies, the first of which is taking place tomorrow against an ASSEAN All-Stars XI.",
+      "United's post-season tour will feature two friendlies, the first of which is taking place tomorrow against an ASEAN All-Stars XI.",
       "The game will kick-off at 1.45pm BST and will be available to watch on MUTV.",
       "The Reds will play again on Friday, facing Hong Kong, kick-off 1pm BST. That one will also be available to watch on MUTV.",
       "It is typically humid in Kuala Lumpur. I arrived at my hotel at just gone midnight and was recognised by the night manager, an avid United fan who is unfortunately working during Wednesday’s game. He did stress tickets were pricey, though.",
