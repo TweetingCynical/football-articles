@@ -1,5 +1,29 @@
 [
   {
+    "headline": "LiveTransfer news LIVE: Liverpool's Wirtz pursuit, Arsenal close on £51m signing, Rashford eyes 'dream' club",
+    "tags": [
+      "Transfer News",
+      "Rashford",
+      "LIVE"
+    ],
+    "link": "https://www.mirror.co.uk/sport/football/transfer-news/transfer-news-live-manutd-liverpool-35303089",
+    "image": null,
+    "date": null,
+    "source": "mirror",
+    "body": [
+      "Now that the Premier League has finished all eyes are on this summer's transfer window as the likes of Liverpool and Manchester United act early.",
+      "The two teams have very different motivations. The Reds want to build on their champion team and Arne Slot, after a quiet first summer, is eyeing a club-record move for Florian Wirtz. The likes of Jeremie Frimpong and Milos Kerkez are also on his radar.",
+      "Ruben Amorim is closing in on the signing of Matheus Cunha for just over £60m. More attacking reinforcements are expected to follow after that with the Red Devils in desperate need of new arrivals.",
+      "Arsenal's striker hunt continues with Viktor Gyokeres the man they most want. They're also close to confirming the signing of Martin Zubimendi, who is having a medical ahead of a £51million switch to the Emirates.",
+      "Marcus Rashford's representatives have held talks with Barcelona sporting director Deco as they look to secure a move to the La Liga giants. Rashford is set to leave United this summer, with Barca his preferred destination.",
+      "According to Sport, Rashford's agent met with Deco on Wednesday morning to discuss a potential deal. Barca view Rashford as an alternative to Luis Diaz and are set to pursue a loan move, including a purchase option.",
+      "While United would prefer to sell, Barca hope to exploit their desire to see the attacker leave. The La Liga side have told Rashford to be patient, with Wednesday's meeting held to 'exchange views' and confirm both parties' desire to get a deal done.",
+      "Real Sociedad midfielder Martin Zubimendi will have a medical ahead of his move to Arsenal. The Spanish international has a £51million release clause and those payment between the La Liga club and Arsenal are already agreed.",
+      "Once the 26-year-old passes the medical, Arsenal will be in a position to announce Zubimendi's signing, which would be their first capture of the summer, reports the BBC.",
+      "We're back to bring you all the latest - stay tuned as we keep you up to date!"
+    ]
+  },
+  {
     "headline": "Man Utd transfer news: Marcus Rashford holds Barcelona talks as Newcastle swoop in",
     "tags": [
       "Man Utd",
@@ -7,7 +31,7 @@
       "Rashford"
     ],
     "link": "https://www.mirror.co.uk/sport/football/transfer-news/man-utd-marcus-rashford-barcelona-35299517",
-    "image": null,
+    "image": "https://i2-prod.mirror.co.uk/incoming/article35299591.ece/ALTERNATES/n615/0_GettyImages-2215452959.jpg",
     "date": "2025-05-29 03:00:00",
     "source": "mirror",
     "body": [
@@ -57,7 +81,7 @@
       "Antony"
     ],
     "link": "https://www.mirror.co.uk/sport/football/news/antony-tears-conference-league-final-35302645",
-    "image": "https://i2-prod.mirror.co.uk/incoming/article35302737.ece/ALTERNATES/n615/3_Poland-Soccer-Europa-Conference-League-Final-25148762525114.jpg",
+    "image": null,
     "date": "2025-05-28 22:40:00",
     "source": "mirror",
     "body": [
@@ -79,7 +103,7 @@
       "Amorim"
     ],
     "link": "https://www.mirror.co.uk/sport/football/news/ruben-amorim-manchester-united-asean-35302447",
-    "image": null,
+    "image": "https://i2-prod.mirror.co.uk/incoming/article35302619.ece/ALTERNATES/n615/0_Manchester-United-v-ASEAN-All-Stars.jpg",
     "date": "2025-05-28 22:24:00",
     "source": "mirror",
     "body": [
@@ -257,7 +281,7 @@
       "Man Utd"
     ],
     "link": "https://www.mirror.co.uk/sport/football/match-reports/man-utd-fresh-embarrassment-friendly-35300876",
-    "image": "https://i2-prod.mirror.co.uk/incoming/article35301130.ece/ALTERNATES/n615/0_Untitled-1.jpg",
+    "image": null,
     "date": "2025-05-28 15:47:00",
     "source": "mirror",
     "body": [
@@ -287,7 +311,7 @@
       "Man Utd"
     ],
     "link": "https://www.mirror.co.uk/sport/football/transfer-news/omar-berrada-issues-manchester-united-35300665",
-    "image": null,
+    "image": "https://i2-prod.mirror.co.uk/incoming/article35279936.ece/ALTERNATES/n615/0_Tottenham-Hotspur-v-Manchester-United-UEFA-Europa-League-Final-2025.jpg",
     "date": "2025-05-28 15:14:00",
     "source": "mirror",
     "body": [
@@ -311,7 +335,7 @@
       "Amorim"
     ],
     "link": "https://www.mirror.co.uk/sport/football/news/man-utd-ruben-amorim-sack-35300050",
-    "image": "https://i2-prod.mirror.co.uk/incoming/article35210742.ece/ALTERNATES/n615/1_Manchester-United-FC-v-West-Ham-United-FC-Premier-League.jpg",
+    "image": null,
     "date": "2025-05-28 14:52:00",
     "source": "mirror",
     "body": [
@@ -391,7 +415,7 @@
       "Premier League"
     ],
     "link": "https://www.mirror.co.uk/sport/football/news/newcastle-premier-league-flights-pollution-35298980",
-    "image": null,
+    "image": "https://i2-prod.mirror.co.uk/incoming/article35298710.ece/ALTERNATES/n615/0_Newcastle-United-Training-Session.jpg",
     "date": "2025-05-28 12:52:00",
     "source": "mirror",
     "body": [
@@ -444,7 +468,7 @@
       "Ratcliffe"
     ],
     "link": "https://www.mirror.co.uk/sport/football/news/man-utd-asia-jim-ratcliffe-35298440",
-    "image": "https://i2-prod.mirror.co.uk/incoming/article35282668.ece/ALTERNATES/n615/1_GettyImages-2216487595.jpg",
+    "image": null,
     "date": "2025-05-28 11:26:00",
     "source": "mirror",
     "body": [
@@ -482,30 +506,6 @@
       "Real Betis coach Manuel Pellegrini has claimed that Antony - on loan from Manchester United - is out for “revenge” as he looks to prove a point against Chelsea.",
       "Pellegrini said: “I spoke with him before he came to Betis. He told me that he was not playing because he was not happy. But he has a lot of complaints about what he has done. He wants revenge.",
       "“I think he did it the way we know he can do it. It is not easy for you to pay 100 million for a player. Anthony is a very good player. I am absolutely sure that this is a huge time for him to continue improving his career.”",
-      "Sky will show at least 215 live Premier League games next season, an increase of up to 100 more."
-    ]
-  },
-  {
-    "headline": "Enzo Maresca sends Man Utd message over Jadon Sancho's Chelsea future",
-    "tags": [
-      "Man Utd"
-    ],
-    "link": "https://www.mirror.co.uk/sport/football/transfer-news/man-utd-jadon-sancho-chelsea-35297780",
-    "image": null,
-    "date": "2025-05-28 10:52:00",
-    "source": "mirror",
-    "body": [
-      "Chelsea boss Enzo Maresca has revealed any decision over the future of Jadon Sancho will only come after the UEFA Conference League final. The Blues coach was steadfast in his belief that the club's focus should remain on finding success against Real Betis.",
-      "Maresca has included Sancho in his squad to take on the Spanish side in Wroclaw, as he bids to earn the club's first trophy since the Club World Cup title in 2022. The winger has scored one goal and produced five assists in the competition en route to the final.",
-      "Sancho joined Chelsea on loan at the start of the season from Manchester United. The deal included the condition that the club would be obligated to make the deal permanent for £25million should they finish higher than 14th in the division.",
-      "The loanee celebrated the west London side's Champions League qualification after victory over Nottingham Forest on Sunday. Sancho may not get to enjoy that journey however, with Chelsea having the opportunity to renege on his signing.",
-      "Maresca's side can pay a £5m penalty to see Sancho return to Old Trafford this summer. And the Italian coach was uncertain whether the match against Betis could be the former Borussia Dortmund star's last game for Chelsea.",
-      "\"I don't know,\" Maresca said. \"I said that when in the last weeks you asked me about different players, I always said the same. And the reason why is because it's the truth.",
-      "\"It's not the moment, we have tomorrow the final. Then in 24 hours, 48 hours, we're going to start to talk about the future. But at this moment, there is not any thought or any decision made on Jadon or any different players.\"",
-      "Maresca hopes that his side can continue their positive end to the season. Chelsea have been favourites to win the Conference League since the start of the season and the head coach wants to instill a winning mentality in his squad with victory over Betis.",
-      "\"The Conference is important,\" he said. \"For us it's been important since day one. And the reason why is because it's the competition that we are in. We cannot play Champions League if we are in the Conference. Or we cannot play Europa. We are in the Conference. So for us it was the most important competition.",
-      "\"And we need to try to win that. If we are able to win, I think it's a good thing. Especially because we continue to build the winner mentality. Like I said many times, to build a winning mentality there is only one way. You cannot build a winner mentality if you don't win games. I think we won many games this season. But it's not enough.",
-      "\"Sunday game is finished. We qualified. We are all happy. But tomorrow we need to show again the desire to win the title and to win the game.\"",
       "Sky will show at least 215 live Premier League games next season, an increase of up to 100 more."
     ]
   },
@@ -673,14 +673,12 @@
     "date": "2025-05-28 17:30:00",
     "source": "manchestereveningnews",
     "body": [
-      "Manchester United play ASEAN All-stars in a post-season friendly this afternoon.",
-      "There are concerns about the increasing workload being faced by players, but United have agreed post-season friendlies against ASEAN All Stars and Hong Kong, China to generate cash.",
-      "It's understood the post-season trip will generate roughly £10million and United CEO Omar Berrada said: “We appreciate the amazing level of support that Manchester United enjoys around the world.",
-      "\"We are delighted to deliver a schedule that provides our fans in Asia, Scandinavia and the United States the opportunity to connect with the club and watch the men’s first team play.\"",
-      "United will take on ASEAN All-stars at the Bukit Jalil Stadium in Kuala Lumpur at 20:45 local time, which is 13:45 BST, and our dedicated blog will cover every angle throughout the match.",
-      "United starting XI: Onana; Munro, Maguire, Heaven; Dalot, Casemiro, Ugarte, Dorgu; Mainoo, Moorhouse; Hojlund.",
-      "Substitutes: Bayindir, Heaton, Armer, Evans, Fredricson, Amass, Kamason, Kukonki, Collyer, Fernandes, T. Fletcher, Kone, Thwaites, Amad, Garnacho, Lacey, Obi.",
-      "Follow below for live updates from the Bukit Jalil Stadium.",
+      "Manchester United opened their post-season tour with a 1-0 defeat to the ASEAN All-Stars at the Bukit Jalil National Stadium in Malaysia on Wednesday evening.",
+      "In sweltering conditions in the Malaysian capital of Kuala Lumpur, Maung Maung Lwin's second half effort sealed a historic victory for the ASEAN All-Stars XI.",
+      "United, who rarely tested Patiwait Khammai in the All-Stars' goal, were watched by more than 72,000 supporters in Kuala Lumpur, but failed to express themselves in the way head coach Ruben Amorim would have hoped for.",
+      "Amorim dished out opportunities to 27 players, with Altay Bayindir the only member of the matchday squad failing to get onto the pitch. A crop of youngsters earned valuable minutes, including Reece Munro and Jack Moorhouse, who both started.",
+      "Elsewhere, Alejandro Garnacho came on at half-time and played the whole of the second half. The likes of Bruno Fernandes, Chido Obi and Amad also came on at half-time after starting on the bench.",
+      "Recap all the events from the game via the blog below...",
       "We're calling time on our coverage of United's 1-0 defeat to ASEAN All-Stars here, folks. Thank you for following our coverage throughout the day.",
       "We will catch you again on Friday for the second game of United's post-season tour.",
       "Manchester United's season was not bookended by silverware, after all. After the Snapdragon Cup in pre-season, the Maybank Cup eluded them in the post-season tour.",
@@ -770,6 +768,67 @@
       "Carlos Fernandes is the coach who looks after set-pieces and he steps up to the touchline when there is a dead-ball situation, a routine that didn't change against ASEAN All-stars.",
       "That suggested United were approaching the game seriously. Fernandes would have been forgiven for taking a seat on the bench for the full game, but he jumped to his feet to observe each set-piece.",
       "United conceded 13 goals from corners in the Premier League during the season, which ranks them among the league's worst at defending corners, and that must improve in 2025/26."
+    ]
+  },
+  {
+    "headline": "RAILSTON: Ruben Amorim is hoodwinking Manchester United's rivals with Alejandro Garnacho",
+    "tags": [
+      "Man Utd",
+      "Amorim",
+      "Garnacho"
+    ],
+    "link": "https://www.manchestereveningnews.co.uk/sport/football/football-news/ruben-amorim-hoodwinking-manchester-uniteds-31739380",
+    "image": null,
+    "date": "2025-05-29 06:00:00",
+    "source": "manchestereveningnews",
+    "body": [
+      "The season has finished and Manchester United are still finding a way to lose football matches.",
+      "United faced ASEAN All-Stars in Kuala Lumpur in front of 72,000 supporters and they suffered a 1-0 defeat after a second half goal from Maung Maung Lwin.",
+      "Maung Maung Lwin is not a household name, but he might become famous in Malaysia after taking the scalp of United. The result of the post-season friendly does not matter, although there were a few interesting aspects of the contest, including the involvement of Alejandro Garnacho.",
+      "Ruben Amorim made wholesale changes at the interval and Garnacho was introduced, despite having been told before the final day of the season he could find a new club this summer.",
+      "Amorim was asked if Garnacho had played his final game for the club after the win over Aston Villa and said: \"Garnacho is one more player of Manchester United, so I don't know what is going to happen in the future. He is a normal player.\"",
+      "United's head coach added: \"Garnacho is a Manchester United player who was not in the squad today, but he is a normal player in our club and I have no news that will change [that].\"",
+      "Speaking before the Aston Villa match, Amorim confirmed that Garnacho would still travel on the post-season tour. It's possible that the only reason Garnacho has been included on the trip is to protect his transfer value.",
+      "Garnacho was omitted from the squad on the final day of the campaign, but he was still given minutes against ASEAN All-Stars, which suggests to the outside world that it's business as usual.",
+      "The reality is the relationship between Garnacho and Amorim seems to have broken down, and if that is the case, it damages United's power in negotiations in the summer window.",
+      "Garnacho could potentially fetch a transfer fee of £70million, but suitors will submit lower offers if they know United want to sell the winger because Amorim wants him out of the door.",
+      "That means including Garnacho on the post-season tour and giving him minutes is perhaps a clever ploy to protect his value. Interested clubs, like Napoli and Chelsea, will probably see right through the tactic, but it's better to have Garnacho involved with the first team than frozen out.",
+      "It's obviously difficult to sell a player for their market value when a public decision has already been communicated, so Amorim must do what he can to protect his bargaining power.",
+      "Garnacho was pictured with a huge smile when the post-season team photo was taken at Manchester Airport, but he didn't look quite so cheery during exchanges with Malaysian fans the day before facing ASEAN All-Stars - it must be added that a long-distance flight and more games after a draining season are enough to leave any player feeling glum.",
+      "It's a shame to see Garnacho's time at Old Trafford end on a sour note, if indeed he does leave this summer, but he has crossed managers on too many occasions. Amorim has reiterated he is still a United player, which seems in name only.",
+      "Garnacho's last game for United looks set to be on tour in Hong Kong this week."
+    ]
+  },
+  {
+    "headline": "What Manchester United plan to sell looks like after £100m transfer reveal",
+    "tags": [
+      "Man Utd"
+    ],
+    "link": "https://www.manchestereveningnews.co.uk/sport/football/football-news/what-manchester-united-plan-sell-31739693",
+    "image": null,
+    "date": null,
+    "source": "manchestereveningnews",
+    "body": [
+      "As soon as the final whistle was sounded in Bilbao last week, preparations for what Manchester United had to do in order to reverse their fortunes next season were already underway.",
+      "Defeat in the final of the Europa League to Tottenham Hotspur denied United a spot in the Champions League and the potential revenue pot of some £120m that comes with it, and left the club without any kind of European revenue to rely on next season following a dismal campaign where they finished 15th, the worst season for the Red Devils in 51 years.",
+      "There is much work to be done at Old Trafford, and club co-owner Sir Jim Ratcliffe, who acquired a 27.7% stake in the club back in December 2023 for £1.2bn, has already embarked on brutal cost cutting through redundancies, and the lack of additional revenue from Europe next season will mean that the £100m transfer budget for the summer that has been mooted will need to be supplemented by some effective player trading.",
+      "It has been widely reported that there are no players who aren’t available to leave if the right offer comes in, and that includes the likes of Kobbie Mainoo, while the most likely contenders to head out of the exit door are the likes of Marcus Rashford, Antony and Jadon Sancho. There are also question marks that exist over the futures of Alejandro Garnacho, Tyrell Malacia, Casemiro and Rasmus Hojlund.",
+      "With the likely arrival of Matheus Cunha from Wolverhampton Wanderers for £62.5m and Liam Delap of Ipswich Town being a prime target and having a £30m release clause, that £100m can get swallowed up pretty quickly. United’s needs run far deeper that just two additions, and in order to add in other areas to not only improve competitiveness but also to replace players who will be leaving the squad and leaving it thinner, they will need to raise the extra funds themselves through player trading.",
+      "But how much profit might they be expected to make in the current market?",
+      "When a player is signed for a club their guaranteed transfer fee is accounted for via amortisation, which is the fee divided over the length of contract, capped at a maximum of five years. That figure goes down each year of a contract until they no longer hold any remaining book value for the football club.",
+      "When a club sells a player, to realise any profit on the deal they must first clear the book value that remains of the player. In the case of academy graduates that have come through the club’s own system, there is no book value to be had and sales can immediately be booked in their entirety as pure profit.",
+      "For United, the sales of Rashford, Mainoo and Garnacho would all count as pure profit from an accounting perspective and would enable the club to significantly improve their financial situation, although the need would remain for them to bring in replacements. The noises from United are that the market they are looking at will be cheaper undervalued talent after they have completed their acquisitions of Cunha and potentially Delap.",
+      "What they want to receive and what they can realistically expect will likely be two different things this summer, with the poor performance of the club and players, where players have been sent out on loan or fallen out of favour, meaning that the market value has diminished and United have minimal leverage. Other clubs know the situation at Old Trafford, they know they need to sell to buy and they know that there is no position of strength in negotiations on the United side.",
+      "But those fees seem high, especially given that analysts at Swiss-based CIES Football Observatory, which uses a variety of scientific methods to evaluate transfer market value, has Hojlund as the only United player to have a market value above £60m.",
+      "But Hojlund is one of the players that United will reportedly listen to offers for. The club paid £72m for the Danish forward from Italian side Atalanta in 2023. It was a five-year deal that amortised as £14.4m per year. He has spent two years at the club meaning he has a remaining book value of £43.2m, and United would have to clear that first before making any kind of profit. Given his poor season it is hard to imagine he commands a £43m price tag, or that there would be many willing spenders at that fee.",
+      "Then there is Antony. United’s decision to send him on loan to Real Betis has paid off, with the Brazilian finding good form away from Old Trafford, something that will have positively impacted his transfer value. But having paid £82m for him three years ago, and with a remaining book value of around £32m, United would likely still make a loss, albeit probably a smaller one than had been expected. A valuation of £25m to £30m seems to be the market consensus.",
+      "Casemiro was another major arrival for big money, signed for £70m three years ago. With a remaining book value of £17.5m after he arrived on a four-year deal, means that the club would almost certainly take a loss given his age and fact he has just one year remaining on his deal. A move to Saudi Arabia might potentially offer them a route to break even, but someone would have to be willing to stump up his reported £350,000 per week, or at least be close to it.",
+      "Players like Malacia, given the relatively small outlay of £14.7m in 2022, could deliver a small profit for United given he only has a book value remaining of £3.7m on his four-year deal. That would likely be recouped and profit made. But it wouldn’t change the game for United.",
+      "In the case of Sancho, whose loan spell at Chelsea has been indifferent, he was signed for £73m in 2021. His book value will stand at around £14.6m, and with a tag of £25m they will be aiming to turn a small profit, although it remains to be seen whether Chelsea will take that option up or take the £5m penalty for not signing him as per the loan agreement. His wages are significant at a reported £350,000 per week (£18.2m per year) and adding those kind of wages off the bill to Casemiro, Garnacho and Rashford could shave some £50m per year off the wage bill that can be reinvested into cheaper talent with a high ceiling.",
+      "Fernandes has been linked with an exit, with rumours of Saudi clubs being willing to part with as much as £80m for the 31-year-old Portuguese. That seems far fetched given his age and profile. He would make a profit for United on any significant sale, and if offered such a sum it would be near impossible to turn down, but he remains United’s most talismanic figure.",
+      "The profit for United this summer will come from selling home grown players, and the lack of profit to come from selling players they have recruited in recent years speaks to just how poor that recruitment has been, and how profligate they have been with transfer funds.",
+      "They will need to sell their pure profit players, while the sale of big earners will clear space in the wage bill. All told it could allow United another £120m or so to put to work over and adove the committed £100m, but would give them little time to do it.",
+      "It remains a work in process that will require several windows to unpick the financial and competitive damage that has been done over a number of years worth of bad decisions."
     ]
   },
   {
@@ -879,52 +938,6 @@
       "\"I was with my friend and he bet me…he said if Chelsea won he would do some sort of forfeit. I can’t remember the forfeit, I just remember that when Ramires scored that chip away, he was upset!",
       "\"And then obviously Fernando Torres scored that last-minute goal to close the game out. It was funny. Then, obviously, the final speaks for itself. Drogba coming in clutch.",
       "\"For them to just bounce back the way they did, it just shows the mentality of top players, top teams, and top coaches...\""
-    ]
-  },
-  {
-    "headline": "RAILSTON: Manchester United CEO Omar Berrada gives update on summer transfer window",
-    "tags": [
-      "Man Utd"
-    ],
-    "link": "https://www.manchestereveningnews.co.uk/sport/football/transfer-news/manchester-united-ceo-omar-berrada-31741355",
-    "image": null,
-    "date": null,
-    "source": "manchestereveningnews",
-    "body": [
-      "Manchester United CEO Omar Berrada has said the club must be \"prudent\" but \"ambitious\" in the summer transfer window.",
-      "United have just suffered the worst season in the club's modern history, and Ruben Amorim is looking to strengthen his squad in the summer to hit the ground running in 2025/2026.",
-      "Matheus Cunha is set to be the first signing of the summer and more transfers will follow.",
-      "Berrada provided a rare interview to MUTV on Wednesday afternoon and revealed an update on transfer plans. \"I can't talk about specifics, but I can say we've been planning for many months now,\" he told MUTV.",
-      "\"We were ready for all the different scenarios. Now we know what we need to do. We have a very clear idea of where we need to invest in the squad to improve.",
-      "\"So Jason [Wilcox], his team and Ruben have been in talks for many months. And now it's a question of executing that plan and doing it in a way that is prudent. But at the same time, with ambition\".",
-      "Berrada continued: \"Ruben spoke really well on Sunday, and he's right: the past is the past. It's important to learn, as I said, now we need to stay together, stay United and I say thank you to the fans again.",
-      "\"The owner has also been really supportive in the transition here and now we just need to work really hard and do everything we can to bring the club back to the top and I'm very excited about what is coming. I'm sure the good days will be back.\"",
-      "Speaking about the season, Berrada said: \"It's a privilege to work for this club. It's been a difficult season and we're undergoing a transformation on and off the pitch.",
-      "\"We had to take some really tough decision to put the club in the best place possible for the future and our fans have been incredibly supportive and patient throughout this process and I can only say thank you.",
-      "\"Now, really our job is to focus on the future and learn from what has happened this season, improve and make sure we continue aiming to get back to the top again.\"",
-      "Berrada also spoke about the post-season tour. \"The fans have been incredible since the moment we landed,\" he added. \"It's really good to be back here. We have really passionate fans around the world.",
-      "\"They are very loyal to our team. People are still hurting from the loss last week, we all wanted to end the season with a trophy. But the players, the coaches and the staff are doing very well and I think they're very focused now on engaging with our fans and starting to think about next season.\""
-    ]
-  },
-  {
-    "headline": "Man United given green light to complete 'free' Bryan Mbeumo transfer with brutal sale",
-    "tags": [],
-    "link": "https://www.manchestereveningnews.co.uk/sport/football/transfer-news/man-united-given-green-light-31740222",
-    "image": null,
-    "date": "2025-05-28 18:00:00",
-    "source": "manchestereveningnews",
-    "body": [
-      "Manchester United's fast-approach in the summer transfer window to land Matheus Cunha has raised expectations around the club for next season. But if they don't build on it, it'll be for nothing.",
-      "Ruben Amorim's side finished 15th in the Premier League and lost in the Europa League final meaning it is, officially, the club's worst season in 51 years. The Portuguese is being backed but a difficult start could see United repeat the Erik ten Hag sacking earlier this season.",
-      "United need at least two or three new players through the door. After Cunha, a striker to be the focal point followed by another attacking-creator is expected to be prioritised. A new goalkeeper and midfielder are also being linked.",
-      "As has been the case since January, player sales are going to play a crucial part in United getting the right signings through the door. Millions are expected to be raised through the sales of Marcus Rashford, Antony and Jadon Sancho but Alejandro Garnacho's exit could work out a treat.",
-      "The winger is increasingly likely to leave United this summer with Amorim understood to have informed him to find a new club. Garnacho nearly left the club in January and sparked further uncertainty with his comments in the aftermath of the Europa League defeat to Tottenham.",
-      "Interest in Italy has been apparent since the winter with Napoli reportedly still keen. However, recent revelations have reported that AC Milan have discussed Garnacho internally amid the unsettling situation with Rafael Leao.",
-      "According to Argentine outlet Ole, Milan have opened negotiations for Garnacho and believe £50million would be enough to get him out of Manchester and to the San Siro. Whilst that fee is slightly lower than the reported £65m that United would seek for the Argentine, accepting that proposal would be the perfect green light for Amorim's second signing.",
-      "Bryan Mbeumo is on United's radar and after scoring 20 Premier League goals this season, is destined for a move away from Brentford. Newcastle and Arsenal are also considering moves with the Bees reportedly demanding between £50m-£60m.",
-      "\"I know that Bryan is very happy being here at Brentford, he's thriving, doing well and playing fantastic. What happens in the future? I don't know. I've said many times: we are a selling club. But at the same time we have to reinforce that there are 10 clubs in the world who aren't selling clubs.",
-      "\"So, of course, if the right price - and that's going to be expensive - is coming, then I'm sure the club will be open for it. But I'm very happy he's here, and I'm convinced that Bryan will still be happy playing football here.\"",
-      "Selling Garnacho, a player who doesn't suit Amorim's system, to bring in Mbeumo - one of the Premier League's most consistent performers in the past 12 months - for the same price would be a masterstroke from Ineos."
     ]
   },
   {
