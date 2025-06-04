@@ -1,11 +1,37 @@
 [
   {
+    "headline": "Roy Keane is not having Thierry Henry's opinion on the Premier League's 'best ever'",
+    "tags": [
+      "Premier League",
+      "Roy Keane"
+    ],
+    "link": "https://www.mirror.co.uk/sport/football/news/roy-keane-thierry-henry-arsenal-35335936",
+    "image": null,
+    "date": null,
+    "source": "mirror",
+    "body": [
+      "Manchester United legend Roy Keane scoffed at Thierry Henry's claim that former Arsenal and Chelsea man Ashley Cole is the best left-back he has seen. Henry insisted that the ex-England defender doesn't get the credit he deserves on the back of his unceremonious move to Stamford Bridge.",
+      "Hale End graduate Cole began his Gunners career in 1999 when he made his full debut, and would go on to establish himself under Arsene Wenger as one of the Premier League's finest full-backs. The Englishman won two league titles in north London as well as three FA Cup trophies, and was pivotal in the club's famous 2003/04 Invincibles campaign.",
+      "While Cole, who played over 200 times for Arsenal, saw his Gunners legacy somewhat tarnished in 2006 when he joined bitter rivals Chelsea in an acrimonious switch, Henry believes he still doesn't get the recognition he deserves as one of English football's finest ever left-backs. Though Red Devils legend Keane slightly disagrees.",
+      "\"There is a guy that I want to talk about, who I don't understand why in this country he doesn't get his respect: Ashley Cole,\" Henry stated on the Stick to Football podcast. \"Ashley Cole was outstanding.",
+      "\"Firstly, in 2000, Ashley went to Crystal Palace on loan, and he saved them from relegation, playing as a winger. When you have a left-back that can dribble past their winger, he was the one who created space for the rest of the team at Arsenal. He started everything.",
+      "\"For me, Ashley Cole is the best left-back I have ever seen. Me. I'm not talking about everybody. Ashley Cole… Going forward, defending, the desire, what he won and why he won it.\"",
+      "While Henry sang the praises of his former team-mate, who he played alongside a staggering 195 times in the red of Arsenal, Keane then chimed in. \"I think he was a brilliant player, but when you talk about great left-backs, he doesn't spring to my mind,\" quipped Keane. \"Of course, he was a brilliant player.\"",
+      "Henry rebuked Keane's claim and went on to discuss Cole's controversial and bad-blooded move from the north of London to the west, explaining he feels it is why the left-back isn't quite held in the regard he deserves. He continued: \"Ashley Cole is an Arsenal man.",
+      "\"His whole family supports Arsenal. But I can understand why he left at the time. In 2005, David Dein shook hands on a deal, but he came back with something else.",
+      "\"With Ashley moving to Chelsea, people don't give him the respect he deserves for everything that he has done. But for me, Cole was outstanding.\"",
+      "Former Arsenal vice-chairman Dein oversaw plenty of successes during his 24 years in the role, but he previously admitted that letting the left-back leave was one of his biggest regrets before stepping down in 2007.",
+      "Cole was offered a hefty pay rise by Stamford Bridge chiefs and he went on to enjoy a fruitful eight-year spell with the club, winning one league title, a Champions League, Europa League, League Cup, Community Shield and four FA Cups. He's considered very much in the debate of the greatest left-backs of all time alongside the likes of Roberto Carlos, Marcelo and Paolo Maldini.",
+      "Sky will show at least 215 live Premier League games next season, an increase of up to 100 more."
+    ]
+  },
+  {
     "headline": "Man Utd star could leave on loan one year after Erik ten Hag signed him",
     "tags": [
       "Man Utd"
     ],
     "link": "https://www.mirror.co.uk/sport/football/transfer-news/man-utd-leave-ten-hag-35335315",
-    "image": null,
+    "image": "https://i2-prod.mirror.co.uk/incoming/article35335614.ece/ALTERNATES/n615/1_Manchester-United-U21-v-Everton-U21-Premier-League-2-Play-off.jpg",
     "date": null,
     "source": "mirror",
     "body": [
@@ -54,7 +80,7 @@
       "Amorim"
     ],
     "link": "https://www.mirror.co.uk/sport/football/transfer-news/man-utd-bryan-mbeumo-transfer-35333929",
-    "image": "https://i2-prod.mirror.co.uk/incoming/article35334022.ece/ALTERNATES/n615/0_JS366420399.jpg",
+    "image": null,
     "date": null,
     "source": "mirror",
     "body": [
@@ -78,7 +104,7 @@
       "Man Utd"
     ],
     "link": "https://www.mirror.co.uk/sport/football/news/man-utd-kit-leak-2026-35334026",
-    "image": null,
+    "image": "https://i2-prod.mirror.co.uk/incoming/article35333704.ece/ALTERNATES/n615/2_Man-Utds-new-third-kit-leaked-as-fans-blast-You-couldnt-pay-me-to-wear-it.jpg",
     "date": null,
     "source": "mirror",
     "body": [
@@ -243,7 +269,7 @@
       "Man Utd"
     ],
     "link": "https://www.mirror.co.uk/sport/football/transfer-news/gianluigi-donnarumma-manchester-united-psg-35332601",
-    "image": "https://i2-prod.mirror.co.uk/incoming/article35332669.ece/ALTERNATES/n615/0_GettyImages-2217642637.jpg",
+    "image": null,
     "date": null,
     "source": "mirror",
     "body": [
@@ -266,7 +292,7 @@
       "Amorim"
     ],
     "link": "https://www.mirror.co.uk/sport/football/transfer-news/man-united-transfer-napoli-martinez-35332642",
-    "image": null,
+    "image": "https://i2-prod.mirror.co.uk/incoming/article35332633.ece/ALTERNATES/n615/0_GettyImages-2214121639.jpg",
     "date": null,
     "source": "mirror",
     "body": [
@@ -291,7 +317,7 @@
       "Amorim"
     ],
     "link": "https://www.mirror.co.uk/sport/football/transfer-news/bryan-mbeumo-man-utd-ferdinand-35332582",
-    "image": "https://i2-prod.mirror.co.uk/sport/article35332580.ece/ALTERNATES/n615/0_Wolverhampton-Wanderers-FC-v-Brentford-FC-Premier-League.jpg",
+    "image": null,
     "date": null,
     "source": "mirror",
     "body": [
@@ -329,8 +355,16 @@
       "Arsenal are also need more forward options - but there has been little in the way of updates as to whether they will pursue Viktor Gyokeres or Benjamin Sesko, while talks to finally bring Martin Zubimendi to the Premier League are ongoing.",
       "Chelsea are having no such striker issues: they've already wrapped up a deal for Liam Delap and are now trying to beat their rivals to the punch in the race for Hugo Ekitike. They're also pursuing AC Milan's Mike Maignan - yep, another goalkeeper - while his Rossoneri team-mate Tijjani Reijnders is set to join Manchester City with a deal now agreed.",
       "Follow all the latest transfer news and breaking stories below as they happen!",
+      "Real Madrid have entered the race to sign 33-year-old Ante Budimir.",
+      "Osasuna striker Budimir scored 21 goals in La Liga which has impressed Xabi Alonso.",
+      "Dario AS report that Real's manager wants a No.9.",
+      "The Croatian is also a target for Besiktas.",
+      "Manchester City have agreed personal terms with Rayan Cherki ahead of submitting their first bid.",
+      "Cherki, 21, held talks with Liverpool boss Arne Slot last week but the French winger is poised to join City.",
+      "A report from Italy states that all parties have agreed on a contract.",
       "Arsenal have announced their retained and released list, with 20 players from their men's and women's teams departing.",
       "Among those, left-back Kieran Tierney is confirmed to be leaving, with the Scotland international set to rejoin Celtic.",
+      "Jorginho will also exit ahead of a rumoured switch to Flamengo.",
       "Raheem Sterling has also been sent back to Chelsea.",
       "Arsenal add that they remain in talks with Thomas Partey over a new contract.",
       "Middlesbrough have sacked manager Michael Carrick after two-and-a-half years in charge.",
@@ -440,7 +474,7 @@
       "Transfer News"
     ],
     "link": "https://www.mirror.co.uk/sport/football/transfer-news/man-utd-transfer-news-mbeumo-35329325",
-    "image": null,
+    "image": "https://i2-prod.mirror.co.uk/incoming/article35329409.ece/ALTERNATES/n615/0_GettyImages-2196038961.jpg",
     "date": null,
     "source": "mirror",
     "body": [
@@ -492,7 +526,7 @@
       "Gary Neville"
     ],
     "link": "https://www.mirror.co.uk/sport/football/transfer-news/man-utd-saudi-fernandes-neville-35329504",
-    "image": "https://i2-prod.mirror.co.uk/incoming/article35329531.ece/ALTERNATES/n615/0_Gary-Neville-responds-to-Bruno-Fernandes-decision-and-endorses-Man-Utds-next-transfer.jpg",
+    "image": null,
     "date": null,
     "source": "mirror",
     "body": [
@@ -532,31 +566,6 @@
       "With Fernandes likely to stay, it does mean United won't collect the £100m fee that Al-Hilal were ready to pay - meaning they'll have to find more ways of spending their money while also staying within PSR regulations.",
       "Al-Hilal were willing to hand Fernandes £700,000-a-week if he moved to Saudi Arabia, but Fernandes has said no to the switch - despite being aware of the riches on offer and how it would benefit United.",
       "Fernandes doesn't want to uproot his family in Manchester and make a major cultural change by moving to the Middle East. He is also eager to play more football at the highest level in Europe for the time being.",
-      "Sky will show at least 215 live Premier League games next season, an increase of up to 100 more."
-    ]
-  },
-  {
-    "headline": "Bruno Fernandes reveals four key reasons for staying at Man Utd after £300m offer",
-    "tags": [
-      "Man Utd",
-      "Fernandes"
-    ],
-    "link": "https://www.mirror.co.uk/sport/football/transfer-news/bruno-fernandes-man-utd-stay-35332277",
-    "image": null,
-    "date": null,
-    "source": "mirror",
-    "body": [
-      "Bruno Fernandes has made his reasons clear for wanting to stay at Manchester United and snub a lucrative move to Al-Hilal this summer. The United skipper looked certain to move to Saudi Arabia after reports Al-Hilal were ready to pay a £300million package to secure his signature.",
-      "United would have collected a £100m transfer fee, with Bruno Fernandes being handed an eye-watering contract worth around £200m in a move that would see him join up with countrymen Joao Cancelo and Ruben Neves.",
-      "But Fernandes released a statement on Tuesday night explaining primarily that he wants to continue playing at the highest level possible in Europe and fully believes he is capable of doing so.",
-      "“It would have been an easy move,\" he said. \"I had Ruben Neves and Joao Cancelo there, two people I have a great friendship with. But I want to stay at the highest level, play in big competitions, because I still feel capable.\"",
-      "Another factor was Ruben Amorim wanting him to stay at Old Trafford. The coach has always maintained he did not want to let his captain leave and hoped the Portugal international would spearhead the team's revival under his leadership.",
-      "Speaking after their post-season tour in Asia, he said: \"I think he wants to stay. He is saying no to a lot of things but he chose that he wants to win. I think he's really good and he needs to be on the best league in the world.\"",
-      "United's support of Fernandes also helped his decision. The club hierarchy were relaxed about his future either way and although they missed out on a huge payday that would have eased their financial situation, having Fernandes on board will be a huge boost to their hopes of returning to for next season.",
-      "The 30-year-old also cited his family as a major reason for him snubbing Saudi interest. He did not want to uproot his family from their settled life in Manchester and force a culture change in the Middle East. His wife Ana Pinho is said to have been crucial in the decision to stay.",
-      "Fernandes explained: \"I spoke with my family to understand if that was what I wanted for my future,” Fernandes said ahead of Portugal’s Nations League semi-final against Germany tonight.",
-      "\"It was actually my wife who asked me — I never said yes or no. She put my professional priorities ahead of everything else.\"",
-      "Now that he has clarified his position, Amorim will hope to have him on board for his rebuild of the team that has already seen him sign Matheus Cunha from Wolves, while Bryan Mbeumo is expected to join from Brentford imminently.",
       "Sky will show at least 215 live Premier League games next season, an increase of up to 100 more."
     ]
   },
@@ -678,7 +687,7 @@
     ],
     "link": "https://www.manchestereveningnews.co.uk/sport/football/transfer-news/man-united-transfer-news-live-31783162",
     "image": null,
-    "date": "2025-06-04 13:31:00",
+    "date": "2025-06-04 14:12:00",
     "source": "manchestereveningnews",
     "body": [
       "Hello and welcome back to the Manchester United transfer blog on Wednesday, June 4.",
@@ -689,6 +698,11 @@
       "There are also question marks over Marcus Rashford and Antony, who both spent the remainder of the season on loan away from Greater Manchester. But Rasmus Hojlund is also in the headlines following reported interest from Inter Milan.",
       "The summer transfer window is officially open but will temporarily close on June 10 ahead of the FIFA Club World Cup, before reopening on June 16.",
       "Stay tuned to all the latest news from United's summer transfer window below...",
+      "Manchester United scouts have reportedly been impressed by Nico Paz, a Real Madrid academy product currently playing at Como.",
+      "The Argentine international’s standout performances in Italy have caught the attention of United, though Ruben Amorim's side have yet to make a formal move.",
+      "If United do decide to act, they'll face competition from Real Madrid, who hold a £6.7m buy-back clause. According to Caught Offside, new manager Xabi Alonso could choose to activate that clause—but Paz is said to be in no rush to return to the Bernabeu unless he’s guaranteed regular first-team football.",
+      "Lisandro Martinez is reportedly not interested in a move to Napoli and is determined to remain at Manchester United, according to Mail Sport.",
+      "Martinez is under contract at Old Trafford until the summer of 2027. While Napoli may be hopeful of a deal, their chances could depend on Sir Jim Ratcliffe’s ongoing efforts to raise funds through player sales.",
       "The summer transfer window has been open for just four days and one thing has already become abundantly clear: Manchester United have not lost their pulling power...",
       "...It remains to be seen which direction United's striker search will now head in, but there are a handful of obvious candidates the club could turn to in their hunt for a chief goal-getter. Few are more appealing than Napoli striker Victor Osimhen.",
       "The Nigerian international, 26, has made a name for himself after becoming one of Europe's most prolific strikers in recent years. In the last three seasons alone, he has scored 85 goals.",
@@ -789,6 +803,49 @@
       "He was banished from the first-team squad by head coach Ruben Amorim last December and his stint at Villa yielded just four goals in 17 appearances.",
       "Rashford wants to continue playing in the Champions League after four appearances in the competition in the second half of this season at Villa. Barcelona will have ambitions of winning the competition next term after reaching the semi-finals this season.",
       "Diaz, meanwhile, played a prominent role in helping Liverpool win the Premier League title this season, scoring 13 goals and registering seven assists."
+    ]
+  },
+  {
+    "headline": "Gianluigi Donnarumma to Man United transfer update as agent confirms talks with next club hint",
+    "tags": [],
+    "link": "https://www.manchestereveningnews.co.uk/sport/football/transfer-news/gianluigi-donnarumma-man-united-transfer-31786311",
+    "image": null,
+    "date": null,
+    "source": "manchestereveningnews",
+    "body": [
+      "The representative of Paris Saint-Germain's goalkeeper Gianluigi Donnarumma has quashed rumours of a surprise move to Manchester United by confirming ongoing negotiations with his current club over a new deal. Donnarumma, 26, played a part in PSG's Champions League final triumph on Saturday, where they trounced Inter Milan 5-0 in Munich — although he wasn't heavily tested during the match.",
+      "This marks the second European title for the former AC Milan keeper, who was Italy's hero at Euro 2020 with two crucial penalty saves in the final against England. He joined PSG on a five-year contract after leaving Milan under contentious circumstances.",
+      "With his current contract set to expire in June 2026, there have been reports this week that Manchester United hold an interest in signing him. United's manager Ruben Amorim is reportedly keen on bringing in a new goalkeeper due to concerns about Andre Onana, but the club isn't looking to make a significant investment — unless their main goalkeeper opts to depart.",
+      "Foot Mercato, via GFFN, this week reported that United have an interest in signing the Italian shotstopper, with his agent now responding to the rumours. Enzo Raiola – cousin of the late renowned agent Mino Raiola – has dismissed such speculation as 'pure fantasy'.",
+      "Raiola emphasised that their focus is on discussions with PSG to prolong Donnarumma's tenure in the French capital. \"It's pure fantasy. I've an excellent relationship with Director Giovanni Manna at [Napoli], but we've never discussed Gigio,\" Raiola stated to Radio CRC, as reported by Calciomercato, via the Mirror.",
+      "\"It's an obvious question. Many would like him, but only a few can afford him. He feels good in Paris, we're at the European champion club, so we have no complaints. We are working on a renewal [with PSG].\"",
+      "However, Raiola did not dismiss the possibility of a future move to Napoli for Donnarumma, who hails from Castellammare, a town in the Metropolitan City of Naples. \"His mother is a huge Napoli fan, and she gets anxious watching their games. Gigio is connected to that,\" his agent added.",
+      "\"He grew up as a Milan supporter, watching his older brothers in a Rossoneri shirt, but he never denied his roots. In fact, his first stop during the holidays is always Castellammare.\"",
+      "Donnarumma's form took a hit in the early part of the season, but he and his teammates found their stride after the winter break, clinching the treble. His crucial saves against Premier League teams Liverpool, Aston Villa, and Arsenal in the Champions League knockout stages were instrumental to Luis Enrique's triumphant side."
+    ]
+  },
+  {
+    "headline": "Former Manchester United star Michael Carrick sacked by Championship club Middlesbrough",
+    "tags": [
+      "Man Utd"
+    ],
+    "link": "https://www.manchestereveningnews.co.uk/sport/football/football-news/former-manchester-united-star-michael-31787183",
+    "image": null,
+    "date": null,
+    "source": "manchestereveningnews",
+    "body": [
+      "Former Manchester United midfielder and caretaker manager Michael Carrick has been sacked by Middlesbrough.",
+      "The Riverside outfit missed out on a Championship play-off place on the final day of the season after being beaten 2-0 by fellow play-off hopefuls Coventry City. Boro finished tenth, four points shy of the top six.",
+      "They stumbled towards the end of the campaign, winning just one of their last six matches - a late 2-1 home win over relegated Plymouth Argyle.",
+      "Issuing a statement on Wednesday lunchtime, the Championship club said: \"Middlesbrough Football Club has today parted company with head coach Michael Carrick.",
+      "\"Michael's assistants Jonathan Woodgate and Graeme Carrick have also departed the club.",
+      "\"We'd like to thank Michael, Jonathan, and Graeme for all their hard work and unwavering commitment. We wish them all the very best for the future.",
+      "\"The club will be making no further comment at this stage.\"",
+      "After leaving United following a short-term stint as caretaker boss in December 2021, Carrick landed his first full-time post in management when he was appointed Middlesbrough head coach in October 2022.",
+      "After succeeding former boss Chris Wilder when they were 21st in the table, Carrick guided Boro to a fourth-placed finish, meaning they secured a play-off spot. However, they were beaten 1-0 by Coventry at the semi-final stage.",
+      "In 2023/24, Boro were expected to challenge for promotion once again, and they did so right until the latter stages of the season. However, they finished eighth, four points shy of the final play-off spot.",
+      "This season, they were once again expected to challenge for promotion, and after two near misses, it was hoped it would be third time lucky for Carrick, who found himself under pressure and facing the axe earlier this year.",
+      "Despite taking their play-off push to the final day of the season, they fell short of the expected standard. Carrick took charge of 136 matches in total and also guided the club to the League Cup semi-finals in 2023/24."
     ]
   },
   {
@@ -922,52 +979,6 @@
     ]
   },
   {
-    "headline": "Bruno Fernandes rejects claim about how he decided his Manchester United future",
-    "tags": [
-      "Man Utd",
-      "Fernandes"
-    ],
-    "link": "https://www.manchestereveningnews.co.uk/sport/football/transfer-news/bruno-fernandes-rejects-claim-how-31783547",
-    "image": null,
-    "date": null,
-    "source": "manchestereveningnews",
-    "body": [
-      "Manchester United captain Bruno Fernandes has played down the role of his wife in his decision to reject Al-Hilal.",
-      "Al-Hilal were interested in signing Mohamed Salah from Liverpool, but Salah committed his future to Anfield and they turned their attention to landing Fernandes as a marquee signing.",
-      "Last week, Fernandes' agent met with Al-Hilal officials in Saudi Arabia to discuss a move.",
-      "Saudi reports claimed Fernandes had been offered a multi-million financial package to move to the Kingdom. However, there was no formal contact between the clubs and Fernandes rejected their proposal.",
-      "Some reports suggested Ana Pinho, his wife, did not want to move to Saudi Arabia, but the midfielder poured cold water on those claims during a press conference on Tuesday evening.",
-      "Fernandes has reported to Portugal for international duty and he was quizzed about Al Hilal.",
-      "\"It was a very exciting offer. The president of Al Hilal was very nice to me,\" he said.",
-      "\"They talked to my agent, but I spoke to my wife and family, and she asked me what I wanted to do with my future. Never did she say yes or no, or offer to make the decision for me.",
-      "\"She's always been behind me with every decision. It would have been easy to change, even from a family point of view, as Ruben Neves and João Cancelo are there [with Al-Hilal].",
-      "\"Our kids are used to each other, I'm used to them, but I want to play at the highest possible level, playing in the major competitions and I know I still can. And I'm happy about my decision.\"",
-      "Fernandes suggested his wife would have been supportive of a move to Al-Hilal, but explained their interest was rebuffed because he still wants to play at the top level in European football.",
-      "Pinho and Fernandes have a daughter and son, who were at Old Trafford on the final day of the campaign.",
-      "The Portugal international won the Sir Matt Busby Player of the Year award for a fourth time this season, joining David de Gea and Cristiano Ronaldo as the only other players who have won it four times.",
-      "Fernandes' contract runs until the summer of 2027, with the option of another year."
-    ]
-  },
-  {
-    "headline": "Jadon Sancho three-word message shows true colours after Man United decision",
-    "tags": [],
-    "link": "https://www.manchestereveningnews.co.uk/sport/football/football-news/jadon-sancho-three-word-message-31785858",
-    "image": null,
-    "date": null,
-    "source": "manchestereveningnews",
-    "body": [
-      "Jadon Sancho has offered his thanks to Chelsea, reflecting positively on his loan stint with the club last season. Football.london reports that Sancho was unable to come to terms on personal negotiations with the Blues, leading Manchester United to accept a £5million fee from Chelsea instead of being compelled to purchase him for up to £25million.",
-      "The winger is slated to return to his parent club Manchester United once his loan tenure concludes at the end of this month. Nonetheless, his stay at Old Trafford is expected to be brief as another transfer is anticipated.",
-      "As he prepares to move on, Sancho took to social media to communicate his sentiments about leaving Chelsea, posting, \"Grateful for the experience,\".",
-      "He extended his appreciation to everyone at Chelsea for their warm reception, including teammates, staff, and fans, by saying, \"Big love to everyone at Chelsea who made me feel at home - teammates, staff and the fans. Wishing the club all the best moving forward.\"",
-      "Sancho closed his message with an expression of deep gratitude: \"Truly grateful. Thank you, Blues\", reports Football London.",
-      "accompanied by emojis of a blue heart and folded hands. In sharing this message on Instagram, he reiterated, \"Thank you, Blues!\" paired with another blue heart emoji.",
-      "His farewell post received engagement from his Chelsea colleagues, with Reece James replying with a red heart emoji, Pedro Neto sending both a smiling face with heart eyes and folded hands emojis, while Cole Palmer posted, \"My guy,\" Trevoh Chalobah and Tosin Adarabioyo also chimed in with \"My darg\" and \"My brother!\" expressing their camaraderie.",
-      "\"Thanks for all broski,\" Marc Guiu responded, with Robert Sanchez sending his well-wishes with \"all the best\". Wesley Fofana chimed in with a heartfelt \"Noooo, all the best, bro, love,\" and Kiernan Dewsbury-Hall expressed his sentiments, saying: \"Naa, will miss you, man\".",
-      "Benoit Badiashile, Carney Chukwuemeka, Josh Acheampong, Malo Gusto, Marc Cucurella, Marcus Bettinelli, Moises Caicedo, Noni Madueke, Romeo Lavia, Shim Mheuka, and Tyrique George were among those who showed their support by liking the post. Former Blues Omari Hutchinson and Tammy Abraham also gave their virtual nods of approval."
-    ]
-  },
-  {
     "headline": "Sign up for free Manchester United transfers updates on WhatsApp as Reds look to add to Cunha deal",
     "tags": [
       "Man Utd"
@@ -985,6 +996,99 @@
       "Then there is the big decision facing United over Bruno Fernandes. The club captain was their Player of the Season but Saudi club Al-Hilal are said to be preparing a £100million bid for the Portugal international. To keep up with the latest United transfer news and matchday updates, you can get all the news sent direct to your phone by signing up to our FREE WhatsApp service here.",
       "Our expert United team will be on top of all of the news, analysis, live coverage and reaction - and you can be right on top of it too by signing up for our free WhatsApp service.",
       "Join thousands of Reds around the world who receive our daily updates on WhatsApp by joining our free community through the link below."
+    ]
+  },
+  {
+    "headline": "Piano, chess and ambition - What makes Bryan Mbeumo tick as Manchester United target transfer",
+    "tags": [
+      "Man Utd"
+    ],
+    "link": "https://www.manchestereveningnews.co.uk/sport/football/transfer-news/piano-chess-ambition-what-makes-31778674",
+    "image": null,
+    "date": null,
+    "source": "manchestereveningnews",
+    "body": [
+      "Manchester United infamously announced the signing of Alexis Sanchez with a cringey video of the new arrival playing the piano.",
+      "Bryan Mbeumo also tinkles the ivories. United fans will be hoping that will be the only similarity between the pair should the Brentford man arrive at Old Trafford.",
+      "United have opened talks with the Bees over the arrival of the 25-year-old with the Cameroon international expressing a desire to join Ruben Amorim's side.",
+      "Mbeumo enjoyed a stellar season last term and would be something of a statement signing should United get a deal over the line given the interest elsewhere.",
+      "The forward might even greet his new team-mates with a tune or two on the piano. Mbeumo is a keen player having taught himself using You Tube videos. Brentford even put a piano at the training ground to allow him to practice.",
+      "United will be hoping to get their own tune out of him to help them rebuild and regroup after a desperate campaign. The Reds have moved to bring in Matheus Cunha after activating his £62.5million release clause and following that with Mbeumo would be an impressive start to the summer transfer window.",
+      "It would also alleviate the pressure to sign a proven goal-getter to lead the line after Liam Delap snubbed United for Chelsea.",
+      "Cunha scored 15 top-flight goals last season while Mbeumo contributed 20. He's significantly improved his cutting edge in front of goal over the last two seasons, in keeping with a man who always wants to improve.",
+      "While at Brentford he has worked with a posture specialist and a home-visiting physio as well as a personal chef.",
+      "He worked hard to improve his finishing with club coaches and is part of Brentford's leadership group.",
+      "Whether that is at the piano, or at chess - another of his hobbies - or indeed on the pitch. He's driven to improve and sees United as the next chapter in his career.",
+      "“I don’t want to set limits on myself,” Mbeumo said last season. “I think I can always go higher. I want to be the best at what I do, every time.”",
+      "He was one of the best in the Premier League last season, catching the eye for Thomas Frank's likeable Bees. His partnership with Yoan Wissa was clinical and Mbuemo has developed into a focal point in attack and a key character in the dressing room.",
+      "“I feel like a leader in the team,\" he added. \"Everybody needs to take responsibility but I have been at the club for five years now. At some point, you need to be a leader.\"",
+      "That is music to the ears of Amorim and the United fans, so too is Mbeumo's piano playing."
+    ]
+  },
+  {
+    "headline": "RAILSTON: Bruno Fernandes makes Saudi Arabia decision amid Manchester United uncertainty",
+    "tags": [
+      "Man Utd",
+      "Fernandes"
+    ],
+    "link": "https://www.manchestereveningnews.co.uk/sport/football/transfer-news/bruno-fernandes-makes-saudi-arabia-31774812",
+    "image": null,
+    "date": null,
+    "source": "manchestereveningnews",
+    "body": [
+      "Manchester United midfielder Bruno Fernandes has rejected Al Hilal's transfer proposal, as per reports.",
+      "Al-Hilal were interested in signing Mohamed Salah from Liverpool, but Salah committed his future to Anfield and they turned their attention to landing Fernandes as a marquee signing.",
+      "Saudi reports claimed Fernandes had been offered a huge financial package to sign for Al-Hilal. However, there has been no contact between the clubs and Fernandes is thought to have rejected their proposal.",
+      "Fernandes looked crestfallen as he collected his runners-up medal after the Europa League final, and he spoke honestly about his future to journalists in the mixed zone after the game.",
+      "\"I have always been honest. I've always said I will be here until the club says to me that it's time to go,\" said Fernandes.",
+      "\"I'm eager to do more, to be able to bring the club the great days. In the day that the club thinks that I'm too much or it's time to part ways, football is like this, you never know it. But I've always said it and I keep my word in the same way.",
+      "\"If the club thinks it's time to part ways because they want to do some cashing in or whatever, it's what it is, and football sometimes is like this.\"",
+      "The Portugal international won the Sir Matt Busby Player of the Year award for a fourth time this season, joining David de Gea and Cristiano Ronaldo as the only other players who have won it four times.",
+      "Fernandes' contract runs until the summer of 2027, with the option of another year.",
+      "United's captain is settled in Manchester with his wife, daughter and young son."
+    ]
+  },
+  {
+    "headline": "Man United handed perfect Marcus Rashford transfer scenario as fresh Viktor Gyokeres stance emerges",
+    "tags": [
+      "Rashford"
+    ],
+    "link": "https://www.manchestereveningnews.co.uk/sport/football/transfer-news/man-united-handed-perfect-marcus-31782785",
+    "image": null,
+    "date": "2025-06-04 04:30:00",
+    "source": "manchestereveningnews",
+    "body": [
+      "Manchester United fans will be watching the summer transfer window with interest after a disastrous domestic campaign.",
+      "Ruben Amorim's team concluded the 2024/25 campaign with their worst-ever Premier League finish (15th), following defeat in the Europa League final to Tottenham Hotspur. However, they did manage to secure their first home league victory since February, after a 2-0 win over Aston Villa on the final day.",
+      "Below are some of the latest headlines surrounding United and a view on each one....",
+      "Spanish publication Marca claim that Marcus Rashford could take a considerable pay cut to accommodate Barcelona's financial situation.",
+      "Sporting striker Viktor Gyokeres has admitted he feels at home in Portugal amid transfer links with the Reds.",
+      "“In Swedish culture, people work hard during the week and if they want to do something, they do it on the weekend,\" he said in an interview with Vogue.",
+      "\"Here, people also make the most of the weekdays. They come over with friends on Monday or any other day of the week, have dinner and a glass of wine.",
+      "\"In Sweden, that’s rare. That’s the big difference. Lisbon is one of the best cities in Europe. I feel at home.\"",
+      "\"Selling the likes of Rashford, Jadon Sancho and Antony, among others, should help in that regard, but will it be enough?\""
+    ]
+  },
+  {
+    "headline": "Breaking: Bruno Fernandes breaks silence on Man United transfer decision and Ruben Amorim chat",
+    "tags": [
+      "Amorim",
+      "Fernandes"
+    ],
+    "link": "https://www.manchestereveningnews.co.uk/sport/football/transfer-news/breaking-bruno-fernandes-breaks-silence-31782510",
+    "image": null,
+    "date": "2025-06-03 19:22:00",
+    "source": "manchestereveningnews",
+    "body": [
+      "Manchester United captain Bruno Fernandes has broken his silence after snubbing a mega-money move to Saudi Pro League side Al-Hilal.",
+      "But news emerged on Tuesday that Fernandes had opted against a move to Al-Hilal after discussions with his family. The Reds star has now had his say on the decision while on international duty.",
+      "“There was an opportunity,\" he said in Portugal's pre-match press conference on Tuesday evening. \"The president called me and asked if I wanted to go there.",
+      "\"They were waiting for me. I spoke to coach [Ruben] Amorim. He asked me not to go.",
+      "\"Manchester United didn’t want to sell me. They don’t need the money. If I had wanted to leave, they would have made it happen.“",
+      "He added: \"Al Hilal were very kind. They spoke to my agent. Then I spoke to my wife. She asked: 'What do you want to do?' She always supports my decisions.",
+      "\"It would have been easy to move there. I know the Portuguese players there very well. But I want to play at the highest level and compete for major titles.",
+      "\"I can do that, and I still want to. I’m very passionate about football.”",
+      "Fernandes has scored 98 goals and provided 86 assists across all competitions for the Reds since joining from Sporting in January 2020. His current contract at United is set to expire in June 2027."
     ]
   },
   {
@@ -1035,88 +1139,97 @@
     ]
   },
   {
-    "headline": "Manchester United next transfer 'plans' emerge as loan deal targeted",
+    "headline": "The 20 most expensive forwards ever: Hilarious transfer flops in the top five as Cunha enters",
+    "tags": [],
+    "link": "https://www.football365.com/news/20-most-expensive-forwards-ever-transfer-history",
+    "image": "https://images.ps-aws.com/c?url=https%3A%2F%2Fd2x51gyc4ptf2q.cloudfront.net%2Fcontent%2Fuploads%2F2025%2F06%2F04090853%2FReal-Madrid-forward-Eden-Hazard-Man-Utd-player-Antony-and-Jack-Grealish-of-Manchester-City-1320x742.jpg",
+    "date": "2025-06-04 13:06:17",
+    "source": "football365",
+    "body": [
+      "Manchester City are heavily represented in a list of the 20 most expensive forwards in transfer history. Matheus Cunha is in but No 1) will never be shifted.",
+      "",
+      "1) Neymar – £200m/€222m (Barcelona to Paris Saint-Germain, August 2017)\nA fee so ridiculous La Liga refused to receive the payment so PSG said LOL to FFP and handed the money straight to Barcelona, activating one of those stratospheric release clauses designed to typically make such transfers essentially impossible.",
+      "",
+      "2) Eden Hazard – £143m/€160m (Chelsea to Real Madrid, July 2019)\nThe initial payment of £88.5m alone would have been a disastrous transfer, but Hazard accidentally activated enough variables in between numerous injuries before his retirement to make this an all-time great waste of money.",
+      "",
+      "3) Philippe Coutinho – £142m/€160m (Liverpool to Barcelona, January 2018)\nIt’s difficult to pinpoint the most damning aspect of this deal from a buyer’s perspective, but it’s somewhere between the £106m initial fee, the £26.4m in clauses paid out for Coutinho’s first 90 appearances, the £89m premium Barcelona reluctantly agreed to pay if they signed any further Liverpool players in the next two years, the fact Coutinho won the Champions League with Bayern Munich while on loan from the Nou Camp, scoring twice in the 8-2 quarter-final humiliation of the Catalans, or the knockdown price of £17m paid by Aston Villa after four underwhelming years.",
+      "",
+      "4) Ousmane Dembele – £135m/€147m (Borussia Dortmund to Barcelona, August 2017)\nWith a bruised ego and the Neymar cash burning a hole in their back pocket, Barcelona had tried all summer to sign Coutinho but after facing resistance from Liverpool, they went cap in hand to Dortmund for their back-up instead. And lessons were learned with a £369.6m release clause inserted this time – not that the Frenchman has ever come close to warranting such lavish interest until he found his ambipedal feet at PSG.",
+      "",
+      "5) Joao Felix – £113m/€126m (Benfica to Atletico Madrid, July 2019)\nPerhaps the worst match of player and manager there has ever been for a club-record transfer. How strange that the skilful individualist forward who doesn’t track back never meshed with a totalitarian coach who demands suffering and sacrifice from his subordinates. How strange that Atletico committed such sums on a teenager with 45 career first-team appearances. How strange that they couldn’t find anyone to buy him until Chelsea rocked up again.",
+      "",
+      "6) Antoine Griezmann – £107m/€120m (Atletico Madrid to Barcelona, July 2019)\nAfter The Decision favoured Atletico in 2018, the Frenchman could no longer avoid the Barcelona pull a year later in a sale which enraged Los Rojiblancos, considering a £180m release clause had only expired a couple of weeks before. Griezmann has somehow managed to remain without a La Liga winner’s medal through it all, timing his moves back and forth to Atletico and Barca comedically poorly.",
+      "",
+      "7) Jack Grealish – £100m/€117.5m (Aston Villa to Manchester City, August 2021)\nWhile it looked like an ungainly fit at first, Grealish went an awfully long way towards justifying his astronomical fee as a key part of a Treble-winning, mass-celebrating machine in his second season at the Etihad. Then it all started to fall apart again as he lost his way.",
+      "",
+      "8) Neymar – £86.3m/€100m (Paris Saint-Germain to Al-Hilal, August 2023)\nThat world-record, market-breaking move to France delivered neither the Ballon d’Or nor the non-Barcelona Champions League that Neymar craved, so the Brazilian decided to cheat by joining the most successful side in AFC Champions League history for loadsa money, loadsa cars, loadsa bedrooms and loadsa saunas. A ruptured knee ligament meant he played seven times in Saudi Arabia before being released by mutual consent.",
+      "",
+      "9) Gareth Bale – £85.2m/€100m (Tottenham to Real Madrid, September 2013)\nAfter cramming half of his total Premier League goals by that point into a single phenomenal season, Bale became the latest obsession of a Real Madrid side desperate to win La Decima. The Welshman helped deliver that in his first campaign with a decisive goal in the Champions League final – the first of five European Cups and second of 15 trophies for a player the supporters nevertheless came to hate.",
+      "",
+      "10) Antony – £82m/€95m (Ajax to Man Utd, September 2022)\nErik ten Hag put all his eggs in the Antony basket but a few must have cracked in transit from Amsterdam, the relatively slow and predominantly one-footed winger scoring eight goals and assisting three in a 44-game debut season.",
+      "",
+      "11) Jadon Sancho – £73m/€85m (Borussia Dortmund to Man Utd, July 2021)\nIn his three full seasons with Borussia Dortmund, Sancho’s least productive campaign was his first, when he scored 13 goals and provided 20 assists in 43 games. Across an entire Man Utd career which still technically remains a live thing after Chelsea paid £5m to return him rather than £25m to sign him, the forward has scored 12 goals and assisted six in 83 games.",
+      "",
+      "12) Nicolas Pepe – £72m/€80m (Lille to Arsenal, August 2019)\nAfter offering the closest challenge to Kylian Mbappe for the Ligue Un Golden Boot, Arsenal spent what was a club-record fee on a player who has popped up around France, Turkey and Spain since being long outgrown by the upwardly mobile Gunners.",
+      "",
+      "13) Neymar – £71.5m/€86.2m (Santos to Barcelona, June 2013)\nThe financial details are wonderfully murky but official documents submitted to the authority revealed the final fee, as well as a €40m payment to Neymar’s parents.",
+      "",
+      "14) Kai Havertz – £71m/€80m (Bayer Leverkusen to Chelsea, September 2020)\nExpensive flop who never fit into one defined position and suffered for regular managerial upheaval? Or scorer of the winning goals in the Champions League and Club World Cup finals? A little from column A, a little from column B.",
+      "",
+      "15) Julian Alvarez – £64m/€75.8m (Manchester City to Atletico Madrid, August 2024)\nThe fee could rise to £80m but eyebrows were raised when Manchester City squeezed quite so much out of Atletico, even for a world champion with 54 goal contributions and six trophies in 103 appearances. A 29-goal debut season in Spain made it seem more as though the Premier League side had been fleeced.",
+      "",
+      "16) James Rodriguez – £63m/€80m (Monaco to Real Madrid, July 2014)\nA proper throwback transfer pretty much solely down to Rodriguez starring at the World Cup, the Colombian won a fair few trinkets at the Bernabeu but never came close to settling or justifying that fee.",
+      "",
+      "17) Matheus Cunha – £62.5m/€74.2m (Wolves to Man Utd, June 2025)\nIn a welcome sign they are returning to a formerly successful transfer policy, Manchester United chucked a whole load of money at a team below them in the Premier League’s bottom half by virtue of goal difference alone.",
+      "",
+      "18) Kai Havertz – £62m/€71.7m (Chelsea to Arsenal, June 2023)\nMikel Arteta saw enough in those three mixed years at Stamford Bridge to deem Havertz crucial to his Arsenal process. Almost no-one else thought it was a signing worth making but the vision has become clearer over time, particularly so in the German’s injury-enforced absence.",
+      "",
+      "19) Mykhaylo Mudryk – £62m/€70m (Shakhtar Donetsk to Chelsea, January 2023)\nThe biggest possible fee is the one most often quoted but Chelsea would be absolutely delighted if they end up paying the full £88.5m/€100m for Mudryk, who is embroiled in a drugs test fiasco.",
+      "",
+      "20) Riyad Mahrez – £60m/€68m (Leicester to Manchester City, July 2018)\nAn underappreciated Premier League legend only reinforced his status at Manchester City. Just 10 players have won more Premier League titles – none of whom have a medal with two different clubs – than Mahrez, who ranks joint 53rd all-time for goals and 21st for assists.",
+      "MORE ON FOOTBALL’S BIGGEST EVER DEALS\n👉 The 20 most expensive goalkeepers ever\n👉 The 20 most expensive defenders ever\n👉 The 20 most expensive midfielders ever\n👉 The 20 most expensive strikers ever\n👉 The 20 most expensive attacking midfielders ever",
+      "With Lionel Messi reportedly a target for Barcelona, we have picked out some other comebacks we want to see from club legends.",
+      "Saudi Pro League side Al Hilal are looking to fill the void left by Neymar with Liverpool attacker Dominik Szoboszlai, according to reports.",
+      "Man Utd would like Viktor Gyokeres to link up with Ruben Amorim again but perhaps some other clubs should reunite coaches with their most expensive signings.",
+      "We are hoping the Champions League distracts people from Arsenal, conspiracies and referees. For now, we have yet more Arsenal chat.",
+      "Liverpool are set to be without Mohamed Salah after this season as contract talks continue to stall with just months left on his deal",
+      "Al Hilal’s Brazilian superstar Neymar is ‘currently in talks’ with Major League Soccer club Chicago Fire, according to reports in France."
+    ]
+  },
+  {
+    "headline": "Man Utd legend leaves post after being tipped for Tottenham job with Postecoglou set for sack",
     "tags": [
       "Man Utd"
     ],
-    "link": "https://www.manchestereveningnews.co.uk/sport/football/transfer-news/manchester-united-next-transfer-plans-31781531",
-    "image": null,
-    "date": null,
-    "source": "manchestereveningnews",
+    "link": "https://www.football365.com/news/tottenham-tipped-appoint-man-utd-carrick-leaves-middlesbrough-postecoglou-sack",
+    "image": "https://images.ps-aws.com/c?url=https%3A%2F%2Fd2x51gyc4ptf2q.cloudfront.net%2Fcontent%2Fuploads%2F2025%2F04%2F15085332%2FTwo-Images-Collage-2264-Angelos-Postecoglou-Daniel-Levy-638x358.jpg",
+    "date": "2025-06-04 12:45:17",
+    "source": "football365",
     "body": [
-      "Manchester United still look set to be busy in the transfer market following the signing of Matheus Cunha.",
-      "United signed Cunha last week to get their summer transfer business off to a quick start ahead of the 2025/26 season. United agreed to pay the £62.5million release clause in Cunha's contract at Wolves to bring the Brazilian to Old Trafford.",
-      "There now continues to be rumours and speculation about the business United will look to get over the line before the September 1 deadline. The transfer window is open for now, but will close on June 10 before reopening for the rest of the summer on June 16.",
-      "The report claims that United are still in the market for four new signings before the transfer window closes at the start of September. It has been reported United want to sign a new striker, winger, centre-back and a midfielder in the No.8 role.",
-      "Interestingly, it has been claimed that United want to sign the midfielder on loan rather than a permanent deal. No names are mentioned for the position that United may look to sign, although a host of players have already been linked.",
-      "United already have an interest in signing Brentford star Bryan Mbeumo, who would meet the requirements for the new winger. Mbeumo is understood to be keen on a move to Old Trafford, with the Bees thought to value the Cameroon international at around £60million.",
-      "A host of strikers have also been linked with signing for United, including Victor Osimhen and Viktor Gyokeres. United did have an interest in signing Liam Delap from Ipswich Town, but the striker appears poised to complete a £30million move to Chelsea instead.",
-      "When it comes to centre-back, though, there are yet to be any concrete rumours for specific targets at this stage of the transfer window."
-    ]
-  },
-  {
-    "headline": "Viktor Gyokeres response sparks Man United transfer worry ahead of huge decision",
-    "tags": [],
-    "link": "https://www.manchestereveningnews.co.uk/sport/football/transfer-news/viktor-gyokeres-response-sparks-man-31781695",
-    "image": null,
-    "date": null,
-    "source": "manchestereveningnews",
-    "body": [
-      "Viktor Gyokeres has dropped a subtle hint about his future amid ongoing transfer links with Manchester United. Ruben Amorim's side are understood to be in the market for a striker this summer and a reunion with the Sporting striker has been touted since the minute the head coach arrived at Old Trafford.",
-      "The Swedish international has become one of Europe's top strikers in recent years, with an impressive record of 95 goals in 100 matches since his transfer from Coventry City to Liga Portugal in July 2023.",
-      "Sporting's leading scorer this season has made a significant impact in the Portuguese top-flight, netting 39 goals and providing eight assists in 33 appearances. The 26-year-old has been a pivotal player in Rui Borges' team, helping Sporting secure another league title.",
-      "Now, in recent video doing the rounds on TikTok, Gyokeres drops a hint about his next potential club speaking to team-mate Leo Ostigard on FaceTime.",
-      "Ostigard said: “Viktor, great talking to you. Text me when everything is signed & sorted at Arsenal…” The Swede then responded: “Yeah, yeah, sure!”",
-      "While some on social media have interpreted Gyokeres' words to mean he will let Ostigard know when he joins Arsenal, his response is likely to mean it was great talking to him rather than updating his friend on what comes next for him.",
-      "Gyokeres has been strongly linked with a move to Old Trafford since the appointment of former head coach Amorim at M16 in November. The Reds are in dire need of a consistent goal scorer this summer, having only netted 42 times in the Premier League."
-    ]
-  },
-  {
-    "headline": "Rio Ferdinand reveals Bruno Fernandes text message after Man United transfer decision",
-    "tags": [
-      "Fernandes"
-    ],
-    "link": "https://www.manchestereveningnews.co.uk/sport/football/transfer-news/rio-ferdinand-reveals-bruno-fernandes-31781833",
-    "image": null,
-    "date": null,
-    "source": "manchestereveningnews",
-    "body": [
-      "Manchester United legend Rio Ferdinand could not his delight over Bruno Fernandes' decision to reject a lucrative move to Saudi Arabia, admitting that he might not have been able to show the restraint the captain has.",
-      "Fernandes, 30, is the focus of transfer interest from Al-Hilal, who want to make the United midfielder a marquee signing in time for the start of the upcoming FIFA Club World Cup. A huge financial package was claimed to have been presented in a bid to tempt Fernandes as his agent was spotted in the Gulf state.",
-      "\"Listen, I've got to be honest with you, I don't know if I could have said no. He's 30 years old, at a club that struggling,\" Ferdinand admitted, speaking on his YouTube channel, Rio Ferdinand Presents",
-      "The 46-year-old added that he had been in contact with Fernandes. \"Bruno's staying, our most potent goalscorer, our biggest provider, our biggest chance maker, he does a lot and our captain.",
-      "\"Has just lost in the Europa League final, has just finished in our worst position we've seen for years in the Premier League, in a team that needs a big lift in this recruitment window and needs a manager to get on his horse and start riding it.",
-      "\"And our biggest player, our captain, our talisman, has said no to Saudi where many other players would have said yes.",
-      "\"I couldn't have woken up this morning happier and I did message him. I won't go into the details of that but what a man.\"",
-      "United are open to player sales and Fernandes' exit could have fetched a handsome sum - especially from a Saudi buyer - but his decision is a boost for Amorim who knows the Portugal international will have a big role to play as the club look to improve on a terrible domestic campaign.",
-      "Fernandes l won the Sir Matt Busby Player of the Year award for a fourth time this season, joining David de Gea and Cristiano Ronaldo as the only other players who have won it on that many occasions.",
-      "With a contract running through to 2027 with an option to extend until 2028, he remains settled in Manchester with his family. It is also the perfect message to new signing Matheus Cunha and other potential arrivals."
-    ]
-  },
-  {
-    "headline": "How Man United can afford all their signings as £313m reason given for transfer splurge",
-    "tags": [],
-    "link": "https://www.manchestereveningnews.co.uk/sport/football/transfer-news/how-man-united-can-afford-31780104",
-    "image": null,
-    "date": "2025-06-03 17:15:00",
-    "source": "manchestereveningnews",
-    "body": [
-      "From the outside looking in the optics around Manchester United paying big money for new signings on the back of a dismal domestic season and no European football to look forward to look, at best, confusing.",
-      "Matheus Cunha arrived this past week from Wolverhampton Wanderers in a £62.5million five-year deal. Brentford’s Bryan Mbeumo is next on the hit list if reports are to be believed, with the Bees man valued at around £50m.",
-      "The noise heading into the summer was that United would have a £100m transfer fund to put to work in the event of no Champions League. The deals for both Cunha and Mbeumo would wipe that out and then some, with £112.5m worth of fees.",
-      "The deal for Cunha will be rubber-stamped at the end of this month when the Brazilian returns from international duty, and it will likely kick in from July 1, which is the start of a new financial year for United. The same will likely be the case for any Mbeumo deal, or indeed any other arrivals that the club has planned.",
-      "And Dave Powell, chief business of football writer at Reach PLC, has explained how the Reds will look to avoid breaching the Premier League's Profit and Sustainability Rules (PSR) while still being able to strengthen their squad.",
-      "“Manchester United made a pre-tax loss for the 2023/24 financial year of £130.7m,\" he said. \"In the three years up to and including 2023/24 they made combined losses of £313m, well above the £105m threshold when it comes to PSR. However, when taking into account allowable deductions, which include £35m of share sale costs related to the minority stake purchase by Sir Jim Ratcliffe in December 2023, the total comes to £170m, resulting in a net PSR position of minus £103m. That put United £2m under the PSR breach threshold for the 2024 period.",
-      "“In the current financial year the club has made some moves to reduce the cost base, including heavy redundancies of more than 250 staff and sending high earners out of the club, such as Marcus Rashford, Jadon Sancho and Antony out on loan with their wages covered to a large extent.",
-      "“The loss of £150m from 2021/22 will also drop off this cycle, and with the allowance for the share sale cost deductions still accounted for within the current assessment that means that provided United can stem losses beneath that eye-watering £150m figure then they should be compliant as long as they player trade.",
-      "“It is player trading that will be key. United will be looking to offload Tyrell Malacia, Alejandro Garnacho, Marcus Rashford, Jadon Sancho, Antony, Casemiro and potential others, with around £170m in transfer fees likely from such sales, with more than £100m of that profit, with a reduction in amortisation costs to come by the sales of some of those who arrived with big price tags.\"",
-      "Powell also explains how spreading the cost of signing players over several years is an effective way for United to pay some of the big fees needed to sign top talent.",
-      "“Reports claimed that Wolves had been playing hardball over when they would receive the cash from United for Cunha, and the same will likely occur in any deal with Brentford for Mbeumo,\" he explained. \"But United has strong cash flow and that isn’t major issue, with the guaranteed transfer fees accounted for through amortisation over a maximum of five years. Cunha’s fee would be amortised at £12.5m per year, while Mbeumo’s, if done, would be £10m.",
-      "“There won’t be much action after that until the needle moves with regards to player sales, and that will be the main point of focus for United’s recruitment team right now. They know they can afford to add players into the 2025/26 financial year, although with a stripped back budget due to a lack of European football, but they will only be doing more business as and when players leave.",
-      "“They won’t be able to be opportunistic in the market place until they give themselves some ammunition in the form of profit-making sales, and the lack of a deal with Chelsea for Sancho will have come as a major disappointment, although the £5m penalty pays for almost have of one year’s amortised cost for Cunha on the books.",
-      "“United still have the largest EBITDA (earnings before interest, taxes, depreciation and amortisation) in the Premier League, and revenues are the third highest in England’s top flight. The club also was recently valued as the second most valuable football club in the world by analysts at Football Benchmark. That keeps commercial partners and broadcasters interested, as does the global fan base.",
-      "“There will be a hole in the finances from the loss of the £23m in Europa League prize money from 2024/25 and an additional £28m in matchday revenue from the home games played at Old Trafford during the competition.",
-      "“But there will be confidence that player trading, like Chelsea have done in recent years, will solve the transfer issues for 2025/26, although it will still be a case of watching the margins when it comes to PSR. They have the assets to sell, though, they just need to find willing buyers.”"
+      "Middlesbrough have announced that they have ‘parted company’ with Michael Carrick amid claims the Man Utd legend could do the Tottenham job.",
+      "A report on Sunday insisted that the Spurs board have now ‘decided to sack’ Ange Postecoglou despite winning the Europa League after a dismal season in the Premier League.",
+      "By beating Man Utd 1-0 in the Europa League final last month, Tottenham qualified for next season’s Champions League – but the Spurs hierarchy have not forgotten about their 17th-placed finish in the Premier League.",
+      "There has been a lot of speculation as to who will replace Postecoglou with Brentford boss Thomas Frank one of the names linked the most.",
+      "But former Chelsea midfielder Joe Cole said earlier this week that Tottenham should appoint Carrick with Glenn Hoddle working above him at Spurs.",
+      "Cole told Paddy Power: “At Tottenham, Daniel Levy is running out of managerial candidates for the job. He’s gone big, he’s gone bold, and he’s gone off the beaten track, but none of them seem to have worked.",
+      "READ: Who will be the next manager of Tottenham after Postecoglou sack?",
+      "“Michael Carrick could be a good option for the manager’s job. An ex-Spurs player, who understands the club, would be quite nice.",
+      "“Also, I’d like to see Glenn Hoddle back at the club in some capacity. I know Tottenham fans would love to see him back and he’s got the best football brain I know.",
+      "“I’d love to see Glenn Hoddle back in the club in some capacity, maybe supporting Michael Carrick. The club needs bringing together because it was really torn at times last season.”",
+      "And now that Middlesbrough – who finished 10th in the Championship this season – have sacked Carrick maybe the stars are aligning for a return to Tottenham as manager, or probably not.",
+      "MORE SPURS COVERAGE ON F365…\n👉 Tottenham have ‘concrete interest’ in UCL finalist with defender ‘well within reach’\n👉 Tottenham job ‘appealing’ to Prem boss as ‘big-six’ lure hits minnows twice in one week\n👉 Tottenham consider ‘high-profile departure’ of icon just months after new contract",
+      "A statement on the Middlesbrough website read: ‘Middlesbrough Football Club has today parted company with head coach Michael Carrick.",
+      "‘Michael’s assistants Jonathan Woodgate and Graeme Carrick have also departed the club.",
+      "‘We’d like thank Michael, Jonathan, and Graeme for all their hard work and unwavering commitment. We wish them all the very best for the future.",
+      "‘The club will be making no further comment at this stage.’",
+      "Football Insider have a more realistic idea of who could be in charge of Spurs next season with the website claiming Brentford have ‘set their sights on appointing Kieran McKenna if Thomas Frank quits to join Tottenham’.",
+      "It is understood that there are ‘growing fears’ that Frank will leave to replace Postecoglou in north London after emerging as Spurs’ ‘number one choice’.",
+      "Taking the Tottenham job once Ange Postecoglou is dismissed is reportedly ‘appealing’ to a Premier League manager given their ‘big-six’ status, after another big name at his club decided on ...",
+      "Tottenham should appoint Man Utd legend Michael Carrick to succeed Ange Postecoglou as Spurs manager, according to ex-Chelsea midfielder Joe Cole.",
+      "Ange Postecoglou appears to be done for despite that Europa League win, so who will be the next manager of Tottenham? Thomas Frank is now clear favourite.",
+      "According to reports, Tottenham Hotspur have ‘decided to sack’ head coach Ange Postecoglou and there is a ‘leading’ target to replace him.",
+      "The sacking of Ange Postecoglou is reportedly being ‘anticipated’ in some quarters, with the final decision coming on his future ‘next week’.",
+      "The chance of Ange Postecoglou staying at Tottenham has reportedly ‘gone down’ from ‘five per cent’ as it’s been explained his departure is still ‘expected’."
     ]
   },
   {
@@ -1126,7 +1239,7 @@
       "Garnacho"
     ],
     "link": "https://www.football365.com/news/man-utd-napoli-plot-martinez-transfer-garnacho-mctominay",
-    "image": "https://images.ps-aws.com/c?url=https%3A%2F%2Fd2x51gyc4ptf2q.cloudfront.net%2Fcontent%2Fuploads%2F2025%2F06%2F04122718%2FScott-McTominay-Napoli-F365-1-1320x742.jpg",
+    "image": "https://images.ps-aws.com/c?url=https%3A%2F%2Fd2x51gyc4ptf2q.cloudfront.net%2Fcontent%2Fuploads%2F2025%2F06%2F04122718%2FScott-McTominay-Napoli-F365-1-638x358.jpg",
     "date": "2025-06-04 12:11:01",
     "source": "football365",
     "body": [
@@ -1234,7 +1347,7 @@
       "Rashford"
     ],
     "link": "https://www.football365.com/news/bruno-fernandes-marcus-rashford-man-united-transfer-blow-surprise-mediawatch",
-    "image": "https://images.ps-aws.com/c?url=https%3A%2F%2Fd2x51gyc4ptf2q.cloudfront.net%2Fcontent%2Fuploads%2F2024%2F05%2F21103414%2FMan-Utd-Rashford-Fernandes-638x358.jpg",
+    "image": "https://www.football365.com/content/themes/f365-sportsui/img/png/placeholder.png",
     "date": "2025-06-04 10:52:29",
     "source": "football365",
     "body": [
@@ -1306,7 +1419,7 @@
       "Premier League"
     ],
     "link": "https://www.football365.com/news/man-utd-jadon-sancho-stunning-swap-deal-west-ham-kudus",
-    "image": "https://images.ps-aws.com/c?url=https%3A%2F%2Fd2x51gyc4ptf2q.cloudfront.net%2Fcontent%2Fuploads%2F2025%2F06%2F04103608%2FF365-Two-Badges-Jadon-Sancho-Mohammed-Kudus-Manchester-United-West-Ham-638x358.jpg",
+    "image": "https://www.football365.com/content/themes/f365-sportsui/img/png/placeholder.png",
     "date": "2025-06-04 09:57:13",
     "source": "football365",
     "body": [
@@ -2407,82 +2520,6 @@
     ]
   },
   {
-    "headline": "Man Utd face ‘silly’ tax over Mbeumo transfer after ‘irritating’ rivals who ‘may ask for a higher fee’",
-    "tags": [
-      "Man Utd"
-    ],
-    "link": "https://www.football365.com/news/man-utd-face-silly-tax-mbeumo-transfer-brenford-irritated-higher-fee",
-    "image": "https://www.football365.com/content/themes/f365-sportsui/img/png/placeholder.png",
-    "date": "2025-06-03 09:41:48",
-    "source": "football365",
-    "body": [
-      "Man Utd could now have to pay more for Bryan Mbeumo this summer after Brentford have become ‘irritated’ by their Premier League rivals, according to reports.",
-      "The Red Devils had a terrible season in the Premier League in 2024/25 with Ruben Amorim’s men finishing 15th in the table.",
-      "Despite their poor league form, Man Utd had a chance to qualify for the Champions League against Tottenham in the Europa League final – but Ange Postecoglou’s side beat the Red Devils 1-0 last month.",
-      "And now Amorim will have to manage with a reduced budget in the summer transfer window and there will be a big focus on players leaving to help supplement their initial kitty.",
-      "There are rumours that their initial budget was £100m, with £62.5m of that used to sign Wolves forward Matheus Cunha, and now they are looking to bring in Mbeumo from Brentford in order to help spark their attack next term.",
-      "The Athletic‘s David Ornstein broke the news on Monday evening by insisting that Mbeumo has ‘decided he wants to join’ Man Utd this summer with the Red Devils ‘set to open talks with Brentford as they pursue an agreement to sign the forward this summer’.",
-      "READ: Man Utd signing £365m Premier League sextet now inevitable after Cunha, Mbeumo transfers",
-      "Sky Germany reporter Florian Plettenberg chimed in with an update on Tuesday with Man Utd said to be ‘optimistic’ that a transfer would go through.",
-      "Plettenberg wrote on X: ‘Manchester United want to start negotiations with Brentford shortly in order to finalise the deal for Bryan #Mbeumo. The player has already given his approval. Verbal agreement is done.",
-      "‘#MUFC are optimistic that the transfer will go through. It would be their second statement signing in attack after Matheus Cunha.’",
-      "And now a report in the Daily Telegraph claims that Brentford ‘may ask for a higher fee’ as the Premier League side have ‘had no contact with United over Mbeumo and have, as yet, not even quoted a transfer value to potential suitors’.",
-      "There is now an ‘irritation’ from the Bees ‘as to how the potential deal is now apparently being played out in public’ with one source telling the Daily Telegraph that it would ‘all look a bit silly’ for Man Utd if they couldn’t now agree a fee with Brentford.",
-      "Former Man Utd strikers Dwight Yorke and Teddy Sheringham reckons Cunha and Mbeumo can fit in the same side together under Amorim.",
-      "Yorke said:  “Cunha is a good player. I like him. I like the look of him from his time at Wolves. He will bring some grit and some decisiveness, and a little bit more conviction in the attacking areas, and a greater presence. He’s got a little bit of fire in his belly which is what we need. I like that about him.",
-      "“I rate Mbeumo too. He has had an exceptional season this year.  I like Liam Delap too, the lad at Ipswich. I know people talk about him a lot as well.",
-      "“These are three good players, and that’s what United need. They need exceptional players to take the club forward. I’m less sure about Mbeumo and Delap, but Cunha has a little bit more about him. He’s the kind of player I want to watch at United, he’s more exciting.",
-      "“Having said that, all three of them are better than the current options up front.”",
-      "Sheringham added: “Yeah, I think they could fit into the same side. They’re both outstanding players.",
-      "“They’re the type of players that Manchester United need to be signing. They’re both players that have that bit between their teeth that want to make a difference. I think those, both those players have that in their game and that is what the current United side is missing.",
-      "“The difference between Mbeumo and United’s other players is that they’re playing at their peak. I don’t think you can say the same for the players at Old Trafford. I like Amad Diallo and Alejandro Garnacho, but I think Cunha and Mbeumo are playing better football at their respective clubs.”",
-      "Man Utd used to sign the ‘best’ players from Premier League rivals; moves for Matheus Cunha and Bryan Mbeumo suggest a welcome return of that ‘policy’.",
-      "Manchester United have reportedly been told that they must match the fee paid for Matheus Cunha to land a Premier League star who is ‘more proven’ than the Brazilian.",
-      "Man Utd are set ‘to open talks’ with Brentford star Bryan Mbeumo, who ‘has decided he wants to join’ the Red Devils, according to David Ornstein.",
-      "According to reports, Newcastle United have “everything in place” as they look to finalise deals to land their two ‘top targets’ this summer.",
-      "Man Utd are making moves for two more Premier League stars after closing in on a deal for Wolves forward Matheus Cunha, according to reports.",
-      "Manchester United have ‘presented an offer’ of £55m to sign the ‘fantastic’ winger and the Premier League club are ‘open’ to his sale this summer."
-    ]
-  },
-  {
-    "headline": "Man Utd signing £365m Premier League sextet now inevitable after Cunha, Mbeumo transfers",
-    "tags": [
-      "Man Utd",
-      "Premier League"
-    ],
-    "link": "https://www.football365.com/news/man-utd-transfers-365m-pl-sextet-inevitable-cunha-mbeumo-feature",
-    "image": "https://www.football365.com/content/themes/f365-sportsui/img/png/placeholder.png",
-    "date": "2025-06-03 09:00:51",
-    "source": "football365",
-    "body": [
-      "After David Ornstein broke the news that Bryan Mbeumo looks set to reject Newcastle and other far better football teams to sign for Manchester United, on the back of Matheus Cunha also deciding that Old Trafford is the place for him next season, we assume the Red Devils are going to continue plucking the best player from their Premier League rivals to fill problem positions in Ruben Amorim’s squad this summer.",
-      "These six players, like Mbeumo and Cunha, achieved the top average WhoScored rating for their clubs in the 2023/24 season ahead of a move to United that’s now inevitable. We’ve included their reported asking prices, which may admittedly be a problem.",
-      "",
-      "Jarrod Bowen (West Ham): £75m\nThe poor b*astard’s probably locked in now having married the daughter of arguably the most famous Hammer around, but Bowen’s unbelievable goal against Nottingham Forest in the penultimate game of the season was a reminder of the quality that goes under our and Thomas Tuchel’s radar because he plays for a terrible West Ham.",
-      "We can’t imagine too many players more willing to do the hard pressing yards in one of those two No.10 positions in Amorim’s system than Bowen, who’s also proved himself perfectly capable of playing down the middle when required.",
-      "",
-      "Antonee Robinson (Fulham): £40m\nHe was rumoured to be in the running to be the long-term replacement for Andy Robertson at Liverpool before Milos Kerkez emerged as the clear favourite, and reports of an exit have gone a bit quiet since, which suggests United would have a relatively clear path to sign him if they pushed.",
-      "And we we can’t see Robinson turning them down, with the old It’s Manchester United history, legacy schtick surely enough to prise him from a mid-table perennial without European football and – let’s face it – little chance of that ever changing.",
-      "Left wing-back Patrick Dorgu is Ruben Amorim’s only signing thus far, joining from Lecce for £25m, but from what we’ve seen of him, Robinson – who got 10 Premier League assists this term – would be a massive upgrade.",
-      "",
-      "Daniel Munoz (Crystal Palace): £25m\nThat’s a release clause apparently, which feels very low for someone who made more Premier League tackles (123) than anyone but Idrissa Gueye (133) last season and created more chances (46) than any Manchester United player except Bruno Fernandes (91) and Amad Diallo (49), and particularly low with a view to signing him for Amorim’s system, the very same system as he’s been flying down the wing in for Crystal Palace under Oliver Glasner.",
-      "",
-      "Kaoru Mitoma (Brighton): £80m\nBayern Munich are supposedly keen and we’re sure Liverpool and Arsenal – both of whom have been linked with Mitoma – wouldn’t stand idly by and give United a free shot at the Japan international if they get wind of Brighton’s willingness to sell him. Perhaps the most unlikely of all.",
-      "",
-      "Antoine Semenyo (Bournemouth): £75m\nAmorim is supposedly a big fan and so are we, but that’s a lot of money for a player we’re not entirely convinced isn’t just specifically brilliant for Bournemouth under Andoni Iraola.",
-      "",
-      "Murillo (Nottingham Forest): £70m\nWe’re guessing the Brazilian is the player Nuno Espírito Santo is most concerned about losing this summer along with Morgan Gibbs-White. It will be a travesty if Murillo isn’t playing Champions League football within the next couple of seasons and, like everyone else, he presumably now thinks that Forest have missed their opportunity.",
-      "That probably won’t happen at United either, less likely if anything, but it would be a better spot from which to catch a genuine giant’s eye, if indeed Real Madrid or another behemoth don’t come in for him this summer.",
-      "He could play in any one of the three centre-back roles at United and would be comfortably the best option in all of them.",
-      "According to reports, Ruben Amorim has ‘approved’ a ‘perfect player’ for Manchester United, who have been ‘set’ a ‘hefty’ demand for another target.",
-      "Manchester United will be forced to pay more than last reported for the signing of a Premier League winger, whose club want an ‘auction’ to pump up his price.",
-      "According to reports, Manchester United are ‘preparing a massive outlay’ to ‘secure’ three Premier League stars as ‘key signings’ this summer.",
-      "According to reports, two exits would open the door for Liverpool to sign Antoine Semenyo from Premier League rivals AFC Bournemouth.",
-      "Respected journalist David Ornstein ruled out one signing for Manchester United when discussing their summer transfer priorities.",
-      "Man Utd boss Ruben Amorim is pushing the Red Devils towards signing Bournemouth winger Antoine Semenyo this summer, according to reports."
-    ]
-  },
-  {
     "headline": "Man Utd make initial contact with Brentford over Mbeumo",
     "tags": [
       "Man Utd"
@@ -2520,9 +2557,10 @@
     ]
   },
   {
-    "headline": "New-look attack? How Cunha, Mbeumo and Bruno news impacts Man Utd",
+    "headline": "How could Mbeumo, Cunha and Fernandes fit into Amorim's system?",
     "tags": [
-      "Man Utd"
+      "Amorim",
+      "Fernandes"
     ],
     "link": "https://www.skysports.com/football/news/33694/13378633/man-utd-transfers-how-could-bryan-mbeumo-matheus-cunha-and-bruno-fernandes-fit-into-ruben-amorims-system-next-season",
     "image": "https://e0.365dm.com/25/06/768x432/skysports-man-utd-cunha-mbeumo_6933811.jpg?20250603144159",
@@ -2530,7 +2568,7 @@
     "source": "skysports",
     "body": [
       "Man Utd have made a quick and assertive start to the summer transfer window by signing Matheus Cunha, approaching Brentford for Bryan Mbeumo, while Bruno Fernandes has turned down a move to Saudi Arabia; how could all three fit into Ruben Amorim's team next season?",
-      "Wednesday 4 June 2025 12:40, UK",
+      "Wednesday 4 June 2025 14:03, UK",
       "Manchester United's road back has begun.",
       "For all the disappointment of last season's 15th place finish and no trophies to soften the blow, there have been some early - albeit minor wins - off the pitch.",
       "Matheus Cunha's move from Wolves has been announced. But the forward is not the only attacking talent still keen for Ruben Amorim's project. Bryan Mbeumo's decision to pursue an Old Trafford move from Brentford - despite other elite clubs in the running - is a positive sign.",
