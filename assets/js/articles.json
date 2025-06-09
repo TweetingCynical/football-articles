@@ -1,11 +1,38 @@
 [
   {
+    "headline": "Bruno Fernandes delivers pointed five-word message after putting Man Utd misery behind him",
+    "tags": [
+      "Man Utd",
+      "Fernandes",
+      "LIVE"
+    ],
+    "link": "https://www.mirror.co.uk/sport/football/news/bruno-fernandes-man-utd-portugal-35358660",
+    "image": null,
+    "date": null,
+    "source": "mirror",
+    "body": [
+      "Manchester United skipper Bruno Fernandes admitted \"winning for Portugal is different\" as he put his club's difficult season behind him by winning the Nations League on Sunday night. Fernandes played 57 games in all competitions for United this campaign.",
+      "It was a miserable year for the Red Devils as they finished 15th in the Premier League and failed to win a major trophy. Fernandes captained United in all of his appearances and even held talks over a potential exit earlier this summer.",
+      "Instead the midfielder has decided to stay at Old Trafford for the foreseeable future. Fernandes has moved his focus to international duty, where Portugal were featuring in the Nations League finals.",
+      "They beat hosts Germany in the semi-finals to set up a date with bitter rivals Spain in Sunday's final. Fernandes started at the Allianz Arena, taking over the armband after Cristiano Ronaldo was substituted off.",
+      "The United star then stepped up to score a crucial penalty in the shootout which Portugal won to lift the trophy. And Fernandes has insisted the win has helped him put United's dreadful campaign behind him.",
+      "“I’m going to celebrate with my teammates and my family. It’s a special moment for everyone. Winning for Portugal is different. It’s for our family, for our people, for the country, for our people,\" he said",
+      "\"Once again, the wave of red that I saw so much on social media was there and made us feel like we were playing at home. Thank you very much for all the support, it was excellent. We felt it, from start to finish, from the moment we got to the end.",
+      "“Everything we did during the game helped us win. We knew we were going up against a great team, and at the same time we knew we were a team of the same level. We knew Spain’s qualities, we were very aggressive when losing the ball, which was very important.\"",
+      "Fernandes pinpointed Portugal's 'individual talent' as the reason for their historic win, their first in a competitive match against Spain since Euro 2004. In particular, he singled out Paris Saint-Germain left-back Nuno Mendes, keeper Diogo Costa and midfielder Ruben Neves.",
+      "\"We had individual talent on our side, such as Nuno [Mendes] , our left-sided player, who ended up running over everyone and ended up giving us two moments of great joy, with his runs,\" he added.",
+      "\"Individual talent is what makes you win the game, like Diogo Costa’s save and Rúben Neves’ penalty. We don’t need to be favourites. That’s up to the person who says it, there will always be those who say that some are favourites, others will say that others are.",
+      "\"That doesn’t matter to us. We, the Portuguese, go out there to win, whatever it is, whoever is ahead of us. We want to win every game. Sometimes it’s possible, sometimes it’s not.",
+      "\"Sometimes we play better, sometimes we play worse. But we always give everything on the pitch and with the knowledge that we are capable of beating any team, at any time.\""
+    ]
+  },
+  {
     "headline": "Jadon Sancho left sweating on Chelsea transfer as perfect Man Utd option emerges",
     "tags": [
       "Man Utd"
     ],
     "link": "https://www.mirror.co.uk/sport/football/news/jadon-sancho-chelsea-man-utd-35358487",
-    "image": null,
+    "image": "https://i2-prod.mirror.co.uk/incoming/article35358485.ece/ALTERNATES/n615/0_GettyImages-2218082146.jpg",
     "date": null,
     "source": "mirror",
     "body": [
@@ -56,7 +83,7 @@
       "Man Utd"
     ],
     "link": "https://www.mirror.co.uk/sport/football/news/man-utd-transfer-maxi-oyedele-35357182",
-    "image": "https://i2-prod.mirror.co.uk/incoming/article35357201.ece/ALTERNATES/n615/0_GettyImages-2216114279-1.jpg",
+    "image": null,
     "date": null,
     "source": "mirror",
     "body": [
@@ -80,7 +107,7 @@
       "Man Utd"
     ],
     "link": "https://www.mirror.co.uk/sport/football/transfer-news/man-utd-transfer-gianliuigi-donnarumma-35357705",
-    "image": null,
+    "image": "https://i2-prod.mirror.co.uk/incoming/article35357698.ece/ALTERNATES/n615/0_GettyImages-2217535045.jpg",
     "date": null,
     "source": "mirror",
     "body": [
@@ -253,7 +280,7 @@
       "Gary Neville"
     ],
     "link": "https://www.mirror.co.uk/sport/football/news/gary-neville-manchester-united-liverpool-35336348",
-    "image": "https://i2-prod.mirror.co.uk/incoming/article35356047.ece/ALTERNATES/n615/0_Untitled-1.jpg",
+    "image": null,
     "date": null,
     "source": "mirror",
     "body": [
@@ -279,7 +306,7 @@
       "Mourinho"
     ],
     "link": "https://www.mirror.co.uk/sport/football/transfer-news/jose-mourinho-man-utd-guardiola-35355857",
-    "image": null,
+    "image": "https://i2-prod.mirror.co.uk/incoming/article35355867.ece/ALTERNATES/n615/0_JS370580157.jpg",
     "date": null,
     "source": "mirror",
     "body": [
@@ -302,7 +329,7 @@
       "Man Utd"
     ],
     "link": "https://www.mirror.co.uk/sport/football/transfer-news/man-utd-targets-osimhen-kean-35355786",
-    "image": "https://i2-prod.dailystar.co.uk/sport/football/article35310734.ece/ALTERNATES/n615/0_GettyImages-2216335805.jpg",
+    "image": null,
     "date": null,
     "source": "mirror",
     "body": [
@@ -335,6 +362,9 @@
       "Alejandro Garnacho is on his way out of Old Trafford, but United need a buyer. The same is true of Jadon Sancho and Marcus Rashford too.",
       "Manchester City and Chelsea both have Club World Cup commitments coming up swiftly and are looking to complete deals before heading off to America. City will tie up the signing of Rayan Ait Nouri today, AC Milan's Tiijani Reijnders is almost through the door too, while Chelsea are pushing to sign Jamie Gittens from Borussia Dortmund, after agreeing personal terms.",
       "At Arsenal, decisions are being made over their choice of striker, with Benjamin Sesko understood to be leading the way in the club's thinking, over Viktor Gyokeres. But the Gunners have hit problems with their move for Martin Zubimendi, with that deal now in some trouble.",
+      "The first transfer window of the summer closes tomorrow at 19.00 BST, ahead of the start of the Club World Cup.",
+      "The window will be closed for every team, not just the 32 clubs competing in the United States.",
+      "It will then reopen on 16 June, before closing on 1 September at 19:00 BST for Premier League, EFL and Scottish Premiership clubs.",
       "Randal Kolo Muani has insisted he wants to make a permanent return to Juventus after a successful loan move from Paris Saint-Germain.",
       "\"I'm very happy to have been able to play a little more, whether for the national team or for my club,\" he said.",
       "\"I'm very happy at Juventus, I hope to continue there. They welcomed me well, and I'm enjoying it. I'm going with them to the Club World Cup.\"",
@@ -407,8 +437,7 @@
       "I'm looking forward to going on a summer vacation, and then I'm fully dedicated to the project that's underway... continue",
       "Tottenham are without a boss but are looking to strengthen their defence this summer. Reports in Italy claim Spurs are leading the race to sign Inter Milan defender Yann Bisseck.",
       "The Serie A side are thought to be ready to cash in on Bisseck and Aston Villa, West Ham and Manchester United are also said to be interested.",
-      "Tuttosport reckon Spurs are in pole position to make a deal and that Radu Dragusin could be offered in a part-exchange deal.",
-      "Louis van Gaal has told Manchester United they must empower Ruben Amorim in a manner that replicates Arne Slot's position at Liverpool. The ex-Red Devils boss slammed United's approach to transfers."
+      "Tuttosport reckon Spurs are in pole position to make a deal and that Radu Dragusin could be offered in a part-exchange deal."
     ]
   },
   {
@@ -443,7 +472,7 @@
       "Transfer News"
     ],
     "link": "https://www.mirror.co.uk/sport/football/transfer-news/man-utd-transfer-news-gyokeres-35354154",
-    "image": null,
+    "image": "https://i2-prod.mirror.co.uk/incoming/article35354228.ece/ALTERNATES/n615/0_GettyImages-2216342101.jpg",
     "date": null,
     "source": "mirror",
     "body": [
@@ -497,7 +526,7 @@
       "Garnacho"
     ],
     "link": "https://www.mirror.co.uk/sport/football/transfer-news/alejandro-garnacho-manchester-united-transfers-35354125",
-    "image": "https://i2-prod.mirror.co.uk/incoming/article35354110.ece/ALTERNATES/n615/0_GettyImages-2217939574.jpg",
+    "image": null,
     "date": null,
     "source": "mirror",
     "body": [
@@ -537,30 +566,6 @@
       "Speaking about Mbeumo's future earlier this month, Frank said: \"It is clear that if he is to be sold, it must be for a nice, nice amount. It is a lot. Really a lot. Then it is clear that it is impossible to replace him one for one. It cannot be done. There is a reason why he costs x number of million pounds, and we do not have x number of million pounds to buy for.\"",
       "He added: \"I would say that I would be surprised if a lot of big clubs don't look at him. I would be surprised with what he has to offer.",
       "\"How many wingers score 20 goals for a mid-table club? And then with seven assists plus his work ethic. And his character. All these things mean that he has a lot, so he is a good player.”"
-    ]
-  },
-  {
-    "headline": "Anthony Elanga reveals 'Newcastle phone call' as ex-Man Utd star emerges as £50m target",
-    "tags": [
-      "Man Utd"
-    ],
-    "link": "https://www.mirror.co.uk/sport/football/transfer-news/anthony-elanga-newcastle-transfer-manutd-35354826",
-    "image": null,
-    "date": null,
-    "source": "mirror",
-    "body": [
-      "Anthony Elanga admitted he'd received a phone call from Newcastle United striker Alexander Isak... but joked it was concerning his errant shooting on international duty. The Nottingham Forest winger had been linked with interest from the Magpies ahead of Sweden's match against Hungary.",
-      "The Swedes came away 2-0 victors without the help of Newcastle star Isak, who pulled out of the squad through injury, as Elanga put in a starring performance but failed to get on the scoresheet. Benjamin Nygren and Yasin Ayari secured the victory for Jon Dahl Tomasson's team away from home.",
-      "Elanga scored six goals and provided 11 assists as Nottingham Forest qualified for the UEFA Conference League, after looking set for Champions League competition following a strong start to the season. The former Manchester United ace was a key member of Nuno Espirito Santo's team throughout 2024/25 in his second season with the club.",
-      "Newcastle are said to have enquired over a deal for Elanga, who has three years remaining on his contract with Forest. Last summer saw the Premier League's fifth-placed side make a late £35million bid for the Swede but never came close to making a deal.",
-      "And Eddie Howe appears keen to rest the Midlands side's resolve once again, with Newcastle able to offer Champions League football. However, it is reported it would take a figure greater than £50m to find success.",
-      "Elanga appears relaxed over such speculation. “ There is a lot of talk,\" he said, per Sport Witness.",
-      "\"I focus on what I can do and my focus today was on the match. In football there are always rumours. The most important thing is that I focus on what I can control.”",
-      "“I guess there will always be scouts wherever I play,\" he added. \"As long as I stay focused and do my best in the match.",
-      "\"I just keep my focus and what I can control. That’s what I can do on and off the field. I focus on the next day and action. That’s what I can do.\"",
-      "Elanga was asked if he'd received a call from Isak and admitted his international team-mate had made an attempt. But joked it was likely about his shooting performance on Friday night.",
-      "\"He must have tried to call me about the match, that I should have scored,\" he said.",
-      "Sky will show at least 215 live Premier League games next season, an increase of up to 100 more."
     ]
   },
   {
@@ -683,14 +688,14 @@
     ]
   },
   {
-    "headline": "Man United transfer news LIVE - Viktor Gyokeres 'talks', Bryan Mbeumo fight, Victor Osimhen twist",
+    "headline": "Man United transfer news LIVE - Viktor Gyokeres twist, Bryan Mbeumo fight, Victor Osimhen decision",
     "tags": [
       "Transfer News",
       "LIVE"
     ],
     "link": "https://www.manchestereveningnews.co.uk/sport/football/transfer-news/man-united-transfer-news-live-31783162",
     "image": null,
-    "date": "2025-06-09 08:10:00",
+    "date": "2025-06-09 09:09:00",
     "source": "manchestereveningnews",
     "body": [
       "Hello and welcome back to the Manchester United transfer blog on Monday, June 9.",
@@ -701,6 +706,15 @@
       "Elsewhere, United have been linked with an interest in Aston Villa goalkeeper Emiliano Martinez, whose future at Villa Park looks uncertain. At the other end of the pitch, there has also been links with strikers Viktor Gyokeres and Victor Osimhen, although United face plenty of competition for the duo.",
       "There is also a lot of talk about potential exits. Marcus Rashford, Jadon Sancho and Antony are all expected to leave the club before the end of the summer. There has also been talk of exits for Alejandro Garnacho and Kobbie Mainoo, with the former gaining interest from Chelsea in the January window.",
       "Stay tuned to all the latest news from United's summer transfer window below...",
+      "There is yet more competition for United linked Sporting CP striker Viktor Gyokeres this summer, with Saudi side Al-Hilal now reportedly identifying him as a target.",
+      "According to Foot Mercato, Gyokeres is a priority target for Al-Hilal this summer with the club actively following the player.",
+      "The Saudi side have been attempting to make a move for victor Osimhen, but the latest reports say that the striker has followed in the footsteps of Bruno Fernandes and turned down a move.",
+      "That has caused Al-Hilal to move onto other options, including Gyokeres.",
+      "United's Jadon Sancho is also mentioned as a potential option for the club.",
+      "United have been linked with a move for PSG goalkeeper Donnarumma this summer, and the player himself has not done much to quell rumours over his future.",
+      "The 26-year-old will have just a year left on his contract with PSG this summer, with it said that the Champions League winners have made a take-it-or-leave-it offer over a new deal.",
+      "Speaking following the Champions League final win over Inter, Donnarumma said:",
+      "“New deal or leaving? We will see what happens… I don't know.\"",
       "The managerial merry-go-round has already started this summer, and it's reported that former United coach Kieran McKenna could be part of it.",
       "The latest edition may have started with Tottenham's decision to sack Ange Postecoglou on Friday. Spurs have been heavily linked with Brentford manager Thomas Frank as a replacement, this is where McKenna comes in, with the now Ipswich Town boss said to be of interest to the Bees if they lose Frank.",
       "The former United man couldn't save the Tractor Boys from relegation back to the Championship this season, but has earned praise for the job he has done at Portman Road.",
@@ -795,13 +809,7 @@
       "Make sure to come back tomorrow when our dedicated writers shall be bringing you more updates from United.",
       "In a potential twist to United's summer plans, The Mirror understands that Thomas Frank would want Spurs to challenge for Mbeumo if he became their manager.",
       "It is believed that Frank would want Tottenham to bid around £60m to bring the winger to north London with him.",
-      "MEN Sport understands that United remain the favourites to sign Mbeumo with the forward keen to move to Old Trafford.",
-      "According to The Mirror, there is an expectation at Sporting that Gyokeres will choose a move to Arsenal over United if the two clubs are offered to him.",
-      "There is a belief that Arsenal's appearance in the Champions League next season will count for more when push comes to shove.",
-      "Sporting are believed to be ready to sell Gyokeres should a bid of just over £60m come in for him.",
-      "According to Tutto Mercato, United hold an interest in Fiorentina striker and former Everton man Moise Kean.",
-      "It is claimed that United have been monitoring the 25-year-old for months and would be keen to add the Italian to their squad.",
-      "This season Kean, who scored just four times in 39 appearances for Everton, has bagged 25 goals across all competitions including 19 in Serie A."
+      "MEN Sport understands that United remain the favourites to sign Mbeumo with the forward keen to move to Old Trafford."
     ]
   },
   {
@@ -1155,10 +1163,40 @@
     ]
   },
   {
+    "headline": "Ruben Amorim makes decision on selling injured Man Utd star amid interest from Napoli",
+    "tags": [
+      "Man Utd",
+      "Amorim"
+    ],
+    "link": "https://www.football365.com/news/man-utd-amorim-makes-decision-sell-injured-martinez-napoli",
+    "image": "https://images.ps-aws.com/c?url=https%3A%2F%2Fd2x51gyc4ptf2q.cloudfront.net%2Fcontent%2Fuploads%2F2025%2F05%2F23133544%2FManchester-United-coach-Ruben-Amorim-1320x742.jpg",
+    "date": "2025-06-09 07:28:37",
+    "source": "football365",
+    "body": [
+      "Ruben Amorim has made his decision on whether to sell Man Utd defender Lisandro Martinez this summer, according to reports.",
+      "The Red Devils are looking to overhaul parts of their squad over the summer after a nightmare 2024/25 season under Amorim, who replaced Erik ten Hag in November.",
+      "Amorim struggled to get the right results and performances out of his players as he implemented a new system and style of play at Old Trafford.",
+      "And now INEOS and Sir Jim Ratcliffe are looking to do everything they can to provide the Man Utd boss with the tools he needs to make his way of playing successful.",
+      "Matheus Cunha has already arrived from Wolves in a deal worth £62.5m, while they have also made two bids for Brentford forward Bryan Mbeumo.",
+      "But Man Utd will have to sell some players too in order to bring in everyone they want with a number of players set for moves away from Old Trafford.",
+      "READ: Transfer rumour power ranking: Man Utd striker boost as Arsenal targets climb",
+      "Martinez has been linked with a move to Serie A champions Napoli, as well as Alejandro Garnacho, and now Amorim has made a decision on whether to keep the injured star or not.",
+      "The Argentina international suffered a cruciate ligament injury in February and hasn’t played for Man Utd since, while it’s unlikely the centre-back will be available for the start of next season.",
+      "‘Neither Martinez nor United will take any unnecessary risks with integrating him back into the group and the player will not return until he is completely happy with his recovery and in peak physical condition.’",
+      "The Man Utd defender is ‘considered one of the group’s leaders internally at Carrington’ and Martinez is ‘committed’ to the Red Devils despite interest from clubs in the Champions League.",
+      "Man Utd have ‘made contact’ with Sporting over a move for Viktor Gyokeres as Ruben Amorim is ‘poised to win the battle’ for the £59m striker.",
+      "Serie A champions Napoli are interested in signing Man Utd centre-back Lisandro Martinez this summer as well as Alejandro Garnacho, according to reports.",
+      "Former Man Utd defender Danny Higginbotham has warned Ruben Amorim he will be judged next season if results do not pick up.",
+      "Bruno Fernandes has revealed that a request from Manchester United manager Ruben Amorim was one of the main factors in him rejecting a move to Al Hilal.",
+      "Football pundit Martin Keown has questioned the viability of head coach Ruben Amorim at Manchester United and come up with an absolutely bananas suggestion for a replacement.",
+      "Mikael Silvestre has given his verdict on what needs to happen next with Man Utd manager Ruben Amorim and captain Bruno Fernandes."
+    ]
+  },
+  {
     "headline": "The 20 most expensive midfielders ever: absurd £316.8m Chelsea quadruple splurge included",
     "tags": [],
     "link": "https://www.football365.com/news/20-most-expensive-midfielders-ever-transfer-history",
-    "image": "https://images.ps-aws.com/c?url=https%3A%2F%2Fd2x51gyc4ptf2q.cloudfront.net%2Fcontent%2Fuploads%2F2025%2F06%2F04103536%2FMan-Utd-midfielder-Paul-Pogba-Spurs-player-Tanguy-Ndombele-and-Declan-Rice-of-Arsenal-1320x742.jpg",
+    "image": "https://images.ps-aws.com/c?url=https%3A%2F%2Fd2x51gyc4ptf2q.cloudfront.net%2Fcontent%2Fuploads%2F2025%2F06%2F04103536%2FMan-Utd-midfielder-Paul-Pogba-Spurs-player-Tanguy-Ndombele-and-Declan-Rice-of-Arsenal-638x358.jpg",
     "date": "2025-06-09 06:00:22",
     "source": "football365",
     "body": [
@@ -1431,7 +1469,7 @@
       "Man Utd"
     ],
     "link": "https://www.football365.com/news/man-utd-flop-hojlund-vows-stay-transfer-listed-reports",
-    "image": "https://images.ps-aws.com/c?url=https%3A%2F%2Fd2x51gyc4ptf2q.cloudfront.net%2Fcontent%2Fuploads%2F2025%2F06%2F07120315%2F2YDP9KD-1-638x358.jpg",
+    "image": "https://www.football365.com/content/themes/f365-sportsui/img/png/placeholder.png",
     "date": "2025-06-08 10:46:30",
     "source": "football365",
     "body": [
@@ -2289,42 +2327,6 @@
       "Premier League runners-up Arsenal are now ‘advancing’ in their attempts to sign Benjamin Sesko from RB Leipzig, according to widespread reports.",
       "Man Utd are closing in on the signings of Aston Villa goalkeeper Emiliano Martinez and Sporting CP striker Viktor Gyokeres, according to reports.",
       "The striker is now ‘very keen’ on a move to Man Utd and a transfer expert has revealed what the Red Devils need to do in order to get the ..."
-    ]
-  },
-  {
-    "headline": "Liverpool star claims Man Utd made transfer mistake as ‘unbelievable king’ is ‘proving people wrong’",
-    "tags": [
-      "Man Utd",
-      "LIVE"
-    ],
-    "link": "https://www.football365.com/news/liverpool-star-man-utd-transfer-mistake-unbelievable-king-people-wrong",
-    "image": "https://www.football365.com/content/themes/f365-sportsui/img/png/placeholder.png",
-    "date": "2025-06-06 10:13:35",
-    "source": "football365",
-    "body": [
-      "Liverpool star Andy Robertson has fired a dig at Premier League rivals Manchester United, who are said to have made a mistake with Scott McTominay.",
-      "The Scotland international left Man Utd during the 2024 summer transfer window to join Serie A giants Napoli in a deal worth around £25m.",
-      "McTominay was one of United’s standout performers during the 2023/24 campaign, but they sanctioned his sale as they looked to raise funds and this has arguably been a mistake.",
-      "The attacking midfielder flourished for the newly-crowned Serie A champions in his debut season, grabbing 13 goals and six assists in all competitions.",
-      "McTominay has become a cult hero at Napoli as he’s helped Antonio Conte’s side win the Serie A title and Robertson, who plays with the midfielder for Scotland, has suggested that Man Utd made a mistake when they let him leave.",
-      "“I think he went over there with a point to prove,” Robertson said.",
-      "READ: Man Utd ‘close’ to finalising two signings as INEOS ‘accelerate’ £84m double deal",
-      "“I think he wanted to prove Man United wrong and prove people in the Premier League wrong.",
-      "“He has gone over there and done that pretty successfully. That’s credit to him, credit to his attitude and his determination to be the best version of himself.",
-      "“Now he is a king over there. At Man United, he probably lacked getting that run of games consistently, he was in and out and things like that.”",
-      "He continued: “He (McTominay) probably didn’t get the respect he deserves. Then he goes over there, puts in a magnificent season and fair play to him to end it with the league title.",
-      "“Even before he was at Napoli, his standards for Scotland were unbelievable. He’s getting better and better, he has taken it to a whole new level.”",
-      "Despite this, Rio Ferdinand has explained why he thinks McTominay and Antony did not reach their potential at Man Utd.",
-      "“They came into an environment at United which was lacking confidence, under stress, deep scars from things that have gone on before, and a team changing now, again tactically,” Ferdinand said.",
-      "“It’s different at Manchester United. The pressure is huge.",
-      "“And these guys have gone to Napoli and they’ve gone to Betis, no disrespect, but smaller clubs in terms of pressure.",
-      "“And you’re seeing the best version of them. I’m happy for them, it’s good.”",
-      "Serie A champions Napoli are interested in signing Man Utd centre-back Lisandro Martinez this summer as well as Alejandro Garnacho, according to reports.",
-      "Manchester United have been warned against making the “crazy same mistake” with Kobbie Mainoo after they were wrong to sell another player last year.",
-      "It may well have been the worst season in Man Utd history but it’s been a bloody good one in general for the fortunate few who have escaped Old Trafford…",
-      "Liverpool star Andy Robertson and head coach Arne Slot have revealed their reaction to Trent Alexander-Arnold being booed by Reds supporters.",
-      "Former Man Utd boss Ole Gunnar Solskjaer has hit out at INEOS for selling Scott McTominay to Napoli in the summer transfer window.",
-      "Napoli head coach Antonio Conte has revealed why he thinks former Manchester United star Scott McTominay has stepped up after departing Old Trafford."
     ]
   },
   {
