@@ -1,12 +1,35 @@
 [
   {
+    "headline": "Wayne Rooney's ex-Man Utd teammate set for Plymouth job after icon's disastrous spell",
+    "tags": [
+      "Man Utd",
+      "Rooney"
+    ],
+    "link": "https://www.mirror.co.uk/sport/football/news/plymouth-next-manager-cleverley-rooney-35385271",
+    "image": null,
+    "date": null,
+    "source": "mirror",
+    "body": [
+      "Tom Cleverley is set to become the next Plymouth boss after holding productive talks with the club's bosses as they look to bounce back from their Championship relegation. The former Manchester United star is expected to succeed Miron Muslic, who masterminded the FA Cup win over Liverpool but left for Schalke last month.",
+      "Cleverley meanwhile is out of a job having been sacked by Watford last month. He had led the Hornets to a 14th-place finish in the second tier in his first full season.",
+      "Plymouth had spoken to four candidates about their vacancy with Cleverley emerging as the frontrunner. Former Arsenal star Jack Wilshere, who had been caretaker boss at Norwich, was also interviewed but looks set to miss out according to the Guardian.",
+      "Plymouth's managerial search has been led by David Fox, their former player who was recently appointed head of football operations, and the former Norwich sporting director Stuart Webber.",
+      "The Pilgrims knew their relegation was all but confirmed ahead of the final day with a hugely inferior goal difference meaning they were ultimately down. They were beaten by Leeds at Home Park which bought an end to their two-year stay in the Championship.",
+      "Their demise began with Wayne Rooney at the helm. Cleverley's former team-mate at Old Trafford was handed another managerial gig in the Championship but struggled for results. He won five of his 25 games before he was shown the door just after Christmas.",
+      "He left Plymouth sitting in the relegation zone and, despite an upturn in form that saw them down the likes of Sheffield United, they couldn't save themselves and will hope to bounce back at the first time of asking. They are among the pre-season favourites for promotion.",
+      "Rooney has said on his stint: \"I loved my time there - I think the fans were great, the staff were great. We just hit a bad run of form and the players actually you know I can't fault them, they were trying everything. Maybe we just lacked that bit of quality.\"",
+      "Rooney's successor, Muslic, appeared to take a swipe at the Evertonian and claimed that the club would never have gone down had he been in charge all season. \"I think if I'm the head coach from day one we will be far, far away from the relegation zone,\" he said previously.",
+      "Sky will show at least 215 live Premier League games next season, an increase of up to 100 more."
+    ]
+  },
+  {
     "headline": "Man Utd transfer news: Cunha breaks silence after signing as Greenwood reunion confirmed",
     "tags": [
       "Man Utd",
       "Transfer News"
     ],
     "link": "https://www.mirror.co.uk/sport/football/transfer-news/manchester-united-transfers-matheus-cunha-35381695",
-    "image": null,
+    "image": "https://i2-prod.mirror.co.uk/incoming/article35382157.ece/ALTERNATES/n615/0_Manchester-United-Unveil-New-Signing-Matheus-Cunha.jpg",
     "date": null,
     "source": "mirror",
     "body": [
@@ -58,7 +81,7 @@
       "Man Utd"
     ],
     "link": "https://www.mirror.co.uk/sport/football/transfer-news/viktor-gyokeres-transfer-shearer-united-35384145",
-    "image": "https://i2-prod.mirror.co.uk/incoming/article35384170.ece/ALTERNATES/n615/0_12am-Viktor-Gyokeres-transfer-prediction-made-by-Alan-Shearer-amid-Arsenal-and-Man-Utd-links.jpg",
+    "image": null,
     "date": null,
     "source": "mirror",
     "body": [
@@ -83,7 +106,7 @@
       "Man Utd"
     ],
     "link": "https://www.mirror.co.uk/sport/football/transfer-news/gyokeres-statement-transfer-united-arsenal-35383943",
-    "image": null,
+    "image": "https://i2-prod.mirror.co.uk/incoming/article35383938.ece/ALTERNATES/n615/0_GettyImages-2183151006.jpg",
     "date": null,
     "source": "mirror",
     "body": [
@@ -269,7 +292,7 @@
       "Man Utd"
     ],
     "link": "https://www.mirror.co.uk/sport/football/news/man-utd-kit-premier-league-35378684",
-    "image": "https://i2-prod.mirror.co.uk/incoming/article35378682.ece/ALTERNATES/n615/1_Screenshot-2025-06-12-at-092024.jpg",
+    "image": null,
     "date": null,
     "source": "mirror",
     "body": [
@@ -296,7 +319,7 @@
       "Rashford"
     ],
     "link": "https://www.mirror.co.uk/sport/football/transfer-news/marcus-rashford-transfer-man-utd-35378740",
-    "image": null,
+    "image": "https://i2-prod.mirror.co.uk/incoming/article35379017.ece/ALTERNATES/n615/0_GettyImages-2215445394.jpg",
     "date": null,
     "source": "mirror",
     "body": [
@@ -322,7 +345,7 @@
       "Hojlund"
     ],
     "link": "https://www.mirror.co.uk/sport/football/news/rasmus-hojlund-manchester-united-denmark-35378515",
-    "image": "https://i2-prod.mirror.co.uk/incoming/article35378885.ece/ALTERNATES/n615/0_FBL-FRIENDLY-DEN-NIR.jpg",
+    "image": null,
     "date": null,
     "source": "mirror",
     "body": [
@@ -399,7 +422,7 @@
       "Premier League"
     ],
     "link": "https://www.mirror.co.uk/sport/football/transfer-news/premier-league-jadon-sancho-transfer-35378073",
-    "image": null,
+    "image": "https://i2-prod.mirror.co.uk/incoming/article35378088.ece/ALTERNATES/n615/0_GettyImages-2217533685.jpg",
     "date": null,
     "source": "mirror",
     "body": [
@@ -446,7 +469,7 @@
       "Premier League"
     ],
     "link": "https://www.mirror.co.uk/sport/football/transfer-news/premier-league-free-agent-xi-35374069",
-    "image": "https://i2-prod.mirror.co.uk/incoming/article35374244.ece/ALTERNATES/n615/0_Fulham-FC-v-Manchester-City-FC-Premier-League.jpg",
+    "image": null,
     "date": null,
     "source": "mirror",
     "body": [
@@ -493,29 +516,6 @@
       "Sporting Lisbon boss Rui Borges has refused to confirm Viktor Gyokeres' future at the club. The striker is desperate to secure a move this summer having emerged as one of Europe's hottest strikers.",
       "The Portuguese giants are less keen to allow him to leave though, prompting a rift to form. And Borges has refused to discuss the future of the Swedish, as he was handed a tribute by his hometown of Mirandela.",
       "\"Gyökeres? Sporting's future begins on July 1st. That's all I can say and today I'm here to, above all, salute this tribute that was paid to me. That's all. I'm on vacation, I'm not here to talk about that\", Borges said."
-    ]
-  },
-  {
-    "headline": "Jonny Evans makes surprise announcement on future after being released by Man Utd",
-    "tags": [
-      "Man Utd"
-    ],
-    "link": "https://www.mirror.co.uk/sport/football/transfer-news/jonny-evans-released-man-utd-35375450",
-    "image": null,
-    "date": null,
-    "source": "mirror",
-    "body": [
-      "Jonny Evans is in no rush to make a decision on his future after it was confirmed he would be released by Manchester United. The defender is set to see his contract expire at the end of the month with no renewal forthcoming.",
-      "But despite the 37-year-old being firmly in the twilight of his career, no official announcement on a retirement has arrived, though he is expected to do so. The Northern Irish defender is set to reflect on his situation before making a decision over his next steps.",
-      "Evans is set to end his second spell at Old Trafford having returned to the club in 2023 to take on a senior role in the dressing room and to provide additional depth in United's backline. The veteran probably played more than anticipated making 30 appearances in his first season back to see his contract extended by a further year.",
-      "Evans was called upon less frequently last term in a difficult season and joins the likes of Christian Eriksen and Victor Lindelof in exiting the club. Tom Heaton remains in discussions over potentially extending his stay.",
-      "It had been suggested Evans' departure could mark the end of his career, after Evans noted 'It was stay here or retire' last summer. The defender is yet to make plans however.",
-      "\"I'm not sure yet,\" Evans told BBC Sport NI when asked about his future . \"I'll take a bit of time. I don't feel like I'm in a rush to do anything.\"",
-      "In his eight years away from Manchester, Evans spent three years at West Bromwich Albion and five years at Leicester. The central defender added an FA Cup victory in 2021 to three Premier League titles, a Champions League, an FA Cup and two League Cup success across his two stints with the Red Devils.",
-      "Evans earned 107 caps for Northern Ireland and provided some analysis on where the nation stands during his appearance on BBC. The ex-Sunderland loanee is hopeful his former boss, Michael O'Neill can lead the country to World Cup qualification.",
-      "\"When you've got Michael O'Neill in charge, he gives everyone a little bit of hope,\" said Evans, \"He's taken the team to a major tournament before and if you want anyone in charge, it's him.",
-      "\"When I look at this team it reminds me of ourselves. He's playing five at the back and he has Isaac Price, he's on a good run of form.",
-      "\"You look throughout the team, you see Dan Ballard and Trai Hume getting promoted, they'll be playing Premier League football and that'll only be good for the team. I'm excited. Over the next couple of years I think we'll see them progress together.\""
     ]
   },
   {
@@ -606,20 +606,23 @@
     ]
   },
   {
-    "headline": "Man United transfer news LIVE - Hugo Ekitike 'deal', Matheus Cunha signs, Bryan Mbeumo latest",
+    "headline": "Man United transfer news LIVE: Ekitike 'race', Gyokeres 'move', Osimhen 'option'",
     "tags": [
       "Transfer News",
       "LIVE"
     ],
     "link": "https://www.manchestereveningnews.co.uk/sport/football/transfer-news/man-united-transfer-news-live-31783162",
     "image": null,
-    "date": "2025-06-12 21:52:00",
+    "date": "2025-06-13 07:00:00",
     "source": "manchestereveningnews",
     "body": [
-      "Even though the transfer market is (temporarily) closed, the club have now announced Matheus Cunha as Ruben Amorim's first signing this summer. He has cost around £62.5million from Wolves.",
-      "Brentford star Bryan Mbeumo is also on radar, while United continue to assess options up top, having been side-stepped by Liam Delap - who has agreed to join Premier League rivals Chelsea instead.",
-      "Speculation over Jadon Sancho and Marcus Rashford is still at fever pitch - as United plot sales to help generate some extra funds - while Bruno Fernandes has already rebuffed a move to Saudi Arabia this summer. That helped boost United even before any incomings were announced.",
-      "Catch up with the latest news and Manchester United transfer rumours below.",
+      "Even though the transfer window is closed until Monday, 16 June, the club have announced the signing of Matheus Cunha. It comes a week and a half after confirming they had reached an agreement with Wolverhampton Wanderers.",
+      "Bryan Mbeumo is another attacker on their list, having an opening offer understood to be worth £55million rejected by Brentford. United also continue to assess options up front, having missed out on Liam Delap to Premier League rivals Chelsea.",
+      "There also remains speculation about the futures of Antony, Jadon Sancho and Marcus Rashford following their loans last season. Bruno Fernandes, meanwhile, ended rumours regarding his time at Old Trafford by turning down a lucrative move to Saudi Arabia.",
+      "Follow the latest United transfer news:",
+      "United are reportedly ready to make an official offer for Viktor Gyokeres.",
+      "Maisfutebol claims that their bid would be worth £60million in total, with around £51million guaranteed and another £9million in add-ons. That, though, is said to be less than Sporting CP president Frederico Varandas wants.",
+      "United have also allegedly 'encountered obstacles' during their negotiations with Gyokeres. The striker is still reputedly on their radar, though.",
       "Victor Osimhen remains a real option for the Reds, according to claims by United in Focus.",
       "“We’ve known about United and Osimhen for months, and it is genuine interest,\" claims reporter Graeme Bailey.",
       "United have known his wage demands and that he is prioritising a move to England for months; he has always wanted a Premier League move.",
@@ -707,10 +710,7 @@
       "Of course, contact with Jadon is always there, in some way, because we have a very long history,” said Kehl. “But it’s not an issue for us right now. We have other priorities at the moment and that’s why the Sancho issue was probably played up more in the media than discussed internally.",
       "Despite Arsenal understood to be pushing hard for Gyokeres this summer, it is United who remain leading the way for his signature with bet365.",
       "The bookmaker sees it as a two-horse race for the Swede with United leading the way on 5/4 while Arsenal are just behind on 15/8.",
-      "Juventus are next on the list to sign the striker but they are priced quite far back at 7/1.",
-      "Away from transfer news briefly, the new Manchester United home kit for the 2025/26 season has been released.",
-      "Created by Adidas, the shirt features a custom sleeve print which harks back to the kits of the mid to late '90s.",
-      "MORE HERE"
+      "Juventus are next on the list to sign the striker but they are priced quite far back at 7/1."
     ]
   },
   {
@@ -2258,7 +2258,7 @@
       "Man Utd",
       "LIVE"
     ],
-    "link": "https://www.skysports.com/football/news/11667/13382790/hugo-ekitike-transfer-news-man-utd-to-rival-liverpool-and-chelsea-after-entering-race-to-sign-eintracht-frankfurt-striker",
+    "link": "https://www.skysports.com/football/news/11095/13382790/hugo-ekitike-transfer-news-man-utd-to-rival-liverpool-and-chelsea-after-entering-race-to-sign-eintracht-frankfurt-striker",
     "image": "https://e0.365dm.com/25/06/768x432/skysports-hugo-ekitike-eintracht-frankfurt_6940399.jpg?20250612174043",
     "date": null,
     "source": "skysports",
@@ -2299,9 +2299,11 @@
     ]
   },
   {
-    "headline": "Ekitike looks ready for next step after firing for Frankfurt",
-    "tags": [],
-    "link": "https://www.skysports.com/football/news/11096/13381114/hugo-ekitike-to-chelsea-or-liverpool-eintracht-frankfurt-forward-ready-for-the-next-step-after-bundesliga-breakthrough",
+    "headline": "Man Utd target Ekitike looks ready for next step after firing for Frankfurt",
+    "tags": [
+      "Man Utd"
+    ],
+    "link": "https://www.skysports.com/football/news/11095/13381114/hugo-ekitike-to-chelsea-or-liverpool-eintracht-frankfurt-forward-ready-for-the-next-step-after-bundesliga-breakthrough",
     "image": "https://e0.365dm.com/25/06/768x432/skysports-hugo-ekitike-eintracht-frankfurt_6940680.jpg?20250612223940",
     "date": null,
     "source": "skysports",
