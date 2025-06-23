@@ -1,5 +1,27 @@
 [
   {
+    "headline": "Napoli make move for second Man Utd star after getting Jadon Sancho green light",
+    "tags": [
+      "Man Utd"
+    ],
+    "link": "https://www.mirror.co.uk/sport/football/transfer-news/napoli-make-move-second-man-35433693",
+    "image": null,
+    "date": null,
+    "source": "mirror",
+    "body": [
+      "Napoli are keen on bringing Rasmus Hojlund back to Serie A with the Manchester United flop allowed to leave Old Trafford.",
+      "The Italian champions have already added Kevin De Bruyne as a free agent and have reportedly agreed personal terms with United winger Jadon Sancho, after Chelsea paid £5m not to sign him permanently following an unimpressive season on loan at Stamford Bridge.",
+      "Gazzetta dello Sport say Napoli are keen on Hojlund, who made a name for himself when leading the line for Atalanta before heading to United. But after two seasons of struggle, his future under Ruben Amorim appears bleak.",
+      "There is, however, a familiar issue - the finances of completing a deal. United signed Hojlund for £72m and he has three years remaining on his deal. They are also keen to maximise the funds raised by sales this summer so Amorim’s squad can receive the major surgery it requires following their dismal campaign.",
+      "Almost the entire squad is available for the right price - with only Bruno Fernandes appearing certain to remain having turned down a move to Saudi Arabia.",
+      "Beyond Hojlund and Sancho, Marcus Rashford is expected to leave and Alejandro Garancho could also exit",
+      "Reports immediately after the Europa League final suggested that the Argentina attacker was told he could leave. But he still went on a money-spinning post-season tour in Asia and there have been crickets since.",
+      "He is one of few players who could earn a considerable fee, which also means he is one of few players with the natural ability to shine in a successful United side.",
+      "Matheus Cunha has already signed from Wolves in a £62.5m deal and United have been linked extensively with Brentford’s Bryan Mbeumo, who is also being talked up as a potential signing for Tottenham Hotspur after his former head coach Thomas Frank last week made the move from west to north London.",
+      "Napoli have been linked with a host of players since landing another Serie A title having already added Kevin De Bruyne as a free agent from Manchester City. His former team-mate Jack Grealish is also being talked up as a target, potentially joining a squad already featuring Scottish midfielders Scott McTominay and Billy Gilmour."
+    ]
+  },
+  {
     "headline": "Man Utd transfer news: Real Madrid star targeted as Ramsus Hojlund twist emerges",
     "tags": [
       "Man Utd",
@@ -7,7 +29,7 @@
       "Hojlund"
     ],
     "link": "https://www.mirror.co.uk/sport/football/transfer-news/manchester-united-real-madrid-hojlund-35433882",
-    "image": null,
+    "image": "https://i2-prod.mirror.co.uk/incoming/article35434002.ece/ALTERNATES/n615/0_GettyImages-2218796301.jpg",
     "date": null,
     "source": "mirror",
     "body": [
@@ -55,7 +77,7 @@
       "LIVE"
     ],
     "link": "https://www.mirror.co.uk/sport/football/transfer-news/tottenham-transfer-eze-liverpool-manutd-35435075",
-    "image": "https://i2-prod.mirror.co.uk/incoming/article35435065.ece/ALTERNATES/n615/0_England-v-Senegal-International-Friendly.jpg",
+    "image": null,
     "date": null,
     "source": "mirror",
     "body": [
@@ -75,7 +97,7 @@
       "Amorim"
     ],
     "link": "https://www.mirror.co.uk/sport/football/news/chelsea-essugo-amorim-manchester-united-35434093",
-    "image": null,
+    "image": "https://i2-prod.mirror.co.uk/incoming/article35403157.ece/ALTERNATES/n615/2_GettyImages-2213865716-1.jpg",
     "date": null,
     "source": "mirror",
     "body": [
@@ -250,7 +272,7 @@
       "Martinez"
     ],
     "link": "https://www.mirror.co.uk/sport/football/transfer-news/man-utd-rashford-future-martinez-35430474",
-    "image": "https://i2-prod.mirror.co.uk/sport/football/transfer-news/article35346817.ece/ALTERNATES/n615/1_GettyImages-2217444745.jpg",
+    "image": null,
     "date": null,
     "source": "mirror",
     "body": [
@@ -277,7 +299,7 @@
       "Amorim"
     ],
     "link": "https://www.mirror.co.uk/sport/football/transfer-news/man-utd-transfer-news-sancho-35430108",
-    "image": null,
+    "image": "https://i2-prod.mirror.co.uk/incoming/article35431555.ece/ALTERNATES/n615/0_Untitled-1.jpg",
     "date": null,
     "source": "mirror",
     "body": [
@@ -304,7 +326,7 @@
       "Antony"
     ],
     "link": "https://www.mirror.co.uk/sport/football/transfer-news/antony-bid-man-utd-transfer-35431429",
-    "image": "https://i2-prod.mirror.co.uk/incoming/article35170860.ece/ALTERNATES/n615/0_antony.jpg",
+    "image": null,
     "date": null,
     "source": "mirror",
     "body": [
@@ -376,7 +398,7 @@
       "Man Utd"
     ],
     "link": "https://www.mirror.co.uk/sport/football/transfer-news/man-utd-tottenham-summer-transfers-35430285",
-    "image": null,
+    "image": "https://i2-prod.mirror.co.uk/incoming/article35430499.ece/ALTERNATES/n615/1_DRMP210625SLUG_44584Amorim_Frank.jpg",
     "date": null,
     "source": "mirror",
     "body": [
@@ -425,7 +447,7 @@
       "Martinez"
     ],
     "link": "https://www.mirror.co.uk/sport/football/transfer-news/man-utd-emi-martinez-transfer-35430067",
-    "image": "https://i2-prod.mirror.co.uk/incoming/article35430181.ece/ALTERNATES/n615/0_GettyImages-2197093724.jpg",
+    "image": null,
     "date": null,
     "source": "mirror",
     "body": [
@@ -470,31 +492,6 @@
       "Those signings could yet be aided by some significant departures with Alejandro Garnacho being among the most significant. Previously cited as a player for the long haul, he has since fallen down the pecking order and his attitude was called into question following his snub in the Europa League final.",
       "Man Utd's possible XI: Martinez; Yoro, Maguire, Martinez; Amad, Ugarte, Fernandes, Dalot; Cunha, Mbeumo, Osimhen.",
       "Sky will show at least 215 live Premier League games next season, an increase of up to 100 more."
-    ]
-  },
-  {
-    "headline": "Arne Slot has broken golden Jurgen Klopp transfer rule and done something he never did",
-    "tags": [],
-    "link": "https://www.mirror.co.uk/sport/football/transfer-news/liverpool-transfers-slot-klopp-wirtz-35429552",
-    "image": null,
-    "date": null,
-    "source": "mirror",
-    "body": [
-      "Liverpool manager Arne Slot is making up for lost time this summer after opening the transfer floodgates at Anfield. And it has taken the Dutchman just a few weeks to break the rule predecessor Jurgen Klopp sought to adhere to above all others in the market.",
-      "Klopp, 58, previously made a point of stressing his morals when it came to keeping Liverpool financially solvent. And that meant not necessarily spending on a par with the likes of Manchester City and Manchester United, who copped criticism from the former Reds boss for their free-spending ways in the past.",
-      "Of course that changed over time as Liverpool made allowances in opening their chequebook so Klopp could compete. But the German was staunchly against spending £100million fees on individuals when he first arrived at Anfield – a line Liverpool have now crossed with the blockbuster signing of Florian Wirtz from Bayer Leverkusen in a British record deal worth up to £116m, with £100m of that being guaranteed.",
-      "\"If you bring one player in for £100m or whatever and he gets injured then it all goes through the chimney,\" Klopp warned back in 2016 after United forked out £89m to re-sign Paul Pogba from Juventus. \"The day that this is football, I’m not in a job any more, because the game is about playing together.",
-      "\"That is why somebody invented passes so these players can play together. It’s not about running with the ball because you can do it all the time. Building the group is not my unique idea – it is necessary to be successful in football.",
-      "\"Other clubs can go out and spend more money and collect top players, yes. Do I have to do it differently to that? I don’t know exactly how much money we could spend because nobody has told me up to this point, ‘No, no, no you can’t do this.’",
-      "\"If I spend money it is because I am trying to build a real team. You can win championships, you can win titles. But maybe there is a manner in which you want it. It is about how it is.\"",
-      "The Merseysiders have added 22-year-old Wirtz to their armoury and could have to shell out as much as £116m if certain conditions are met. And that addition means Liverpool have now spent more money in this window than any other in their history to date.",
-      "Slot recruited Jeremie Frimpong (also from Leverkusen) for £29.5m earlier in the summer, while goalkeeper Giorgi Mamardashvili has joined from Valencia for an initial £25m, along with £4m in add-ons – with that deal agreed last summer counting towards their 2025 spending. Not only that, but a £40m move for Bournemouth left-back Milos Kerkez is also in the pipeline.",
-      "Provided the Kerkez deal goes through as expected, that would take Liverpool's total spend this summer to roughly £215m (providing all bonus clauses are met). And despite the fact the transfer window has been open for less than one month, that would far eclipse the previous record for total spend in any other window.",
-      "The closest Klopp came to matching that sum was in the summer of 2018 when he spent around £170m on new signings. That included Alisson from Roma (£65m), Naby Keita from RB Leipzig (£53m), Fabinho from Monaco (£39m) and Xherdan Shaqiri from Stoke (£13.5m), though the investments paid off as they won the Champions League that season.",
-      "Eventually, Klopp wasn't too far from overseeing a couple of nine-digit deals himself, considering Liverpool signed Virgil van DIjk and Darwin Nunez for £75m and £85m, respectively. Van Dijk became the most expensive defender in football history at the time of his move from Southampton, and Klopp later walked back his comments concerning exorbitant transfer fees.",
-      "\"These kind of things happen. When you want to sign a striker as exciting as Darwin is, that’s the market and you have to pay the price,\" he conceded in 2023. \"I said so many things in my life and life caught me then later and showed me that my imagination was obviously not clear enough for how quickly life can change. That’s how it is.",
-      "\"After that [comment about Pogba], we bought a centre-half for quite a decent fee [£75m for Van Dijk], we bought a goalie for quite a decent fee [Alisson]. Our situation is always the same, we try to level it somehow [with sales], the things we invest in the boys and in the players we sell, it’s kind of that it’s not going out of any kind of range and that worked so far, but I know, I heard it immediately.\"",
-      "To Slot's credit, he won the Premier League in his debut campaign despite barely spending at all last summer. It's only fair that one, therefore, takes into account that spread of cost, which brings his net spend to a more modest £100m or so per summer window so far."
     ]
   },
   {
@@ -722,6 +719,37 @@
     ]
   },
   {
+    "headline": "Manchester United can solve problem they failed to fix last summer with double signing",
+    "tags": [
+      "Man Utd"
+    ],
+    "link": "https://www.manchestereveningnews.co.uk/sport/football/transfer-news/manchester-united-can-solve-problem-31909721",
+    "image": null,
+    "date": "2025-06-23 06:00:00",
+    "source": "manchestereveningnews",
+    "body": [
+      "Few players have divided opinion at Manchester United in recent years as much as Scott McTominay did.",
+      "The Scotland international, now of Napoli, often left supporters split when voicing their opinions of him and the role he played at Old Trafford.",
+      "But after he had plundered a respectable tally of ten goals during the 2023/24 campaign, United were left with an important decision to make. He had just one year remaining on his contract campaign and it meant United had to decide whether to cash-in or attempt to tie him down to a new deal.",
+      "Much to the disappointment of former United manager Erik ten Hag, United decided to cash-in, selling him to Napoli on deadline day last August. United pocketed a fixed fee of £25.7million and from a financial viewpoint it made perfect sense.",
+      "He had just under a year remaining on his contract at the time of the deal going through and his stock was high after a fruitful 2023/24 campaign. Furthermore, the £25.7m United banked for him counted as 'pure profit' under the profit and sustainability rules (PSR).",
+      "\"I'm very happy for him and it's also for us, but it's mixed, because I wouldn't prefer to lose him, because he is Man United in every vein,\" Ten Hag said of McTominay's departure. \"He was so important for our team, for Manchester United.",
+      "\"He was here for over 22 years. Unfortunately, it's the rules. We have to discuss the rules when you have to do sells and then, obviously, homegrown players, Academy players, they bring more value.\"",
+      "After scoring 13 goals and helping Napoli win a second Serie A title in three seasons in his debut season in Italy, United's decision to sell the Scotsman has naturally been called into question. Had he, for example, scored two goals in his maiden season in Naples, nobody would have battered an eyelid.",
+      "Taking his contract situation, the landscape of United's midfield options and the financial package on offer, United were right to sell McTominay when they did. His stock was at an all-time high and United had previously been criticised for turning down enterprising offers for players who could leave for free further down the line.",
+      "However, despite often splitting opinion, McTominay could often be relied upon to provide a goal from midfield. He regularly made box-crashing runs to put himself in the conversation to get on the end of a cross.",
+      "He was better in attack-minded positions than being a defensive-minded No.6, and his form in his first season at Napoli demonstrated that.",
+      "United were unable to replace the goals McTominay had provided in 2023/24 last season, meaning there is an argument for them to target a goalscoring midfielder this summer. United want to recruit a midfielder this summer amid doubts about Manuel Ugarte's ability in possession.",
+      "However, having already completed the signing of Matheus Cunha, who is expected to take up residency in the left-sided No.10 position, Bruno Fernandes is poised to make the centre of midfield a permanent home next season. He often dropped deeper in the second half of last season and he did score eight times and rack up seven assists when playing as one of the two No.8s.",
+      "As a result, Fernandes, who is a seasoned goalscorer and creator, will be able to provide a goalscoring threat from the engine room. Technically, however, he is not a direct replacement for McTominay.",
+      "Nevertheless, the addition of Cunha should make up for Fernandes being forced to drop into a deeper role. United also want to sign Bryan Mbeumo, who got 20 Premier League goals last season, meaning the prospect of him and Cunha making up two thirds of United's attack would make up for any shortfall amid Fernandes being set to become a permanent No.8.",
+      "The United captain regularly made things happen from a deeper position last term, so much so the team often looked better when he played deeper. The No.8 role allows him to dictate proceedings and read of the game.",
+      "Provided Fernandes is deployed alongside a midfield partner of the right profile, he should be given the license to get forward and occupy attacking positions in and around the opposition penalty area.",
+      "The addition of Cunha and possible arrival of Mbeumo would make up for losing a box-crashing, goalscoring midfielder of McTominay's ilk, meaning it ought not to be a big issue like it was last season.",
+      "Whatever you made of McTominay, his goals were not replaced last term."
+    ]
+  },
+  {
     "headline": "Martinez signs, Mbeumo decision, Osimhen gamble - Manchester United dream starting XI vs Arsenal",
     "tags": [
       "Man Utd",
@@ -892,24 +920,6 @@
       "The news vacuum of the past week or so, however, has highlighted that was never likely to be the case. Patience will be key.",
       "The transfer window can be tricky to navigate, particularly in its early stages, and the upcoming profit and sustainability rules (PSR) deadline of June 30 is undoubtedly playing on the minds of several clubs.",
       "But having signed Cunha, lodged a bid for Mbeumo and expressed their hunger to sign Liam Delap prior to him settling on a move to Chelsea, United have not lacked ambition at the start of the window. They want to move at speed and make up for last summer's mistakes."
-    ]
-  },
-  {
-    "headline": "Man United handed firm Jadon Sancho transfer response as summer reality clear",
-    "tags": [],
-    "link": "https://www.manchestereveningnews.co.uk/sport/football/transfer-news/man-united-handed-firm-jadon-31911241",
-    "image": null,
-    "date": null,
-    "source": "manchestereveningnews",
-    "body": [
-      "Napoli have reportedly refused to meet Jadon Sancho's requested salary amid transfer links with the Manchester United forward.",
-      "Sancho, 25, spent last season on loan at Premier League rivals Chelsea but - despite their £25million obligation to make that move permanent - the Blues opted to pay a £5million penalty fee to send him back to M16.",
-      "However, it is believed that the former Borussia Dortmund winger does not have a long-term future under Ruben Amorim and is expected to leave United once more. Napoli are reportedly among those interested in Sancho, who is said to be open to a move to Italy, even if it means lowering his wage demands.",
-      "And according to Sky Sport Italy, Napoli are leading the race to sign him. They claim that Sancho's preference is to join Antonio Conte's team, as they were the first side to express an interest this summer.",
-      "But Napoli sporting director Giovanni Manna has appeared to suggest a switch to the Italian club will not happen, unless he lowers his existing demands.",
-      "\"Our offer is clear, we will not pay Sancho's requested salary,\" he said via journalist Yagiz Sabuncuoglu on X.",
-      "United want to secure a similar fee to the one that was agreed with Chelsea, in the region of £25million, despite what was a disappointing spell in west London.",
-      "Sancho scored five goals and provided 10 assists in 41 matches for the Blues, who ended the season winning the UEFA Conference League and finishing in the top-four."
     ]
   },
   {
