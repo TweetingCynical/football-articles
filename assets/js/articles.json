@@ -1,11 +1,33 @@
 [
   {
+    "headline": "Cristiano Ronaldo offers retirement update as ex-Man Utd superstar doubles down",
+    "tags": [
+      "Man Utd",
+      "Ronaldo"
+    ],
+    "link": "https://www.mirror.co.uk/sport/football/news/cristiano-ronaldo-manager-manchester-united-35473535",
+    "image": null,
+    "date": null,
+    "source": "mirror",
+    "body": [
+      "Cristiano Ronaldo has made it crystal clear that he doesn't want to become a manager after retiring. Ronaldo, 40, will play for at least another two years after signing a lucrative contract extension with Saudi Arabian club Al-Nassr which runs until 2027.",
+      "The five-time Ballon d'Or winner will earn an obscene £488,000 per DAY, earning him an eye-watering £492million over the next couple of seasons. Al-Nassr gave him £24.5m just for renewing his contract after his existing deal was due to expire last month.",
+      "Ronaldo is already the highest-paid athlete in the world, earning £206m annually. No wonder, then, the ex-Manchester United superstar plans to live like a 'king' after he hangs up his boots instead of going into management.",
+      "After putting pen to paper on his new two-year deal, Ronaldo was asked if he plans to work on his coaching badges and his response was firm.",
+      "\"I can tell that right now, I'm never going to be a coach,\" the Portugal captain proclaimed. \"Never is a strong work, but it's not in my plans in five years, 10, 20.\"",
+      "Ronaldo evidently hasn't changed his tune from January 2016. Back then, the Real Madrid talisman told Spanish magazine Papel: \"There is another life after football. I think at first it will be tough, but if you ask me now if I want to coach, I would say no - neither as a club manager nor a president.",
+      "\"You can say you have the best job, money, cars, houses... but that is not everything. One example: On Saturday, there's boxing on in Las Vegas and I would like to take my family and friends, but I can't because I have no time. But after (I retire) I want to live like a king.\"",
+      "Fast forward to 2025 and Ronaldo's future plans are rooted in Saudi Arabia, declaring that he 'belongs' the gulf state. \"Projects and to be part of the growth of the country, to be on the side of the country, for sure I will be beside the country,\" he affirmed.",
+      "\"Because I'm not coming only to play football, I'm playing for change of the country, a cultural country. I'm a part of that process. As I say, so many, many times, I belong to Saudi Arabia. I'm Portuguese, but I belong to Saudi Arabia.\""
+    ]
+  },
+  {
     "headline": "Newcastle's transfer misery after missing out on FOUR targets to Man Utd and Chelsea",
     "tags": [
       "Man Utd"
     ],
     "link": "https://www.mirror.co.uk/sport/football/transfer-news/newcastle-transfer-news-joao-pedro-35474429",
-    "image": null,
+    "image": "https://i2-prod.mirror.co.uk/incoming/article35419654.ece/ALTERNATES/n615/1_Newcastle-United-v-Ipswich-Town-Premier-League-St-James-Park.jpg",
     "date": null,
     "source": "mirror",
     "body": [
@@ -62,7 +84,7 @@
       "Rashford"
     ],
     "link": "https://www.mirror.co.uk/sport/football/transfer-news/marcus-rashford-latest-transfer-news-35478299",
-    "image": "https://i2-prod.mirror.co.uk/incoming/article35478340.ece/ALTERNATES/n615/0_GettyImages-2187354385-copy.jpg",
+    "image": null,
     "date": null,
     "source": "mirror",
     "body": [
@@ -85,7 +107,7 @@
       "Man Utd"
     ],
     "link": "https://www.mirror.co.uk/sport/football/transfer-news/man-utd-ollie-watkins-transfer-35478185",
-    "image": null,
+    "image": "https://i2-prod.mirror.co.uk/incoming/article35478171.ece/ALTERNATES/n615/0_GettyImages-2217473785.jpg",
     "date": null,
     "source": "mirror",
     "body": [
@@ -271,7 +293,7 @@
       "Amorim"
     ],
     "link": "https://www.mirror.co.uk/sport/football/transfer-news/man-utd-transfer-ruben-amorim-35473217",
-    "image": "https://i2-prod.mirror.co.uk/incoming/article35473160.ece/ALTERNATES/n615/1_Screenshot-2025-06-30-at-083146.jpg",
+    "image": null,
     "date": null,
     "source": "mirror",
     "body": [
@@ -296,7 +318,7 @@
       "Premier League"
     ],
     "link": "https://www.mirror.co.uk/sport/football/transfer-news/premier-league-contracts-free-agents-35473001",
-    "image": null,
+    "image": "https://i2-prod.mirror.co.uk/incoming/article35473156.ece/ALTERNATES/n615/1_Untitled-1.jpg",
     "date": null,
     "source": "mirror",
     "body": [
@@ -336,7 +358,7 @@
       "Mourinho"
     ],
     "link": "https://www.mirror.co.uk/sport/football/transfer-news/man-utd-transfer-jose-mourinho-35472981",
-    "image": "https://i2-prod.mirror.co.uk/incoming/article35473032.ece/ALTERNATES/n615/0_GettyImages-1617102196.jpg",
+    "image": null,
     "date": null,
     "source": "mirror",
     "body": [
@@ -408,7 +430,7 @@
       "Amorim"
     ],
     "link": "https://www.mirror.co.uk/sport/football/transfer-news/man-utd-kean-release-clause-35472909",
-    "image": null,
+    "image": "https://i2-prod.mirror.co.uk/sport/football/news/article35408887.ece/ALTERNATES/n615/2_Brentford-FC-v-Manchester-United-FC-Premier-League.jpg",
     "date": null,
     "source": "mirror",
     "body": [
@@ -455,7 +477,7 @@
       "Rashford"
     ],
     "link": "https://www.mirror.co.uk/sport/football/transfer-news/manchester-united-transfers-rashford-onana-35470996",
-    "image": "https://i2-prod.mirror.co.uk/incoming/article35471119.ece/ALTERNATES/n615/0_Manchester-City-FC-v-Aston-Villa-FC-Premier-League.jpg",
+    "image": null,
     "date": null,
     "source": "mirror",
     "body": [
@@ -497,29 +519,6 @@
       "\"Today, there is a strong likelihood that he will leave. I won’t disclose the amount, but the player knows what it is. I can say that Viktor will not leave for 60+10m. He won’t leave, absolutely not.",
       "\"We have been watching the market and I saw [Martin] Zubimendi, who is six months younger than Viktor, leave for €65million. I saw Matheus Cunha and Bryan Mbeumo, both forwards but who, in my opinion, do not have Viktor's market value or quality, being negotiated for around €75million.",
       "\"Given the demands we consider fair, I believe Viktor could leave – unless he has the worst agent in the world, which is hard for me to believe, because he is one of the best footballers in the world.\"",
-      "Sky will show at least 215 live Premier League games next season, an increase of up to 100 more."
-    ]
-  },
-  {
-    "headline": "Sporting Lisbon chief slams two Man Utd transfers in Viktor Gyokeres update",
-    "tags": [
-      "Man Utd"
-    ],
-    "link": "https://www.mirror.co.uk/sport/football/transfer-news/viktor-gyokeres-arsenal-man-utd-35472213",
-    "image": null,
-    "date": null,
-    "source": "mirror",
-    "body": [
-      "Sporting Lisbon president Frederico Varandas has aimed a subtle dig at Manchester United's signing of Matheus Cunha - and their pursuit of Bryan Mbeumo - while addressing Viktor Gyokeres' possible departure.",
-      "The Swede is looking to leave the Portuguese champions this summer after scoring more than 50 times and the Manchester outfit - as well as Arsenal - are both keeping tabs on his availability.",
-      "The biggest stumbling block to Gyokeres' departure is Sporting's willingness to let him depart and how much they will ultimately demand before deciding to let him leave for pastures new. United have already spent £62.5million to land Cunha - their only summer signing.",
-      "Brentford have rejected the same fee as they look to keep hold off Mbuemo, who is also on United's radar. Sporting have used those two figures as a reference point when it comes to the demands they make for their leading light.",
-      "He said: \"We have been watching the market and I saw [Martin] Zubimendi, who is six months younger than Viktor, leave for €65million. I saw Matheus Cunha and Bryan Mbeumo, both forwards but who, in my opinion, do not have Viktor's market value or quality, being negotiated for around €75million.",
-      "\"Given the demands we consider fair, I believe Viktor could leave – unless he has the worst agent in the world, which is hard for me to believe, because he is one of the best footballers in the world.\"",
-      "The president has also knocked back suggestions that there was a gentleman's agreement in place which allowed Gyokeres, who has scored 97 times in 102 games in Lisbon, to leave for less than his release clause.",
-      "Varandas refused to confirm the exact figure he expects but made it clear they will not accept a cut-price deal for the ex-Coventry City frontman.",
-      "He said: \"The player knows, the agent knows, and I can guarantee, with absolute certainty, that Viktor will not leave for €60million plus €10million in add-ons. It's not about trying to gain something, it's that he simply will not leave for that – absolutely will not.\"",
-      "United were able to land Cunha due to a release clause in his contract but their pursuit of Mbeumo, and potentially Gyokeres, has seen clubs demand huge fees and drag out negotiations in an effort to maximise their profits.",
       "Sky will show at least 215 live Premier League games next season, an increase of up to 100 more."
     ]
   },
@@ -743,6 +742,27 @@
     ]
   },
   {
+    "headline": "RAILSTON: Manchester United wonderkid makes decision on his future amid European interest",
+    "tags": [
+      "Man Utd"
+    ],
+    "link": "https://www.manchestereveningnews.co.uk/sport/football/transfer-news/manchester-united-wonderkid-makes-decision-31960741",
+    "image": null,
+    "date": null,
+    "source": "manchestereveningnews",
+    "body": [
+      "Manchester United rising star JJ Gabriel has decided to commit his future to the club.",
+      "United were hopeful they could do enough to convince Gabriel that staying in Manchester is the best option for him, and the supremely talented youngster will not leave this summer.",
+      "Gabriel is just 14 years old but has genuine star potential and already has a huge profile. Gabriel has been on the radar of top European clubs and he will continue in Manchester for at least another two years.",
+      "Director of football Jason Wilcox played an important role in convincing Gabriel and his family, while Matt Hargreaves (director of football negotiations) was also involved in the process.",
+      "Gabriel made his debut for the Under-18s at the beginning of April and scored twice from the bench. He made a further two appearances for the U18s before the end of the season and scored again.",
+      "Gabriel given the nickname 'Kid Messi' after clips of him training and completing specialist skills went viral on social media when he was younger.",
+      "He was pictured with one of his idols, Lamine Yamal, outside the Camp Nou in August, and he has a European passport, which caught the attention of big clubs on the continent.",
+      "When Marcus Rashford joined Aston Villa on loan in January, Gabriel thanked him for taking penalties with him at Carrington before he had left the club. Gabriel also received a \"get well soon\" video from goalkeeper Andre Onana when he was recovering from his shoulder injury in October.",
+      "Gabriel may well be one of the most exciting players to ever come through United's academy, but club staff are trying to temper expectations to allow the youngster to focus on his development."
+    ]
+  },
+  {
     "headline": "Manchester United could take £44m risk to solve major transfer issue",
     "tags": [
       "Man Utd"
@@ -766,6 +786,33 @@
       "And United fans will remember Kean's time at Everton where he struggled to find the back of the net. Kean was much younger then but it is a risk to sign a player who has already failed to impress in the Premier League",
       "If £44million guarantees goals then the move is a no-brainer. But if he struggles to make the adaptation to English football for a second time then United will be back to square one.",
       "Only time will tell if the club's decision makers feel it is a risk worth taking."
+    ]
+  },
+  {
+    "headline": "Manchester United could have Ollie Watkins transfer advantage as perfect opportunity arises",
+    "tags": [
+      "Man Utd"
+    ],
+    "link": "https://www.manchestereveningnews.co.uk/sport/football/transfer-news/manchester-united-could-ollie-watkins-31965119",
+    "image": null,
+    "date": "2025-07-01 04:30:00",
+    "source": "manchestereveningnews",
+    "body": [
+      "The transfer window is now well underway with Manchester United looking to make moves between now and the September 1 deadline.",
+      "Ruben Amorim’s side made an early addition with the £62.5 million capture of Matheus Cunha. Youngster Diego Leon will also join from Cerro Porteno.",
+      "They are yet to be joined by more new additions, but United continue to work on deals. Talks with Brentford for Bryan Mbeumo continue with the club seeing a second bid turned down by the Bees.",
+      "United have also been linked with several other players including Viktor Gyokeres, although it seems that the Sporting CP striker is leaning towards a move to Arsenal.",
+      "As the search for signings continue, MEN sport have had a look at a couple of the latest stories doing the rounds at Old Trafford. We have also given our thoughts on the situations.",
+      "United have been linked with an interest in Aston Villa striker Ollie Watkins with uncertainty over the future of Rasmus Hojlund.",
+      "The Athletic report that the England man is on a list of potential options should Hojlund leave the club this summer. The report says that there has been contact between United and Villa, but he is one of several options.",
+      "Watkins was of interest to Arsenal in January, with the Gunners having a £40 million bid turned down. Villa were said to be holding out for £60 million, and their stance is said to have not changed, with the player having three years remaining on his contract.",
+      "MEN Sport says: United could potentially have an advantage if they are to pursue their interest, which they may hope could get them a discount on any transfer. That is the relationship between the two clubs.",
+      "United did a deal with Villa in January to allow Marcus Rashford to join them on loan. While that deal has not been made permanent this summer, United may hope to use that established relationship to try and get the best deal possible for Watkins.",
+      "Manchester United face more competition for Leicester City midfielder Wilfred Ndidi. The Nigerian has been linked with a move to Old Trafford this summer following relegation with the Foxes.",
+      "Ndidi is said to have a £9 million release clause in his contract due to the relegation. Journalist Ben Jacobs has named United as one of the clubs interested.",
+      "However, they face competition from Juventus, Everton and clubs in Saudi Arabia. La Liga club Real Betis are the latest to have reportedly made an enquiry.",
+      "MEN Sport says: For £9 million Ndidi could be a really good buy for United; while he has not been in the best of form at times for Leicester, he has shown that when employed in his natural deeper position with a creative player next to him, he can be really effective still.",
+      "The last couple of years have also seen him play a more attacking position, which will only help his improvement. However, for the price he is available at, if he is played in a deeper role, he could be the perfect replacement for Casemiro."
     ]
   },
   {
@@ -854,60 +901,6 @@
       "Contract-wise, some noticeable names enter the final year of their current contracts and that places doubt over their futures. Mainoo is the biggest uncertainty with United yet to tie the midfielder down and Chelsea have been tipped to swoop in, should he be available.",
       "Casemiro, Harry Maguire, Sancho and Tyrell Malacia are all close to the expiry of their contracts. All four could easily be allowed to leave next year so United may look to cash-in now before it's too late.",
       "Finally and arguably the biggest thing for United is Amorim having the chance to coach his players. Concerns over their adaptability of the 3-4-2-1 formation used by the Portuguese came up too many times last season and a better understanding will only help United having a better season."
-    ]
-  },
-  {
-    "headline": "Aston Villa make Marcus Rashford transfer decision as new statement released",
-    "tags": [
-      "Rashford"
-    ],
-    "link": "https://www.manchestereveningnews.co.uk/sport/football/football-news/aston-villa-make-marcus-rashford-31963656",
-    "image": null,
-    "date": null,
-    "source": "manchestereveningnews",
-    "body": [
-      "Aston Villa have confirmed that Marcus Rashford will return to Manchester United after his loan spell at Villa Park ended on Monday.",
-      "The 27-year-old made 17 appearances for Unai Emery's side after joining on loan from United in January.",
-      "However, the west Midlands outfit have opted against triggering the £40m clause in the forward's loan deal to make his stay at Villa Park permanent.",
-      "In a statement released on Monday, Villa confirmed that Rashford, along with fellow loanee Marco Asensio and Axel Disasi, is set to return to his parent club.",
-      "\"Aston Villa would like to thank Robin Olsen and Kortney Hause following the expiration of their contracts, as well as our loan players as they return to their respective parent clubs,\" said Villa.",
-      "\"Goalkeeper Olsen joined Villa in 2022 and made 22 appearances for the club, proving a popular member of the dressing room. He joins Swedish side Malmö FF.",
-      "\"Like Olsen, defender Hause initially arrived at Villa Park on loan in 2019, helping the club secure promotion to the Premier League via the play-off final at Wembley, before making his move permanent. He appeared 55 times for the Villans, scoring four goals.",
-      "\"Marco Asensio, Marcus Rashford and Axel Disasi each joined Villa in February on loan deals until the end of the 2024/25 season.",
-      "\"Attacking midfielder Asensio enjoyed 21 outings in claret and blue, scoring eight goals, including three across both legs of our UEFA Champions League Round of 16 tie against Club Brugge.",
-      "\"Forward Rashford made 17 appearances for the club and registered a total of nine goal contributions across all competitions, bagging a brace in our FA Cup quarter-final against Preston North End.",
-      "\"Defender Disasi arrived from Chelsea and made 10 appearances for Villa, his first coming against Ipswich Town in mid-February.",
-      "\"Everyone at Aston Villa would like to thank each of the players for their efforts and amazing commitment to the club and wish them all the very best for the future.\"",
-      "Rashford has been linked with a move to La Liga champions Barcelona. Earlier this month, he admitted he would be keen on linking up with teen sensation Lamine Yamal.",
-      "\"Yes, for sure, everyone wants to play with the best,\" Rashford told Spanish influencer Javi Ruiz. \"Hopefully... we'll see.",
-      "\"[It is] difficult to put into words what he is doing. He is not supposed to be doing that at 16-17 [years of age]. We have not seen that before. It is a skill to be able to play at that age with that mentality.\"",
-      "Rashford has three years remaining on his current deal at Old Trafford."
-    ]
-  },
-  {
-    "headline": "Manchester United announce new role for Jonny Evans after retirement decision",
-    "tags": [
-      "Man Utd"
-    ],
-    "link": "https://www.manchestereveningnews.co.uk/sport/football/football-news/manchester-united-announce-new-role-31961488",
-    "image": null,
-    "date": null,
-    "source": "manchestereveningnews",
-    "body": [
-      "Jonny Evans has been appointed head of loans and pathways at Manchester United after retiring from his playing career.",
-      "Evans was expected to hang up his boots after the conclusion of his contract at Old Trafford this summer, and he has officially announced the end of a career that spanned 20 years.",
-      "The 37-year-old will remain in Manchester to take charge of loans at United, though.",
-      "Evans has been appointed as head of loans and pathways at Carrington, meaning he will arrange loans for youngsters and work closely with Jason Wilcox to 'enhance processes which maximise individual player development and prepare young talent to perform in the first-team'.",
-      "In a statement, Evans said: “I want to officially announce my retirement from my playing career, not with sadness, but with pride, gratitude and excitement for the next chapter ahead.",
-      "\"I’ll be forever indebted to the managers, coaches, staff and, of course, my team-mates, that I have had the privilege of working alongside throughout my 20 years in professional football.",
-      "“My biggest and most heartfelt thanks must go to the fans who have supported me during every step of the journey. It’s been an honour to be on the pitch and feel your passion home and away; I will be eternally grateful for every ounce of support.",
-      "“I am looking forward to working with the next generation of talented players to support them to reach their potential. Having had experience of loans myself, I know the crucial role that they can play within a player’s development.",
-      "\"I am excited to help further develop the pathway to our first team and continue the legacy of young players thriving at Manchester United.”",
-      "Director of football Wilcox said: “Having just finished his exceptional playing career, Jonny is the perfect role model for our young players.",
-      "\"Jonny’s knowledge of what it takes to succeed at Manchester United will be of great benefit to each of them as we continue to develop world-class talent capable of performing in our first team.”",
-      "Evans' transition into the role confirms the end of a wonderful playing career. The defender enjoyed two stints at United after coming through the club's academy and made 241 appearances for the Reds.",
-      "The Northern Irishman won the Champions League, three Premier League titles, the FA Cup and two League Cups with United, while he made a total of 536 career appearances.",
-      "Evans made 107 caps for Northern Ireland and was awarded an MBE in 2023 for his services to football."
     ]
   },
   {
