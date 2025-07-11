@@ -1,5 +1,29 @@
 [
   {
+    "headline": "Man Utd hand two more players new squad numbers in clear hint at Ruben Amorim's plans",
+    "tags": [
+      "Man Utd",
+      "Amorim"
+    ],
+    "link": "https://www.mirror.co.uk/sport/football/news/manchester-united-amorim-obi-fredricson-35541797",
+    "image": null,
+    "date": null,
+    "source": "mirror",
+    "body": [
+      "Manchester United prospects Chido Obi and Tyler Fredricson look set to be given more first-team opportunities by Ruben Amorim next season after the pair were handed new squad numbers.",
+      "Obi, 17, joined United from Arsenal's academy last year and has been a prolific goalscorer at youth level. The striker came off the bench to make his first-team debut against Tottenham in February and went on to make seven further senior appearances.",
+      "Obi wore the No. 56 shirt last season, but has been handed the No. 32 ahead of the new campaign which has previously been worn by the likes of Carlos Tevez, Victor Valdes and Sam Johnstone.",
+      "Speaking after Obi became the youngest player to start a Premier League game for United, Amorim said: \"It's really important because you can train a lot with the first team but feeling the players, the speed of the game, I think it's the best thing.",
+      "\"Again, they did quite well. Chido fought all game but you can feel he's really naive sometimes in the way he puts his body. He's going to understand what is the feeling of playing in these kind of games, this is the best way. So we can take that positive.\"",
+      "20-year-old defender Fredricson is an academy graduate and also made his first-team debut last season, starting in league games against Wolves and Brentford towards the end of the campaign.",
+      "Fredricson wore the No. 55 shirt last year and has now been given the No. 33, which used to belong to the likes of Brandon Williams, Bebe and Chris Eagles, and Amorim has previously spoken highly of the centre-back.",
+      "\"He's really composed, he's really humble,\" Amorim told MUTV ahead of Fredricson's debut. \"Every training with the first team, he's really focused on every detail of training. He's really good on the ball. So it's a good opportunity for him.\"",
+      "United have also given new squad numbers to five other players. New signing Matheus Cunha has taken the No. 10, with previous holder Marcus Rashford expected to leave the club this summer.",
+      "Diogo Dalot, meanwhile, has swapped the No. 20 for the No. 2 after Victor Lindelof's departure. Teenagers Shea Lacey, Bendito Mantato and Reece Munro have also been given new numbers, taking 61, 70 and 65 respectively.",
+      "Sky will show at least 215 live Premier League games next season, an increase of up to 100 more."
+    ]
+  },
+  {
     "headline": "Liverpool transfer blow leaves Marcus Rashford with clear Man Utd exit route",
     "tags": [
       "Man Utd",
@@ -7,7 +31,7 @@
       "LIVE"
     ],
     "link": "https://www.mirror.co.uk/sport/football/transfer-news/marcus-rashford-transfer-liverpool-united-35539523",
-    "image": null,
+    "image": "https://i2-prod.mirror.co.uk/incoming/article35500342.ece/ALTERNATES/n615/1_GettyImages-2188640310-2.jpg",
     "date": null,
     "source": "mirror",
     "body": [
@@ -57,7 +81,7 @@
       "Rashford"
     ],
     "link": "https://www.mirror.co.uk/sport/football/news/man-utd-amorim-rashford-future-35538628",
-    "image": "https://i2-prod.mirror.co.uk/incoming/article35538711.ece/ALTERNATES/n615/0_ECE_7_RASHFORD_AMORIM.jpg",
+    "image": null,
     "date": null,
     "source": "mirror",
     "body": [
@@ -81,7 +105,7 @@
       "Antony"
     ],
     "link": "https://www.mirror.co.uk/sport/football/transfer-news/antony-manchester-united-real-betis-35538823",
-    "image": null,
+    "image": "https://i2-prod.dailystar.co.uk/sport/football/article34511963.ece/ALTERNATES/n615/0_GettyImages-2194269332.jpg",
     "date": null,
     "source": "mirror",
     "body": [
@@ -259,7 +283,7 @@
       "Man Utd"
     ],
     "link": "https://www.mirror.co.uk/sport/football/transfer-news/man-utd-transfer-dalot-number-35536105",
-    "image": "https://i2-prod.mirror.co.uk/incoming/article35536086.ece/ALTERNATES/n615/0_GettyImages-2224127502.jpg",
+    "image": null,
     "date": null,
     "source": "mirror",
     "body": [
@@ -282,7 +306,7 @@
       "Man Utd"
     ],
     "link": "https://www.mirror.co.uk/sport/football/transfer-news/man-utd-transfer-target-jarashi-35535192",
-    "image": null,
+    "image": "https://i2-prod.mirror.co.uk/incoming/article35534962.ece/ALTERNATES/n615/0_GettyImages-2216592238.jpg",
     "date": null,
     "source": "mirror",
     "body": [
@@ -306,7 +330,7 @@
     "headline": "Team GB chief executive quits after 14 years to join private equity group",
     "tags": [],
     "link": "https://www.mirror.co.uk/sport/other-sports/team-gb-chief-executive-quits-35535016",
-    "image": "https://i2-prod.mirror.co.uk/incoming/article35534823.ece/ALTERNATES/n615/0_GettyImages-1240300061.jpg",
+    "image": null,
     "date": null,
     "source": "mirror",
     "body": [
@@ -377,7 +401,7 @@
       "Man Utd"
     ],
     "link": "https://www.mirror.co.uk/sport/football/news/man-utd-cunha-shirt-number-35532730",
-    "image": null,
+    "image": "https://i2-prod.mirror.co.uk/incoming/article35515679.ece/ALTERNATES/n615/0_Players-Return-to-Manchester-United-for-Pre-Season.jpg",
     "date": null,
     "source": "mirror",
     "body": [
@@ -429,7 +453,7 @@
       "Man Utd"
     ],
     "link": "https://www.mirror.co.uk/sport/football/transfer-news/jarrad-branthwaite-manchester-united-everton-35531265",
-    "image": "https://i2-prod.mirror.co.uk/incoming/article35531727.ece/ALTERNATES/n615/0_Jarrad-Branthwaite.jpg",
+    "image": null,
     "date": null,
     "source": "mirror",
     "body": [
@@ -471,33 +495,6 @@
     ]
   },
   {
-    "headline": "Man Utd legend says club 'cheated' by greedy players who are responsible for lack of success",
-    "tags": [
-      "Man Utd"
-    ],
-    "link": "https://www.mirror.co.uk/sport/football/news/man-utd-nemanja-vidic-interview-35531661",
-    "image": null,
-    "date": null,
-    "source": "mirror",
-    "body": [
-      "Manchester United have been “cheated” over the fees and salaries they have paid players in the post-Sir Alex Ferguson era, according to an Old Trafford legend.",
-      "United have spent in excess of £1.5billion on players and paid exorbitant wages since Ferguson stepped down in 2013 after landing the club's last Premier League title. Since then, United have failed to challenge for the Premier League and ended last season in 15th place, their worst finish since they were relegated in the 1973/74 campaign.",
-      "Former United defender Nemanja Vidic reckons his old club have been held to ransom by players who do not have the character to succeed there – but were only too happy to take the money.",
-      "Asked if envisaged United not winning the Premier League for 12 years, Vidic said: “No chance. My feeling is that Sir Alex Ferguson left but so did David Gill as well – that’s two big personalities who had been with the club for 25-years.",
-      "“They’re difficult to replace and Ed Woodward taking that position, I think was above his knowledge and his capability – that’s my opinion. Obviously, he did fantastic for the club in terms of the marketing and bringing money in, but dealing with agents and players, that role needs someone with experience.",
-      "“Even having some ex-footballers around to understand how the players think and how the agent thinks [would have helped]. At the time, the club didn’t help themselves in terms of not bringing in the knowledge of ex-players like Gary Neville, Paul Scholes, or Ryan Giggs – someone who has experienced talking with agents.",
-      "“I think sometimes with the salaries and the money we’ve paid to certain players, we’ve been cheated. That for me is the problem. Recruitment is the biggest thing, bringing in good football players, coaches, medical staff, and I think that they should be careful with what kind of people they bring into certain places.",
-      "“To be at Manchester United you have to be one of the best in the market, and you have to invest in that – maybe even more than in the players and I think that we haven’t done that well.",
-      "“It’s difficult to be at United now, to be a football player or the owner – whatever you do, it’s difficult so if you want to change the club, the club has to bring in the characters. If the characters aren’t in the club, it is difficult, and you will go through this situation.",
-      "“If you bring in people who are going to be nice, smiling, and saying things that you want to hear, I don’t think that’s the way forward. You need people who will take responsibility and be strong enough to say the things they see, even if they have to deal with the consequences.”",
-      "Vidic, who took his coaching badges while playing for United but who has so far resisted the lure of returning to work in football, claimed players have too much power these days, which makes it even harder for managers.",
-      "“Football players have too much power and because of the money involved, the owner respects the opinion of an agent and player more than the manager,” said Vidic. “That’s the issue we have now. If you have a strong character and personality and have a conflict with a player now, I think the coach will be the one to leave the club.",
-      "“This is the era of a new generation of a manager who needs to be careful with how they talk to players – to be a psychologist. You cannot treat all players the same, or owners, and fans. Sir Alex Ferguson was great at this, but it’s even more difficult now.”",
-      "Nemana Vidic was speaking on The Overlap, brought to you by Sky Bet",
-      "Sky will show at least 215 live Premier League games next season, an increase of up to 100 more."
-    ]
-  },
-  {
     "headline": "Why Manchester United forward Marcus Rashford drove into Carrington amid transfer decision",
     "tags": [
       "Man Utd",
@@ -518,6 +515,38 @@
       "Rashford subsequently signed for Aston Villa on loan in the January transfer window. The Midlands club had the option to sign Rashford permanently for £40million, but decided against triggering that clause.",
       "The academy graduate is now looking for a new club this summer. Rashford is also without a squad shirt number after United decided to give the No.10 shirt to new signing Matheus Cunha.",
       "Rashford last played for United against Viktoria Plzen in the Europa League on December 12."
+    ]
+  },
+  {
+    "headline": "Ruben Amorim has the green light to unleash Manchester United's new first-choice defence",
+    "tags": [
+      "Man Utd",
+      "Amorim"
+    ],
+    "link": "https://www.manchestereveningnews.co.uk/sport/football/football-news/ruben-amorim-green-light-unleash-32040559",
+    "image": null,
+    "date": "2025-07-11 16:03:00",
+    "source": "manchestereveningnews",
+    "body": [
+      "Pre-season preparations are well under way at Carrington.",
+      "Some members of Manchester United's first-team squad started to return to the club's training base on Monday before those who were on international duty at the end of last season reported back on Thursday.",
+      "Accounting for all the images and training ground footage shared by United throughout the week, 31 players have been spotted participating in training at various stages.",
+      "After doing fitness and conditioning testing in the gym, head coach Ruben Amorim is now overseeing matters out on the grass. United's opening friendly is against Leeds United in Stockholm on July 19 and he will be keen to see his side hit the ground running.",
+      "Pre-season is the ideal time for head coaches to get their ideas across, implement their plans and edge closer towards working out a first-choice starting XI ahead of the competitive action beginning in August.",
+      "With just two new signings through the door so far, Amorim, unless things change quickly between now and a-week-on-Saturday, will not be deploying a team too dissimilar to the one that ended last season in Sweden.",
+      "Matheus Cunha is set to become a guaranteed starter at Old Trafford, occupying the left-sided No.10 spot, while it remains to be seen how big a role left-back Diego Leon could play in his first season at the club.",
+      "United remain hungry to strengthen their attack this summer, prioritising the signings of Brentford star Bryan Mbeumo and out-and-out centre-forward. They are also keen to sign a midfielder and a goalkeeper.",
+      "One area that is not in desperate need of modification, though, is the centre-back department. Despite saying farewell to Jonny Evans and Victor Lindelof at the end of last month, United are still well-stocked at the back.",
+      "As things currently stand, United's senior centre-back options consist of Matthijs de Ligt, Harry Maguire, Lisandro Martinez, Leny Yoro and Ayden Heaven. Youngsters Tyler Fredricson, Godwill Kukonki and Reece Munro are also pushing to enter the first-team conversation on a regular basis.",
+      "Furthermore, Noussair Mazraoui and Luke Shaw, who are both full-backs by trade, have also shown they are capable of operating at centre-back in Amorim's 3-4-2-1 system. They are both highly versatile and are good options to have.",
+      "However, based on how the opening week of pre-season has unfolded, Amorim might have already settled on his preferred back-three ahead of the upcoming clash with Leeds. Neither Martinez, who is still recovering from a long-term anterior cruciate ligament (ACL) injury, or Maguire have been spotted at Carrington in images released by the club.",
+      "On the flip side, De Ligt, Yoro and Heaven have all been present. The trio have joined United within the last 12 months and have a very realistic chance of trying to establish themselves as the members of Amorim's first-choice defence this pre-season.",
+      "Heaven has put himself in the conversation to become a regular starter at Old Trafford much quicker than anyone could have anticipated after his arrival from Arsenal at the beginning of February. He had made just one senior appearance for the Gunners, meaning it was surprising United immediately considered him as a first-team player.",
+      "However, his performances quickly backed up their thinking. He has not put a foot wrong since arriving at Old Trafford, offering an excellent reading of the game, tremendous ability on the ball and so much more. Additionally, he is also left-footed.",
+      "With Martinez still sidelined, the left-sided centre-back spot is Heaven's to lose this summer. However, Yoro produced some excellent performances on the left towards the end of last term and he could also creep into Amorim's thinking.",
+      "When United transitioned to a back-three last November, Yoro was immediately tipped to become Amorim's first-choice right-sided centre-back. That situation could still transpire amid Heaven's suitability on the left.",
+      "De Ligt is capable of playing on either the right or in the centre of the defence, meaning he is equally comfortable in two roles. But with Maguire yet to have been spotted in training, the Dutchman could find himself starting pre-season in the centre of the defence, flanked by Yoro and Heaven either side of him.",
+      "Yoro and Heaven were signed by United to become mainstays in the defence for years to come and there is a very good chance they could nail down their places over the coming weeks."
     ]
   },
   {
@@ -566,37 +595,6 @@
     ]
   },
   {
-    "headline": "Manchester United are being left behind by their Premier League rivals in the transfer window",
-    "tags": [
-      "Man Utd",
-      "Premier League"
-    ],
-    "link": "https://www.manchestereveningnews.co.uk/sport/football/transfer-news/manchester-united-being-left-behind-32038147",
-    "image": null,
-    "date": "2025-07-11 10:31:00",
-    "source": "manchestereveningnews",
-    "body": [
-      "The summer transfer window was just 14 hours old when Manchester United announced they had reached an agreement with Wolves to sign Matheus Cunha on June 1.",
-      "United triggered the Brazilian's £62.5million release clause and his move to Old Trafford was subject to him obtaining a visa and registration. The deal was officially completed 11 days later.",
-      "During that brief waiting period, United also tabled an opening offer for Brentford star Bryan Mbeumo after learning he wants to move to Old Trafford this summer. Their opening bid, worth £55m, was swiftly rejected.",
-      "United returned with another bid last month, understood to be in excess of £60m, and it appeared as though that would be enough to make the Cameroon international their second summer signing. However, negotiations remain ongoing and supporters are becoming frustrated.",
-      "United are treading a fine line between attempting to strengthen the squad and avoid paying over the odds this summer. Mbeumo scored 20 Premier League goals last summer and Brentford are within their rights to hold out for as high a price as possible.",
-      "As much as United want Mbeumo and as much as he wants to move to M16, the Reds must remain mindful that the clock is ticking. The start of their pre-season tour is just a fortnight away and the start of the new Premier League season will be here before you know it.",
-      "Having first made contact with Brentford just over five weeks ago, United have got themselves involved in an unwanted saga. They wanted to sign Mbeumo in time for the start of pre-season training and that deadline has been and gone.",
-      "With little progress being made on other fronts, United's fast start to the window is becoming a distant memory. Ruben Amorim's side finished 15th in the Premier League last season and the Portuguese chief is desperate to add fresh blood to his squad.",
-      "What makes matters worse for United and their supporters is what is happening elsewhere. After Liverpool and Manchester City made storming starts to the window, signing the likes of Jeremie Frimpong, Florian Wirtz, Rayan Ait-Nouri and Rayan Cherki, Tottenham Hotspur are now flexing their muscless.",
-      "They completed the £55m signing of Mohammed Kudus from West Ham United on Thursday evening and are reportedly closing in on the signing of Nottingham Forest star Morgan Gibbs-White after triggering his £60m release clause.",
-      "Arsenal are also greasing their wheels. After adding Christian Norgaard to the signings of Kepa Arrizabalaga and Martin Zubimendi earlier this week, they are now closing in on the signing of Chelsea winger Noni Madueke. Chelsea, too, have been very busy.",
-      "Circumstances at every club differ, not least financially, and it is no secret United are having to sell in order to buy this summer. That situation is making the task of bringing new faces in much harder.",
-      "Nevertheless, when supporters glance at the business being conducted by the likes of Arsenal, Chelsea, Liverpool, City and Spurs, they are naturally going to become restless and frustrated.",
-      "United were dreadful last season, offering very little in the way of positives, meaning they have no choice but to make the most of this summer's window. It is the most important summer they have faced in their modern history.",
-      "You cannot dismiss the fact United have spent more than £60m on Cunha, a proven Premier League operator who is tailor-made for Amorim's system. They also deserve plaudits for persevering with their quest to sign Mbeumo, who was the fourth-highest goalscorer in the Premier League last season.",
-      "However, as mid-July approaches, supporters can be forgiven for becoming impatient. Other Premier League clubs, many of whom enjoyed a far better season than the Reds did last term, are cracking on with their business at a decent pace.",
-      "Spurs' recent movements have been the tipping point for many, forcing some supporters to pick up their phones and express their feelings on social media. The prospect of signing Kudus and Gibbs-White in the same week is one way to make a statement.",
-      "It would be fantastic to see Mbeumo start the new season in United colours, and many believe the situation has come too far for that not to happen, but the longer this particular saga goes on, United are at an increased risk of being left behind."
-    ]
-  },
-  {
     "headline": "Man United transfer news LIVE - Bryan Mbeumo latest, Alvaro Carreras clause, Dusan Vlahovic talks",
     "tags": [
       "Transfer News",
@@ -604,7 +602,7 @@
     ],
     "link": "https://www.manchestereveningnews.co.uk/sport/football/transfer-news/man-united-transfer-news-live-31904411",
     "image": null,
-    "date": "2025-07-11 14:47:00",
+    "date": "2025-07-11 15:52:00",
     "source": "manchestereveningnews",
     "body": [
       "Hello and welcome to our live blog on the very latest Manchester United transfer news on Friday, July 11.",
@@ -613,6 +611,10 @@
       "Alongside the 25-year-old, United are also exploring the possibility of signing a new striker. A move for Victor Osimhen and Viktor Gyokeres has been mentioned for the majority of the summer but Amorim is facing being short on options.",
       "Free agents Jamie Vardy, Callum Wilson and Dominic Calvert-Lewin have all reportedly been offered to United. A move for either is expected to only be sanctioned closer to the end of the window, if other top targets aren't signed.",
       "Keep across all the latest United transfer news and analysis in our live blog updates below...",
+      "Marcus Rashford has provided an update after arriving at Manchester United's training ground ahead of the start of pre-season.",
+      "Rashford continuing to be linked with a move away from Old Trafford. The 27-year-old spent the second half of last season on loan at Aston Villa, which included a £40million option to buy, which was not activated.",
+      "As a result, Rashford will now return to United this summer and looks set to depart on a permanent deal as he searches for a new club. Amid the speculation about his future, the England international posted a series of videos on his social media platforms.",
+      "MORE HERE.",
       "Chido Obi has been given a new squad number at Manchester United.",
       "The club have confirmed that the striker will wear the No.32 shirt next season, a reward after enjoying his breakthrough campaign with the first-team last term.",
       "Obi made eight appearances for United last season and is expected to make the trip to the United States for pre-season.",
@@ -708,12 +710,64 @@
       "20-year-old Manchester United defender Sonny Aljofree will spend the 2025/26 campaign with League Two club Notts County after the two clubs agreed a deal.",
       "Aljofree spent last season on loan with Accrington Stanley, making 25 appearances in League Two. The defender has also spent time with National League side Altrincham and is a regular ar youth level.",
       "He has captained Man United's U21s side and was part of the 2022 FA You Cup winning squad, playing alongside Kobbie Mainoo and Alejandro Garnacho.",
-      "Aljofree was also part ofthe first-team's pre-season fixtures against Wrexham in 2023 and Rosenborg in 2024.",
-      "Ruben Amorim welcomed back a number of Manchester United stars to pre-season training this week ahead of their 2025-26 Premier League campaign.",
-      "The likes of Rasmus Hojlund and Casemiro were seen entering Carrington training ground this week, as two of the players with an uncertain future.",
-      "Bruno Fernandes and Patrick Dorgu were also among those to retun to training.",
-      "United have delayed Antony, Alejandro Garnacho, Tyrell Malacia, Marcus Rashford and Jadon Sancho's return to training with all five given a period of extended leave to sort transfers away from Old Trafford.",
-      "Welcome back, lads!"
+      "Aljofree was also part ofthe first-team's pre-season fixtures against Wrexham in 2023 and Rosenborg in 2024."
+    ]
+  },
+  {
+    "headline": "Manchester United are being left behind by their Premier League rivals in the transfer window",
+    "tags": [
+      "Man Utd",
+      "Premier League"
+    ],
+    "link": "https://www.manchestereveningnews.co.uk/sport/football/transfer-news/manchester-united-being-left-behind-32038147",
+    "image": null,
+    "date": "2025-07-11 10:31:00",
+    "source": "manchestereveningnews",
+    "body": [
+      "The summer transfer window was just 14 hours old when Manchester United announced they had reached an agreement with Wolves to sign Matheus Cunha on June 1.",
+      "United triggered the Brazilian's £62.5million release clause and his move to Old Trafford was subject to him obtaining a visa and registration. The deal was officially completed 11 days later.",
+      "During that brief waiting period, United also tabled an opening offer for Brentford star Bryan Mbeumo after learning he wants to move to Old Trafford this summer. Their opening bid, worth £55m, was swiftly rejected.",
+      "United returned with another bid last month, understood to be in excess of £60m, and it appeared as though that would be enough to make the Cameroon international their second summer signing. However, negotiations remain ongoing and supporters are becoming frustrated.",
+      "United are treading a fine line between attempting to strengthen the squad and avoid paying over the odds this summer. Mbeumo scored 20 Premier League goals last summer and Brentford are within their rights to hold out for as high a price as possible.",
+      "As much as United want Mbeumo and as much as he wants to move to M16, the Reds must remain mindful that the clock is ticking. The start of their pre-season tour is just a fortnight away and the start of the new Premier League season will be here before you know it.",
+      "Having first made contact with Brentford just over five weeks ago, United have got themselves involved in an unwanted saga. They wanted to sign Mbeumo in time for the start of pre-season training and that deadline has been and gone.",
+      "With little progress being made on other fronts, United's fast start to the window is becoming a distant memory. Ruben Amorim's side finished 15th in the Premier League last season and the Portuguese chief is desperate to add fresh blood to his squad.",
+      "What makes matters worse for United and their supporters is what is happening elsewhere. After Liverpool and Manchester City made storming starts to the window, signing the likes of Jeremie Frimpong, Florian Wirtz, Rayan Ait-Nouri and Rayan Cherki, Tottenham Hotspur are now flexing their muscless.",
+      "They completed the £55m signing of Mohammed Kudus from West Ham United on Thursday evening and are reportedly closing in on the signing of Nottingham Forest star Morgan Gibbs-White after triggering his £60m release clause.",
+      "Arsenal are also greasing their wheels. After adding Christian Norgaard to the signings of Kepa Arrizabalaga and Martin Zubimendi earlier this week, they are now closing in on the signing of Chelsea winger Noni Madueke. Chelsea, too, have been very busy.",
+      "Circumstances at every club differ, not least financially, and it is no secret United are having to sell in order to buy this summer. That situation is making the task of bringing new faces in much harder.",
+      "Nevertheless, when supporters glance at the business being conducted by the likes of Arsenal, Chelsea, Liverpool, City and Spurs, they are naturally going to become restless and frustrated.",
+      "United were dreadful last season, offering very little in the way of positives, meaning they have no choice but to make the most of this summer's window. It is the most important summer they have faced in their modern history.",
+      "You cannot dismiss the fact United have spent more than £60m on Cunha, a proven Premier League operator who is tailor-made for Amorim's system. They also deserve plaudits for persevering with their quest to sign Mbeumo, who was the fourth-highest goalscorer in the Premier League last season.",
+      "However, as mid-July approaches, supporters can be forgiven for becoming impatient. Other Premier League clubs, many of whom enjoyed a far better season than the Reds did last term, are cracking on with their business at a decent pace.",
+      "Spurs' recent movements have been the tipping point for many, forcing some supporters to pick up their phones and express their feelings on social media. The prospect of signing Kudus and Gibbs-White in the same week is one way to make a statement.",
+      "It would be fantastic to see Mbeumo start the new season in United colours, and many believe the situation has come too far for that not to happen, but the longer this particular saga goes on, United are at an increased risk of being left behind."
+    ]
+  },
+  {
+    "headline": "Dream Man United summer transfer window - £85m bombshell, Marcus Rashford exit and big gamble",
+    "tags": [
+      "Rashford"
+    ],
+    "link": "https://www.manchestereveningnews.co.uk/sport/football/transfer-news/dream-man-united-summer-transfer-32039861",
+    "image": null,
+    "date": "2025-07-11 15:30:00",
+    "source": "manchestereveningnews",
+    "body": [
+      "Manchester United's summer transfer window has been hard work so far with Matheus Cunha the only major signing to be completed to date.",
+      "By this point in the summer, Ruben Amorim would have hoped for more deals to have been ticked off ahead of the first match of pre-season a week on Saturday. Friday, August 11, marks 37 days until that opening fixture against Arsenal at Old Trafford and United will hope by then that their squad looks a lot different.",
+      "The big deadline that United will be working towards is Monday, September 1 when the summer transfer window shuts for good. With this in mind, MEN Sport has taken a look at what a dream transfer window would look like between now and Tuesday, September 2, when we are reviewing United's business.",
+      "First on the agenda for United will be to complete the deal for Bryan Mbeumo. The Brentford forward may have played out on the wing predominantly last season but he has the capabilities to play more centrally and we are perhaps all tired of the will he, won't he debate.",
+      "Ultimately, the 25-year-old would be a good addition for United in the face of no European football this season to tempt other targets to switch to Old Trafford. The Reds would have a strong array of options at No.10 if he were to join and the move would put to bed talk that United wasted a large chunk of the window chasing a player they could not attain.",
+      "On Friday, talk intensified surrounding the future of Marcus Rashford. MEN Sport revealed the winger arrived at Carrington this week eight minutes after Amorim left the training facility.",
+      "Rashford has been undertaking an individual training regime at United's hub and has not been with his first-team teammates. After being burnt by Nico Williams, Barcelona look to have set their sights on Rashford and a move to Camp Nou would be ideal for all involved.",
+      "The United academy graduate appears to be keen on the switch and will work with Barca to make that deal happen quickly. For the Reds, the idea of £40m of pure profit will be music to Ineos' ears.",
+      "With Rashford off the books, the plan would be to look at centre-forward options and potentially a move for Hugo Ekitike could be a real statement of intent. United are believed to have enquired about the Eintracht Frankfurt man and discovered they will need to stump up £85m for his signature.",
+      "Only sales would make that move possible for United - perhaps beyond Rashford, which we will get to. But, with one of their wantaways off the books, the Reds could feel encouraged to spend big on a player who is perhaps the closest person to Alexander Isak realistically available.",
+      "As mentioned briefly, United would need to make another couple of sales to fund such a gargantuan bid for Ekitike. The priorities there would be Alejandro Garnacho and Jadon Sancho.",
+      "Both men want to leave Old Trafford and could bring in some good money, particularly Garnacho. Antony would also be a decent player to sell but it feels like United are stuck in the unfortunate position of relying on Real Betis to make a decent bid, making a loan switch perhaps the only logical move.",
+      "Amid all the talk of changes to the attack, the big gamble would be to keep Rasmus Hojlund at Old Trafford. He clearly has a desire to remain in Manchester and fight for his place.",
+      "If he were to stay, it would represent a vote of confidence from Amorim and perhaps that Hojlund has turned over a new leaf after the disastrous second season. Once again, it would be a big gamble but if Amorim is willing to take it, it would be a dream scenario for the Reds."
     ]
   },
   {
@@ -843,46 +897,49 @@
     ]
   },
   {
-    "headline": "Marcus Rashford to Barcelona transfer latest - Man United get fresh update as approval 'given'",
-    "tags": [
-      "Rashford"
-    ],
-    "link": "https://www.manchestereveningnews.co.uk/sport/football/football-news/marcus-rashford-barcelona-transfer-latest-32039878",
+    "headline": "RAILSTON: United set to make major change as transfer strategy overhaul explained",
+    "tags": [],
+    "link": "https://www.manchestereveningnews.co.uk/sport/football/football-news/manchester-united-set-make-major-32029953",
     "image": null,
-    "date": "2025-07-11 13:30:00",
+    "date": null,
     "source": "manchestereveningnews",
     "body": [
-      "The latest developments involving Marcus Rashford and Barcelona could give the winger hope of securing his dream move.",
-      "The 27-year-old, who spent the second half of the season at Aston Villa, has returned to Manchester. However, his time at M16 appears to be coming to an end as he is not in Ruben Amorim's plans for the 2025/26 season.",
-      "New signing Matheus Cunha has been given the No.10 shirt, previously worn by the England international.",
-      "With new reports emerging, the MEN Sport has taken a look at the latest surrounding Rashford.",
-      "According to Sky Germany's Florian Plettenberg, Rashford is a 'priority' target for Barcelona. They are said to be 'prepared' to sign him and go 'all-in' to secure a deal for the 27-year-old.",
-      "Barcelona manager Hansi Flick has reportedly approved the potential signing of Rashford this summer.",
-      "According to Spanish journalist Matteo Moretto, fresh talks between the two clubs are expected in the coming days, with Rashford still favouring a move to the Catalan side.",
-      "Barcelona sporting director Deco has previously expressed his admiration for both Marcus Rashford and Liverpool star Luis Diaz.",
-      "\"We like Luis [Diaz], we like [Marcus] Rashford, and we like other players,\" Deco previously told Catalan radio station RAC1.",
-      "The player also wishes to play Champions League football in the forthcoming campaign - which Barcelona can offer.",
-      "On Thursday, Rashford drove into Carrington on Thursday to train on his own again.",
-      "He arrived at the training centre 4.47pm, eight minutes after Ruben Amorim had departed. United sources have said the 27-year-old has been training in the afternoons on an individual basis this week.",
-      "Taking to social media on Friday morning, the England international shared a video of himself training in the gym."
+      "Manchester United are searching for a head of senior recruitment as part of the club's transfer strategy overhaul.",
+      "The new role will involve overseeing the senior scouts and reporting back to Christopher Vivell.",
+      "Vivell joined United on a temporary basis last year and was appointed permanently as the director of recruitment in February. He oversees the club's recruitment network and reports to the director of football, Jason Wilcox.",
+      "United will also have a regional heads of emerging talent across the main talent pools globally.",
+      "Club sources have said the appointments are part of the ongoing restructuring and modernisation of the scouting network at Old Trafford, which has recently been streamlined under Vivell.",
+      "United plan to retain significant human scouting and analytical capabilities, particularly focused on emerging talent, with strengthened data support, amid the changes to the network.",
+      "Sportsology, a United States-based sports intelligence consultancy, are supporting United on the hires.",
+      "The consultancy firm have worked with MLS sides Inter Miami and FC Cincinnati, and NFL franchises such as the San Francisco 49ers, the Philadelphia Eagles and Los Angeles Rams.",
+      "United sources have previously said they want Vivell to take ownership of the reduced scouting network after years of poor business in the transfer market.",
+      "United's scouting network was once so bloated it was in excess of 100 scouts but dozens have left the club across the two rounds of redundancies over the past 12 months.",
+      "Vivell, 38, previously worked at RB Leipzig and Chelsea, where he was the technical director for only six months."
     ]
   },
   {
-    "headline": "Man United just prepared Bryan Mbeumo welcome gift as transfer saga continues",
-    "tags": [],
-    "link": "https://www.manchestereveningnews.co.uk/sport/football/transfer-news/man-united-just-prepared-bryan-32038793",
+    "headline": "Manchester United star has 37 days to convince Ruben Amorim not to make £60m transfer",
+    "tags": [
+      "Man Utd",
+      "Amorim"
+    ],
+    "link": "https://www.manchestereveningnews.co.uk/sport/football/transfer-news/manchester-united-star-37-days-32036197",
     "image": null,
-    "date": "2025-07-11 12:30:00",
+    "date": "2025-07-10 19:00:00",
     "source": "manchestereveningnews",
     "body": [
-      "This week has been defined by reports that Bryan Mbeumo is becoming frustrated by the lack of progress on his move from Brentford to Manchester United.",
-      "Throughout the summer, MEN Sport has understood that Mbeumo will only leave the Bees if it is to join United. Even the arrival of Thomas Frank at Tottenham Hotspur hasn't changed that fact.",
-      "And yet, a deal has not progressed beyond the negotiation phase. Mbeumo remains a Brentford player after they rejected two bids from United for the Cameroonian.",
-      "The Reds seemingly cannot match Brentford's valuation of the forward but instead of moving on, they remain confident that a deal can be agreed. As those negotiations continue at a painful speed, reports have come out of Mbeumo's 'frustration' - with one of his international coaches later confirming the Brentford man's feelings around the current situation.",
-      "However, as the transfer saga continues to rumble on, a new welcome gift has been prepared by the club on the off chance that Mbeumo does move to United. Since Raphael Varane left the club in 2024, the number 19 shirt has been available at the club.",
-      "This could be Mbeumo's first choice number to wear should he join the club, considering he has consistently chosen that squad number during his professional domestic career. On Thursday, United went and provided him with choice by freeing up the No.20 for the forthcoming season.",
-      "Diogo Dalot had represented that number during his career but has been handed a perceived upgrade by inheriting the No.2 which was vacated by Victor Lindelof upon his departure from Old Trafford. Mbeumo has consistently worn the No.20 on international duty for Cameroon and should he fancy a change from No.19, that could be his go-to choice.",
-      "This may end up being trivial if United cannot break the deadlock currently in place with Brentford. Whether they make that breakthrough or not, United will be hopeful that a conclusion can be reached sooner rather than later."
+      "Arriving at Carrington on Thursday morning, Rasmus Hojlund showed no signs of a Manchester United player feeling the pressure of expectation this summer.",
+      "Sporting a Michael Jordan graphic t-shirt, Hojlund will hope that he can embody the Chicago Bulls legend at Old Trafford this season. However, time is of the essence to prove that to his own Phil Jackson - Ruben Amorim.",
+      "Last season was one that is best forgotten from Hojlund's perspective. While his performances in the Europa League were manageable, it was the Premier League that proved to be his nemesis.",
+      "Hojlund has shown he can score in the English top flight, with his ten in 30 appearances during the Dane's debut campaign being evidence of that. But with all those struggling around him, the 22-year-old wilted as United plummeted.",
+      "The rhetoric surrounding the club this summer has been the need to sign a centre-forward. Hojlund has been linked to the exit door to make that happen despite insisting that he expects to stay at United this summer.",
+      "Whether he leaves or not, a new centre-forward is certainly needed. Joshua Zirkzee clearly plays better in the No.10 role and even if Amorim is going to persevere with him as a striker, at least one new centre-forward is needed to provide decent cover to the team.",
+      "On Friday, there are just 37 days remaining before the start of the Premier League season. Before then, United will face four Premier League opponents and Fiorentina to prepare for that opening day against Arsenal.",
+      "During this timeline, Hojlund will need to prove to Amorim that he can be trusted to be the main striker. If he can do that, the Portuguese could save himself £60m or more in transfer fees.",
+      "Strikers at the top of their games this summer have all been valued around this mark. Ollie Watkins, Victor Osimhen and Viktor Gyokeres could all improve United but will cost a king's ransom.",
+      "However, if Hojlund proves himself to be capable of being a main striker who can reliably score, a move for a free agent could be seen as viable for Amorim. Signing a player like Callum Wilson or Jamie Vardy could be ideal for United and provide the Dane with a valuable partner to learn from.",
+      "But these are all big ifs at the moment. Based on last season, Amorim will feel as though he needs to spend big to strengthen his attack.",
+      "Only Hojlund can change his mind."
     ]
   },
   {
@@ -994,45 +1051,96 @@
     ]
   },
   {
-    "headline": "Ollie Watkins responds to Mason Mount update amid Man United transfer links",
+    "headline": "Man Utd transfer hint? Door swings open for Amorim to land replacement for flop he ‘wants out’",
     "tags": [
-      "Mason Mount"
+      "Man Utd",
+      "Amorim"
     ],
-    "link": "https://www.manchestereveningnews.co.uk/sport/football/transfer-news/ollie-watkins-responds-mason-mount-32036393",
-    "image": null,
-    "date": null,
-    "source": "manchestereveningnews",
+    "link": "https://www.football365.com/news/man-utd-transfer-hint-door-swings-open-amorim-replacment-onana-wants-out",
+    "image": "https://images.ps-aws.com/c?url=https%3A%2F%2Fd2x51gyc4ptf2q.cloudfront.net%2Fcontent%2Fuploads%2F2025%2F05%2F23133544%2FManchester-United-coach-Ruben-Amorim-1320x742.jpg",
+    "date": "2025-07-11 14:38:52",
+    "source": "football365",
     "body": [
-      "Ollie Watkins has reacted to Mason Mount’s social media post after his return to pre-season training with Manchester United.",
-      "With signing a striker among the priorities, Watkins has been linked with a move to Old Trafford in recent weeks, but is just one of several potential targets to have been mentioned. However, the 29-year-old has also reportedly been subject of interest from Newcastle United this summer.",
-      "This week, The Mail reported that Newcastle had entered the race to sign Watkins as they search for a new attacking option. United has already missed out on the signing of Liam Delap who chose to join Chelsea instead.",
-      "Amid speculation surrounding the Aston Villa striker's future, Watkins has 'liked' an Instagram post from Mount. The United midfielder shared several captionless photos from his return to training on the platform.",
-      "Mount saw his campaign last season disrupted by injury, first picking up a setback in December against Manchester City in the Manchester derby and he was sidelined until mid-March. He later made his first start of 2025 against Brentford in May.",
-      "In addition to Watkins, Bruno Fernandes and Matheus Cunha were spotted in the comments.",
-      "The Reds captain simply responded with a GiF of young David Beckham during his days at the club - potentially referencing Mount's No.7 squad number.",
-      "Cunha on the other hand, replied with the index pointing, love heart and fire emojis. The Brazilian completed a £62.5million move to Old Trafford from Wolverhampton Wanderers this summer."
+      "Man Utd could have a chance of signing Emiliano Martinez this summer as Aston Villa prepare to announce a new goalkeeper signing, according to reports.",
+      "The Red Devils had a nightmare season in the Premier League with Ruben Amorim’s side finishing 15th in the table and failed to qualify for Europe.",
+      "Man Utd had a last-gasp chance to qualify for next season’s Champions League but blew it when they lost 1-0 to Tottenham in the Europa League final.",
+      "Despite their awful season, INEOS and Sir Jim Ratcliffe have decided to stick with Amorim as they provide summer support for transfers.",
+      "They want to give the former Sporting CP head coach with the tools to be able to implement his style of play effectively and they will back him in the transfer market.",
+      "Man Utd have already brought in Wolves forward Matheus Cunha for £62.5m as they look to improve his attack, while Brentford’s Bryan Mbeumo is another player they have made a bids for.",
+      "READ: Transfer rumour ranking: Man Utd to get top striker for free? Rashford’s Barca boost…",
+      "The Red Devils need to improve all over the pitch ahead of next season but one player who has come in for lots of criticism this season is goalkeeper Andre Onana.",
+      "There were rumours earlier this year that Amorim now ‘wants him out’ of Old Trafford and is looking for a new goalkeeper before next season.",
+      "And now Argentina international Martinez – who has been brilliant for Aston Villa over the past five years – has been linked with a summer move to Old Trafford.",
+      "Both Martinez and Leon Bailey were in tears at the end of Aston Villa’s 2-0 win over Tottenham at the end of the season, leading to speculation that both players could be leaving in the summer.",
+      "Responding to those rumours, Aston Villa boss Unai Emery did little to persuade journalists otherwise, he said: “Of course, it is the last match (of the season) here, and I don’t know.",
+      "“We will see about the team, the players, but of course, they are responding on the field, at the moment they are responding and they are so, so focused in how we are preparing and playing each match.",
+      "“Of course, Leon Bailey is playing now less because other players are responding very well. They are performing well.”",
+      "And now the Daily Mirror claim that Aston Villa are ‘closing in on goalkeeper transfer’ in an ‘exit hint’ for Martinez with Dutch goalkeeper Marco Bizot set to arrive.",
+      "Bizot, who is a full Netherlands international, is set to arrive from French club Brest and is ‘keen to play in the Premier League and ready for a new challenge’.",
+      "It is understood that Aston Villa boss Emery is ‘looking for a new keeper with uncertainty over Argentina keeper Martinez’s long term future’ with Man Utd mentioned as wanting the Argentina international.",
+      "READ NEXT: Mailbox: Prime Messi and Ronaldo would ‘turn poo’ at joke club Man Utd",
+      "According to reports, a Chelsea “hijack” on Manchester United for a £45m Premier League is “looking likely” during this summer’s transfer window.",
+      "Andre Onana only joined Untied two years ago but already looks to be heading out the door if the club get their way.",
+      "Man Utd are ‘back in’ for Botafogo goalkeeper John in the summer transfer window after his performance at the Club World Cup, according to reports.",
+      "Man Utd are prepared to allow Andre Onana to leave on loan and Ruben Amorim has his ‘ideal’ replacement in mind, according to reports.",
+      "Chelsea have been ‘offered’ Emiliano Martinez for £45m amid Man Utd interest, but Fabrizio Romano says the Blues are focusing elsewhere.",
+      "According to reports, Manchester United are being forced to ‘turn to an alternative’ as they are ‘increasingly unlikely’ to land one transfer target."
     ]
   },
   {
-    "headline": "Cristiano Ronaldo 'changed' Sir Alex Ferguson as Man United icon lifts dressing room lid",
+    "headline": "Transfer rumour ranking: Man Utd to get top striker for free? Forest fuming over leak",
     "tags": [
-      "Ferguson",
-      "Ronaldo"
+      "Man Utd"
     ],
-    "link": "https://www.manchestereveningnews.co.uk/sport/football/football-news/cristiano-ronaldo-changed-sir-alex-32034725",
-    "image": null,
-    "date": null,
-    "source": "manchestereveningnews",
+    "link": "https://www.football365.com/news/summer-transfer-rumours-power-ranking-arsenal-liverpool-man-utd",
+    "image": "https://images.ps-aws.com/c?url=https%3A%2F%2Fd2x51gyc4ptf2q.cloudfront.net%2Fcontent%2Fuploads%2F2025%2F07%2F11103006%2FVlahovic-rumours-1-638x358.jpg",
+    "date": "2025-07-11 14:06:48",
+    "source": "football365",
     "body": [
-      "Few Manchester United players were spared Sir Alex Ferguson's legendary 'hairdryer' treatment.",
-      "The iconic manager's fiery temper was as well-known as his managerial success, with incidents like the flying football boot that injured David Beckham and Ruud van Nistelrooy's dressing-down for swapping shirts after a derby loss.",
-      "Yet, it appears some players were exempt from such confrontations. Eric Cantona, despite his infamous kung-fu kick incident at Crystal Palace, seemed to sidestep such disputes.",
-      "Cristiano Ronaldo was also treated delicately by Ferguson, a strategy that seemed to work wonders given Ronaldo's accomplishments at Old Trafford. This softer approach towards certain players may have been influenced by an altercation with Ronaldo, as former club captain Nemanja Vidic, who made 300 appearances for United, suggested. Speaking on The Overlap, Vidic reflected on his time at the club from 2005 to 2014.",
-      "\"With the manager, I never had a close relationship,\" he said, via the Express. \"If he asked me something, I would tell him, but I never had that relationship. Rio (Ferdinand) or Darren Fletcher would talk more.\".",
-      "Vidic indicated that Ferguson, now 83, recognised that not all players reacted positively to harsh criticism, stating: \"What he realised, it's not that he didn't shout at me because he was scared of anyone, but he realised that with certain players, it would not help if he's shouting.",
-      "\"I think he changed that after he shouted at Cristiano Ronaldo. I don't think Ronaldo took it well, maybe good for the English and British players, but he was careful with the foreign players.\"",
-      "Ferguson secured 13 Premier League titles throughout his tenure, along with two Champions League trophies and numerous domestic honours. He has certainly maintained Ronaldo's admiration well beyond the Portuguese star's departure for Real Madrid in summer 2009.",
-      "The 40-year-old continues to address his former boss as exactly that - \"boss.\" He described Ferguson as a \"father figure\" during his formative years, having arrived at United from Sporting CP at the age of just 18."
+      "Jordan Henderson is heading to London, while Barcelona have decided to give Marcus Rashford the move he craves. But can they give Manchester United what they want?",
+      "With so much transfer talk doing the rounds, we’re here through the summer to sift through the bullsh*t and highlight the whispers that might have some substance.",
+      "Each day we’re ranking the top 20 rumours involving Premier League clubs, the higher the link, the more likely we feel they are to become done deals.",
+      "So we start with the tittle-tattle…",
+      "",
+      "20) 🆕 Khvicha Kvaratskhelia – PSG to Liverpool\nThe story goes that Liverpool will ‘consider’ a move for Kvaratskhelia if they receive a ‘substantially’ better offer from Barca or Bayern for Luis Diaz, who they see as ‘a more proven player’ than the Georgian star, who only joined PSG in January before winning the lot. We know we ought to be more mature and offer a more considered response, but all we’ve got is: Ha ha ha ha ha ha ha ha ha ha.",
+      "",
+      "19) 🔽 Benjamin Sesko – RB Leipzig to Arsenal\nArsenal, finally, appear to have chosen a lane, one that takes them to Gyokeres’ door. We would never rule out a sharp U-turn, but Sesko’s hopes of joining Arsenal this summer have never seemed as slim as they appear right now.",
+      "MORE ON THE SUMMER 2025 TRANSFER WINDOW\n👉 Every Premier League transfer and release confirmed in the summer of 2025\n👉 Twenty biggest transfers in the world in 2025 summer transfer window",
+      "",
+      "18) Jadon Sancho – Manchester United to Juventus\nDespite speculation that Juve preferred a permanent move for Francisco Conceicao, many reports suggest a deal has been agreed with United and it’s now down to Sancho to decide if how much he might be prepared to sacrifice to kickstart his career. The signs so far: not much…",
+      "",
+      "17) 🔼 Dusan Vlahovic – Juventus to Manchester United\nJuve’s problem here is similar to United’s with Sancho: they owe the player another year of a huge salary. But Vlahovic may be prepared to forego it if Juve simply cut him loose and allow him to find a contract elsewhere as a free-agent. Which would certainly suit United.",
+      "",
+      "16) Marc Guehi – Crystal Palace to Liverpool\nWith a year left on his contract and a renewal unlikely, Palace are willing to cash in on their captain – but Liverpool won’t pay the £50million or so the Eagles are demanding. Currently, we are at stalemate. Liverpool don’t seem twitchy yet, but they are keeping the lines of communication open.",
+      "",
+      "15) 🆕 Yoane Wissa – Brentford to Nottingham Forest\nBrentford won’t sell Wissa and Mbeumo, which surely means Forest’s failed bid for the former will give Manchester United a kick up the backside in their pursuit of the latter…right?",
+      "",
+      "14) 🔽 Cristhian Mosquera – Valencia to Arsenal\nArsenal had one bid rejected for the 2024 Golden Boy-shortlisted defender but they remain in talks with Valencia. Which don’t appear to be going well.",
+      "",
+      "13) 🔽 Sean Longstaff – Newcastle to Leeds\nAh. It was initially thought Newcastle had accepted what was thought to be Leeds’ best and final offer, worth £10million plus add-ons, but it seems not. The Toon clearly feel they can squeeze more out of Leeds. Though probably not the £50million Man Utd were once quoted by Mike Ashley.",
+      "",
+      "12) Eberechi Eze – Crystal Palace to Arsenal\nArsenal have met with Eze’s representatives and the player is said to be keen on the prospect of moving to the Emirates. Arsenal’s next call ought to be to Palace, who will tell the Gunners they expect Eze’s £67.5million release clause to be paid in full, not as a part-exchange deal involving players we can’t be sure actually exist.",
+      "",
+      "11) Djordje Petrovic – Chelsea to Bournemouth\nSunderland have expressed an interest in signing Petrovic, who impressed on loan at Strasbourg last season, but it’s Bournemouth who are in the driving seat. Andoni Iraola needs a new goalkeeper and his side have made an offer, according to Fabrizio Romano, who says the Serbian goalkeeper is ‘keen on the move’. You can’t blame him; it’s an opportunity to become the No.1 at a mid-table Premier League team.",
+      "",
+      "10) 🔼 Marcus Rashford – Manchester United to Barcelona\nWith Nico Williams signing a new contract with Athletic Bilbao and Liverpool ignoring interest in Luis Diaz, Rashford is said to have found himself at the top of Barca’s wish-list and the Catalans are ready to go ‘all in’. Unfortunately for Barca – and United – ‘all’ doesn’t amount to much these days. Rashford wants the move and, most likely, United will be paying him to play as a loanee at the Nou Camp next season.",
+      "",
+      "9) Bryan Mbeumo – Brentford to Manchester United\nUnited were confident of getting a deal done before now, with a big chunk of Ruben Amorim’s squad due back for pre-season on July 7, but still we wait. The beauty of missing your own deadline is you can simply set another. And another if need be. The latest guess for when United want Mbeumo on board is July 22 when they fly off to the United States.",
+      "",
+      "8) 🔼 Darwin Nunez – Liverpool to Napoli\nNapoli are ready to pay £43million plus about £4.4million for Nunez, who will be offered £100k a week after tax, which represents a slight raise on what he trousers at Anfield. Liverpool might get more from Saudi but, wisely, the Kop’s Captain Chaos prefers to stay in Europe for now. That Galatasaray are now ready to meet Napoli’s demands for Victor Osimhen ought to speed this up.",
+      "",
+      "7) James Trafford – Burnley to Newcastle\nThis has been going on for over a year but Newcastle are likely to get this done – finally – once the two clubs stop faffing and agree on all the T&Cs around a £30million deal.",
+      "",
+      "6) 🔽 Viktor Gyokeres – Sporting to Arsenal\nSo many claims and counter claims now, we’ve almost given up trying to keep up. The latest: Arsenal have offered £56million, with £4.3million then £8.6million in add-ons, which could take the total to £69million. But Sporting aren’t interested in bonuses; they are insisting on £60million up front. Just pay it, FFS, Arsenal and complete that jigsaw. They will. We think. Won’t they?",
+      "",
+      "5) 🔼 Evan Ferguson – Brighton to Roma\nAfter a loan spell at West Ham in which he did absolutely nothing, Ferguson is now mulling over an opportunity to join Roma on loan, with some claiming the Italians will retain the option to buy. Sounds like a great opportunity for a striker once rated at £100million to kickstart his stalling career.",
+      "",
+      "",
+      "3) 🆕 Jordan Henderson – Ajax to Brentford\nNo romantic return to Sunderland, who are a bit busy signing everyone else, Henderson is reportedly close to signing for Brentford to replace Arsenal new boy Christian Norgaard. Thomas Tuchel will be chuffed, and so will Arne Slot, since Henderson will probably refuse to tackle any Liverpool player out of #respect.",
+      "",
+      "2) 🔼 Noni Madueke – Chelsea to Arsenal\nChelsea have agreed a fee with Arsenal – £52m, says Orny – and the winger has been given permission to fly back before the Club World Cup final to have a medical with the Gunners. Which will prompt some screeching U-turns among the Arsenal fan base, you would expect.",
+      "",
+      "1) 🔼 Anthony Elanga – Nottingham Forest to Newcastle\nNewcastle have finally reached an agreement with Forest worth £52million plus add-ons and Elanga is apparently in the North-East for a medical."
     ]
   },
   {
@@ -1041,7 +1149,7 @@
       "Premier League"
     ],
     "link": "https://www.football365.com/news/every-premier-league-transfer-release-completed-summer-2025",
-    "image": "https://images.ps-aws.com/c?url=https%3A%2F%2Fd2x51gyc4ptf2q.cloudfront.net%2Fcontent%2Fuploads%2F2025%2F07%2F10172616%2FCompleted-transfers-F365-1320x742.jpg",
+    "image": "https://images.ps-aws.com/c?url=https%3A%2F%2Fd2x51gyc4ptf2q.cloudfront.net%2Fcontent%2Fuploads%2F2025%2F07%2F10172616%2FCompleted-transfers-F365-638x358.jpg",
     "date": "2025-07-11 13:21:30",
     "source": "football365",
     "body": [
@@ -1244,7 +1352,7 @@
       "Man Utd"
     ],
     "link": "https://www.football365.com/news/man-utd-transfer-green-light-barcelona-rashford-flick-number-one-target",
-    "image": "https://images.ps-aws.com/c?url=https%3A%2F%2Fd2x51gyc4ptf2q.cloudfront.net%2Fcontent%2Fuploads%2F2025%2F05%2F02080758%2FRuben-Amorim-Man-Utd-F365-49-638x358.jpg",
+    "image": "https://www.football365.com/content/themes/f365-sportsui/img/png/placeholder.png",
     "date": "2025-07-11 09:53:55",
     "source": "football365",
     "body": [
@@ -1267,64 +1375,6 @@
       "A Man Utd star has ‘gained strength in recent hours’ in the Barcelona offices and no, it’s not poor old Marcus Rashford.",
       "According to reports, one Manchester United transfer has been ‘approved’, while the Red Devils ‘want to sign’ a 27-goal striker.",
       "According to reports, one key issue is preventing Manchester United from completing a double deal worth around £65m in a triple blow for the Red Devils."
-    ]
-  },
-  {
-    "headline": "Transfer rumour ranking: Man Utd to get top striker for free? Rashford’s Barca boost…",
-    "tags": [
-      "Man Utd",
-      "Rashford"
-    ],
-    "link": "https://www.football365.com/news/summer-transfer-rumours-power-ranking-arsenal-liverpool-man-utd",
-    "image": "https://images.ps-aws.com/c?url=https%3A%2F%2Fd2x51gyc4ptf2q.cloudfront.net%2Fcontent%2Fuploads%2F2025%2F07%2F11103006%2FVlahovic-rumours-1-638x358.jpg",
-    "date": "2025-07-11 09:17:48",
-    "source": "football365",
-    "body": [
-      "Jordan Henderson is heading to London, while Barcelona have decided to give Marcus Rashford the move he craves. But can they give Manchester United what they want?",
-      "With so much transfer talk doing the rounds, we’re here through the summer to sift through the bullsh*t and highlight the whispers that might have some substance.",
-      "Each day we’re ranking the top 20 rumours involving Premier League clubs, the higher the link, the more likely we feel they are to become done deals.",
-      "So we start with the tittle-tattle…",
-      "",
-      "20) 🆕 Khvicha Kvaratskhelia – PSG to Liverpool\nThe story goes that Liverpool will ‘consider’ a move for Kvaratskhelia if they receive a ‘substantially’ better offer from Barca or Bayern for Luis Diaz, who they see as ‘a more proven player’ than the Georgian star, who only joined PSG in January before winning the lot. We know we ought to be more mature and offer a more considered response, but all we’ve got is: Ha ha ha ha ha ha ha ha ha ha.",
-      "",
-      "19) 🔽 Benjamin Sesko – RB Leipzig to Arsenal\nArsenal, finally, appear to have chosen a lane, one that takes them to Gyokeres’ door. We would never rule out a sharp U-turn, but Sesko’s hopes of joining Arsenal this summer have never seemed as slim as they appear right now.",
-      "MORE ON THE SUMMER 2025 TRANSFER WINDOW\n👉 Every Premier League transfer and release confirmed in the summer of 2025\n👉 Twenty biggest transfers in the world in 2025 summer transfer window",
-      "",
-      "18) Jadon Sancho – Manchester United to Juventus\nDespite speculation that Juve preferred a permanent move for Francisco Conceicao, many reports suggest a deal has been agreed with United and it’s now down to Sancho to decide if how much he might be prepared to sacrifice to kickstart his career. The signs so far: not much…",
-      "",
-      "17) 🔼 Dusan Vlahovic – Juventus to Manchester United\nJuve’s problem here is similar to United’s with Sancho: they owe the player another year of a huge salary. But Vlahovic may be prepared to forego it if Juve simply cut him loose and allow him to find a contract elsewhere as a free-agent. Which would certainly suit United.",
-      "",
-      "16) Marc Guehi – Crystal Palace to Liverpool\nWith a year left on his contract and a renewal unlikely, Palace are willing to cash in on their captain – but Liverpool won’t pay the £50million or so the Eagles are demanding. Currently, we are at stalemate. Liverpool don’t seem twitchy yet, but they are keeping the lines of communication open.",
-      "",
-      "15) 🆕 Yoane Wissa – Brentford to Nottingham Forest\nBrentford won’t sell Wissa and Mbeumo, which surely means Forest’s failed bid for the former will give Manchester United a kick up the backside in their pursuit of the latter…right?",
-      "",
-      "14) 🔽 Cristhian Mosquera – Valencia to Arsenal\nArsenal had one bid rejected for the 2024 Golden Boy-shortlisted defender but they remain in talks with Valencia. Which don’t appear to be going well.",
-      "",
-      "13) 🔽 Sean Longstaff – Newcastle to Leeds\nAh. It was initially thought Newcastle had accepted what was thought to be Leeds’ best and final offer, worth £10million plus add-ons, but it seems not. The Toon clearly feel they can squeeze more out of Leeds. Though probably not the £50million Man Utd were once quoted by Mike Ashley.",
-      "",
-      "12) Eberechi Eze – Crystal Palace to Arsenal\nArsenal have met with Eze’s representatives and the player is said to be keen on the prospect of moving to the Emirates. Arsenal’s next call ought to be to Palace, who will tell the Gunners they expect Eze’s £67.5million release clause to be paid in full, not as a part-exchange deal involving players we can’t be sure actually exist.",
-      "",
-      "11) Djordje Petrovic – Chelsea to Bournemouth\nSunderland have expressed an interest in signing Petrovic, who impressed on loan at Strasbourg last season, but it’s Bournemouth who are in the driving seat. Andoni Iraola needs a new goalkeeper and his side have made an offer, according to Fabrizio Romano, who says the Serbian goalkeeper is ‘keen on the move’. You can’t blame him; it’s an opportunity to become the No.1 at a mid-table Premier League team.",
-      "",
-      "10) 🔼 Marcus Rashford – Manchester United to Barcelona\nWith Nico Williams signing a new contract with Athletic Bilbao and Liverpool ignoring interest in Luis Diaz, Rashford is said to have found himself at the top of Barca’s wish-list and the Catalans are ready to go ‘all in’. Unfortunately for Barca – and United – ‘all’ doesn’t amount to much these days. Rashford wants the move and, most likely, United will be paying him to play as a loanee at the Nou Camp next season.",
-      "",
-      "9) Bryan Mbeumo – Brentford to Manchester United\nUnited were confident of getting a deal done before now, with a big chunk of Ruben Amorim’s squad due back for pre-season on July 7, but still we wait. The beauty of missing your own deadline is you can simply set another. And another if need be. The latest guess for when United want Mbeumo on board is July 22 when they fly off to the United States.",
-      "",
-      "8) 🔼 Darwin Nunez – Liverpool to Napoli\nNapoli are ready to pay £43million plus about £4.4million for Nunez, who will be offered £100k a week after tax, which represents a slight raise on what he trousers at Anfield. Liverpool might get more from Saudi but, wisely, the Kop’s Captain Chaos prefers to stay in Europe for now. That Galatasaray are now ready to meet Napoli’s demands for Victor Osimhen ought to speed this up.",
-      "",
-      "7) James Trafford – Burnley to Newcastle\nThis has been going on for over a year but Newcastle are likely to get this done – finally – once the two clubs stop faffing and agree on all the T&Cs around a £30million deal.",
-      "",
-      "6) 🔽 Viktor Gyokeres – Sporting to Arsenal\nSo many claims and counter claims now, we’ve almost given up trying to keep up. The latest: Arsenal have offered £56million, with £4.3million then £8.6million in add-ons, which could take the total to £69million. But Sporting aren’t interested in bonuses; they are insisting on £60million up front. Just pay it, FFS, Arsenal and complete that jigsaw. They will. We think. Won’t they?",
-      "",
-      "5) 🔼 Evan Ferguson – Brighton to Roma\nAfter a loan spell at West Ham in which he did absolutely nothing, Ferguson is now mulling over an opportunity to join Roma on loan, with some claiming the Italians will retain the option to buy. Sounds like a great opportunity for a striker once rated at £100million to kickstart his stalling career.",
-      "",
-      "4) 🆕 Jordan Henderson – Ajax to Brentford\nNo romantic return to Sunderland, who are a bit busy signing everyone else, Henderson is reportedly close to signing for Brentford to replace Arsenal new boy Christian Norgaard. Thomas Tuchel will be chuffed, and so will Arne Slot, since Henderson will probably refuse to tackle any Liverpool player out of #respect.",
-      "",
-      "3) 🔼 Noni Madueke – Chelsea to Arsenal\nMadueke appears to be the most achievable left winger target, assuming Eberechi Eze is a separate pursuit. Chelsea need to sell, as they seemingly always do, to meet UEFA guidelines and have agreed a fee with Arsenal. £52m, says Orny. Worth it?",
-      "",
-      "2) 🆕 Morgan Gibbs-White – Nottingham Forest to Tottenham\nThis one is moving fast. Who knew Gibbs-White had a £60m release clause in his contract? Because we sure didn’t. He’s set for a medical on Friday.",
-      "",
-      "1) 🔼 Anthony Elanga – Nottingham Forest to Newcastle\nNewcastle have finally reached an agreement with Forest worth £52million plus add-ons and Elanga is apparently in the North-East for a medical."
     ]
   },
   {
@@ -2185,58 +2235,6 @@
       "1) Marc Guehi (Crystal Palace)\nYou can argue about Guehi’s ‘availability’, but with a year left on his contract and interest from Premier League champions Liverpool, Crystal Palace should be open to selling their captain for the right price. Losing him on a free would be disastrous in the eyes of many, though there is a case for keeping him ahead of a Europa League campaign. Is an extra year worth more than a potential £50m transfer fee?",
       "There’s no real competition for Guehi here, in my opinion. He’s absolutely brilliant. He’s the future of England’s defence and deserves to be playing for a Champions League club.",
       "READ NEXT: Palace should be ‘genuinely astounded’ by Arsenal, Liverpool part-exchange offers for Eze and Guehi"
-    ]
-  },
-  {
-    "headline": "Premier League youngsters primed for loans this summer: Chelsea trio, Man City, Man Utd duos…",
-    "tags": [
-      "Man Utd",
-      "Premier League"
-    ],
-    "link": "https://www.football365.com/news/feature-premier-league-youngsters-primed-for-loans",
-    "image": "https://www.football365.com/content/themes/f365-sportsui/img/png/placeholder.png",
-    "date": "2025-07-10 06:22:28",
-    "source": "football365",
-    "body": [
-      "Including Scandinavian starlets Oscar Bobb and Chido Obi, these 10 Premier League youngsters are ready to go out on loan to a domestic rival this season.",
-      "",
-      "Oscar Bobb (Manchester City)\nA serious injury robbed Bobb of the chance to establish himself at Man City, and now he’s further down the midfield pecking order than his ability and potential deserve. We can’t think of a Premier League player more in need of a summer loan. He needs to play to realise that incredible potential, which will benefit both City and Norway in the long run.",
-      "He’s a special player and needs regular first-team football. There’s a strong chance Pep Guardiola looks abroad. Borussia Dortmund seems an excellent fit, though they’ve just signed Jobe Bellingham, while Bayer Leverkusen could also be an option.",
-      "In the Premier League, a mid-table side like Everton, Bournemouth or West Ham would make perfect sense. There’s no doubt Bobb improves those teams, and obviously any of those expected to finish below them. If a newly promoted club like Leeds United manage to get the 21-year-old for the season, they’ll be bloody delighted.",
-      "",
-      "Tyrique George (Chelsea)\nEvil Saka is a cracking player. Effective on the left, right and even through the middle, the 19-year-old winger could hang around and get insufficient minutes at Stamford Bridge, or get regular minutes elsewhere in the Premier League.",
-      "From just 10 starts across all competitions, George has scored three goals and made five assists — a pretty impressive return. He started up front against Manchester United in the Premier League after impressing Enzo Maresca in earlier appearances off the bench.",
-      "George would be a real attacking asset for a bottom-half Premier League team; we’re thinking Wolves or Burnley.",
-      "MORE: Aston Villa and Brighton duos in 10 Premier League loanees ready to shine in 2025/26",
-      "",
-      "Harry Amass (Manchester United)\nOne of the players we suggested Leeds United look at this summer, Amass could be a good fit for any of the promoted trio, or maybe even Crystal Palace as a left-wing-back option following Ben Chilwell’s return to Chelsea after a six-month loan.",
-      "The 18-year-old would surely benefit from being as far away as possible from the Old Trafford dumpster fire. They can learn from the Alvaro Carreras mistake by properly developing Amass and ensuring he doesn’t slip through their fingers with measly buy-back options. They really screwed the pooch there, with Carreras off to Real Madrid as the perfect left-wing-back in Xabi Alonso’s system. Ruben Amorim will be raging.",
-      "",
-      "Mikey Moore (Tottenham)\nA very positive and confident player who’s ready for more minutes than he’s going to get in this Spurs team. It’s maybe a case of quantity over quality, but there’s a lot of competition for places in wide areas, which makes a loan move a sensible option.",
-      "Moore is only 17 and someone Spurs rate very, very highly. Loaning him out at such a young age isn’t crucial for his development, but if it goes well, the upside is gargantuan.",
-      "",
-      "Vitor Reis (Manchester City)\nCity aren’t completely sold on loaning out Reis, just six months after signing him for £30million from Palmeiras. But it does make sense, doesn’t it, lads?",
-      "City have so many centre-back options, and if Reis isn’t loaned out, Abdukodir Khusanov surely will be. The players above the two January signings in the pecking order are Nathan Ake, Josko Gvardiol, John Stones, Ruben Dias and Manuel Akanji.",
-      "MORE: Eight January signings tipped to leave already: Duran to Fenerbahce, £30m Man City teenager…",
-      "",
-      "Dario Essugo (Chelsea)\nHopefully this guy isn’t another Lesley Ugochukwu, who Chelsea are desperate to sell after two years and ends up on loan at a historically s**t Premier League team.",
-      "Essugo has joined from Sporting for £20m and it’s difficult to envision him getting sufficient minutes in a Chelsea midfield that has several options ahead of him in the pecking order.",
-      "He spent last season with Las Palmas in La Liga, playing 27 times, and that experience stands him in good stead to consistently feature in a Premier League team next season.",
-      "",
-      "Chido Obi (Manchester United)\nIt’s anyone’s guess who takes on young Obi, but he has incredible potential and United might view a season of regular first-team football as the best thing for his development. Whatever they decide is best will ultimately turn out to be the worst.",
-      "Similarly to Moore, Obi is at an age where it makes sense to keep him around playing youth football and the occasional first-team minutes. But with no Europa League, there won’t be minutes against clubs from Kazakhstan or a Thursday-Sunday schedule that demands rotation.",
-      "",
-      "Josh Acheampong (Chelsea)\n“My plan for Josh Acheampong is very clear. I want him to stay with us. He’s absolutely part of our project,” said Chelsea boss Enzo Maresca of the 19-year-old defender, who can play right-back, left-back and centre-back.",
-      "A permanent transfer is off the table, but surely Chelsea would be open to loaning Acheampong to another Premier League club to pick up some vital experience before selling him next summer for £25million.",
-      "Crystal Palace have reportedly enquired, which could see Acheampong follow in the footsteps of Ruben Loftus-Cheek and Conor Gallagher by spending time at Selhurst Park on loan from the Blues.",
-      "",
-      "Tom Watson (Brighton)\nThere’s more chance of Watson going to the Championship than another Premier League club, unless he returns to Sunderland for the season.",
-      "The 19-year-old scored the goal that got the Black Cats promoted, netting in injury time in the Championship play-off final against Sheffield United. His only post-season minutes came in that Wembley showpiece — and he made them count.",
-      "",
-      "Eli Junior Kroupi (Bournemouth)\nWe were reluctant to include players who’ve already spent time on loan in their short careers, but Kroupi is more a new signing than a returning loanee. Signed from Lorient in January, the teenage striker stayed where he was for the remainder of the campaign and helped the club win Ligue 2.",
-      "The 19-year-old scored 22 goals in 30 appearances last season to help Lorient win promotion, after scoring five in just over 1,000 minutes in the top flight in 2023/24.",
-      "He’s one for the future, and Bournemouth know it, having spent around £10m to sign him in the winter transfer window.",
-      "The race for Champions League football is the only one going and we’e picked out ten players returning from injury who could strike telling blows."
     ]
   },
   {
