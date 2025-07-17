@@ -1,11 +1,33 @@
 [
   {
+    "headline": "Liverpool close to landing Man Utd coach as worrying Red Devils trend continues",
+    "tags": [
+      "Man Utd",
+      "LIVE"
+    ],
+    "link": "https://www.mirror.co.uk/sport/football/news/liverpool-coach-simon-wiles-manutd-35569842",
+    "image": null,
+    "date": null,
+    "source": "mirror",
+    "body": [
+      "Liverpool are in talks to land coach Simon Wiles from arch rivals Manchester United as the Premier League champions seek to appoint a new coach of their U18 side.",
+      "Wiles is currently working at Old Trafford and is leading the U14s, but is set to cross the divide and go and work at Kirby with the Reds' older age group. It would bring to an end the 40-year-old's relatively brief stint in Manchester, having only joined them in September 2024.",
+      "Liverpool have been on the lookout for a new coach of their youth grade side since Marc Bridge-Wilkinson called time on his decade with the club. They reluctantly accepted his request to leave and he will go and work as an assistant at Huddersfield Town.",
+      "Wiles though is highly rated and the Athletic reports his move is as good as sealed. He previously served as the caretaker boss of Salford City, where Gary Neville is a co-owner.",
+      "His expected departure from Old Trafford is blow and continues the worrying trend of academy coaches who have chosen to leave for improved positions elsewhere, despite proving to be hugely competent in their roles with the Manchester side.",
+      "Justin Cochrane, Paul McShane, Tom Huddlestone, Neil Ryan, and Neil Gittins have all left United in recent years. Neil Wood is also in that category having previously left the youth set-up in Manchester to go and be the boss at Salford.",
+      "Wiles’ first coaching role came in Blackpool’s academy in June 2013, before he decided to put his focus back on his playing career, which later ended in 2018. Once he retired he became an U18s coach for League One club Fleetwood Town and was their interim manager in 2021 after they sacked Joey Barton.",
+      "He left Fleetwood to begin work with Salford in 2022, where he was a first-team coach, which ultimately led to him being hired by United’s academy in September last year. Wiles is expected to work with Anthony Ryan when he joins Liverpool, who will step up from the U15s to become assistant head coach for the U18s.",
+      "Ryan is currently working as Liverpool U18s’ interim boss after Bridge-Wilkinson left. The club's youth side has been effective in recent years with first Jurgen Klopp, and now Arne Slot, often giving the club's teenage talent a chance to impress."
+    ]
+  },
+  {
     "headline": "Bryan Mbeumo to Man Utd transfer U-turn as manager privately changes things",
     "tags": [
       "Man Utd"
     ],
     "link": "https://www.mirror.co.uk/sport/football/transfer-news/man-utd-mbeumo-brentford-andrews-35569567",
-    "image": null,
+    "image": "https://i2-prod.mirror.co.uk/incoming/article35569527.ece/ALTERNATES/n615/1_Brentford-FC-v-Brighton-Hove-Albion-FC-Premier-League.jpg",
     "date": null,
     "source": "mirror",
     "body": [
@@ -49,7 +71,7 @@
       "Man Utd"
     ],
     "link": "https://www.mirror.co.uk/sport/football/transfer-news/ashley-young-next-club-watford-35569339",
-    "image": "https://i2-prod.mirror.co.uk/incoming/article34731334.ece/ALTERNATES/n615/1_GettyImages-2194769838.jpg",
+    "image": null,
     "date": null,
     "source": "mirror",
     "body": [
@@ -71,7 +93,7 @@
       "Garnacho"
     ],
     "link": "https://www.mirror.co.uk/sport/football/transfer-news/marcus-rashford-alejandro-garnacho-united-35569059",
-    "image": null,
+    "image": "https://i2-prod.mirror.co.uk/incoming/article35436783.ece/ALTERNATES/n615/2_GettyImages-2166194626.jpg",
     "date": null,
     "source": "mirror",
     "body": [
@@ -251,7 +273,7 @@
       "Man Utd"
     ],
     "link": "https://www.mirror.co.uk/sport/football/transfer-news/man-utd-transfer-list-psr-35564755",
-    "image": "https://i2-prod.mirror.co.uk/incoming/article35564877.ece/ALTERNATES/n615/0_GettyImages-2190131000-1.jpg",
+    "image": null,
     "date": null,
     "source": "mirror",
     "body": [
@@ -274,7 +296,7 @@
       "Man Utd"
     ],
     "link": "https://www.mirror.co.uk/sport/football/transfer-news/man-utd-brighton-transfer-estupinan-35563449",
-    "image": null,
+    "image": "https://i2-prod.dailystar.co.uk/incoming/article35465007.ece/ALTERNATES/n615/3_Manchester-United-v-Athletic-Club-UEFA-Europa-League-202425-Semi-Final-Second-Leg.jpg",
     "date": null,
     "source": "mirror",
     "body": [
@@ -297,7 +319,7 @@
       "Man Utd"
     ],
     "link": "https://www.mirror.co.uk/sport/football/news/alan-shearer-makes-chelsea-title-35562812",
-    "image": "https://i2-prod.mirror.co.uk/incoming/article35302421.ece/ALTERNATES/n615/1_Alan-Shearer.jpg",
+    "image": null,
     "date": null,
     "source": "mirror",
     "body": [
@@ -378,7 +400,7 @@
       "Rashford"
     ],
     "link": "https://www.mirror.co.uk/sport/football/transfer-news/man-utd-transfer-news-mbeumo-35559460",
-    "image": null,
+    "image": "https://i2-prod.mirror.co.uk/incoming/article35467729.ece/ALTERNATES/n615/0_GettyImages-2205241408-1.jpg",
     "date": null,
     "source": "mirror",
     "body": [
@@ -427,7 +449,7 @@
     "headline": "Why Viktor Gyokeres' team-mates weren't surprised by his behaviour as he faces fine",
     "tags": [],
     "link": "https://www.mirror.co.uk/sport/football/transfer-news/viktor-gyokeres-arsenal-sporting-cp-35559563",
-    "image": "https://i2-prod.dailystar.co.uk/sport/football/article35423464.ece/ALTERNATES/n615/0_GettyImages-2208514782.jpg",
+    "image": null,
     "date": null,
     "source": "mirror",
     "body": [
@@ -466,31 +488,6 @@
       "United opted not to trigger the buy-back clause, although they are said to have received around £7.6m as part of Real’s purchase. Again, United’s decision not to keep or trigger their buy-back option now looks questionable, given that he now resides with the 15-time European champions.",
       "Meanwhile, with just a month to go before the start of the Premier League season, Mbeumo remains a Brentford player, with the two clubs seemingly no closer to striking a deal. United are believed to have offered in excess of £60m - £55m plus £7.5m in add-ons.",
       "However, the Bees are said to be demanding a fixed fee that surpasses the £62.5m that United paid Wolves for Cunha. The inpass adds to the frustration of Amorim, who is eager to get as much business done as soon as possible so he can integrate new players into his squad during an intense pre-season campaign. The Red Devils begin their Premier League campaign against last season's runner-up, Arsenal, on Sunday, August 17.",
-      "Sky will show at least 215 live Premier League games next season, an increase of up to 100 more."
-    ]
-  },
-  {
-    "headline": "Four Man Utd chiefs brutally axed by Sir Jim Ratcliffe link up with Premier League rival",
-    "tags": [
-      "Man Utd",
-      "Premier League",
-      "Ratcliffe"
-    ],
-    "link": "https://www.mirror.co.uk/sport/football/news/manchester-united-ratcliffe-tottenham-levy-35557888",
-    "image": null,
-    "date": null,
-    "source": "mirror",
-    "body": [
-      "Tottenham have hired a number of former Manchester United executives who were axed earlier this year as part of Sir Jim Ratcliffe's major cost-cutting efforts. Ratcliffe has gone to extreme lengths to save money since taking full control of football operations after buying a share in the club.",
-      "That includes scrapping staff lunchboxes, cancelling a staff Christmas party and axing Sir Alex Ferguson's ambassadorial deal. United have also had several rounds of redundancies and some of the staff who were cut have now joined Tottenham.",
-      "According to the Telegraph, Spurs have agreed a deal with agency Altius8, which was set up by former United commercial executives Ali Edge, Thomas Liston-Jones and Victoria Timpson in February.",
-      "Edge spent 29 years at United and was largely tasked with retaining commercial deals, while Liston-Jones was the club's head of data and strategy. Timpson spent 16 years at Old Trafford and was chief executive of global alliances and partnerships before her departure earlier this year.",
-      "The report states that Florence Lafaye, who briefly succeeded Timpson after she left the club, is also involved with Altius8. And Spurs chairman Daniel Levy is said to be hopeful that they can 'have the same transformative effect on the club's revenues as the team did at United.'",
-      "The report also claims that those within the industry believe Altius8's involvement at Tottenham could cause embarrassment for Ratcliffe after 'dismantling what was one of the few unqualified successes of the Glazer era'.",
-      "However, Ratcliffe has repeatedly defended the cost-cutting and claimed that United would have gone bust by the end of the year if they had not made cuts. \"I don't enjoy reading the newspaper very much these days I have to say,\" Ratcliffe told BBC Sport in March.",
-      "\"I know it's unpopular, and this period of change is uncomfortable for people, and some of the decisions we have to make are unpleasant. But they are necessary to put Manchester United back on to a stable footing.",
-      "\"If people want to see Manchester United winning trophies again then we have do all this stuff. Manchester United would have run out of cash by the end of this year - by the end of 2025 - after having me put $300m (£232.72m) in and if we buy no new players in the summer.",
-      "\"We are in the process of change and it's an uncomfortable period and disruptive and I do feel sympathy with the fans. The simple answer is the club runs out of money at Christmas if we don't do those things.\"",
       "Sky will show at least 215 live Premier League games next season, an increase of up to 100 more."
     ]
   },
@@ -554,6 +551,38 @@
     ]
   },
   {
+    "headline": "Manchester United should try and sign perfect Bryan Mbeumo alternative - but there's a catch",
+    "tags": [
+      "Man Utd"
+    ],
+    "link": "https://www.manchestereveningnews.co.uk/sport/football/transfer-news/manchester-united-should-try-sign-32076565",
+    "image": null,
+    "date": null,
+    "source": "manchestereveningnews",
+    "body": [
+      "If Manchester United are serious about taking Bryan Mbeumo to the United States with them next week, they need to get a wriggle on.",
+      "More than six weeks after tabling their opening offer for the Brentford attacker, United are still locked in negotiations with the Londoners to try and reach an agreement.",
+      "United's second offer, which was made just over three weeks ago and understood to be in excess of £60million, looked as though it would be enough to extract the Cameroon international from the Gtech Community Stadium.",
+      "However, United still find themselves at the negotiating table and the clock is ticking. Ruben Amorim's squad is in desperate need of fresh blood this summer and the Reds are quickly falling even further behind their Premier League rivals.",
+      "It goes without saying United are working under testing circumstances this summer. After failing to qualify for the upcoming Champions League campaign, they will be starved of valuable revenue streams this season, meaning they are having to box clever with their recruitment.",
+      "United have already spent £62.5m on Matheus Cunha and they now need to prioritise sales to bring in funds that can be reinvested into the squad. At the same time, they are also having to find the right balance between securing the players Amorim needs and not pay over the odds.",
+      "United have rightfully prioritised attacking signings this summer after finishing consecutive Premier League campaigns with a negative goal difference. Cunha got 17 goals across all competitions last term and Mbeumo plundered 20 in the league.",
+      "The prospect of adding Mbeumo to the signing of Cunha is exciting. Both players were among the best in the division last season and their records speak for themselves.",
+      "However, how long can United, who also want to sign a striker, a midfielder and a goalkeeper this summer, wait for Mbeumo? They are within their rights to continue pursuing their top target, firmly of the belief he will make an impact at Old Trafford, but they are running the risk of wasting too much time.",
+      "Mbeumo was one of the best players in the Premier League last season and has been improving year-on-year. He is Premier League proven and that is the market United are shopping in this summer.",
+      "If United's discussions with Brentford continue without a breakthrough, they may have to consider alternative options. And considering they are looking at players with Premier League pedigree, they could do far worse than running the rule over West Ham United ace Jarrod Bowen.",
+      "Like Mbeumo, Bowen made his first claim to fame in the Championship. After scoring 22 goals for Hull City in 2018/19 and 17 in the first half of the 2019/20 campaign, West Ham swooped for him in January 2020 for a reported fee of £22m.",
+      "Five-and-a-half years later, you will struggle to find a Premier League signing that has, pound for pound, been better value for money. Bowen, 28, has scored 74 goals in 238 games for the club.",
+      "He has reached double figures for goals in the Premier League in three of the last four seasons, scoring 29 league goals since the start of the 2023/24 campaign.",
+      "Like Mbeumo, Bowen is predominantly a right-winger who likes to cut inside and take full advantage of his trustworthy left foot. However, he is adaptable and can play pretty much anywhere across the forward line, including up front.",
+      "Fresh from scoring 13 goals and racking up eight assists in the Premier League last season, Bowen is hot property this summer. He is West Ham's star man and they will be reluctant to lose him.",
+      "Fortunately for the Hammers, the length of Bowen's contract at the London Stadium means they have a safety net. The England international signed a long-term contract in the capital in October 2023, keeping him at the club until June 2030.",
+      "It means with five years remaining on his deal, West Ham will demand a sizeable fee to consider selling him this summer. Without player sales, which have so far been non-existent, United will not be able to swoop for Bowen should he crop into their thoughts amid the ongoing Mbeumo saga.",
+      "But if United can eventually clear their departures lounge, Bowen could be an alternative to consider if Brentford refuse to budge. West Ham, though, could quite easily be just as stubborn.",
+      "Manchester United have launched their new away kit for the 2025/26 season, inspired by the club's early-1990s Adidas snowflake kit."
+    ]
+  },
+  {
     "headline": "Matheus Cunha signed, Bryan Mbeumo negotiations and Man United still have one glaring squad issue",
     "tags": [],
     "link": "https://www.manchestereveningnews.co.uk/sport/football/transfer-news/matheus-cunha-signed-bryan-mbeumo-32071354",
@@ -584,34 +613,6 @@
     ]
   },
   {
-    "headline": "LUCKHURST: Two Manchester United transfers give any striker hope of signing for the club",
-    "tags": [
-      "Man Utd"
-    ],
-    "link": "https://www.manchestereveningnews.co.uk/sport/football/transfer-news/two-manchester-united-transfers-give-32070754",
-    "image": null,
-    "date": null,
-    "source": "manchestereveningnews",
-    "body": [
-      "As long as Manchester United go without recruiting a striker, more undesirable names will be linked with them. The latest is Nicolas Jackson.",
-      "Chelsea must be revelling in that. Two dates have been chiselled onto their honours' board, they beat United to Liam Delap, bolstered their attack with Joao Pedro, have tried to flog Christopher Nkunku to United and now Jackson has been bracketed with them.",
-      "Jackson was widely pilloried after he was sent off in the Club World Cup. In his first season in London, he was mentioned in the same breath as another Premier League newbie, Rasmus Hojlund. He should be a non-starter for that reason alone.",
-      "United cannot remotely entertain taking a busted flush off Chelsea's hands. They are nowhere near as keen on Nkunku as Chelsea have tried to suggest and Jackson is less attractive.",
-      "Manchester United have launched their new away kit for the 2025/26 season, inspired by the club's early-1990s Adidas snowflake kit.",
-      "Every Tom, Dick and Harry who plays up front is cropping up in the United gossip columns. Dominic Calvert-Lewin is a free agent that Everton are better off without yet United's striker strife is so acute there is speculation about a possible move for him.",
-      "Apart from sorry Southampton, every Premier League side last season had a better striker than United. Go through the table and 18 clubs had a more rounded frontman than Hojlund or Joshua Zirkzee.",
-      "Such reports are not of United's own making but they have given the impression that Delap was the only duck they had lined up as their new starting striker. It suited them to be linked with Viktor Gyokeres and Hugo Ekitike but there was nothing concrete. Both are bound for Premier League clubs that qualified for the Champions League.",
-      "United might have edged Chelsea for Delap had they left Bilbao with the Europa League trophy among their hand luggage. United, reeling from their worst season in 51 years and with no European football on offer, are a tough sell to strikers.",
-      "Thirty goals in two seasons is not the pedigree of striker United require. Jackson is neither prolific nor proven. He was red-carded twice within six weeks at the tail-end of Chelsea's campaign and they have recruited two forwards in between those expulsions. Of course they want rid.",
-      "United have signed one-season wonder strikers (Zlatan Ibrahimovic, Edinson Cavani, Cristiano Ronaldo) with a short shelf life while Hojlund was too young. Romelu Lukaku ticked most of the boxes yet he continued to be a peripatetic striker. Radamel Falcao and Anthony Martial were two gambles from Monte Carlo that bust.",
-      "And United also have form for settling any Tom, Dick, Harry or Wout. For all the mitigation surrounding the loan arrival of Weghorst in January 2023, opting for another Dutchman who grew up in the same district as the manager was beneath them. Weghorst was playing on loan in Turkey, having riled teammates and supporters at recently relegated Burnley. He scored as many goals for United as Burnley - two tap-ins.",
-      "The Weghorst deal was reminiscent of Odion Ighalo's deadline day move in January 2020. Ighalo was playing in China, back when the country's Super League was teeming with Premier League cast-offs, and he was represented by a Norwegian agent who was the same nationality as the United manager.",
-      "Ighalo and Weghorst were brought in as the support striker to Martial. Banking on Martial three years apart and under two managers is one of innumerable reasons why United are in the state that they are.",
-      "As recently as January, United gave consideration to signing Mathys Tel, a peripheral forward who barely scored for Bayern Munich. Yet United have a penchant for taking surplus squad players from Bayern.",
-      "On the basis of the Ighalo and Weghorst deals, any striker with a Portuguese connection should instruct their agent to dial 0161. Ominously, Portugal international Joao Felix is still technically a Chelsea player."
-    ]
-  },
-  {
     "headline": "Man United transfer news LIVE - Hugo Ekitike 'talks', Bryan Mbeumo latest, Nicolas Jackson swap",
     "tags": [
       "Transfer News",
@@ -619,7 +620,7 @@
     ],
     "link": "https://www.manchestereveningnews.co.uk/sport/football/transfer-news/man-united-transfer-news-live-32048931",
     "image": null,
-    "date": "2025-07-17 08:59:00",
+    "date": "2025-07-17 10:03:00",
     "source": "manchestereveningnews",
     "body": [
       "Hello and welcome back to the Manchester United transfer blog on Thursday, July 17.",
@@ -629,6 +630,10 @@
       "Andre Onana's hamstring injury has thrust the goalkeeper conversation back to the forefront this weekend. Botafogo's John Victor has been named as a potential target for the Reds to strengthen that position.",
       "Aston Villa goalkeeper Emiliano Martinez has also been linked with Chelsea showing an interest.",
       "Keep across all this and more from United in our dedicated blog below...",
+      "Ollie Watkins is said to be 'open' to a move to Old Traffird this summer amid interest from Man United.",
+      "GiveMeSport have claimed that the Aston Villa forward has been identified as a potential transfer target this summer. Villa are thought to want around £60m.",
+      "Man United have been handed a delay in their pursuit of Bryan Mbeumo after Brentford raised their asking price close to £70million.",
+      "The Guardian have reported that United are not prepared to pay more than their valuation of £65m.",
       "Juventus have joined the race to sign Marcus Rashford this summer. Barcelona and Fenerbahce have both been linked with a move for the forward this summer.",
       "Gianluca Di Marzio has claimed that Juve want to add Rashford to Igor Tudor's attack. However, there are doubts about their ability of paying his wages.",
       "Man United are preparing a 'serious' player-plus-cash offer to sign Eintracht Frankfurt striker Hugo Ekitike.",
@@ -717,14 +722,28 @@
       "The Brazilian made the move to Juve from Aston Villa but has struggled during his time in Turin. Reports have suggested that the Serie A club are prepared to cash in on the 27-year-old.",
       "United have emerged as a possible destination for Luiz, but Everton are determined to get to the front of the queue. The Toffees are set to make a loan with an option to buy offer to Juventus.",
       "Manchester United target Benjamin Sesko has received two lucrative offers from Saudi Arabia. According to Sportitalia journalist Gianluigi Longari, Saudi Pro League duo Al-Hilal and Al-Ahli have offered Sesko a staggering £40million a season to move to the Middle East.",
-      "However, it's added that Sesko is focused on Europe and doesn't want to move to Saudi at this stage of his career. The 22-year-old is said to be on United's shortlist for a new No.9.",
-      "Liverpool are considering a shock move to sign Manchester United forward Marcus Rashford. The 27-year-old is expected to leave Old Trafford this summer after spending the second half of last season on loan at Aston Villa. He scored four times and added six assists in 17 appearances at Villa Park.",
-      "According to the Daily Mail, Liverpool have floated the idea of moving for Rashford, though that initial conversation has not progressed so far. Arne Slot's side are in the market to sign a new forward, with Newcastle United's Alexander Isak right at the top of their shopping list.",
-      "Manchester United are reportedly in talks to sign Brighton & Hove Albion defender Pervis Estupinan.",
-      "According to Ben Jacobs, discussions have been held between United and the Seagulls over a summer move.",
-      "It has been claimed that there is a genuine interest in the 27-year-old but a formal approach has yet to take place with suitors swirling for his signature.",
-      "AC Milan are said to be keen but also haven't expressed a formal interest.",
-      "Brighton may be attentive to offers after signing Maxim De Cuyper."
+      "However, it's added that Sesko is focused on Europe and doesn't want to move to Saudi at this stage of his career. The 22-year-old is said to be on United's shortlist for a new No.9."
+    ]
+  },
+  {
+    "headline": "Bryan Mbeumo to Man United transfer could move one step closer after dream £65m deal update",
+    "tags": [],
+    "link": "https://www.manchestereveningnews.co.uk/sport/football/transfer-news/bryan-mbeumo-man-united-transfer-32076408",
+    "image": null,
+    "date": null,
+    "source": "manchestereveningnews",
+    "body": [
+      "Time is running out for both Manchester United and Brentford to agree on a deal for Bryan Mbeumo.",
+      "Over a month since the news broke of United's interest in the forward, Mbeumo is still a Brentford player. Despite the player giving his green light to the move and United prioritising the deal over anything else, an agreement has still not been struck.",
+      "An opening offer of £55million and improved bid in excess of £60m have both been turned down by the Premier League side. To their right, Brentford are holding firm on their hope of getting a fee they want.",
+      "Mbeumo is under contract at the Gtech Community Stadium for one more year with the club holding the option to extend for a further 12 months. Demand dictates the market but selling clubs are also able to demand what they value the asset.",
+      "This week, it's been suggested that the Bees have increased their asking price to £70m, £5m more than the £65m previously tipped. The delay has reportedly caused frustration in United's and Mbeumo's camps with club chiefs spending the last five weeks trying to get the deal over the line.",
+      "Fortunately, Brentford have seemingly moved to replace their top goalscorer with Ipswich Town's Omari Hutchinson. Following their relegation from the Premier League, Hutchinson was understood to have a release clause worth £35m.",
+      "Similar to Liam Delap, who joined Chelsea for £30m last month, Hutchinson is in high demand from Premier League clubs with the Bees making their move. It's believed that the release clause, though, expired on Tuesday night.",
+      "And as a result, Brentford's first bid of £35m has been turned down by Ipswich. BBC Sport has claimed that the bid wasn't packaged with the fee coming up front. It means the Bees will have to return with an improved offer or look elsewhere.",
+      "It's a position which, because of Brentford's tough stance in the window, United find themselves in with Mbeumo. The benefit could lie in the reality that the Bees find themselves in now. There's still a real possibility that the Reds sign Mbeumo meaning Keith Andrews will need a replacement.",
+      "Ipswich, like Brentford, are in a position to demand whatever they want for Hutchinson. If the Bees are set on signing the highly-talented England Under-21 international, a sale of Mbeumo and influx of cash could work in their favour.",
+      "Brentford's move for Hutchinson and hope to get him to the capital could be the trigger to force the Bees to finally settle on an agreement with United to bring Mbeumo to Old Trafford."
     ]
   },
   {
@@ -747,6 +766,34 @@
       "United's first match in the Premier League Summer Series is against West Ham United in New Jersey on July 26 before they return to Chicago to face Bournemouth. Their tour concludes against Everton in Atlanta on August 3.",
       "If United do not reach an agreement for Mbeumo before they fly to Chicago the winger could still join them later on during their 12-day tour.",
       "Andre Onana travelled to the United States after the United squad had flown there for the 2023 pre-season tour and played in their second and third friendlies against Real Madrid and Borussia Dortmund."
+    ]
+  },
+  {
+    "headline": "LUCKHURST: Two Manchester United transfers give any striker hope of signing for the club",
+    "tags": [
+      "Man Utd"
+    ],
+    "link": "https://www.manchestereveningnews.co.uk/sport/football/transfer-news/two-manchester-united-transfers-give-32070754",
+    "image": null,
+    "date": null,
+    "source": "manchestereveningnews",
+    "body": [
+      "As long as Manchester United go without recruiting a striker, more undesirable names will be linked with them. The latest is Nicolas Jackson.",
+      "Chelsea must be revelling in that. Two dates have been chiselled onto their honours' board, they beat United to Liam Delap, bolstered their attack with Joao Pedro, have tried to flog Christopher Nkunku to United and now Jackson has been bracketed with them.",
+      "Jackson was widely pilloried after he was sent off in the Club World Cup. In his first season in London, he was mentioned in the same breath as another Premier League newbie, Rasmus Hojlund. He should be a non-starter for that reason alone.",
+      "United cannot remotely entertain taking a busted flush off Chelsea's hands. They are nowhere near as keen on Nkunku as Chelsea have tried to suggest and Jackson is less attractive.",
+      "Manchester United have launched their new away kit for the 2025/26 season, inspired by the club's early-1990s Adidas snowflake kit.",
+      "Every Tom, Dick and Harry who plays up front is cropping up in the United gossip columns. Dominic Calvert-Lewin is a free agent that Everton are better off without yet United's striker strife is so acute there is speculation about a possible move for him.",
+      "Apart from sorry Southampton, every Premier League side last season had a better striker than United. Go through the table and 18 clubs had a more rounded frontman than Hojlund or Joshua Zirkzee.",
+      "Such reports are not of United's own making but they have given the impression that Delap was the only duck they had lined up as their new starting striker. It suited them to be linked with Viktor Gyokeres and Hugo Ekitike but there was nothing concrete. Both are bound for Premier League clubs that qualified for the Champions League.",
+      "United might have edged Chelsea for Delap had they left Bilbao with the Europa League trophy among their hand luggage. United, reeling from their worst season in 51 years and with no European football on offer, are a tough sell to strikers.",
+      "Thirty goals in two seasons is not the pedigree of striker United require. Jackson is neither prolific nor proven. He was red-carded twice within six weeks at the tail-end of Chelsea's campaign and they have recruited two forwards in between those expulsions. Of course they want rid.",
+      "United have signed one-season wonder strikers (Zlatan Ibrahimovic, Edinson Cavani, Cristiano Ronaldo) with a short shelf life while Hojlund was too young. Romelu Lukaku ticked most of the boxes yet he continued to be a peripatetic striker. Radamel Falcao and Anthony Martial were two gambles from Monte Carlo that bust.",
+      "And United also have form for settling any Tom, Dick, Harry or Wout. For all the mitigation surrounding the loan arrival of Weghorst in January 2023, opting for another Dutchman who grew up in the same district as the manager was beneath them. Weghorst was playing on loan in Turkey, having riled teammates and supporters at recently relegated Burnley. He scored as many goals for United as Burnley - two tap-ins.",
+      "The Weghorst deal was reminiscent of Odion Ighalo's deadline day move in January 2020. Ighalo was playing in China, back when the country's Super League was teeming with Premier League cast-offs, and he was represented by a Norwegian agent who was the same nationality as the United manager.",
+      "Ighalo and Weghorst were brought in as the support striker to Martial. Banking on Martial three years apart and under two managers is one of innumerable reasons why United are in the state that they are.",
+      "As recently as January, United gave consideration to signing Mathys Tel, a peripheral forward who barely scored for Bayern Munich. Yet United have a penchant for taking surplus squad players from Bayern.",
+      "On the basis of the Ighalo and Weghorst deals, any striker with a Portuguese connection should instruct their agent to dial 0161. Ominously, Portugal international Joao Felix is still technically a Chelsea player."
     ]
   },
   {
@@ -844,60 +891,6 @@
     ]
   },
   {
-    "headline": "Man United Marcus Rashford transfer fact clear as Barcelona make announcement",
-    "tags": [
-      "Rashford"
-    ],
-    "link": "https://www.manchestereveningnews.co.uk/sport/football/transfer-news/man-united-marcus-rashford-transfer-32075576",
-    "image": null,
-    "date": null,
-    "source": "manchestereveningnews",
-    "body": [
-      "If Marcus Rashford is to secure his 'dream' transfer from Manchester United to Barcelona, the forward will not be doing so wearing the same shirt number as he has done at Old Trafford.",
-      "That fact comes down to the La Liga champions announcing a six-year contract extension for Lamine Yamal and with it the attacking teenage sensation is to switch from Barca's No.19 jersey to it's No.10.",
-      "\"This is the beginning of a journey that I hope will be very long and full of victories,\" Yamal told his club's website. Hinting that he will not be giving up the digits formerly worn by Lionel Messi for quite some time, the 18-year-old added: \"This is my lifetime club and the best in the world.\"",
-      "So, were Rashford to seal a move from United to the Nou Camp for the 2025/26 campaign he would be denied the No.10 he wore for his own boyhood club from the start of the 2018/19 campaign through to his final appearance under Ruben Amorim last December. After this he did not play for the club again before his short-term loan to Aston Villa was sealed.",
-      "Now that spell has ended and the West Midlands club have not activated their £40m option, the 28-year-old has been forced to seek out other opportunities to continue his career.",
-      "His current order alongside four teammates at United is to train away from the first-team, who fly off for their pre-season tour in Sweden and the United States at the end of the week. Upon returning he has also discovered the No.10 has now officially been passed on to new £62.5m signing Matheus Cunha, to add a further personal blow into the mix.",
-      "At the moment, the latest suggestion is that the Spaniards are yet to make a decision on what they will do in the transfer market. Top target Nico Williams is now out of reach having renewed his contract with Athletic Bilbao, now United's attacker and Liverpool's Luis Diaz are the next two closely linked with the move.",
-      "With all of this said, former United striker Teddy Sheringham does not believe the England international deserves a move.",
-      "\"If you assess where Marcus Rashford is at as a professional footballer, you strive as a youngster to get to the very top and play for clubs like Manchester United, and when you're there, you appreciate it.",
-      "\"You don't throw it away and say you want to leave,\" he explained. \"I find the whole episode very soul-destroying, compared to the way I was back in the day and how I strove to get the privilege to play for such a huge football club.",
-      "\"To hear someone talking the way he is talking, saying he wants out – I didn't like Pierre-Emerick Aubameyang doing that at Arsenal, I thought it was soul-destroying, and I hope Rashford doesn't get the move that he's hankering for.",
-      "\"From my perspective, if you go from Manchester United to Barcelona, that's a step up that he hasn't deserved.\""
-    ]
-  },
-  {
-    "headline": "Alejandro Garnacho receives Man United transfer exit 'lifeline' after Marcus Rashford decision",
-    "tags": [
-      "Rashford",
-      "Garnacho"
-    ],
-    "link": "https://www.manchestereveningnews.co.uk/sport/football/transfer-news/alejandro-garnacho-receives-man-united-32075514",
-    "image": null,
-    "date": null,
-    "source": "manchestereveningnews",
-    "body": [
-      "Aston Villa have reportedly become the latest club to express interest in Manchester United's Alejandro Garnacho. The winger is anticipated to leave the Reds before the transfer window closes and does not feature in Ruben Amorim's plans.",
-      "The Argentine international, who was up for sale in January, was instructed by the Portuguese head coach to seek a new club after Garnacho publicly criticised the decision not to start him in the Europa League final loss to Tottenham. Consequently, Garnacho has been absent from United's pre-season preparations.",
-      "Instead, the winger - along with Marcus Rashford, Antony, Tyrell Malacia and Jadon Sancho - has been told to report to Carrington for training at 5pm, after the first team have finished their session. So far, United have been unable to arrange a transfer for any of the players they wish to offload.",
-      "According to the Mail, via the Mirror, Villa have shown interest in Garnacho. Chelsea and Tottenham are also reportedly keeping an eye on the 21-year-old's situation, who would prefer to stay in the Premier League.",
-      "United previously valued Garnacho at £70million, but that figure may be hard to achieve given the public fallout over the winger's situation at United. However, any fee will provide pure profit for the club in terms of profit and sustainability rules..",
-      "Last month, Garnacho posted a photo of himself wearing an Aston Villa shirt. The young star caused a stir when he wore a Rashford top, drawing the ire of some fans.",
-      "Rashford spent the latter half of last season on loan at Villa Park, though the club ultimately chose not to trigger the permanent transfer option. The United academy graduate netted four times and provided six assists across 17 outings in the Midlands.",
-      "Unai Emery's team had secured a £40m deal with United to complete Rashford's permanent switch, but the move failed to materialise. The forward is now seeking a transfer that would provide Champions League action, with Barcelona reportedly his preferred destination.",
-      "The Catalan giants are understood to favour bringing Rashford in on a temporary basis. The England international's deal running until 2028, which sees him pocket £315,000 per week, could complicate any potential departure.",
-      "Speaking before his loan spell, Rashford acknowledged his desire to find fresh pastures. \"For me, personally, I think I'm ready for a new challenge and the next steps,\" he said.",
-      "\"When I leave it's going to be \"no hard feelings\". You're not going to have any negative comments from me about Manchester United. That's me as a person.",
-      "\"If I know that a situation is already bad I'm not going to make it worse.",
-      "\"I've seen how other players have left in the past and I don't want to be that person. When I leave I'll make a statement and it will be from me.\"",
-      "Want the inside track on transfers? There's now a way you can get breaking news and the best reads sent straight to your device. By joining the Leeds United community on WhatsApp, you'll see the biggest and best stories as soon as they happen.",
-      "It's quick and easy to join. Just click this link and select 'Join Community' to get started.",
-      "No one else in the community will be able to see your personal information and you will only receive messages from the Leeds Live sports team. We will not spam your WhatsApp feed with constant messages, but you will receive updates from us daily.",
-      "If for some reason you decide you no longer want to be in our community, you can leave by clicking on the name at the top of your screen and clicking 'Exit Group'. You can read our Privacy Notice here."
-    ]
-  },
-  {
     "headline": "How to buy new 2025/26 Manchester United adidas away kit",
     "tags": [
       "Man Utd"
@@ -919,6 +912,53 @@
       "United will wear their new strip for the first time when they face Leeds United in their opening pre-season friendly on Saturday in Stockholm.",
       "The club, last month, confirmed they will wear their new home strip for the first time when they face Bournemouth in the second game of their pre-season tour of the United States on July 31.",
       "+++"
+    ]
+  },
+  {
+    "headline": "'Soul-destroying' - Man United forward Marcus Rashford sent telling Barcelona transfer warning",
+    "tags": [
+      "Rashford"
+    ],
+    "link": "https://www.manchestereveningnews.co.uk/sport/football/transfer-news/soul-destroying-man-united-forward-32070576",
+    "image": null,
+    "date": null,
+    "source": "manchestereveningnews",
+    "body": [
+      "Former Manchester United striker Teddy Sheringham does not believe Marcus Rashford deserves a move to Barcelona amid his ongoing interest in a move to the La Liga champions.",
+      "Rashford is one of five United players not currently training with the rest of the first-team squad at Carrington after informing the club of his interest in an exit this summer.",
+      "The England international, who spent the second half of last season on loan at Aston Villa, is valued at £40million by United and they keen to offload him. However, they are yet to have received a formal offer from an interested party.",
+      "Barcelona have long since appealed to Rashford and he wants to join a club that can offer him Champions League football. It is also understood he is refusing to take a wage cut on his £325,000-a-week salary.",
+      "Barcelona sporting director Deco confirmed the Spanish club's interest in Rashford earlier this summer, but an official approach is yet to have materialised.",
+      "Nevertheless, Sheringham is insistent the attacker has not done enough to seal a move to the Camp Nou.",
+      "Speaking to Sky Bet, Sheringham said: \"If you assess where Marcus Rashford is at as a professional footballer, you strive as a youngster to get to the very top and play for clubs like Manchester United, and when you're there, you appreciate it.",
+      "\"You don't throw it away and say you want to leave. I find the whole episode very soul-destroying, compared to the way I was back in the day and how I strove to get the privilege to play for such a huge football club.",
+      "\"To hear someone talking the way he is talking, saying he wants out – I didn't like Pierre-Emerick Aubameyang doing that at Arsenal, I thought it was soul-destroying, and I hope Rashford doesn't get the move that he's hankering for.",
+      "\"From my perspective, if you go from Manchester United to Barcelona, that's a step up that he hasn't deserved.\"",
+      "Manchester United have launched their new away kit for the 2025/26 season, inspired by the club's early-1990s Adidas snowflake kit."
+    ]
+  },
+  {
+    "headline": "Man United's pre-season fixtures in full as Ruben Amorim targets strong start to new campaign",
+    "tags": [
+      "Amorim"
+    ],
+    "link": "https://www.manchestereveningnews.co.uk/sport/football/football-news/man-uniteds-pre-season-fixtures-32070131",
+    "image": null,
+    "date": null,
+    "source": "manchestereveningnews",
+    "body": [
+      "Manchester United will take their pre-season preparations up a notch when they face Leeds United in their opening friendly on Saturday.",
+      "For the third summer running, United will travel to Scandinavia for their pre-season opener, visiting the Friends Arena in Stockholm, Sweden, to take on their Premier League counterparts.",
+      "The Reds visited Norway for their pre-season opener in 2023 and 2024, facing Leeds and Rosenborg respectively, but will take on the Whites in the Swedish capital on this occasion.",
+      "The clash with Daniel Farke's side, who won the Championship last season, will be the first of five friendlies United will fulfil this summer ahead of their Premier League opener against Arsenal at Old Trafford on August 17.",
+      "Following the tussle with Leeds on Saturday, which is penciled in for a 2pm kick-off BST, United will fly to Chicago next week to commence their pre-season tour of the United States.",
+      "Ruben Amorim's side will compete in the Premier League Summer Series during their time in the States, taking on West Ham United, Bournemouth and Everton.",
+      "The tour opener against the Hammers will take place at the MetLife Stadium in New Jersey on July 27, kick-off 12am BST. United faced Arsenal in the stadium in their opening game of their US tour in 2023.",
+      "After facing the Hammers in their tour curtain-raiser, United will take on Bournemouth at Soldier Field in Chicago a few days later. The clash with the Cherries will take place on July 31, kick-off 2.30am BST.",
+      "United will then travel to Atlanta to face Everton in their final game of the Premier League Summer Series at the impressive Mercedes-Benz Stadium. The clash with the Toffees will take place on August 3, kick-off 10pm BST.",
+      "Once United have returned to home soil, they will have a few days worth of training at Carrington to prepare for their final outing of pre-season against Italian side Fiorentina at Old Trafford on Saturday, August 9, kick-off 12.45pm BST.",
+      "The clash with the Serie A club is poised to see former United goalkeeper David de Gea return to Old Trafford for the first time since leaving the club at the end of the 2022/23 season. The Reds did not play at Old Trafford in pre-season last year.",
+      "Manchester United have launched their new away kit for the 2025/26 season, inspired by the club's early-1990s Adidas snowflake kit."
     ]
   },
   {
@@ -1065,47 +1105,90 @@
     ]
   },
   {
-    "headline": "Pervis Estupinan has already given Manchester United the green light amid transfer links",
+    "headline": "Juventus begin ‘talks’ to sign second Man Utd player after Jadon Sancho ‘agreement’",
     "tags": [
       "Man Utd"
     ],
-    "link": "https://www.manchestereveningnews.co.uk/sport/football/transfer-news/pervis-estupinan-already-given-manchester-32068846",
-    "image": null,
-    "date": null,
-    "source": "manchestereveningnews",
+    "link": "https://www.football365.com/news/man-utd-juventus-begin-talks-rashford-sancho-agreement",
+    "image": "https://images.ps-aws.com/c?url=https%3A%2F%2Fd2x51gyc4ptf2q.cloudfront.net%2Fcontent%2Fuploads%2F2025%2F07%2F17085917%2FF365-One-Badge-Jadon-Sancho-Juventus-1-1320x742.jpg",
+    "date": "2025-07-17 08:24:11",
+    "source": "football365",
     "body": [
-      "Brighton & Hove Albion left-back Pervis Estupinan has already confirmed he is open to leaving the Amex Stadium this summer amid reports linking him with a surprise move to Manchester United.",
-      "According to a report by talkSPORT, United are 'interested' in signing the 27-year-old, who joined Brighton from Villarreal in 2022. The report states United have 'held talks' with the defender's representatives.",
-      "Also said to be attracting interest from AC Milan, Estupinan was a regular for Brighton last season, making 36 appearances across all competitions, chipping in with one goal. He has made 104 appearances during his Brighton career.",
-      "The Seagulls could be open to offers for the Ecuador international this summer after signing left-back Maxim De Cuype from Club Brugge earlier this month.",
-      "And after helping Ecuador secure their place at next year's World Cup last month, Estupinan admitted he would be assessing his options this summer, confirming he had already informed Brighton he would be interested in a departure.",
-      "Speaking to El Canal Del Futbol, as quoted by The Argus, Estupinan said: \"The truth is there has been three years in Brighton with a lot of learning. But this will be a transfer market with a lot of movement.",
-      "\"The club know that I would like to grow, that I would like to keep growing. The club have understood this.",
-      "\"I've spoken to the club. The club have given me this bit of freedom to be able to make a decision.",
-      "\"Now we will try to see better what is on the table and to see where we can go.\"",
-      "United are prioritising attacking signings this summer and remain determined to add Brentford star Bryan Mbeumo to the addition of Matheus Cunha. They also want to sign an out-and-out centre-forward to spearhead their attack.",
-      "Elsewhere, United still have plans to sign a midfielder and potentially a goalkeeper. It remains to be seen if Andre Onana's hamstring injury will convince them to speed up their pursuit of a new shot-stopper.",
-      "Manchester United have launched their new away kit for the 2025/26 season, inspired by the club's early-1990s Adidas snowflake kit."
+      "Juventus are also interested in bringing Marcus Rashford to Serie A this summer after edging closer to a deal for Jadon Sancho, according to reports.",
+      "The Red Devils have made one major signing this summer in the form of Matheus Cunha from Wolves for £62.5m, while Paraguayan youngster Diego Leon has also joined from Cerro Porteno.",
+      "They have been in negotiations to sign Bryan Mbeumo from Brentford for weeks with two bids rejected and Man Utd co-owner Sir Jim Ratcliffe now refusing to give in to the Bees’ £70m demands.",
+      "A number of players are set to be sold to raise funds for summer incomings with Sancho, Rashford and Alejandro Garnacho amongst the names reportedly on the transfer list at Old Trafford.",
+      "Juventus have been the main potential suitors for Sancho for weeks with a swap deal involving one of three players mooted, while Fabrizio Romano insisted a deal could be tricky to complete.",
+      "Romano said on his YouTube channel in recent weeks: “The real point, the real issue is that Juventus don’t want to cover the whole salary of Jadon Sancho, that’s going to be almost impossible.",
+      "READ: Mailbox: Liverpool defence is ‘actually worrying’ amid £150m Isak chase",
+      "“So a salary request change for Juventus-Sancho topic is going to be kind of complicated for the upcoming days and weeks. So let’s see what happens with the salary, Juventus interest is confirmed, Juventus call are confirmed.”",
+      "There have been reports of an ‘agreement’ over a fee for Sancho and now Sky Sport Italia claims that both Man Utd and Juventus ‘are keen to reach an agreement around €15 million’.",
+      "Juventus are ‘pushing’ for Sancho after ‘positive discussions’ on Wednesday with the player’s agent, while on the same day the Serie A giants also ‘made exploratory contact’ for Man Utd forward Rashford.",
+      "The report adds: ‘The cost is high, but there has been an initial inquiry as a potential attacking option.’",
+      "Another potential option this summer is a move to Barcelona but Man Utd legend Teddy Sheringham insists that Rashford wouldn’t deserve a move to the Catalan giants.",
+      "Sheringham told Sky Bet: “If you assess where Marcus Rashford is at as a professional footballer, you strive as a youngster to get to the very top and play for clubs like Manchester United, and when you’re there, you appreciate it. You don’t throw it away and say you want to leave.",
+      "“I find the whole episode very soul-destroying, compared to the way I was back in the day and how I strove to get the privilege to play for such a huge football club.",
+      "“To hear someone talking the way he is talking, saying he wants out – I didn’t like Pierre-Emerick Aubameyang doing that at Arsenal, I thought it was soul-destroying, and I hope Rashford doesn’t get the move that he’s hankering for. From my perspective, if you go from Manchester United to Barcelona, that’s a step up that he hasn’t deserved.”",
+      "According to reports, Marcus Rashford’s ‘entourage’ are considering taking drastic action to ensure the forward leaves Manchester United this summer.",
+      "Man Utd have held talks over a shock move for Brighton full-back Pervis Estupinan with the Seagulls ‘open to offers’, according to reports.",
+      "Liverpool have ‘floated’ the idea of bringing in a Man Utd player if they miss out on signing Alexander Isak from Newcastle, according to reports.",
+      "Man Utd and Marcus Rashford are at odds again as INEOS refuse to facilitate his move to Barcelona amid Jose Mourinho’s complicated involvement.",
+      "Marcus Rashford has ‘made his feelings clear’ by going to the gym, while a deal has been agreed that may or may not involve him.",
+      "According to reports, Manchester United are set to be ‘exploited’ as they face ‘paying millions’ to ‘offload’ three players this summer."
     ]
   },
   {
-    "headline": "Man United could finally get Bryan Mbeumo transfer green light as release clause 'activated'",
-    "tags": [],
-    "link": "https://www.manchestereveningnews.co.uk/sport/football/transfer-news/man-united-could-finally-bryan-32068744",
-    "image": null,
-    "date": null,
-    "source": "manchestereveningnews",
+    "headline": "Transfer rumour ranking: England star is Chelsea ‘priority’, Villa eye Man Utd target",
+    "tags": [
+      "Man Utd"
+    ],
+    "link": "https://www.football365.com/news/summer-transfer-rumours-power-ranking-arsenal-liverpool-man-utd",
+    "image": "https://images.ps-aws.com/c?url=https%3A%2F%2Fd2x51gyc4ptf2q.cloudfront.net%2Fcontent%2Fuploads%2F2025%2F07%2F17094254%2FNicolas-Jackson-Morgan-Rogers-638x358.jpg",
+    "date": "2025-07-17 08:00:48",
+    "source": "football365",
     "body": [
-      "Manchester United had looked like they were acting smartly in the transfer window when they announced the signing of Matheus Cunha at the start of June. The Brazilian became United's first signing on June 12 to kickstart their business.",
-      "But 34 days on from Cunha's £62.5million release clause being triggered and Ruben Amorim sealing a move for his priority target, United have been everything but smart in their business.",
-      "Two bids for Bryan Mbeumo have been turned down by Brentford in the space of the last four weeks. A fee worth £55m was denied by the Premier League club before a new and improved offer of £60m then fell short.",
-      "It's believed that Brentford are holding out for close to £65m, though reports have stated this week that the gap between the two clubs' valuation remains considerable.",
-      "In the time that United have attempted to sign Mbeumo, alternatives seemed to have been limited. It's been rather unusual how quiet talk has been on other attack-minded targets linked with a move to United, almost leaving them in an All or Nothing position regarding Mbeumo.",
-      "There is still optimism that the 25-year-old will join United but time is running out to have Mbeumo part of the pre-season tour to the United States. However, unlike the Reds and their transfer business, Brentford are planning ahead.",
-      "The Bees completed the signing of Antoni Milambo at the start of this month from Feyenoord to bolster Keith Andrew's squad. Now, they are seemingly pursuing a move for a winger who could be their Mbeumo replacement.",
-      "Ipswich Town's Omari Hutchinson is the subject of interest from Brentford and following their relegation from the Premier League, is expected to be one of the players sold. Now, the Daily Mail has reported that an offer of £35m has been made for the former Chelsea star to activate his release clause.",
-      "It had been reported that there was a deadline of 5pm on Tuesday July 15 to activate Hutchinson's release clause. It remains to be seen whether the bid was submitted in time but it does offer encouragement for Brentford to sign the forward.",
-      "Like Mbeumo, Hutchinson is a left-footed winger and would be the perfect fit to replace the Cameroonian international. It's now over to United to reach an agreement with Brentford to finally get the deal over the line."
+      "Aston Villa will move for a Man Utd target if Chelsea take one of their forwards, while Juve take their pick of the Old Trafford outcasts…",
+      "With so much transfer talk doing the rounds, we’re here through the summer to sift through the bullsh*t and highlight the whispers that might have some substance.",
+      "Each day we’re ranking the top 20 rumours involving Premier League clubs, the higher the link, the more likely we feel they are to become done deals.",
+      "So we start with the tittle-tattle…",
+      "20) 🆕 Marcus Rashford – Manchester United to Juventus\nSky in Italy reckon Juve have ‘begun to explore the conditions’ around a deal to sign Rashford. Which is presumably when they discover they can’t afford him without one or two parties making serious concessions. Like Barcelona, the Old Lady would have to wait until United get desperate and start considering loans.",
+      "",
+      "19) 🔼 Jadon Sancho – Manchester United to Juventus\nIt seems Juve have finally agreed a deal with Porto for Francisco Conceicao which, presumably, will supress the Old Lady’s appetite for Sancho. And with the talk of Juve interest in Rashford, what now for Sancho?",
+      "",
+      "18) 🆕 Nicolas Jackson – Chelsea to Aston Villa\nJackson was rumoured to be of interest to Manchester United but Unai Emery is said to be keen to be reunited with the striker with whom he worked at Villarreal. Villa’s interest in Jackson is heavily linked to…",
+      "",
+      "17) 🆕 Morgan Rogers – Aston Villa to Chelsea\nRogers is said to be Chelsea priority for the remainder of the window and while Villa are reluctant to sell, any big offer would have to be considered. If Rogers is to join Chelsea, likely triggering a Villa move for Jackson, it won’t be long before the end of the window.",
+      "",
+      "16) Luis Diaz – Liverpool to Bayern Munich\nBayern have made their move for Diaz, who wants to make a move of his own. But Liverpool won’t entertain the bid of £58.6million, with the Reds insisting they want to keep the Colombian, but £87million might twist their arm. There seems to be an openness from all sides to a deal, but it feels very unlikely the two clubs will compromise while they stand £30million apart in their current valuations. Diaz may have to force the issue.",
+      "MORE ON THE SUMMER 2025 TRANSFER WINDOW\n👉 Every Premier League transfer and release confirmed in the summer of 2025\n👉 Twenty biggest transfers in the world in 2025 summer transfer window",
+      "15) Pervis Estupinan – Brighton to Manchester United\nUnited have held talks with the left-back, according to Talksport, though AC Milan are also sniffing around a player Brighton seem happy to sell since they’ve already bought Maxim De Cuyper from Club Brugge. The one signing they made in January was a left wing-back, though Patrick Dorgu showed almost nothing in his half-season so far.",
+      "",
+      "14) Marc Guehi – Crystal Palace to Liverpool\nWith a year left on his contract and a renewal unlikely, Palace are willing to cash in on their captain – but Liverpool won’t pay the £50million or so the Eagles are demanding. Currently, we are at stalemate. Liverpool don’t seem twitchy yet, but they are keeping the lines of communication open.",
+      "",
+      "13) Leandro Trossard – Arsenal to Bayern Munich\nWith Arsenal looking to sign players in the positions Trossard plays, it makes sense that they cash in on the attacker. Who just so happened to change his representatives this summer to a fella well connected with the German big-hitters. Trossard has two years remaining on his contract and would be around half the price of Diaz.",
+      "",
+      "12) 🔼 Alejandro Garnacho – Manchester United to Chelsea\nChelsea are selling one winger for £52million and reports suggest they could sign a replacement (do they really need one?) for £40million in the shape of Garnacho. The Blues were keen in January and, unbelievably, nothing between then and now has put them off the Argentinian, perhaps due to the discount on the hefty price they were quoted at the start of the year. Garnacho’s got to go somewhere…",
+      "",
+      "11) Eberechi Eze – Crystal Palace to Arsenal\nEze is keen on the prospect of moving to the Emirates and some reports suggest a deal is now down to the finer details of how the fee to activate his release clause is paid. Arsenal are a little tied up this week with Madueke and Gyokeres, but once those deals are done, we can expect some progress over Eze.",
+      "",
+      "10) Marcus Rashford – Manchester United to Barcelona\nWith Nico Williams signing a new contract with Athletic Bilbao and Liverpool ignoring interest in Luis Diaz, Rashford is said to have found himself at the top of Barca’s wish-list and the Catalans are ready to go ‘all in’. Unfortunately for Barca – and United – ‘all’ doesn’t amount to much these days. Rashford wants the move and, most likely, United will be paying him to play as a loanee at the Nou Camp next season.",
+      "",
+      "9) Bryan Mbeumo – Brentford to Manchester United\nIt seemed as though United were at fault for this dragging as long as it has but now we hear of Brentford increasing their demand to £70million. Perhaps as a consequence of their own frustration at United’s lack of decisiveness. The Red Devils appear determined not to go over £65million, but Brentford’s show of strength could prompt them to get to their maximum a little faster.",
+      "",
+      "8) 🔼 Alexander Isak – Newcastle to Liverpool\nLiverpool were rebuffed in their initial enquiry but we doubt they took ‘no’ as a final answer. We can still imagine a deal happening if the Reds say they will step back from Ekitike – and if Isak agitates for the move.",
+      "",
+      "7) Hugo Ekitike – Eintracht Frankfurt to Newcastle\nSome reports at the start of the week suggested Ekitike’s agents were in Newcastle, others say a Toon delegation was in Germany. Whatever. Talks were certainly taking place, which apparently involved Eintracht saying ‘nein’ to Newcastle’s opening bid of £70million. It has always been reported that the Germans want more for the forward, perhaps as much as £85million. And they will feel emboldened by the bidding battle that could ensue since Liverpool are determined to ‘go to war’, according to The Telegraph.",
+      "",
+      "6) Hugo Ekitike – Eintracht Frankfurt to Liverpool\nLiverpool heard the rejection of their advances on Alexander Isak and reacted with violence by targeting the striker Newcastle crave. We make Liverpool favourites here on the basis they have greater spending power. We assume so since they were willing to make a record bid for Isak. And also because Liverpool are the more attractive option right now. That’s not to denigrate Newcastle – it’s an exciting time up there too – but Liverpool have strengthened significantly as champions. Of course everyone else is playing catch up.",
+      "",
+      "5) Evan Ferguson – Brighton to Roma\nAfter a loan spell at West Ham in which he did absolutely nothing, Ferguson is now close to joining Roma on loan, with some claiming the Italians will retain the option to buy. Sounds like a great opportunity for a striker once rated at £100million to kickstart his stalling career, assuming the two clubs can find an agreement over a fee should the loan become a permanent arrangement.",
+      "",
+      "",
+      "3) 🔼 Cristhian Mosquera – Valencia to Arsenal\nArsenal had one bid rejected for the 2024 Golden Boy-shortlisted defender but they remain in talks with Valencia. Which didn’t appear to be going well, but Ornstein suggests the Gunners are getting there. And Mosquera’s farewell message suggests it is heading in the right direction.",
+      "",
+      "2) 🔼 Viktor Gyokeres – Sporting to Arsenal\nSo many claims and counter claims now, we had almost given up trying to keep up. But this seems to be reaching what felt like the inevitable conclusion amid reports a deal has finally been agreed between the two clubs. Indeed, Gyokeres’ representatives are in London now though a five-year contract was agreed weeks ago.",
+      "",
+      "1) 🔼 Noni Madueke – Chelsea to Arsenal\nThe Chelsea winger will be unveiled by Arsenal any time now after a £52million move. Which will prompt some screeching U-turns among the Arsenal fan base, you would expect."
     ]
   },
   {
@@ -1116,7 +1199,7 @@
       "Garnacho"
     ],
     "link": "https://www.football365.com/news/man-utd-exiled-alejandro-garnacho-lifeline-three-premier-league-interested",
-    "image": "https://images.ps-aws.com/c?url=https%3A%2F%2Fd2x51gyc4ptf2q.cloudfront.net%2Fcontent%2Fuploads%2F2025%2F07%2F08154740%2FAlejandro-Garnacho-man-utd-1320x742.jpg",
+    "image": "https://images.ps-aws.com/c?url=https%3A%2F%2Fd2x51gyc4ptf2q.cloudfront.net%2Fcontent%2Fuploads%2F2025%2F07%2F08154740%2FAlejandro-Garnacho-man-utd-638x358.jpg",
     "date": "2025-07-17 07:56:16",
     "source": "football365",
     "body": [
@@ -1253,67 +1336,13 @@
     ]
   },
   {
-    "headline": "Transfer rumour ranking: Liverpool, Newcastle ‘at war’ over strikers, Man Utd blow",
-    "tags": [
-      "Man Utd",
-      "LIVE"
-    ],
-    "link": "https://www.football365.com/news/summer-transfer-rumours-power-ranking-arsenal-liverpool-man-utd",
-    "image": "https://images.ps-aws.com/c?url=https%3A%2F%2Fd2x51gyc4ptf2q.cloudfront.net%2Fcontent%2Fuploads%2F2025%2F07%2F16172329%2FMbeumo-Ekitike-638x358.jpg",
-    "date": "2025-07-16 16:00:48",
-    "source": "football365",
-    "body": [
-      "Brentford seem to be screwing with Manchester United, while Liverpool are taking revenge on Newcastle…",
-      "With so much transfer talk doing the rounds, we’re here through the summer to sift through the bullsh*t and highlight the whispers that might have some substance.",
-      "Each day we’re ranking the top 20 rumours involving Premier League clubs, the higher the link, the more likely we feel they are to become done deals.",
-      "So we start with the tittle-tattle…",
-      "20) 🆕 Marcus Rashford – Manchester United to Liverpool\nCome again? While speculating over the Reds’ alternatives to Isak, the Daily Mail writes: “Rashford was also floated but that initial conversation has not progressed so far.” Of course it hasn’t. Though Rashford winning 21 at Anfield next season would be very modern-day Manchester United.",
-      "",
-      "",
-      "18) Jadon Sancho – Manchester United to Juventus\nIt seems Juve have finally agreed a deal with Porto for Francisco Conceicao which, presumably, will supress the Old Lady’s appetite for Sancho. So what now for the ex-England international?",
-      "",
-      "17) Luis Diaz – Liverpool to Bayern Munich\nBayern have made their move for Diaz, who wants to make a move of his own. But Liverpool won’t entertain the bid of £58.6million, with the Reds insisting they want to keep the Colombian, but £87million might twist their arm. There seems to be an openness from all sides to a deal, but it feels very unlikely the two clubs will compromise while they stand £30million apart in their current valuations. Diaz may have to force the issue.",
-      "MORE ON THE SUMMER 2025 TRANSFER WINDOW\n👉 Every Premier League transfer and release confirmed in the summer of 2025\n👉 Twenty biggest transfers in the world in 2025 summer transfer window",
-      "16) Pervis Estupinan – Brighton to Manchester United\nUnited have held talks with the left-back, according to Talksport, though AC Milan are also sniffing around a player Brighton seem happy to sell since they’ve already bought Maxim De Cuyper from Club Brugge. The one signing they made in January was a left wing-back, though Patrick Dorgu showed almost nothing in his half-season so far.",
-      "",
-      "15) Marc Guehi – Crystal Palace to Liverpool\nWith a year left on his contract and a renewal unlikely, Palace are willing to cash in on their captain – but Liverpool won’t pay the £50million or so the Eagles are demanding. Currently, we are at stalemate. Liverpool don’t seem twitchy yet, but they are keeping the lines of communication open.",
-      "",
-      "14) 🆕 Leandro Trossard – Arsenal to Bayern Munich\nWith Arsenal looking to sign players in the positions Trossard plays, it makes sense that they cash in on the attacker. Who just so happened to change his representatives this summer to a fella well connected with the German big-hitters. Trossard has two years remaining on his contract and would be around half the price of Diaz.",
-      "",
-      "13) 🔼 Alejandro Garnacho – Manchester United to Chelsea\nChelsea are selling one winger for £52million and reports suggest they could sign a replacement (do they really need one?) for £40million in the shape of Garnacho. The Blues were keen in January and, unbelievably, nothing between then and now has put them off the Argentinian, perhaps due to the discount on the hefty price they were quoted at the start of the year. Garnacho’s gotta go somewhere…",
-      "",
-      "12) Harvey Elliott – Liverpool to West Ham\nThe Hammers seem keen to put some of their Kudus cash into luring Elliott away from Liverpool but it is so far unclear what the Reds would accept. The Guardian says ‘preparations for a move are being conducted’ which have to start with a simple question: how much?",
-      "",
-      "11) Eberechi Eze – Crystal Palace to Arsenal\nEze is keen on the prospect of moving to the Emirates and some reports suggest a deal is now down to the finer details of how the fee to activate his release clause is paid. Arsenal are a little tied up this week with Madueke and Gyokeres, but once those deals are done, we can expect some progress over Eze.",
-      "",
-      "10) Marcus Rashford – Manchester United to Barcelona\nWith Nico Williams signing a new contract with Athletic Bilbao and Liverpool ignoring interest in Luis Diaz, Rashford is said to have found himself at the top of Barca’s wish-list and the Catalans are ready to go ‘all in’. Unfortunately for Barca – and United – ‘all’ doesn’t amount to much these days. Rashford wants the move and, most likely, United will be paying him to play as a loanee at the Nou Camp next season.",
-      "",
-      "9) Bryan Mbeumo – Brentford to Manchester United\nIt seemed as though United were at fault for this dragging as long as it has but now we hear of Brentford increasing their demand to £70million. Perhaps as a consequence of their own frustration at United’s lack of decisiveness. The Red Devils appear determined not to go over £65million, but Brentford’s show of strength could prompt them to get to their maximum a little faster.",
-      "",
-      "8) 🔼 Alexander Isak – Newcastle to Liverpool\nLiverpool were rebuffed in their initial enquiry but we doubt they took ‘no’ as a final answer. We can still imagine a deal happening if the Reds say they will step back from Ekitike – and if Isak agitates for the move.",
-      "",
-      "7) Hugo Ekitike – Eintracht Frankfurt to Newcastle\nSome reports at the start of the week suggested Ekitike’s agents were in Newcastle, others say a Toon delegation was in Germany. Whatever. Talks were certainly taking place, which apparently involved Eintracht saying ‘nein’ to Newcastle’s opening bid of £70million. It has always been reported that the Germans want more for the forward, perhaps as much as £85million. And they will feel emboldened by the bidding battle that could ensue since Liverpool are determined to ‘go to war’, according to The Telegraph.",
-      "",
-      "6) Hugo Ekitike – Eintracht Frankfurt to Liverpool\nLiverpool heard the rejection of their advances on Alexander Isak and reacted with violence by targeting the stiker Newcastle crave. We make Liverpool favourites here on the basis they have greater spending power. We assume so since they were willing to make a record bid for Isak. And also because Liverpool are the more attractive option right now. That’s not to denigrate Newcastle – it’s an exciting time up there too – but Liverpool have strengthened significantly as champions. Of course everyone else is playing catch up.",
-      "",
-      "5) Evan Ferguson – Brighton to Roma\nAfter a loan spell at West Ham in which he did absolutely nothing, Ferguson is now close to joining Roma on loan, with some claiming the Italians will retain the option to buy. Sounds like a great opportunity for a striker once rated at £100million to kickstart his stalling career, assuming the two clubs can find an agreement over a fee should the loan become a permanent arrangement.",
-      "",
-      "",
-      "3) 🔼 Cristhian Mosquera – Valencia to Arsenal\nArsenal had one bid rejected for the 2024 Golden Boy-shortlisted defender but they remain in talks with Valencia. Which didn’t appear to be going well, but Ornstein suggests the Gunners are getting there. And Mosquera’s farewell message suggests it is heading in the right direction.",
-      "",
-      "2) 🔼 Viktor Gyokeres – Sporting to Arsenal\nSo many claims and counter claims now, we had almost given up trying to keep up. But this seems to be reaching what felt like the inevitable conclusion amid reports a deal has finally been agreed between the two clubs. Indeed, Gyokeres’ representatives are in London now though a five-year contract was agreed weeks ago.",
-      "",
-      "1) 🔼 Noni Madueke – Chelsea to Arsenal\nThe Chelsea winger will be unveiled by Arsenal any time now after a £52million move. Which will prompt some screeching U-turns among the Arsenal fan base, you would expect."
-    ]
-  },
-  {
     "headline": "Man Utd transfer blow as Ratcliffe refuses to pay Mbeumo fee as talks ‘stall’ again",
     "tags": [
       "Man Utd",
       "Ratcliffe"
     ],
     "link": "https://www.football365.com/news/man-utd-transfer-blow-as-ratcliffe-refuses-to-pay-mbeumo-fee-as-talks-stall-again",
-    "image": "https://images.ps-aws.com/c?url=https%3A%2F%2Fd2x51gyc4ptf2q.cloudfront.net%2Fcontent%2Fuploads%2F2025%2F07%2F16142642%2FF365-Bryan-Mbeumo-Jim-Ratcliffe-with-Man-utd-badge-1-638x358.jpg",
+    "image": "https://www.football365.com/content/themes/f365-sportsui/img/png/placeholder.png",
     "date": "2025-07-16 13:39:12",
     "source": "football365",
     "body": [
@@ -1661,12 +1690,12 @@
       "It is noted that he currently has to arrive at Man Utd’s training ground to use their facilities once the rest of the squad are finished training, with club chiefs said to be confident that they are ‘complying with regulations’.",
       "However, it is noted that Rashford’s team have ‘considered’ taking drastic action to secure an exit. The report adds: ‘Rashford’s entourage has even considered whether his rights as a professional footballer with a contract were being violated, something that could lead him to sue United to terminate his contract and receive his full salary until 2028.’",
       "It is also claimed that the forward feels he is ‘increasingly certain’ to leave Man Utd on loan this summer as Barcelona and others are currently unwilling to meet Man Utd’s financial demands.",
+      "Juventus are also interested in bringing Marcus Rashford to Serie A this summer after edging closer to a deal for Jadon Sancho, according to reports.",
       "Liverpool have ‘floated’ the idea of bringing in a Man Utd player if they miss out on signing Alexander Isak from Newcastle, according to reports.",
       "Man Utd and Marcus Rashford are at odds again as INEOS refuse to facilitate his move to Barcelona amid Jose Mourinho’s complicated involvement.",
       "Marcus Rashford has ‘made his feelings clear’ by going to the gym, while a deal has been agreed that may or may not involve him.",
       "According to reports, Manchester United are set to be ‘exploited’ as they face ‘paying millions’ to ‘offload’ three players this summer.",
-      "Man Utd will be unable to offload Marcus Rashford to La Liga champions Barcelona this summer for their asking price, according to reports.",
-      "According to reports, Barcelona are under threat of being hijacked by another European giant in the race to sign Manchester United outcast Marcus Rashford."
+      "Man Utd will be unable to offload Marcus Rashford to La Liga champions Barcelona this summer for their asking price, according to reports."
     ]
   },
   {
@@ -1696,12 +1725,12 @@
       "Pedulla adds: ‘This is considerably closer to the €25m asking price, which is considered frankly unrealistic considering he is already into the final year of his contract and has a massive salary.",
       "‘As we had already confirmed over the last 24 hours, there was more intense contact between Juve and Sancho’s entourage, which resulted in a new proposal.",
       "‘It is worth £15m, circa €17.3m, and an improvement on the €15m including add-ons that had been rejected.’",
+      "Juventus are also interested in bringing Marcus Rashford to Serie A this summer after edging closer to a deal for Jadon Sancho, according to reports.",
       "Man Utd and Juventus have ‘agreed’ a fee for Jadon Sancho with ‘a severance package’ now being discussed, according to reports.",
       "A Manchester United flop has been told by a broadcaster to return to his old club, as they “love him” as there may not be a chance of “winning something” ...",
       "According to reports, one Manchester United star is ‘closer’ to securing an exit after ‘taking drastic action’ to secure his desired transfer.",
       "Man Utd will welcome any suitor for their band of misfits and here are eight possible reunions which could aid what currently looks like a woefully inadequate summer rebuild.",
-      "Former Man Utd boss Ole Gunnar Solskjaer is keen to bring Jadon Sancho to Besiktas this summer and has made enquiries, according to reports.",
-      "Manchester United have reportedly ‘agreed’ to sell Jadon Sancho to Juventus, but wage demands and transfer terms are proving tricky."
+      "Former Man Utd boss Ole Gunnar Solskjaer is keen to bring Jadon Sancho to Besiktas this summer and has made enquiries, according to reports."
     ]
   },
   {
@@ -1880,12 +1909,12 @@
       "“They are actually trying but of course this is in the hands of Newcastle. Newcastle always wanted to keep the player, promise to the player that they want to offer him a really important new contract with a huge salary, but obviously now is in the hands of Newcastle to decide what they want to do because Liverpool for Alexander Isak are trying.",
       "“So they want to make something crazy happen that would be very difficult. They know that. But it depends on Newcastle.",
       "“The approach has been made. Otherwise, Hugo Ekitike remains one of the options in the list at Liverpool for this summer transfer window.”",
+      "Juventus are also interested in bringing Marcus Rashford to Serie A this summer after edging closer to a deal for Jadon Sancho, according to reports.",
       "Transfer expert Fabrizio Romano has revealed that Liverpool are now ‘advancing’ for Eintracht Frankfurt striker Hugo Ekitike.",
       "According to reports, Liverpool are in ‘advanced talks’ over their next summer signing as they step up their efforts to sign a new striker.",
       "Liverpool breaking the British transfer record twice to sign an elite striker and creator is ‘unthinkable’ but means they should be judged by the Quadruple.",
       "Newcastle United have reportedly entered ‘advanced’ talks over Hugo Ekitike, while Fabrizio Romano has provided an update on Alexander Isak to Liverpool.",
-      "It’s transfer nonsense all the way down today, with any excuse to place ‘Isak’ and ‘Liverpool’ in the same headline cheerfully and unapologetically accepted.",
-      "According to reports, Marcus Rashford’s ‘entourage’ are considering taking drastic action to ensure the forward leaves Manchester United this summer."
+      "It’s transfer nonsense all the way down today, with any excuse to place ‘Isak’ and ‘Liverpool’ in the same headline cheerfully and unapologetically accepted."
     ]
   },
   {
@@ -2260,12 +2289,12 @@
       "However, the report also states that Mourinho is likely to be disappointed as Rashford continues to prioritise a potential move to Barcelona for as long as it remains a possibility.",
       "Rashford is currently training away from the main group at Carrington alongside other transfer-listed players, including Jadon Sancho, Tyrell Malacia and Alejandro Garnacho.",
       "The club have made facilities available but have kept the first-team environment separate while the futures of those players remain unresolved.",
+      "Juventus are also interested in bringing Marcus Rashford to Serie A this summer after edging closer to a deal for Jadon Sancho, according to reports.",
       "According to reports, Marcus Rashford’s ‘entourage’ are considering taking drastic action to ensure the forward leaves Manchester United this summer.",
       "Liverpool have ‘floated’ the idea of bringing in a Man Utd player if they miss out on signing Alexander Isak from Newcastle, according to reports.",
       "Marcus Rashford has ‘made his feelings clear’ by going to the gym, while a deal has been agreed that may or may not involve him.",
       "According to reports, Manchester United are set to be ‘exploited’ as they face ‘paying millions’ to ‘offload’ three players this summer.",
-      "Man Utd will be unable to offload Marcus Rashford to La Liga champions Barcelona this summer for their asking price, according to reports.",
-      "According to reports, Barcelona are under threat of being hijacked by another European giant in the race to sign Manchester United outcast Marcus Rashford."
+      "Man Utd will be unable to offload Marcus Rashford to La Liga champions Barcelona this summer for their asking price, according to reports."
     ]
   },
   {
@@ -2315,12 +2344,12 @@
       "Throw in Leandro Trossard and Gabriel Martinelli (‘Arteta is said to value both stars but things could change’) and you magically get to EIGHT. Which makes us think that maybe Arsenal should sign more than SIX.",
       "",
       "",
+      "Juventus are also interested in bringing Marcus Rashford to Serie A this summer after edging closer to a deal for Jadon Sancho, according to reports.",
       "According to reports, Marcus Rashford’s ‘entourage’ are considering taking drastic action to ensure the forward leaves Manchester United this summer.",
       "Liverpool have ‘floated’ the idea of bringing in a Man Utd player if they miss out on signing Alexander Isak from Newcastle, according to reports.",
       "Man Utd and Marcus Rashford are at odds again as INEOS refuse to facilitate his move to Barcelona amid Jose Mourinho’s complicated involvement.",
       "According to reports, Manchester United are set to be ‘exploited’ as they face ‘paying millions’ to ‘offload’ three players this summer.",
-      "Man Utd will be unable to offload Marcus Rashford to La Liga champions Barcelona this summer for their asking price, according to reports.",
-      "According to reports, Barcelona are under threat of being hijacked by another European giant in the race to sign Manchester United outcast Marcus Rashford."
+      "Man Utd will be unable to offload Marcus Rashford to La Liga champions Barcelona this summer for their asking price, according to reports."
     ]
   },
   {
@@ -2531,64 +2560,6 @@
     ]
   },
   {
-    "headline": "Ten obvious Premier League transfer priorities after Arsenal sign Proper Striker in Gyokeres",
-    "tags": [
-      "Premier League"
-    ],
-    "link": "https://www.football365.com/news/opinion-ten-obvious-transfer-priorities-arsenal-gyokeres-manchester-united",
-    "image": "https://www.football365.com/content/themes/f365-sportsui/img/png/placeholder.png",
-    "date": "2025-07-15 08:13:36",
-    "source": "football365",
-    "body": [
-      "Arsenal are on the verge of finally signing a Proper Striker in Viktor Gyokeres and sorting a priority position. Liverpool and Manchester United are next.",
-      "",
-      "10) Crystal Palace and a centre-half\nWhile most executives at Selhurst Park are busy scouring their emails for old messages from UEFA and preparing for trips to Lausanne in the coming days, Crystal Palace must soon put down their Evangelos Marinakis voodoo dolls and instead focus on squad-building.",
-      "There is admittedly less work than might have been expected by mid-July, whichever European competition the Eagles land in.",
-      "For all the frenzied speculation surrounding their most prized assets, Eberechi Eze, Marc Guehi, Adam Wharton, Jean-Philippe Mateta and Will Hughes remain.",
-      "But there is a need for reinforcements and to push on from a position of strength. The central-defensive cupboards are particularly bare and Guehi’s departure feels inevitably whether this summer or next. Sporting must be too busy counting the Viktor Gyokeres pennies to start negotiating over Ousmane Diomande just yet.",
-      "",
-      "9) Manchester City and a right-back\nPep Guardiola perhaps didn’t realise he had identified his right-back solution for the best part of the next decade when Manchester City spent £50m to sign Kyle Walker in 2017.",
-      "The only other players the Spaniard has signed specifically for that position at the Etihad have largely been lapped by that recovery pace: Danilo was only ever a back-up; Yan Couto never played for the club and Issa Kabore might well follow suit; Joao Cancelo was exceptional for a brief time before being ostracised.",
-      "Walker described his exit chat with Guardiola as “not very comfortable” but in outlining a desire for new challenges in January, he spared the manager an even less pleasant conversation this summer.",
-      "His decline has been pronounced and with the deposed champions embarking on their most ambitious squad revamp since Guardiola’s first, a shiny new right-back feels like The Final Piece of the Puzzle.",
-      "",
-      "8) Brentford and a forward\nAmong the many ludicrous numbers supporting Spurs’ choice of Thomas Frank as their new manager is this: in summer 2024 Brentford made Ivan Toney their record sale, spent most of the proceeds on Igor Thiago, saw him play 169 minutes last season due to injury and still enjoyed their best goal return in a single top-flight campaign post-Second World War.",
-      "Keith Andrews was responsible for many of those as set-piece coach and it could be that his acumen transfers seamlessly to the role of Frank’s replacement as his first senior managerial post.",
-      "But the likelihood remains that Brentford will lose either the fourth or sixth highest scorer in the entire 2024/25 Premier League; it would be a surprise if both Bryan Mbeumo and Yoane Wissa remained.",
-      "Even in the event that attack is kept intact, Brentford need far more up front. Kevin Schade is the only other vaguely proven option in a department which needs Thiago to hit the ground running without knacking his knee.",
-      "",
-      "7) Leeds and a keeper\nWhen Leeds chairman Paraag Marathe took the unprecedented step of issuing a vote of confidence in a manager who had just earned Premier League promotion, adding that “we are going to build the best squad that we can with every penny that we’re allowed to spend,” supporters might reasonably have expected more than a freebie and £30m worth of defenders.",
-      "Unless the plan was for Sean Longstaff to play in net, as a No. 10 and up front, Leeds need considerably more to compete instead of going into the season with a worse squad than that which Sam Allardyce took down two years ago, which is still really weird.",
-      "That new keeper is especially pressing after the mistakes of Illan Meslier mounted to the point Karl Darlow had to drag Leeds over the line in the sodding Championship. Just sign Aaron Ramsdale and perpetuate the curse.",
-      "",
-      "6) Liverpool and a striker\nWith the ludicrous greed of Newcastle extending beyond selfishly keeping Alexander Isak to signing an option on the next rung down of desirable centre-forwards, Liverpool are a handful of steps away from declaring this the season Darwin Nunez finally comes good.",
-      "A record of 40 goals and 26 assists in 143 appearances is far from shameful but a team pursuing trophies on four fronts requires far more consistency and reliability than the Uruguayan can offer.",
-      "Liverpool could also do with a centre-half or two but ultimately the modern Premier League title race demands for one contender to Need A Proper Striker, and Arsenal are soon to pass on a baton they picked up from Manchester City years ago.",
-      "",
-      "5) Bournemouth and a centre-half\nAt least Andoni Iraola is aware that Bournemouth “will not find the same player” as Dean Huijsen, although it would be no disaster to identify another defender they are able to sell on for ludicrous profit within a single season.",
-      "The sale of the Spain international and Milos Kerkez – and Paris Saint-Germain’s reluctance to meet the asking price – should preclude the exit of Illia Zabarnyi and subsequent extensive rebuild of Bournemouth’s entire central defence.",
-      "But Huijsen alone leaves a substantial enough gap for the Cherries to plug, with more capable cover needed too.",
-      "",
-      "4) Aston Villa and a right-winger\nThe January transfer window gamble did not pay off. It made Champions League qualification a minimum requirement which proved beyond the competence levels of Emi Martinez and Matty Cash to deliver, and only increased the financial strain.",
-      "That has been underlined in a deeply uninspiring start to the summer transfer window. Villa probably need to sell before they sign and the £3.5m generated for Kaine Kesler-Hayden doesn’t even cover Yasin Ozcan’s arrival.",
-      "They need a right-back. They need at least one centre-half. They need a significant injection of attacking depth, including more options on either side and competition for Ollie Watkins. Marcus Rashford and Marco Asensio were shiny distractions but only ever for so long.",
-      "",
-      "3) West Ham and a striker\nThe Prophecy dictates that West Ham always need a new striker. From Mido and Benni McCarthy in the first Sullivan and Gold transfer window to Evan Ferguson in the most recent, the East London graveyard of centre-forward hope has been littered with names over the last decade and a half.",
-      "It is uncomfortably revealing that their best striker signing in that time was a left-winger plucked from the Championship and eventually repurposed into an unshiftable channel-running nuisance.",
-      "Talks are ongoing with Michail Antonio over a contract renewal but Graham Potter needs far more backing, even if Niclas Fullkrug takes a break from his stint as irascible pundit to nod in a few goals.",
-      "",
-      "2) Everton and a right-winger\nThe signing of Thierno Barry has addressed one problem position but with a first-team squad currently comprising of about 18 players, Dave can afford to dither no more.",
-      "Everton are especially light on numbers in defence, midfield and attack, while Jordan Pickford could probably do with some company too.",
-      "But the most shocking aspect of Everton’s squad composition is that Jack Harrison was on loan from Leeds all this sodding time. Can Seamus Coleman play a bit further forward?",
-      "",
-      "1) Manchester United and a striker\nRuben Amorim has already been failed yet again by Manchester United, who by mid-July have only been able to generate money in the summer transfer window through sell-on clauses on players they offloaded long ago.",
-      "Some might prefer to ask questions of how Anthony Elanga and Alvaro Fernandez have found themselves at Champions League sides after being deemed surplus to requirements at Old Trafford, but Manchester United having the foresight to ensure they were covered in that event is a necessary sign of growth and sensibility.",
-      "Yet it will barely touch the sides of where that budget needs to go, especially if Brentford continue to inconsiderately want their money’s worth for Bryan Mbeumo.",
-      "Even beyond another addition of a high-performing forward operating in the bottom half, Amorim needs someone capable of leading the line. It feels like a role painfully beyond the current capabilities of Rasmus Hojlund and while Joshua Zirkzee has handled the weight of the shirt far better, the Dutchman’s goal return isn’t close to what the position demands.",
-      "The dream scenario is still on: Gyokeres struggles for Arsenal while Benjamin Sesko excels at Manchester United."
-    ]
-  },
-  {
     "headline": "Juventus interested in Rashford - Sky in Italy",
     "tags": [
       "Rashford"
@@ -2638,7 +2609,7 @@
     "date": null,
     "source": "skysports",
     "body": [
-      "Wednesday 16 July 2025 09:35, UK"
+      "Thursday 17 July 2025 09:59, UK"
     ]
   },
   {
