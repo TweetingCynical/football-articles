@@ -1,11 +1,37 @@
 [
   {
+    "headline": "Erik ten Hag responds to claims ex-Man Utd boss could sign Antony for THIRD time",
+    "tags": [
+      "Man Utd",
+      "Antony"
+    ],
+    "link": "https://www.mirror.co.uk/sport/football/transfer-news/erik-ten-hag-antony-united-35575630",
+    "image": null,
+    "date": null,
+    "source": "mirror",
+    "body": [
+      "Former Manchester United boss Erik ten Hag has denied claims he could sign Antony for a third time at Bayer Leverkusen - but insisted the Brazilian winger was \"like a son to me\".",
+      "The Dutchman is looking to start a new chapter with the Bundesliga side after taking the reigns from Xabi Alonso and put his turbulent spell with Manchester United behind him.",
+      "Ten Hag - who was axed by United last October after leading the team to their worst ever start to a Premier League season - has shown a great affinity towards Antony after signing him twice during his career.",
+      "He first snapped him up for Ajax in 2020 and helped turn him into one of Europe's most talented wingers as he played a huge part in the team winning back to back Eredivisie titles.",
+      "Ten Hag then left for United in 2022 and brought him with - as the club splashed out £85m on the player. However, he struggled to justify that huge figure at Old Trafford and only scored 12 times in 96 appearances.",
+      "After Ten Hag was axed, he failed to convince his successor Ruben Amorim that he was a valuable member of his team and was duly sent on loan to Real Betis - where he rediscovered his spark with nine goals and two assists.",
+      "After Antony's loan spell at Betis ended, his future is up in the air again - leading to speculation he could link up with his old manager once again - but Ten Hag has been quick to shut down those suggestions.",
+      "When asked about the possibility of signing Antony, Ten Hag replied: “He has great quality. I signed him twice.",
+      "\"He was like a son to me, he still is a son to me. We're not interested in him at the moment, but we'll see what happens in the future”.",
+      "Ten Hag will need more attacking reinforcements at Leverkusen after losing club talisman Florian Wirtz, who departed for Liverpool in a £116.5million deal.",
+      "Wirtz scored 16 goals for Leverkusen last season and assisted another 13 so he will be a painful loss - but the club have made moves towards replacing him.",
+      "Leverkusen have signed attacking midfielder Malik Tillman from PSV for around £30m - which is a club record fee - while Ibrahim Maza from Hertha Berlin has also arrived.",
+      "Sky will show at least 215 live Premier League games next season, an increase of up to 100 more."
+    ]
+  },
+  {
     "headline": "Man Utd player involved in furious bust-up with team-mate seals summer transfer",
     "tags": [
       "Man Utd"
     ],
     "link": "https://www.mirror.co.uk/sport/football/transfer-news/man-utd-transfer-bust-up-35575517",
-    "image": null,
+    "image": "https://i2-prod.mirror.co.uk/incoming/article35419479.ece/ALTERNATES/n615/1_Tottenham-Hotspur-v-Manchester-United-UEFA-Europa-League-Final-2025.jpg",
     "date": null,
     "source": "mirror",
     "body": [
@@ -56,7 +82,7 @@
       "Man Utd"
     ],
     "link": "https://www.mirror.co.uk/sport/football/transfer-news/breaking-man-utd-transfers-mbeumo-35573386",
-    "image": "https://i2-prod.dailystar.co.uk/sport/football/article35544146.ece/ALTERNATES/n615/2_GettyImages-2168475670.jpg",
+    "image": null,
     "date": null,
     "source": "mirror",
     "body": [
@@ -79,7 +105,7 @@
       "Premier League"
     ],
     "link": "https://www.mirror.co.uk/sport/football/transfer-news/premier-league-transfers-gyokeres-mbeumo-35571790",
-    "image": null,
+    "image": "https://i2-prod.mirror.co.uk/incoming/article35571322.ece/ALTERNATES/n615/0_Sporting-Clube-de-Portugal-v-Sporting-Clube-de-Braga-Liga-Portugal-Betclic.jpg",
     "date": null,
     "source": "mirror",
     "body": [
@@ -272,7 +298,7 @@
       "LIVE"
     ],
     "link": "https://www.mirror.co.uk/sport/football/news/liverpool-coach-simon-wiles-manutd-35569842",
-    "image": "https://i2-prod.mirror.co.uk/incoming/article35569888.ece/ALTERNATES/n615/0_GettyImages-1297959659.jpg",
+    "image": null,
     "date": null,
     "source": "mirror",
     "body": [
@@ -293,7 +319,7 @@
       "Man Utd"
     ],
     "link": "https://www.mirror.co.uk/sport/football/transfer-news/man-utd-mbeumo-brentford-andrews-35569567",
-    "image": null,
+    "image": "https://i2-prod.mirror.co.uk/incoming/article35569527.ece/ALTERNATES/n615/1_Brentford-FC-v-Brighton-Hove-Albion-FC-Premier-League.jpg",
     "date": null,
     "source": "mirror",
     "body": [
@@ -315,7 +341,7 @@
       "Rashford"
     ],
     "link": "https://www.mirror.co.uk/sport/football/transfer-news/marcus-rashford-transfer-man-utd-35569420",
-    "image": "https://i2-prod.mirror.co.uk/incoming/article35523699.ece/ALTERNATES/n615/2_GettyImages-2169619389.jpg",
+    "image": null,
     "date": null,
     "source": "mirror",
     "body": [
@@ -387,7 +413,7 @@
       "Rashford"
     ],
     "link": "https://www.mirror.co.uk/sport/football/transfer-news/manutd-marcus-rashford-jadon-sancho-35565348",
-    "image": null,
+    "image": "https://i2-prod.dailystar.co.uk/sport/football/article35524097.ece/ALTERNATES/n615/2_GettyImages-2188640310-2.jpg",
     "date": null,
     "source": "mirror",
     "body": [
@@ -436,7 +462,7 @@
       "Man Utd"
     ],
     "link": "https://www.mirror.co.uk/3am/celebrity-news/coronation-streets-tina-obrien-dating-35567787",
-    "image": "https://i2-prod.mirror.co.uk/incoming/article35567610.ece/ALTERNATES/n615/0_Sedulo-Colour-Ball-2024-Arrivals.jpg",
+    "image": null,
     "date": null,
     "source": "mirror",
     "body": [
@@ -483,32 +509,6 @@
       "Ronaldo Jr is an aspiring professional footballer in his own right, currently playing in Al-Nassr’s youth academy. He previously trained with Juventus, Manchester United and Real Madrid during his father’s time with each club.",
       "The youngster was born in the United States and was also able to represent Spain but decided to play for Portugal at youth level, following in his dad’s footsteps. He made his debut for Portugal’s Under-15s against Japan in May and scored his first two goals against Croatia just days later.",
       "Sky will show at least 215 live Premier League games next season, an increase of up to 100 more."
-    ]
-  },
-  {
-    "headline": "Alejandro Garnacho offered Premier League lifeline after Marcus Rashford decision",
-    "tags": [
-      "Premier League",
-      "Rashford",
-      "Garnacho"
-    ],
-    "link": "https://www.mirror.co.uk/sport/football/transfer-news/alejandro-garnacho-transfer-marcus-rashford-35565391",
-    "image": null,
-    "date": null,
-    "source": "mirror",
-    "body": [
-      "Aston Villa are the latest club to signal their interest in Manchester United outcast Alejandro Garnacho. The winger is expected to depart the Red Devils before the end of the transfer window and is not part of Ruben Amorim's plans.",
-      "The Argentina international, who was available for sale in January, was told to find a new club by the Portuguese head coach after Garnacho was publically critical of the decision to not select him to start in the Europa League final defeat to Tottenham. As a result, Garnacho has not been part of United's pre-season plans.",
-      "Instead the winger — along with Marcus Rashford, Antony, Tyrell Malacia and Jadon Sancho — has been told he can report to Carrington for training from 5pm, after the first team have completed their training. Thus far, United have not been able to facilitate a transfer for any of the players they want to sell.",
-      "Villa have registered their interest in Garnacho, according to the Mail. Chelsea and Tottenham are also said to be monitoring the 21-year-old's situation, who prefers to remain in the Premier League.",
-      "United previously valued Garnacho at £70m but that figure may prove difficult to earn given the public fallout of the winger's situation at United. But any fee will provide pure profit for the club in terms of profit and sustainability rules.",
-      "Garnacho pictured himself wearing an Aston Villa shirt last month. The young star sparked some controversy when he wore a Rashford top, prompting the ire of some supporters.",
-      "Rashford spent the second half of last season on loan at Villa Park, but ultimately did not see the option to make the move permanent activated. The United academy product scored four goals and added six assists in 17 appearances in the Midlands.",
-      "Unai Emery's side had a £40m agreement in place with United to seal Rashford's transfer but it ultimately did not come to fruition. The forward instead wants a move that could offer Champions League football, with Barcelona said to be his dream destination.",
-      "The Catalan side are said to be more interested in signing Rashford on loan. The England international's contract until 2028, that sees him earn £315,000-per-week could prove problematic to an exit.",
-      "Speaking ahead of his loan, Rashford admitted he was keen to find a new club. \"For me, personally, I think I’m ready for a new challenge and the next steps,\" he said.",
-      "\"When I leave it’s going to be “no hard feelings”. You’re not going to have any negative comments from me about Manchester United. That’s me as a person.",
-      "\"If I know that a situation is already bad I’m not going to make it worse. I’ve seen how other players have left in the past and I don’t want to be that person. When I leave I’ll make a statement and it will be from me.\""
     ]
   },
   {
@@ -624,7 +624,7 @@
     ],
     "link": "https://www.manchestereveningnews.co.uk/sport/football/transfer-news/man-united-transfer-news-live-32048931",
     "image": null,
-    "date": "2025-07-17 22:01:00",
+    "date": "2025-07-17 22:55:00",
     "source": "manchestereveningnews",
     "body": [
       "Hello and welcome back to the Manchester United transfer blog on Thursday, July 17.",
@@ -634,6 +634,12 @@
       "Andre Onana's hamstring injury has thrust the goalkeeper conversation back to the forefront this weekend. Botafogo's John Victor has been named as a potential target for the Reds to strengthen that position.",
       "Aston Villa goalkeeper Emiliano Martinez has also been linked with Chelsea showing an interest.",
       "Keep across all this and more from United in our dedicated blog below...",
+      "Thank you for joining us on the United transfer blog this evening.",
+      "Our coverage will pause there for the night.",
+      "We shall be back bright and early for more United news tomorrow, until then, good night.",
+      "United have been given a boost as their current first choice goalkeeper recovers from injury.",
+      "The Mirror understands that Onana's hamstring injury is not as bad as first feared.",
+      "It is claimed that tests have shown that the Cameroonian has strained his hamstring instead of tearing it which, if true, means Onana will not be out for as long as first feared.",
       "If United are to make more additions following the signing of Mbeumo, they will need to complete exits to balance the books.",
       "The departure of Sancho will be a welcome one for all parties.",
       "The forward has not had a future at Old Trafford for some time and his relationship with the fanbase has disintegrated entirely.",
@@ -714,13 +720,7 @@
       "Juventus have joined the race to sign Marcus Rashford this summer. Barcelona and Fenerbahce have both been linked with a move for the forward this summer.",
       "Gianluca Di Marzio has claimed that Juve want to add Rashford to Igor Tudor's attack. However, there are doubts about their ability of paying his wages.",
       "Man United are preparing a 'serious' player-plus-cash offer to sign Eintracht Frankfurt striker Hugo Ekitike.",
-      "According to Caught Offside, United are looking to beat Liverpool and Newcastle to sign the striker having held initial talks with the player and his representatives.",
-      "Manchester United are still working on a deal to sign Bryan Mbeumo so he can figure on the club's pre-season tour of the United States.",
-      "United have had two offers rejected by Brentford, the second for more than £60million, and club sources are insistent they will only negotiate for a sensible price.",
-      "Mbeumo, 26, reported for pre-season training at Brentford this week but he wants to join United, despite a late approach from Tottenham Hotspur after they named Thomas Frank as their new manager.",
-      "Read more here",
-      "Manchester United are ruffling feathers by discussing the sales of academy players this summer as they adopt a new transfer approach.",
-      "Those clubs have been surprised at some of the names discussed because United, in some of the instances, have previously paid sizeable transfer fees to sign those players to their academy."
+      "According to Caught Offside, United are looking to beat Liverpool and Newcastle to sign the striker having held initial talks with the player and his representatives."
     ]
   },
   {
@@ -2419,16 +2419,17 @@
     ]
   },
   {
-    "headline": "Man Utd latest: Why Wissa sale could scupper pursuit of Mbeumo",
+    "headline": "Man Utd latest: AC Milan interested in Hojlund",
     "tags": [
-      "Man Utd"
+      "Man Utd",
+      "Hojlund"
     ],
     "link": "https://www.skysports.com/football/live-blog/11667/13025492/man-utd-transfer-news-rumours-and-gossip-live-updates-and-latest-on-deals-signings-loans-and-contracts",
     "image": "https://e0.365dm.com/25/03/768x432/skysports-ruben-amorim-man-utd_6844390.jpg?20250302164812",
     "date": null,
     "source": "skysports",
     "body": [
-      "Thursday 17 July 2025 16:44, UK"
+      "Thursday 17 July 2025 22:56, UK"
     ]
   },
   {
