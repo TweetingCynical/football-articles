@@ -1,11 +1,37 @@
 [
   {
+    "headline": "Barcelona fans make feelings clear about signing Marcus Rashford as Man Utd star arrives",
+    "tags": [
+      "Man Utd",
+      "Rashford"
+    ],
+    "link": "https://www.mirror.co.uk/sport/football/transfer-news/barcelona-marcus-rashford-man-utd-35588377",
+    "image": null,
+    "date": null,
+    "source": "mirror",
+    "body": [
+      "Barcelona fans have hailed the arrival of Marcus Rashford by creating a mural of the England winger ahead of his loan move from Manchester United.",
+      "Rashford has had to wait patiently for his next move after being excluded from United's first-team training sessions following his fallout with manager Ruben Amorim.",
+      "He is one of five unwanted United players who were given extra time to find new clubs before the start of pre-season training, along with Alejandro Garnacho, Jadon Sancho, Antony and Tyrell Malacia.",
+      "And with Rashford forced to train on his own for weeks, he will be eager to finally clinch his long-awaited switch away after agreeing to link up with Barcelona on loan.",
+      "Rashford's private jet landed in the Catalan city on Sunday after Barcelona thrashed out terms with United that includes a £26million option to buy next summer.",
+      "Some excited Barcelona fans have already signalled their approval of his signing by painting a mural of the 27-year-old wearing the club's colours and performing his trademark celebration of pointing to his head.",
+      "Next to the mural was a message that read: \"Benvingut Rashford!\" which translates to \"Welcome Rashford\" in Catalan.",
+      "There were further positive thoughts about Rashford's arrival on social media, with some writing: \"A loan player we can afford to fall in love with\", and \"United fans don't worry, your boy is safe with us.\"",
+      "Another said: \"Anyone who respects our club deserves our respect,\" while a third added: \"Barca will give him his status back.\"",
+      "But some were more pessimistic about the prospect of Rashford being a success at the Nou Camp as a post read: \"He will flop.\" Other posts said: \"He's way out of his depth,\" and \"Does he get in the team in front of Yamal and Raphinha?\"",
+      "It's understood Barcelona will cover Rashford's salary during the duration of his loan, but the player will take a 15 per cent pay cut on his usual £325,000-a-week wages.",
+      "Rashford will be hoping to continue his positive form from his loan spell at Aston Villa last season, which saw him score four and assist five.",
+      "Sky will show at least 215 live Premier League games next season, an increase of up to 100 more."
+    ]
+  },
+  {
     "headline": "Rio Ferdinand gives verdict on Marcus Rashford's pending Barcelona transfer",
     "tags": [
       "Rashford"
     ],
     "link": "https://www.mirror.co.uk/sport/football/transfer-news/man-utd-marcus-rashford-ferdinand-35588148",
-    "image": null,
+    "image": "https://i2-prod.mirror.co.uk/incoming/article35430762.ece/ALTERNATES/n615/0_GettyImages-2163978564.jpg",
     "date": null,
     "source": "mirror",
     "body": [
@@ -56,7 +82,7 @@
       "Fernandes"
     ],
     "link": "https://www.mirror.co.uk/sport/football/transfer-news/manchester-united-fernandes-semedo-wolves-35586134",
-    "image": "https://i2-prod.mirror.co.uk/incoming/article35398641.ece/ALTERNATES/n615/1_GettyImages-2217580484.jpg",
+    "image": null,
     "date": null,
     "source": "mirror",
     "body": [
@@ -82,7 +108,7 @@
       "Transfer News"
     ],
     "link": "https://www.mirror.co.uk/sport/football/transfer-news/arsenal-transfers-viktor-gyokeres-latest-35586701",
-    "image": null,
+    "image": "https://i2-prod.mirror.co.uk/incoming/article34786935.ece/ALTERNATES/n615/1_AVS-v-Sporting-Clube-de-Portugal-Liga-Portugal-Betclic.jpg",
     "date": null,
     "source": "mirror",
     "body": [
@@ -254,7 +280,7 @@
       "Rashford"
     ],
     "link": "https://www.mirror.co.uk/sport/football/transfer-news/marcus-rashford-barcelona-wages-manutd-35587065",
-    "image": "https://i2-prod.mirror.co.uk/sport/football/news/article35583673.ece/ALTERNATES/n615/0_Rashford-File-Photo.jpg",
+    "image": null,
     "date": null,
     "source": "mirror",
     "body": [
@@ -279,7 +305,7 @@
       "Amorim"
     ],
     "link": "https://www.mirror.co.uk/sport/football/transfer-news/manchester-united-transfers-ruben-amorim-35586921",
-    "image": null,
+    "image": "https://i2-prod.dailystar.co.uk/incoming/article35584221.ece/ALTERNATES/n615/2_Manchester-United-v-Leeds-United-Pre-Season-Friendly.jpg",
     "date": null,
     "source": "mirror",
     "body": [
@@ -306,7 +332,7 @@
       "Rashford"
     ],
     "link": "https://www.mirror.co.uk/sport/football/transfer-news/man-utd-rashford-barcelona-ferdinand-35586799",
-    "image": "https://i2-prod.mirror.co.uk/incoming/article35586859.ece/ALTERNATES/n615/0_GettyImages-2191216187-1.jpg",
+    "image": null,
     "date": null,
     "source": "mirror",
     "body": [
@@ -382,7 +408,7 @@
       "Amorim"
     ],
     "link": "https://www.mirror.co.uk/sport/football/transfer-news/ruben-amorim-man-utd-transfers-35585889",
-    "image": null,
+    "image": "https://i2-prod.mirror.co.uk/incoming/article35584218.ece/ALTERNATES/n615/0_GettyImages-2225976061.jpg",
     "date": null,
     "source": "mirror",
     "body": [
@@ -432,7 +458,7 @@
       "Man Utd"
     ],
     "link": "https://www.mirror.co.uk/sport/football/news/man-utd-transfers-omar-berrada-35584398",
-    "image": "https://i2-prod.mirror.co.uk/incoming/article35405536.ece/ALTERNATES/n615/2_Manchester-United-v-Crystal-Palace-Premier-League-Old-Trafford.jpg",
+    "image": null,
     "date": null,
     "source": "mirror",
     "body": [
@@ -476,30 +502,6 @@
       "Sancho spent last season on loan at Chelsea, but the Blues decided to pay a £5m penalty fee to avoid signing him permanently.",
       "Bryan Mbeumo is set to join Manchester United in time for their pre-season trip to the US after an agreement was finally reached with Brentford.",
       "United fly out to Chicago on Tuesday and Mbeumo is expected to join them after a fee was agreed of £65m plus £6m in add-ons. Ruben Amorim also wants United to sign a new creative midfielder and a proven goalscorer this summer.",
-      "Sky will show at least 215 live Premier League games next season, an increase of up to 100 more."
-    ]
-  },
-  {
-    "headline": "Gary Lineker makes Marcus Rashford feelings clear as Man Utd star finally closes on exit",
-    "tags": [
-      "Man Utd",
-      "Rashford"
-    ],
-    "link": "https://www.mirror.co.uk/sport/football/transfer-news/marcus-rashford-transfer-barcelona-lineker-35585108",
-    "image": null,
-    "date": null,
-    "source": "mirror",
-    "body": [
-      "Gary Lineker appears to approve of Marcus Rashford following in his footsteps at Barcelona. After weeks of doubt, Rashford is edging closer to sealing his dream move to Barca and out of Manchester United in the summer transfer window.",
-      "Rashford made it clear that he is keen to join Barcelona ever since concluding a loan spell at Aston Villa. He rejected a mega-money move to Saudi Arabia and has been waiting patiently for Barca and United to come to terms over a move.",
-      "The striker has been put in the ‘bomb squad’ at United by Ruben Amorim, who has made it clear he doesn’t have a future at the club. Forced to train alongside fellow unwanted stars Jadon Sancho, Alejandro Garnacho, Antony and Tyrell Malacia, he has placed his future in the hands of others.",
-      "United had wanted to sell him permanently for around £40million, but they have now settled on a loan deal with Barca. The Catalan giants will take him on loan for the 2025/26 season, paying the entirety of his £325,000-a-week wages, before having the chance to sign him permanently if it goes well.",
-      "That has excited Lineker, who has changed his Instagram photo to an image of the two players wearing the No.10 shirts for England while standing in front of No.10 Downing Street. Lineker is currently the only Englishman to have played for Barcelona since World War II, having led the line for the club between 1986 and 1989.",
-      "He scored 51 goals in 138 games for Barca, helping them win the Copa del Rey, and will have an eye on how Rashford gets on in Hansi Flick’s side. Rashford is expected to play off the left of Barcelona’s 4-3-3 formation, although he can also provide back-up for veteran centre-forward Robert Lewandowski.",
-      "Barca had tried to sign Nico Williams from Athletic Club, but the move fell through. They also showed an interest in Liverpool winger Luis Diaz, but were put off by the Reds’ transfer stance.",
-      "“I don’t want to speak about players which are not in my team, but of course Luis Diaz and Marcus Rashford are fantastic players,” Flick said earlier in the summer. “I like them and we’ll see what happens.”",
-      "Before returning to Carrington, Rashford had been working on his fitness by himself and issued a clear plea to Barca. While on holiday in Marbella, he was asked by Spanish YouTube channel XBuyer whether he wants to play with Barca wonderkid Lamine Yamal in the future.",
-      "\"Yeah, sure. Everybody in the world wants to play with the best,\" the forward replied. \"So hopefully, we'll see.\" He got four goals and six assists in 17 appearances for Villa before an injury cut short his stay in Birmingham.",
       "Sky will show at least 215 live Premier League games next season, an increase of up to 100 more."
     ]
   },
@@ -632,7 +634,7 @@
     ],
     "link": "https://www.manchestereveningnews.co.uk/sport/football/transfer-news/man-united-transfer-news-live-32090369",
     "image": null,
-    "date": "2025-07-21 07:58:00",
+    "date": "2025-07-21 08:59:00",
     "source": "manchestereveningnews",
     "body": [
       "Hello and welcome back to MEN Sport's Manchester United transfer blog on Monday, July 21.",
@@ -643,6 +645,10 @@
       "Focus this week will be on further reinforcements with a new goalkeeper and striker at the top of their list.",
       "So will there be any more changes before the squad depart for America?",
       "Keep across all this and more from United in our dedicated blog below...",
+      "Another 'talks' rumour here but one that Man United supporters should get excited about.",
+      "French journalist Sebastien Vidal has reported that United have opened talks with Xavi Simons' representatives, alongside Chelsea. RB Leipzig are said to want around £61m for the playmaker.",
+      "In midfield, Ben Jacobs reported over the weekend that Wilfred Ndidi remains on United's radar with talks being held recently for the Leicester City midfielder.",
+      "Bayer Leverkusen, Everton, Real Betis and Saudi clubs are all exploring the possibility of signing the Nigerian, who has a £9million release clause.",
       "Alongside Benjamin Sesko, Randal Kolo Muani is on Man United's striker shortlist.",
       "Footmercato has claimed that the 26-year-old is expected to leave PSG on a permanent basis following his loan with Juventus. Newcastle, who are set to miss out on Hugo Ekitike, are also in the running.",
       "One of the biggest stories from the weekend was Marcus Rashford's move to Barcelona. After it was revealed that the Catalan club was his dream move, Rashford is now expected to join Hansi Flick's men.",
@@ -730,11 +736,7 @@
       "The 31-year-old spent seven years with United, before moving to Besiktas on a free transfer back in 2023.",
       "He has spent the last 18 months with La Liga side Villarreal but left the club at the start of the month meaning that he is available on a free transfer.",
       "Manchester United are said to have opened talks with the representatives of Xavi Simons.",
-      "French journalist Sebastien Vidal claims Chelsea have, too, with Barcelona another club credited with interest in the Netherlands international. However, due to their financial situation, a reported €70M (£61M) price tag is seemingly unaffordable for the Catalan club.",
-      "Bryan Mbeumo will complete the second part of his medcal ahead of a move to Manchester United today, according to journalist Fabrizio Romano.",
-      "The forward is expected to put pen-to-paper on a five-year contract with the option of a sixth year.",
-      "Juventus are said to have an agreement in place with Jadon Sancho.",
-      "SportMediaset claims the player's agent meeting with the club in Turin this week led to them negotiating a four-year contract that halves his wages. Juventus also reportedly intent to meet United's reputed £22million demands after their initial £15million offer."
+      "French journalist Sebastien Vidal claims Chelsea have, too, with Barcelona another club credited with interest in the Netherlands international. However, due to their financial situation, a reported €70M (£61M) price tag is seemingly unaffordable for the Catalan club."
     ]
   },
   {
@@ -1182,10 +1184,82 @@
     ]
   },
   {
+    "headline": "The super secret transfer release clauses Forest and other clubs might sue us for revealing",
+    "tags": [],
+    "link": "https://www.football365.com/news/most-tempting-transfer-release-clauses-world-football",
+    "image": "https://images.ps-aws.com/c?url=https%3A%2F%2Fd2x51gyc4ptf2q.cloudfront.net%2Fcontent%2Fuploads%2F2024%2F12%2F05152008%2FF365-One-Badge-Samu-Omorodion-Manchester-United-1320x742.jpg",
+    "date": "2025-07-21 07:33:01",
+    "source": "football365",
+    "body": [
+      "Arsenal and Aston Villa know they could cut out the negotiating middle man for many of their targets, who happen to come with tempting release clauses.",
+      "This is an inexhaustive list of players with release clauses which could actually viably be triggered from summer 2025 onwards. We are talking sub-£100m, not your daft £1bn La Liga jobs.",
+      "",
+      "Diogo Costa\nManchester United have been linked with Portugal international keeper Costa before but Newcastle and Manchester City have both been mentioned as their staring contest with Burnley over James Trafford continues.",
+      "It doesn’t feel like Porto will hold out for the full £51.9m.",
+      "",
+      "Aaron Ramsdale\nAfter suffering his third Premier League relegation in six seasons, all at different clubs and with a spell at Arsenal in between, England international Ramsdale can thank the £25m clause he inserted into his contract for the fact he’ll probably be back in the top flight soon enough.",
+      "But Leeds, West Ham and a handful of others are yet to act on their interest, perhaps because of his wage demands and obvious curse.",
+      "",
+      "Vanja Milinkovic-Savic\nIf Chelsea or Manchester City act on their apparent £16.7m interest in the Torino keeper and brother of Sergej then expect every other Ruben Amorim press conference to be spent explaining why no-one currently at Manchester United should really be blamed for releasing a teenager who couldn’t get a work permit in 2015.",
+      "He is 6ft 8ins so that’s something. But also it sounds like he’s off to Napoli.",
+      "",
+      "Edmond Tapsoba\nNewcastle are said to have offered £50m for Bayer Leverkusen defender Tapsoba; it is unknown whether or not they realise it might take as much as £80m.",
+      "",
+      "Castello Lukeba\nAn eclectic cast of Liverpool, Spurs and Bayern Munich have been mentioned in discussions over Lukeba’s future, with a suggestion that Leipzig might not necessarily hold out for the French centre-half’s entire £77.8m release clause.",
+      "",
+      "Ousmane Diomande\nCrystal Palace have already identified their replacement for Marc Guehi, whether the captain leaves this summer or not. But they will not be paying £69.1m for the Sporting centre-half if they do sign him.",
+      "",
+      "Miguel Gutierrez\nA whole host of clubs like the look of Girona left-back Gutierrez at £30.2m – he was once described as a ‘priority signing’ for Liverpool and Manchester United are known to be lurking – but any hopeful negotiators will have to deal with about 427 clauses Real Madrid still hold over him.",
+      "",
+      "Jhon Lucumi\nAston Villa and Bournemouth are sniffing around Bologna defender Lucumi, with Roma also contemplating a move for the 26-year-old who will only come as cheap as £23.9m until July 10.",
+      "",
+      "Denzel Dumfries\nAnyone wanting to sign a ludicrously effective Champions League semi-final wing-back can do so for as little as £21.6m until July 31.",
+      "",
+      "Enzo Boyomo\nAston Villa and Crystal Palace are known admirers of Osasuna centre-half Boyomo, who has been crucial for a side he only joined a year ago.",
+      "Boyomo stayed at Real Valladolid for just one campaign too before moving to Pamplona; whoever triggers his £21m release clause might expect to keep him for a little longer.",
+      "",
+      "Kevin Lomonaco\n“I really like the Premier League. It’s what I watch the most. I like West Ham,” should raise an absurd number of red flags within the departments of any and all clubs charged with scrutinising the character and even sanity of 23-year-old Lomonaco.",
+      "The centre-half has attracted interest from the Hammers, Crystal Palace, Sevilla and Wolfsburg in his £16.7m release clause.",
+      "",
+      "Jan Bednarek\nAny club desperate to sign a centre-half with two recent relegations on his CV can do so for the cheap old price of £6m.",
+      "",
+      "Eberechi Eze\nCrystal Palace averted the potential crisis of having both Eze and Michael Olise’s release clauses triggered in the same summer but the fine print in the former’s deal has been reactivated in the summer. There is no shortage of potential suitors but still doubt that a £68m deal is worth it.",
+      "",
+      "Morgan Gibbs-White\nWe are risking legal action from Evangelos Marinakis just by talking about a super secret £60m release clause Daniel Levy probably accidentally triggered when trying to low-ball Forest.",
+      "",
+      "Wilfred Ndidi\nThere is unlikely to be a massive rush to bring in Ndidi after his second relegation in three year with Leicester, but the 28-year-old is on the radar of Crystal Palace, Everton and Fulham for £9m and it does feel as though a more stable environment would benefit him.",
+      "",
+      "Samu Aghehowa\nAnother sign that Chelsea might have cracked something in the transfer code, Aghehowa was targeted for around £35m in what was basically a Conor Gallagher swap before the striker changed his surname, joined Porto and teased the sort of form which might attract £86.6m interest.",
+      "",
+      "Hugo Ekitike\nThe fella is very much off to Liverpool after Newcastle’s game of transfer poker.",
+      "",
+      "Nico Williams\nThe bad news for Arsenal is that the Athletic Bilbao winger has extended his contract to 2035. The good news is that he still has a release clause, and it’s worth £82-86m. You’re still thinking about the bad news, aren’t you?",
+      "",
+      "Viktor Gyokeres\nAnother Arsenal target – to the chagrin of many supporters – but really any aspiring team in world football will have at least taken a look at Gyokeres before wincing ever so slightly at that £86m release clause.",
+      "Sporting might not hold out for that much but are among the best sellers across the globe and will back themselves to get the best possible deal.",
+      "",
+      "Victor Osimhen\nA record of 28 goals and five assists in 32 games for Galatasaray can be disregarded through the Turkish Super Lig rule of transfers but his age, affordability (£62.5m) relative to other strikers on the market and undoubted pedigree in Serie A cannot. Osimhen should be top of the Manchester United shopping list.",
+      "",
+      "Benjamin Sesko\nThere is some debate as to the exact numbers which would compel Leipzig to countenance the sale of Sesko – £62m is the strongest recent claim – but less doubt about whether his record of 35 goals in 79 appearances in Germany is worth the risk on a 21-year-old.",
+      "",
+      "Moise Kean\nEverton might not get involved but after scoring 23 goals in 42 games this season, Kean could repay the faith shown in him by Fiorentina with another big move. For two weeks from the start of July the Manchester United target is available for as little as £45m.",
+      "",
+      "Bilal El Khannouss\nOne of few players to emerge from Leicester’s latest relegation mess can be rescued from the King Power Stadium for as little as £22.5m.",
+      "",
+      "Andoni Iraola\nBournemouth quietly fell off towards the end of the season to bring their dream of European qualification combined with FA Cup glory crashing back down to reality. But they will not waver in their determination to extend Iraola’s contract – and perhaps even remove that £10m release clause. Spurs have at least removed themselves from the equation.",
+      "Man Utd are now ‘most advanced’ in the race to sign Viktor Gyokeres as INEOS have offered a ‘slightly higher’ fee than Arsenal for the Sporting striker.",
+      "Man Utd are ‘very close’ to an ‘agreement’ for Gyokeres with his transfer to Arsenal at ‘high risk of collapse’ as INEOS are prepared to match the €70m offer.",
+      "Arsenal are ‘actively monitoring’ a Bundesliga striker as there’s a ‘high risk’ of their deal for Viktor Gyokeres ‘collapsing’ amid an impasse with Sporting in negotiations.",
+      "Viktor Gyokeres is now ‘distancing himself’ from a move to Arsenal with his father ‘in tears’ as there’s now a ‘high risk’ his transfer from Sporting will ‘collapse’.",
+      "Arsenal’s move for Viktor Gyokeres has reportedly hit an ‘impasse’ as three ‘issues’ are preventing a deal from being struck with Sporting Lisbon.",
+      "Mikel Arteta is pushing Arsenal to complete a deal for Viktor Gyokeres today after the Sporting star entered a seventh day of ‘unexcused absence’."
+    ]
+  },
+  {
     "headline": "Best 20 footballers out of contract and now available for free",
     "tags": [],
     "link": "https://www.football365.com/news/top-20-football-players-out-of-contract-2025-free-agents-feature",
-    "image": "https://images.ps-aws.com/c?url=https%3A%2F%2Fd2x51gyc4ptf2q.cloudfront.net%2Fcontent%2Fuploads%2F2025%2F07%2F07154008%2FBest-free-agents-1-1320x742.jpg",
+    "image": "https://images.ps-aws.com/c?url=https%3A%2F%2Fd2x51gyc4ptf2q.cloudfront.net%2Fcontent%2Fuploads%2F2025%2F07%2F07154008%2FBest-free-agents-1-638x358.jpg",
     "date": "2025-07-20 20:32:33",
     "source": "football365",
     "body": [
@@ -1452,7 +1526,7 @@
       "Man Utd"
     ],
     "link": "https://www.football365.com/news/man-utd-talks-available-50m-striker-revealed-battle-priority-target",
-    "image": "https://images.ps-aws.com/c?url=https%3A%2F%2Fd2x51gyc4ptf2q.cloudfront.net%2Fcontent%2Fuploads%2F2025%2F06%2F09161122%2FRuben-Amorim-transfers-F365-638x358.jpg",
+    "image": "https://www.football365.com/content/themes/f365-sportsui/img/png/placeholder.png",
     "date": "2025-07-20 15:07:21",
     "source": "football365",
     "body": [
@@ -1591,12 +1665,12 @@
       "Swedish outlet Maisfutebol then tripled down on the story, claiming United ‘resumed talks’ with Sporting after hearing about the impasse with Arsenal having all-but completed their deal for Bryan Mbeumo.",
       "Sporting and United are ‘close to an understanding’, which reportedly makes ‘the Red Devils the most advanced club in the race for the Swedish scorer’.",
       "It’s not yet clear what Gyokeres thinks of this ‘last-minute bomb in the market’ and ‘supersonic attack’ from United, though he’s previously insisted on the move to Arsenal in order to play Champions League football and fight for major honours.",
+      "Arsenal and Aston Villa know they could cut out the negotiating middle man for many of their targets, who happen to come with tempting release clauses.",
       "Man Utd are ‘very close’ to an ‘agreement’ for Gyokeres with his transfer to Arsenal at ‘high risk of collapse’ as INEOS are prepared to match the €70m offer.",
       "Arsenal are ‘actively monitoring’ a Bundesliga striker as there’s a ‘high risk’ of their deal for Viktor Gyokeres ‘collapsing’ amid an impasse with Sporting in negotiations.",
       "Viktor Gyokeres is now ‘distancing himself’ from a move to Arsenal with his father ‘in tears’ as there’s now a ‘high risk’ his transfer from Sporting will ‘collapse’.",
       "Arsenal’s move for Viktor Gyokeres has reportedly hit an ‘impasse’ as three ‘issues’ are preventing a deal from being struck with Sporting Lisbon.",
-      "Mikel Arteta is pushing Arsenal to complete a deal for Viktor Gyokeres today after the Sporting star entered a seventh day of ‘unexcused absence’.",
-      "Arsenal have already organised a date for a medical as Sporting CP striker Viktor Gyokeres closes in on a transfer, according to reports."
+      "Mikel Arteta is pushing Arsenal to complete a deal for Viktor Gyokeres today after the Sporting star entered a seventh day of ‘unexcused absence’."
     ]
   },
   {
@@ -1682,12 +1756,12 @@
       "They claim United are ‘very close to an agreement’ with Sporting for Gyokeres, with INEOS prepared to offer ‘values very close to those negotiated with Arsenal’, around the €70m mark including add-ons.",
       "The report adds:",
       "‘It is a turnaround in the business that has been dragging on since the beginning of the transfer market: the agreement with Arsenal is at risk of falling and the Swedish striker may play on Ruben Amorim’s team.’",
+      "Arsenal and Aston Villa know they could cut out the negotiating middle man for many of their targets, who happen to come with tempting release clauses.",
       "Man Utd are now ‘most advanced’ in the race to sign Viktor Gyokeres as INEOS have offered a ‘slightly higher’ fee than Arsenal for the Sporting striker.",
       "Arsenal are ‘actively monitoring’ a Bundesliga striker as there’s a ‘high risk’ of their deal for Viktor Gyokeres ‘collapsing’ amid an impasse with Sporting in negotiations.",
       "Viktor Gyokeres is now ‘distancing himself’ from a move to Arsenal with his father ‘in tears’ as there’s now a ‘high risk’ his transfer from Sporting will ‘collapse’.",
       "Arsenal’s move for Viktor Gyokeres has reportedly hit an ‘impasse’ as three ‘issues’ are preventing a deal from being struck with Sporting Lisbon.",
-      "Mikel Arteta is pushing Arsenal to complete a deal for Viktor Gyokeres today after the Sporting star entered a seventh day of ‘unexcused absence’.",
-      "Arsenal have already organised a date for a medical as Sporting CP striker Viktor Gyokeres closes in on a transfer, according to reports."
+      "Mikel Arteta is pushing Arsenal to complete a deal for Viktor Gyokeres today after the Sporting star entered a seventh day of ‘unexcused absence’."
     ]
   },
   {
@@ -2099,7 +2173,7 @@
     ]
   },
   {
-    "headline": "Rashford takes incredible ‘salary cut’ as Amorim says £62.5m ‘showed what we need’",
+    "headline": "Rashford takes incredible ‘salary cut’ as Amorim says £62.5m signing ‘showed what we need’",
     "tags": [
       "Amorim",
       "Rashford"
@@ -2424,57 +2498,6 @@
       "",
       "Wolves – Atletico Madrid (£74.6m)\nIt is a curiously lively, probably Jorge Mendes-laid path from Madrid to Molineux, with Wolves trying before they buy on all three occasions they have purchased permanently from the wares of Diego Simeone.",
       "Jonny Otto played his part for a time, but both Diogo Jota and Matheus Cunha were stunning success stories for the Old Gold."
-    ]
-  },
-  {
-    "headline": "Marcus Rashford only second in sellability ranking of Man Utd bomb squad",
-    "tags": [
-      "Man Utd",
-      "Rashford"
-    ],
-    "link": "https://www.football365.com/news/feature-man-utd-bomb-squad-how-likely-sell-rashford-garnacho-sancho-antony-ranking",
-    "image": "https://www.football365.com/content/themes/f365-sportsui/img/png/placeholder.png",
-    "date": "2025-07-19 06:56:27",
-    "source": "football365",
-    "body": [
-      "Marcus Rashford should be the most sellable member of the five-man Manchester United bomb squad. But he’s not…",
-      "When they entered the summer, United were apparently hopeful of raking in around £160million for the five players everyone knows they want rid of.",
-      "That, obviously, was ludicrous. The only club daft enough to pay top whack for these lads would be United themselves.",
-      "So as the summer rolls on, United remain at an impasse with the transfers, unable to strengthen much further before they get rid of their drifters.",
-      "How much can they hope to bank now? Is it possible they will start the season with all five still on their books? Here’s how we rank the unwanted stars based on how likely they are to earn some money for United…",
-      "",
-      "5) Tyrell Malacia\nPSV opted against taking up their option to sign Malacia for £9million because they’re not daft. The Netherlands defender started only three Eredivisie games after joining in January but at least he proved to any potential suitors that he’s not completely broken having spent over a year on the sidelines.",
-      "Ruben Amorim didn’t aid United in their mission to sell Malacia when he revealed the 25-year-old hasn’t got it in him to play as a wing-back because he struggles to go forward. Which feels like something United ought to have spotted earlier but, as we know, they haven’t been the most observant bunch.",
-      "So what now? United will apparently accept something like £3million just so Malacia doesn’t show as a loss on the books. Will anyone who can afford his £75,000-a-week salary stump up? Probably not.",
-      "",
-      "4) Jadon Sancho \nUnited need to hope there is some truth in reports Juventus want both Sancho and Francisco Conceicao since it seems the Old Lady has done a deal to sign the Portuguese winger from Porto.",
-      "Regardless, whether it’s Juve or anyone else, United will have to accept they aren’t going to get anything like the £25million they hoped for. Frankly, they’ll be fortunate to bank anything while escorting Sancho off the premises one last time.",
-      "The winger is on something ridiculous like £250,000 a week which he is due for another year. Chelsea offered him the chance to get away for less, but that wasn’t for him. Juve certainly won’t pay the same salary – reports suggest he’s being offered half. And we doubt Sancho is motivated enough to give up half of what he’s contractually owed to take up a great opportunity in Turin.",
-      "And, to be fair, why should he? It makes sense for Sancho to sit tight, wait for a loan move at the end of the window, when United will have to accept paying only a portion of his salary for the reward of having him out the door. Then, in a year, after another season trousering an undeserved wedge, he gets to go as a free agent.",
-      "So, if anyone is daft enough to offer actual money for Sancho, United ought to snap their hand off.",
-      "",
-      "3) Antony\nAside from Malacia, around whom all is deathly quiet, the least noise among the bomb squad is coming from Antony’s direction. Because it was thought Real Betis would find a way to bring back a winger who regained some credibility while on loan in Spain during the second half of last season.",
-      "Can Betis afford to buy? Maybe, probably not. And they are cool with that being known. Because it will squeeze United ever more over a player who clearly has no future under Amorim.",
-      "Of course, Betis would prefer Antony back on loan but United insist they won’t do that. At least not without guarantees and the Spaniards are toying with some workarounds. There are reports of interest from elsewhere but nothing firm enough for Betis to panic into making United an offer they might be satisfied to accept. Certainly not yet. And they are content in the knowledge Antony fancies being back in Andalusia.",
-      "Apparently, United have already dropped the asking price from £40million to £30million, but they won’t get that either. Certainly not in the form of cold hard cash they can put towards their stalled summer recruitment.",
-      "🔴⚪⚫ MORE MAN UTD FROM F365\n👉 Amorim sacked for Xavi as Postecoglou returns: Predicting nine Premier League successors\n👉 Only West Ham more miserable than Man Utd in Premier League mood rankings",
-      "",
-      "2) Marcus Rashford\nRashford is probably United’s most sellable asset of the five. But that also means he can afford to be pickier when choosing his next move.",
-      "Ideally, he would go to Barcelona. A few weeks ago, that appeared something of a pipe dream while Nico Williams was being teased by the Catalans. But Barca’s failure to close a deal for Williams highlights the financial constraints they remain under.",
-      "If they can’t buy Williams, they probably can’t buy Rashford. But they can wait until the back end of the window before offering a loan deal with options or obligations, which at least gets the forward’s salary – or most of it – off United’s books.",
-      "Barca can bide their time here because they know Rashford’s desire. Without something coming from nothing, the only obvious threat we see here is Bayern Munich, given the Bavarians and Liverpool are way, way off in their valuations of Luis Diaz. And even then, Leandro Trossard could be a cheaper option.",
-      "",
-      "1) Alejandro Garnacho\nThe Argentina winger probably represents United’s best chance of banking some cash. But certainly not the £70million they initially hoped for. Nor £60million after their first reduction. If they get anything more than half the price they were initially quoting, that’s a result.",
-      "Why should they be grateful for that? Because Garnacho would be a risk for anyone taking on the his full rights this summer.",
-      "As a player, we know he is limited. He has bursts, moments. For a winger, he’s not rapid and as a right-footer on the left, he struggles to go down the outside.",
-      "If that doesn’t make buyers beware, his character ought to. There were red flags around Garnacho’s attitude even before he made his first senior start and all the evidence suggests little has changed.",
-      "So the smart suitors will insist on trying before they buy, but someone of the not-unreasonable belief that United is more the problem, not the player, could be tempted by Garnacho. Probably Chelsea.",
-      "Rio Ferdinand has pondered whether Manchester United have “failed” Marcus Rashford as he looks to be on the way to a move to Barcelona.",
-      "A Man Utd forward reportedly has a ‘full agreement’ to join a European giant with the transfer is ‘increasingly close’ as they also near an agreement with the Red Devils.",
-      "Man Utd have slashed the permanent transfer option fee for Marcus Rashford to force through his transfer to Barcelona this summer.",
-      "Marcus Rashford has reportedly sanctioned a gargantuan pay cut to facilitate his loan to Barcelona, who have a ‘verbal agreement’ with Manchester United.",
-      "According to reports, FC Barcelona are ‘advancing’ to sign Manchester United outcast Marcus Rashford, with David Ornstein revealing two key details.",
-      "According to reports, Manchester United could be saved by Premier League rivals Nottingham Forest as they are plotting a ‘sensational swoop’."
     ]
   },
   {
