@@ -1,5 +1,27 @@
 [
   {
+    "headline": "Barcelona announce Marcus Rashford loan deal as Man Utd outcast seals exit",
+    "tags": [
+      "Man Utd",
+      "Rashford"
+    ],
+    "link": "https://www.mirror.co.uk/sport/football/transfer-news/breaking-rashford-barcelona-manchester-united-35588886",
+    "image": null,
+    "date": null,
+    "source": "mirror",
+    "body": [
+      "Barcelona have wrapped up the loan signing of Marcus Rashford, giving the England star an escape from Manchester United after being frozen out by manager Ruben Amorim.",
+      "Rashford has not played for United since December 2024 after a row with Amorim over his training performances and he was later sent on loan to Aston Villa, where he showed glimpses of his ability before suffering a season-ending injury.",
+      "But now the 27-year-old has a chance to impress on the biggest stage and compete for a starting spot with the likes of Lamine Yamal and Raphinha under new boss Hansi Flick. Barcelona will cover Rashford's wages for the duration of his spell, though the player will take a pay cut on his usual salary of £325,000-a-week.",
+      "The club have a £26million option to buy next summer and there is huge anticipation to see how Rashford gets on alongside a star-studded squad that will be competing on multiple fronts for silverware. Rashford is said to have emerged as Barcelona's \"priority target\" after Nico Williams decided to sign a 10-year deal with Athletic Bilbao.",
+      "Barcelona won La Liga in Flick's first season but now want to push on and become a force in Europe, with Rashford the club's third major signing this summer after goalkeeper Joan Garcia and Copenhagen forward Roony Bardghji. Rashford's first goal at the Nou Camp will be to break into the first team, knowing it will be hard to displace either Yamal or Raphinha on the wings.",
+      "Yamal is considered one of the best players in world football right now, with the teenager scoring 18 and assisting 16 in all competitions last season. Brazilian star Raphinha, meanwhile, had an even better campaign as he scored 34 times and assisted 17.",
+      "Barcelona fans do appear to be excited by Rashford's arrival on loan after creating a mural for him pictured in the club's colours, while much of the reaction to his signing has been positive. Spanish outlet Mundo Deportivo report that he'll wear the No.14 shirt, last worn by Pablo Torre, who recently joined Mallorca.",
+      "Rashford arrives with some pedigree, having won five trophies during his time at United and scoring 138 goals in 426 appearances. He has also notched 17 goals in 62 caps for England.",
+      "Sky will show at least 215 live Premier League games next season, an increase of up to 100 more."
+    ]
+  },
+  {
     "headline": "Ruben Amorim braced for transfer blow ahead of Man Utd's Premier League opener",
     "tags": [
       "Man Utd",
@@ -7,7 +29,7 @@
       "Amorim"
     ],
     "link": "https://www.mirror.co.uk/sport/football/transfer-news/ruben-amorim-transfer-blow-united-35606511",
-    "image": null,
+    "image": "https://i2-prod.mirror.co.uk/incoming/article35460705.ece/ALTERNATES/n615/1_Manchester-United-v-Hong-Kong.jpg",
     "date": null,
     "source": "mirror",
     "body": [
@@ -58,7 +80,7 @@
       "LIVE"
     ],
     "link": "https://www.mirror.co.uk/sport/football/news/fixtures-manchester-united-arsenal-liverpool-35605991",
-    "image": "https://i2-prod.mirror.co.uk/incoming/article35606072.ece/ALTERNATES/n615/0_GettyImages-2190129896.jpg",
+    "image": null,
     "date": null,
     "source": "mirror",
     "body": [
@@ -78,7 +100,7 @@
       "Man Utd"
     ],
     "link": "https://www.mirror.co.uk/sport/football/news/man-utd-pre-season-plans-35604738",
-    "image": null,
+    "image": "https://i2-prod.mirror.co.uk/sport/football/news/article35604742.ece/ALTERNATES/n615/0_GettyImages-2226492148.jpg",
     "date": null,
     "source": "mirror",
     "body": [
@@ -263,7 +285,7 @@
       "Premier League"
     ],
     "link": "https://www.mirror.co.uk/sport/football/transfer-news/tenhag-xhaka-sunderland-leverkusen-transfer-35601415",
-    "image": "https://i2-prod.mirror.co.uk/incoming/article35601453.ece/ALTERNATES/n615/0_GettyImages-2217262453.jpg",
+    "image": null,
     "date": null,
     "source": "mirror",
     "body": [
@@ -287,7 +309,7 @@
       "Maguire"
     ],
     "link": "https://www.mirror.co.uk/sport/football/news/man-utd-harry-maguire-usa-35601438",
-    "image": null,
+    "image": "https://i2-prod.dailystar.co.uk/sport/football/article35601149.ece/ALTERNATES/n615/1_Harry-Maguire-File-Photo.jpg",
     "date": null,
     "source": "mirror",
     "body": [
@@ -313,7 +335,7 @@
       "Rashford"
     ],
     "link": "https://www.mirror.co.uk/sport/football/transfer-news/manchester-united-rashford-gyokeres-martinez-35598825",
-    "image": "https://i2-prod.mirror.co.uk/incoming/article34404941.ece/ALTERNATES/n615/2_MAN-UTD-JAN2.jpg",
+    "image": null,
     "date": null,
     "source": "mirror",
     "body": [
@@ -390,7 +412,7 @@
       "Ferguson"
     ],
     "link": "https://www.mirror.co.uk/sport/football/news/manchester-united-sir-alex-ferguson-35599097",
-    "image": null,
+    "image": "https://i2-prod.irishmirror.ie/incoming/article30446130.ece/ALTERNATES/n615/2_GettyImages-166825047.jpg",
     "date": null,
     "source": "mirror",
     "body": [
@@ -445,7 +467,7 @@
       "Man Utd"
     ],
     "link": "https://www.mirror.co.uk/sport/football/transfer-news/manchester-united-bryan-mbeumo-fans-35598094",
-    "image": "https://i2-prod.mirror.co.uk/incoming/article35593496.ece/ALTERNATES/n615/1_Mbeumo2.png",
+    "image": null,
     "date": null,
     "source": "mirror",
     "body": [
@@ -494,31 +516,53 @@
     ]
   },
   {
-    "headline": "Viktor Gyokeres' Premier League transfer collapsed after agent sacrificed money",
+    "headline": "RAILSTON: Manchester United announce Marcus Rashford transfer as £12m financial boost confirmed",
     "tags": [
-      "Premier League"
+      "Man Utd",
+      "Rashford"
     ],
-    "link": "https://www.mirror.co.uk/sport/football/transfer-news/viktor-gyokeres-manchester-united-amorim-35596906",
+    "link": "https://www.manchestereveningnews.co.uk/sport/football/transfer-news/manchester-united-announce-marcus-rashford-32116084",
     "image": null,
     "date": null,
-    "source": "mirror",
+    "source": "manchestereveningnews",
     "body": [
-      "Viktor Gyokeres' agent once revealed just how highly he thought of Ruben Amorim, admitting that he turned down lucrative offers from the Premier League so his player could remain with the manager at Sporting CP. Gyokeres signed for the Portuguese giants back in 2023.",
-      "Current Manchester United head coach Amorim was still in charge at the time. Under his guidance, the Swedish striker blossomed into a prolific goalscorer, netting 66 times in 68 appearances for Amorim.",
-      "Their good relationship, coupled with United's struggles up front, has led to persistent rumours linking Gyokeres with a move to Old Trafford since Amorim took over from Erik ten Hag in November.",
-      "A transfer also seems unlikely from Gyokeres' end, due to his agent Hasan Cetinkaya reportedly being upset by Amorim's handling of Victor Lindelof's exit – another one of his clients.",
-      "Portuguese news outlet Record reports that the Turk was disappointed that United did not offer the 31-year-old central defender a new contract this summer after eight years of service, resulting in him leaving as a free agent.",
-      "Lindelof featured 18 times for Amorim and is understood to have wanted to remain at the club. Cetinkaya was left even more frustrated given how hard he pushed for Gyokeres to join Amorim’s Sporting project two years ago and stay at the club last summer.",
-      "That even involved him turning down offers from Premier League clubs who promised bigger wages, resulting in collapsed deals.",
-      "In an interview with Record last summer, prior to Amorim joining United, Cetinkaya praised the manager by saying: “I’m not surprised that Ruben is being linked to Liverpool. It’s normal, his work is of a high level and is what clubs are looking for.",
-      "“It will be more difficult for Viktor to stay if Ruben Amorim leaves Sporting, because Viktor came precisely because of Ruben. The day we met, I said to Ruben, ‘Here is my boy, he came to Sporting because of you.’",
-      "“Obviously, I will have to talk to the president, the president is the boss, the one who makes the decisions, and we will have to know what he thinks for the future and what Sporting’s project is, but Viktor also has a say, obviously, and if Ruben Amorim leaves, it will be more difficult to continue.”",
-      "“I have several top clubs interested in Viktor,” he added. “I can’t, of course, mention names of clubs, but they are top clubs, some from the Premier League, but not only England.",
-      "“It is important to emphasise this point: I chose Sporting for Viktor when there were eight other clubs interested. They were paying more and I could have taken him to the Premier League. I chose Sporting because of Ruben Amorim, because he could help Viktor develop, and it changed his career.”",
-      "Although he is set to miss out on Gyokeres, Amorim will be delighted to have a new-look forward line at his disposal heading into the new season. United this week completed the signing of Bryan Mbeumo from Brentford for £71million, having already brought in Matheus Cunha for £62.5m earlier this summer.",
-      "Meanwhile, Premier League rivals Arsenal have long been closing in on a deal for Gyokeres, which could end up being worth an initial £54.86m (€63.5m) plus around £8.64m (€10m) in add-ons.",
-      "It has been widely suggested that the striker only wants to join the Gunners this summer, going as far as to go on strike in order to force through a move to north London. But no full agreement on the proposed transfer has been signed off yet by Sporting.",
-      "Sky will show at least 215 live Premier League games next season, an increase of up to 100 more.",
+      "Manchester United forward Marcus Rashford has completed his loan move to Barcelona for 2025/2026.",
+      "Barcelona will cover Rashford's wages during his stay at Camp Nou, which is estimated to save United around £12million, and they have the option to sign him permanently.",
+      "Rashford has realised his aim of signing for Barcelona and the Catalan club announced his move on Wednesday afternoon. The 27-year-old has become to first Englishman to play for Barcelona since Gary Lineker.",
+      "Earlier this month, United delayed Rashford's return to Carrington for pre-season and stripped him of the iconic No.10 shirt.",
+      "Rashford was forced to look for a new club after Aston Villa opted against signing him permanently and the academy graduate wanted to play in the Champions League again.",
+      "The forward scored just six goals in the Premier League last season, but regained form during his time in Birmingham and Thomas Tuchel handed him a first England call-up since March 2024.",
+      "Rashford sought advice from the AC Talent agency, which boasts several Spanish clients, in the hope of brokering a move to Barcelona this summer. The Catalans were heavily linked with Rashford and an exit to La Liga will end his late-afternoon appearances at Carrington to train alone.",
+      "The relationship between Ruben Amorim and Rashford became frosty in mid-December when the academy graduate was dropped from the squad for the Manchester derby at the Etihad.",
+      "Rashford last played for United against Viktoria Plzen in the Europa League on December 12.",
+      "At  Reach and across our entities  we and our partners use information collected through cookies and other identifiers from your device to improve experience on our site, analyse how it is used and to show personalised advertising. You can opt out of the saleor sharing of your data, at any time clicking the &quot;Do Not Sell or Share my Data&quot; button at the bottom of the webpage. Please note that your preferences are browser specific. Use of our website and any of our services represents your acceptance of the use of cookies and consent to the practices described in our Privacy Notice and Privacy Notice."
+    ]
+  },
+  {
+    "headline": "LUCKHURST: Manchester United get boost with Marcus Rashford Barcelona loan as they plan striker signing",
+    "tags": [
+      "Man Utd",
+      "Rashford"
+    ],
+    "link": "https://www.manchestereveningnews.co.uk/sport/football/transfer-news/manchester-united-boost-marcus-rashford-32122696",
+    "image": null,
+    "date": null,
+    "source": "manchestereveningnews",
+    "body": [
+      "Barcelona will cover Marcus Rashford's entire salary during his season-long loan from Manchester United.",
+      "Barca confirmed the signing of Rashford on Wednesday evening and the Spanish champions have an option to buy the winger.",
+      "Rashford, 27, has not played for United since December 12 last year, having joined Aston Villa on loan in the winter transfer window.",
+      "The England international was Barca's third-choice target to reinforce their attack after Inaki Williams signed a new contract with Athletic Bilbao and Liverpool rejected an offer for Luis Diaz.",
+      "Rashford will be presented by Barcelona at Camp Nou later on today and he is expected to be included in their squad for the pre-season tour of Asia.",
+      "\"I'm very excited,\" Rashford told Barcelona's in-house media. \"I think it's a club every player wants to play for. They've made me feel at home in these first few hours; everyone has made me feel very comfortable.",
+      "\"I've always enjoyed watching good football. I think I'm going to enjoy playing here. It's a family club, where great players play.\"",
+      "\"This team won almost everything last year, but I see the ambition everyone has and the desire they have to achieve their best version here.",
+      "\"I think (coach Hansi) Flick has been a key factor in my being here. He's one of the best coaches and he proved it last year with a very young team. I hope we have a good year and I want to continue learning here in Barcelona.",
+      "\"As a player, we always appreciate the support. And as a new player, I really appreciate the affection the fans are showing me. I feel at home.\"",
+      "Villa covered the majority of Rashford's £325,000-a-week salary for the second half of last season and United are pleased to have his wages paid for in full by Barca over the next year.",
+      "United sources expected Rashford to move abroad as far back as the final months of last season. Rashford has three years left on his United contract, which made a permanent sale unlikely.",
+      "Rashford scored four goals in 17 appearances for Villa, who fell short of qualifying for the Champions League. Rashford was determined to join a club that had Champions League football to offer and refused to take a pay cut.",
+      "United will now seek buyers for Jadon Sancho, who is out of contract next year, Alejandro Garnacho and Antony so that they can reinvest in a striker. Left back Tyrell Malacia is also available for transfer.",
       "At  Reach and across our entities  we and our partners use information collected through cookies and other identifiers from your device to improve experience on our site, analyse how it is used and to show personalised advertising. You can opt out of the saleor sharing of your data, at any time clicking the &quot;Do Not Sell or Share my Data&quot; button at the bottom of the webpage. Please note that your preferences are browser specific. Use of our website and any of our services represents your acceptance of the use of cookies and consent to the practices described in our Privacy Notice and Privacy Notice."
     ]
   },
@@ -577,77 +621,15 @@
     ]
   },
   {
-    "headline": "RAILSTON: Manchester United could sign Andre Onana replacement - but there is a catch",
-    "tags": [
-      "Man Utd",
-      "Onana"
-    ],
-    "link": "https://www.manchestereveningnews.co.uk/sport/football/transfer-news/manchester-united-could-sign-andre-32116897",
-    "image": null,
-    "date": null,
-    "source": "manchestereveningnews",
-    "body": [
-      "Andre Onana's status as the first-choice goalkeeper at Manchester United is safe for now.",
-      "Onana suffered a hamstring injury after reporting for pre-season at Carrington, but he has responded well to initial treatment and travelled with the squad to the United States.",
-      "The 29-year-old will continue his recovery in the States and could return in time to feature in the opening Premier League game of the season against Arsenal on August 17. United might have signed a new goalkeeper by that stage, but the chances of a new arrival immediately usurping Onana are slim.",
-      "Ruben Amorim has been open to signing a goalkeeper to challenge Onana for his starting role for some time, and the profile of any goalkeeper signing will give clues on Onana's future.",
-      "United have been linked with Aston Villa goalkeeper Emiliano Martinez, but United are unlikely to make a move for the experienced Argentina international when Onana is still at the club.",
-      "Moving to sign a capable understudy, a goalkeeper who could eventually replace Onana, would be the most practical and cost-effective option this summer. Many fans would like to see Onana sold and replaced by a proven goalkeeper, but he has prepared for the new season under the assumption he is staying.",
-      "With that in mind, it hasn't been a surprise to see United linked with Royal Antwerp goalkeeper Senne Lammens, 23, who has just a single full season of senior football under his belt.",
-      "Lammens was impressive for Royal Antwerp in 2024/25, keeping seven clean sheets in 30 league starts, and he possesses the right profile to arrive in Manchester with the view of challenging Onana.",
-      "The Belgian was asked about interest from United in February and told GVA: \"Wow, [it's] hard to say. I've only played one full season at Antwerp.",
-      "\"If something comes along that I can hardly say no to and that will benefit the club, I'll have to think about it seriously. But if I'm the first 'keeper here for another year, that's no problem.",
-      "\"The first time I heard it, I thought. 'Wow, a world team that follows you. That is special'. Of course, I was also spoken to about it a lot and when I made a save in training, it was United this, United that. Funny, I would do it the other way around too. But you can't dwell on it for too long. They are still just rumours.",
-      "\"Those top clubs have so many scouts and follow so many players. So it doesn't have to mean anything yet. It will only become clear in the summer whether anything comes of it.",
-      "\"But of course it's only positive. Especially because it's the best competition in the world and my profile – my stature and way of playing – is similar to English football. You have to physically hold your own there and that suits me.",
-      "\"You do follow the teams that follow you a little bit, but it's not like I'm watching entire matches. Summaries are enough.\"",
-      "The reports linking Lammens with a move to Old Trafford have picked up again this summer, although he would be a longer-term project and wouldn't immediately start games.",
-      "Lammens could be signed as an eventual Onana replacement, but he has limited senior football experience, and it would be unrealistic for him to start regularly in the Premier League after signing.",
-      "United fans would be delighted to see a new goalkeeper brought in this summer due to concerns about Onana, however, the Cameroon international looks set to retain his starting role.",
-      "If Lammens signed for United, he would be given opportunities in cup competitions, and he would hope to deliver strong performances to build a case for starting in the Premier League.",
-      "Onana is guaranteed to make mistakes and the second-choice goalkeeper, whoever that may be, could sense an opening.",
-      "At  Reach and across our entities  we and our partners use information collected through cookies and other identifiers from your device to improve experience on our site, analyse how it is used and to show personalised advertising. You can opt out of the saleor sharing of your data, at any time clicking the &quot;Do Not Sell or Share my Data&quot; button at the bottom of the webpage. Please note that your preferences are browser specific. Use of our website and any of our services represents your acceptance of the use of cookies and consent to the practices described in our Privacy Notice and Privacy Notice."
-    ]
-  },
-  {
-    "headline": "RAILSTON: Manchester United make transfer decisions on two players",
-    "tags": [
-      "Man Utd"
-    ],
-    "link": "https://www.manchestereveningnews.co.uk/sport/football/transfer-news/manchester-united-make-transfer-decisions-32119153",
-    "image": null,
-    "date": null,
-    "source": "manchestereveningnews",
-    "body": [
-      "Manchester United are expected to send Ethan Wheatley and Radek Vitek out on loan this summer.",
-      "Wheatley, 19, and Vitek, 21, have outgrown academy football and weren't named in the USA tour squad.",
-      "The two players need to be playing regular football for the next stage of their development. Wheatley signed for Walsall on loan last season, but the young striker made just four appearances for the League Two club and ended a frustrating campaign by playing for United's Under-21s again.",
-      "Academy staff have high hopes for Wheatley and he was handed a new three-year contract in March, with the option of an additional year.",
-      "Wheatley featured for England at the Under-19 European Championship this summer, scoring twice in two starts. The youngster reported to Carrington late after an extended break and was not named in the travelling squad to face Leeds in the opening pre-season friendly last weekend.",
-      "United will be conscious of arranging the right loan for Wheatley after his experience with Walsall, which the academy graduate admitted was \"frustrating\" in an interview with PA Sport.",
-      "\"I’m just more concentrated on this tournament,\" he said. \"But yeah, since Ruben Amorim came in, I was away with international camp and, obviously, went on loan in January, so I’ve not really been around it too much.",
-      "\"But I want to be a Man United player in the future. If that doesn’t happen, then it obviously wasn’t meant to be. We’ll just see what happens in the future.\"",
-      "Wheatley added: \"My second half of the season has been frustrating. Not being able to show what I’m about, really. But I think this tournament is the perfect way to do it. I think there’ll be a lot of eyes on it and, obviously, representing your country in a Euros, there’s not much better than that.",
-      "\"It’ll be good to hopefully impress and, just for myself and for the team, play my part and do well. The club have been good with me. They’ve let me come back and play a few Under-21s games, just to keep my legs going, so it’s been good to be back at United, developing and getting game-time.",
-      "\"Even if my first [loan move] didn’t go well - and it didn’t - I had it in the back of my head. And I was telling staff around the club, it’s not going to define me as a player.",
-      "\"It’s not going to judge where I end up in the future. I think it’s just like a little blip in my early career and, hopefully, I can just bounce back from it going into next season.\"",
-      "Despite limited appearances for Walsall, Wheatley was impressive when he played for the U21s at the end of the campaign, scoring three goals in the Premier League 2 play-offs.",
-      "Wheatley made United history in April 2024 by becoming the 250th academy graduate to make his debut for the club, coming on from the bench against Sheffield United at Old Trafford.",
-      "Vitek has not made his United debut, but his season-long loan with FC Blau-Weiß Linz was considered a success due to the number of starts he made in a competitive environment.",
-      "The goalkeeper started almost every league game for the Austrian side. Vitek is set to leave on loan again and his United contract expires in the summer of 2027.",
-      "At  Reach and across our entities  we and our partners use information collected through cookies and other identifiers from your device to improve experience on our site, analyse how it is used and to show personalised advertising. You can opt out of the saleor sharing of your data, at any time clicking the &quot;Do Not Sell or Share my Data&quot; button at the bottom of the webpage. Please note that your preferences are browser specific. Use of our website and any of our services represents your acceptance of the use of cookies and consent to the practices described in our Privacy Notice and Privacy Notice."
-    ]
-  },
-  {
-    "headline": "Man United transfer news LIVE - Benjamin Sesko deal, Javi Guerra boost, Kobbie Mainoo exit",
+    "headline": "Man United transfer news LIVE - Benjamin Sesko latest, Javi Guerra claim, Marcus Rashford deal done",
     "tags": [
       "Transfer News",
-      "Mainoo",
+      "Rashford",
       "LIVE"
     ],
     "link": "https://www.manchestereveningnews.co.uk/sport/football/transfer-news/man-united-transfer-news-live-32090369",
     "image": null,
-    "date": "2025-07-23 17:13:00",
+    "date": "2025-07-23 18:01:00",
     "source": "manchestereveningnews",
     "body": [
       "Hello and welcome back to the Manchester United transfer blog from MEN Sport on Wednesday, July 23.",
@@ -656,6 +638,21 @@
       "Meanwhile, Marcus Rashford is due to make way as United are close to agreeing to a move with Barcelona. The Catalan club are advancing in negotiations to sign the player on a season-long loan that includes an option to sign Rashford permanently next summer.",
       "Elyh Harrison is also another player who wiill leave the club on loan. Shrewsbury Town have agreed to take the goalkeeper on loan for this coming campaign.",
       "Keep up with all the latest United transfer news and rumours by following along with the MEN Sport blog below:",
+      "Manchester United forward Marcus Rashford has completed his loan move to Barcelona for 2025/2026.",
+      "Barcelona will cover Rashford's wages during his stay at Camp Nou, which is estimated to save United around £12million, and they have the option to sign him permanently.",
+      "Rashford has realised his aim of signing for Barcelona and the Catalan club announced his move on Wednesday afternoon. The 27-year-old has become to first Englishman to play for Barcelona since Gary Lineker.",
+      "Earlier this month, United delayed Rashford's return to Carrington for pre-season and stripped him of the iconic No.10 shirt.",
+      "You can read more here.",
+      "Marcus Rashford has officially completed his loan move to Barcelona. A Man United club statement read:",
+      "Manchester United forward Marcus Rashford has joined Barcelona on loan for the duration of the 2025/26 season.",
+      "Since making his Reds debut in 2016, the 27-year-old Academy graduate has registered 426 appearances, scored 138 goals and lifted five major trophies.",
+      "Marcus spent the second half of last season on loan with Premier League side Aston Villa, where he played 17 times and tallied 10 goal involvements across all competitions.",
+      "The England international has now agreed a temporary move to Spanish giants Barcelona.",
+      "Everyone at Manchester United wishes Marcus good luck for the season.",
+      "\"Yeah… It’s official.\"Rashford follows in Lineker’s footsteps. pic.twitter.com/ZvbnDAtbax",
+      "The Manchester United forward is on the verge of joining Hansi Flick's side on season long loan with the Catalan club agreeing to an option to buy the England international.",
+      "The Manchester United star is one of five players to have been told they can leave the club this summer, along with Antony, Jadon Sancho, Alejandro Garnacho and Tyrell Malacia.",
+      "Marcus Rashford has arrived at Barcelona with him expected to be officially unveiled as a player later today pic.twitter.com/Fp2nYVWcOK",
       "News coming out of Spain is that Marcus Rashford's move to Barcelona will be confirmed in the next hour or so...",
       "Fans are gathering outside Nou Camp to see the forward.",
       "The first Manchester derby of the season has been moved to Sunday, September 14, after it was switched for live TV coverage.",
@@ -736,21 +733,69 @@
       "MORE HERE",
       "According to Sky, United have Sesko on their radar during the summer transfer window as they look to strengthen their centre-forward position.",
       "They also claim that the Slovenian has an agreement to leave Leipzig this summer after they failed to reach the Champions League.",
-      "RB Leipzig will insist on their valuation being met before letting him leave though.",
-      "Maguire has not been included in United's 32-man pre-season tour squad due to a personal matter.",
-      "Cunha will travel with his new teammates following the birth of his second child, and Mbeumo has also been added.",
-      "The full United pre-season tour squad is as follows:",
-      "Goalkeepers: Onana, Bayindir, Heaton, Mee, Murdock",
-      "Defenders: Dalot, De Ligt, Dorgu, Fredricson, Heaven, Leon, Martinez, Mazraoui, Munro, Shaw, Yoro",
-      "Midfielders: Casemiro, Collyer, Fernandes, Fletcher, Kone, Mainoo, Mount, Ugarte",
-      "Forwards: Amad, Cunha, Hojlund, Mantato, Mbeumo, Obi, Williams, Zirkzee",
-      "MORE HERE",
-      "It has looked this way for some time but United will need to look elsewhere to strengthen their striker position this summer.",
-      "Gyokeres is believed to have been pushing hard for a move to Arsenal with the lure of Champions League football no doubt a factor.",
-      "Ironically it will be United who he will make his Premier League debut against next month.",
-      "After a long transfer saga, it appears Viktor Gyokeres has finally got his move to the Premier League.",
-      "Several reports, including from Fabrizio Romano, claim that Arsenal have a verbal agreement with all parties for a £55m plus £8.7m in add-ons deal for the Swede.",
-      "MEN Sport reported recently that United were not planning to compete for the striker this summer."
+      "RB Leipzig will insist on their valuation being met before letting him leave though."
+    ]
+  },
+  {
+    "headline": "RAILSTON: Manchester United could sign Andre Onana replacement - but there is a catch",
+    "tags": [
+      "Man Utd",
+      "Onana"
+    ],
+    "link": "https://www.manchestereveningnews.co.uk/sport/football/transfer-news/manchester-united-could-sign-andre-32116897",
+    "image": null,
+    "date": null,
+    "source": "manchestereveningnews",
+    "body": [
+      "Andre Onana's status as the first-choice goalkeeper at Manchester United is safe for now.",
+      "Onana suffered a hamstring injury after reporting for pre-season at Carrington, but he has responded well to initial treatment and travelled with the squad to the United States.",
+      "The 29-year-old will continue his recovery in the States and could return in time to feature in the opening Premier League game of the season against Arsenal on August 17. United might have signed a new goalkeeper by that stage, but the chances of a new arrival immediately usurping Onana are slim.",
+      "Ruben Amorim has been open to signing a goalkeeper to challenge Onana for his starting role for some time, and the profile of any goalkeeper signing will give clues on Onana's future.",
+      "United have been linked with Aston Villa goalkeeper Emiliano Martinez, but United are unlikely to make a move for the experienced Argentina international when Onana is still at the club.",
+      "Moving to sign a capable understudy, a goalkeeper who could eventually replace Onana, would be the most practical and cost-effective option this summer. Many fans would like to see Onana sold and replaced by a proven goalkeeper, but he has prepared for the new season under the assumption he is staying.",
+      "With that in mind, it hasn't been a surprise to see United linked with Royal Antwerp goalkeeper Senne Lammens, 23, who has just a single full season of senior football under his belt.",
+      "Lammens was impressive for Royal Antwerp in 2024/25, keeping seven clean sheets in 30 league starts, and he possesses the right profile to arrive in Manchester with the view of challenging Onana.",
+      "The Belgian was asked about interest from United in February and told GVA: \"Wow, [it's] hard to say. I've only played one full season at Antwerp.",
+      "\"If something comes along that I can hardly say no to and that will benefit the club, I'll have to think about it seriously. But if I'm the first 'keeper here for another year, that's no problem.",
+      "\"The first time I heard it, I thought. 'Wow, a world team that follows you. That is special'. Of course, I was also spoken to about it a lot and when I made a save in training, it was United this, United that. Funny, I would do it the other way around too. But you can't dwell on it for too long. They are still just rumours.",
+      "\"Those top clubs have so many scouts and follow so many players. So it doesn't have to mean anything yet. It will only become clear in the summer whether anything comes of it.",
+      "\"But of course it's only positive. Especially because it's the best competition in the world and my profile – my stature and way of playing – is similar to English football. You have to physically hold your own there and that suits me.",
+      "\"You do follow the teams that follow you a little bit, but it's not like I'm watching entire matches. Summaries are enough.\"",
+      "The reports linking Lammens with a move to Old Trafford have picked up again this summer, although he would be a longer-term project and wouldn't immediately start games.",
+      "Lammens could be signed as an eventual Onana replacement, but he has limited senior football experience, and it would be unrealistic for him to start regularly in the Premier League after signing.",
+      "United fans would be delighted to see a new goalkeeper brought in this summer due to concerns about Onana, however, the Cameroon international looks set to retain his starting role.",
+      "If Lammens signed for United, he would be given opportunities in cup competitions, and he would hope to deliver strong performances to build a case for starting in the Premier League.",
+      "Onana is guaranteed to make mistakes and the second-choice goalkeeper, whoever that may be, could sense an opening.",
+      "At  Reach and across our entities  we and our partners use information collected through cookies and other identifiers from your device to improve experience on our site, analyse how it is used and to show personalised advertising. You can opt out of the saleor sharing of your data, at any time clicking the &quot;Do Not Sell or Share my Data&quot; button at the bottom of the webpage. Please note that your preferences are browser specific. Use of our website and any of our services represents your acceptance of the use of cookies and consent to the practices described in our Privacy Notice and Privacy Notice."
+    ]
+  },
+  {
+    "headline": "RAILSTON: Manchester United make transfer decisions on two players",
+    "tags": [
+      "Man Utd"
+    ],
+    "link": "https://www.manchestereveningnews.co.uk/sport/football/transfer-news/manchester-united-make-transfer-decisions-32119153",
+    "image": null,
+    "date": null,
+    "source": "manchestereveningnews",
+    "body": [
+      "Manchester United are expected to send Ethan Wheatley and Radek Vitek out on loan this summer.",
+      "Wheatley, 19, and Vitek, 21, have outgrown academy football and weren't named in the USA tour squad.",
+      "The two players need to be playing regular football for the next stage of their development. Wheatley signed for Walsall on loan last season, but the young striker made just four appearances for the League Two club and ended a frustrating campaign by playing for United's Under-21s again.",
+      "Academy staff have high hopes for Wheatley and he was handed a new three-year contract in March, with the option of an additional year.",
+      "Wheatley featured for England at the Under-19 European Championship this summer, scoring twice in two starts. The youngster reported to Carrington late after an extended break and was not named in the travelling squad to face Leeds in the opening pre-season friendly last weekend.",
+      "United will be conscious of arranging the right loan for Wheatley after his experience with Walsall, which the academy graduate admitted was \"frustrating\" in an interview with PA Sport.",
+      "\"I’m just more concentrated on this tournament,\" he said. \"But yeah, since Ruben Amorim came in, I was away with international camp and, obviously, went on loan in January, so I’ve not really been around it too much.",
+      "\"But I want to be a Man United player in the future. If that doesn’t happen, then it obviously wasn’t meant to be. We’ll just see what happens in the future.\"",
+      "Wheatley added: \"My second half of the season has been frustrating. Not being able to show what I’m about, really. But I think this tournament is the perfect way to do it. I think there’ll be a lot of eyes on it and, obviously, representing your country in a Euros, there’s not much better than that.",
+      "\"It’ll be good to hopefully impress and, just for myself and for the team, play my part and do well. The club have been good with me. They’ve let me come back and play a few Under-21s games, just to keep my legs going, so it’s been good to be back at United, developing and getting game-time.",
+      "\"Even if my first [loan move] didn’t go well - and it didn’t - I had it in the back of my head. And I was telling staff around the club, it’s not going to define me as a player.",
+      "\"It’s not going to judge where I end up in the future. I think it’s just like a little blip in my early career and, hopefully, I can just bounce back from it going into next season.\"",
+      "Despite limited appearances for Walsall, Wheatley was impressive when he played for the U21s at the end of the campaign, scoring three goals in the Premier League 2 play-offs.",
+      "Wheatley made United history in April 2024 by becoming the 250th academy graduate to make his debut for the club, coming on from the bench against Sheffield United at Old Trafford.",
+      "Vitek has not made his United debut, but his season-long loan with FC Blau-Weiß Linz was considered a success due to the number of starts he made in a competitive environment.",
+      "The goalkeeper started almost every league game for the Austrian side. Vitek is set to leave on loan again and his United contract expires in the summer of 2027.",
+      "At  Reach and across our entities  we and our partners use information collected through cookies and other identifiers from your device to improve experience on our site, analyse how it is used and to show personalised advertising. You can opt out of the saleor sharing of your data, at any time clicking the &quot;Do Not Sell or Share my Data&quot; button at the bottom of the webpage. Please note that your preferences are browser specific. Use of our website and any of our services represents your acceptance of the use of cookies and consent to the practices described in our Privacy Notice and Privacy Notice."
     ]
   },
   {
@@ -888,48 +933,86 @@
     ]
   },
   {
-    "headline": "How to pronounce new Man United signing Bryan Mbeumo's name after £70m transfer sealed",
-    "tags": [],
-    "link": "https://www.manchestereveningnews.co.uk/sport/football/transfer-news/how-pronounce-new-man-united-32116947",
+    "headline": "LUCKHURST: Signing Bryan Mbeumo was a coup for Manchester United and their reaction to it speaks volumes",
+    "tags": [
+      "Man Utd"
+    ],
+    "link": "https://www.manchestereveningnews.co.uk/sport/football/signing-bryan-mbeumo-coup-manchester-32107742",
     "image": null,
     "date": null,
     "source": "manchestereveningnews",
     "body": [
-      "Manchester United's new forward Bryan Mbeumo has confirmed how supporters should be pronouncing his surname after signing from Brentford on Monday.",
-      "After missing out on a move for Liam Delap at the start of the window, the Reds set about bringing Mbeumo to the club. Their pursuit started in June and after two failed bids, the Reds made it third time lucky last Thursday.",
-      "From there, the final pieces were quickly sorted. The 25-year-old completed his medical last weekend and was unveiled as a new United signing on Monday evening.",
-      "Since then, it has been a whirlwind for Mbeumo as he completed his first training session at Carrington before jetting off to Chicago for the pre-season tour of the United States. While all this change could be overwhelming for some, the forward has taken it in his stride and has expressed his delight at signing for the club.",
-      "\"From the start, I wanted to join this massive club,\" he explained to the club's in-house media. \"Now I’m here, I’m just really happy.",
-      "\"For me, it’s the biggest club in the world. The fans are crazy, the stadium is amazing, and every player wants to play here.\"",
-      "\"My first top was Manchester United’s top with [Cristiano] Ronaldo behind,\" he continued. \"It’s just such a big club and I’m really happy to be here.\"",
-      "One factor which sometimes gets overlooked when welcoming a new player to a club is ensuring that the simple things are taken care of. For instance, how to pronounce his name.",
-      "Fortunately, Mbeumo was quizzed on that before he flew to the US and now fans are left in no doubt. When asked by the club's media how he pronounces his name, the forward replied: \"Bri-an Em-boo-mo.\"",
-      "Mbeumo could make his debut for the club in the early hours of Sunday when the Reds face West Ham in the first match of the Premier League Series. In the meantime, you can hear the man himself pronounce his name below.",
+      "It is the he-said-she-said season. If we are to take Manchester United at face value, they beat Arsenal, Chelsea, Tottenham Hotspur and Newcastle United to the signing of Bryan Mbeumo.",
+      "One imagines some of those clubs would contest the strength of their interest in Mbeumo. Tottenham and Newcastle's was certainly genuine. So much so that. there were some typically theatrical reaction from sections of the latter at how United could possibly afford Mbeumo.",
+      "Thomas Frank's switch from Brentford to Spurs prompted a sudden and serious approach. Mbeumo cherishes Frank for helping him to develop into one of the most productive forwards in the Premier League but he was set on joining United.",
+      "A United source said Mbeumo \"never budged\". United did not budge when Brentford demanded an up-front fee of at least £70million. Having gone the entirety of last summer without breaking the £60m barrier for a signing, the no-go figure has been upped to £70m this summer.",
+      "There was a pro and con of Matheus Cunha's release clause. It made his signing swift and straightforward for United but also raised the price of Mbeumo, such a similar profile of player he was born only a few months later. The Cameroon international has played twice as long in the Premier League and scored five more league goals last term. He is also slightly younger. On those counts, he is arguably a more valuable asset.",
+      "But United have got the two prime targets for their positions. They have remained coy on Mbeumo's specific role but it is unlikely to be up front. Club sources were careful not to bill them as their \"top two targets\", mindful of the need for a new goalscorer.",
+      "That said, United were keen to highlight that only Erling Haaland, Mohamed Salah, Alexander Isak and Ollie Watkins - four strikers - have scored more Premier League goals than Mbeumo in the past three years. Whatever the mitigation of such a stat, it is a genuinely impressive return from a winger who was operating at a stable mid-table side.",
+      "Mbeumo and Cunha are not statement signings. United prised the best players from Brentford and Wolves. But they are statements of intent.",
+      "Only seven players tallied more league goals than Cunha last season. Salah, Haaland and Isak were the three above Mbeumo in the charts. The clear caveat is that it will be trickier for the pair to match their goals hauls at the most scrutinised sporting institution on the planet.",
+      "Arsenal were in for Cunha in the winter transfer window and at least two Champions League qualifiers wanted Mbeumo. United believe committing £133.5m on two signings reiterates their football first approach, an old line that they are still prone to trotting out.",
+      "More significant is United retain some clout even after their worst season in 51 years. Yes, they moved for convenient targets at clubs lower down the food chain but there was concrete competition.",
+      "Mbeumo is arguably more of a coup than Cunha, whose ill-discipline was a deterrent for some admirers. Mbeumo's character seems sound and he could have had an easier life, staying in London, reuniting with Frank and playing in the Champions League for Tottenham.",
+      "A close relative of Mbeumo's is a United fan. Mbeumo revealed United was \"the team whose shirt I wore growing up\" in his unveiling statement. That may convince undecided fans to get 'Mbeumo 19' on the back of their new replica.",
+      "There is a more bullish tone about United this summer. Twelve months ago, every significant decision that was taken during pre-season revolved around the manager and posed more questions than it answered.",
+      "Keeping Erik ten Hag having looked to sack him and extending his contract rather than offering a renewal undermined the club's apparent confidence. Anyone who could see the wood for the trees could see United had gone past the point of no return under Ten Hag before they punched above their weight in the FA Cup final.",
+      "The irony is Ruben Amorim presided over a Premier League finish that was almost twice as bad as Ten Hag's in 2023-24. Yet Amorim is Ineos' man. Amorim has seen off Marcus Rashford and Alejandro Garnacho amid unequivocal backing. You can count Dan Ashworth, too, given he was opposed to the choice of Amorim as head coach and favoured a British option.",
+      "This is Amorim's first full season and he will not be afforded anywhere near as much slack as he was during those months when United prioritised the Europa League at the cost of their domestic form. There have been substantial squad investments in time for the pre-season tour and an XI with Mbeumo, Cunha, Bruno Fernandes, Leny Yoro, Harry Maguire and Amad has to climb the league table.",
+      "The squad is still short of a proven goalscorer, there is a potential midfield minefield if that area is not enhanced, and Andre Onana does not instil confidence in the majority of supporters. The transfer window is open for just under six more weeks and at least one more starting signing is targeted. That has to be a number nine.",
+      "For now, they have Mbeumo with the '9' in his squad number, drawing envious glances from north London and Tyneside.",
       "At  Reach and across our entities  we and our partners use information collected through cookies and other identifiers from your device to improve experience on our site, analyse how it is used and to show personalised advertising. You can opt out of the saleor sharing of your data, at any time clicking the &quot;Do Not Sell or Share my Data&quot; button at the bottom of the webpage. Please note that your preferences are browser specific. Use of our website and any of our services represents your acceptance of the use of cookies and consent to the practices described in our Privacy Notice and Privacy Notice."
     ]
   },
   {
-    "headline": "Benjamin Sesko to Man United transfer latest - bargain price emerges, Jurgen Klopp stance clear",
+    "headline": "Nicolas Jackson Man United transfer 'stance' emerges as major Jadon Sancho update issued",
     "tags": [],
-    "link": "https://www.manchestereveningnews.co.uk/sport/football/transfer-news/benjamin-sesko-man-united-transfer-32117862",
+    "link": "https://www.manchestereveningnews.co.uk/sport/football/transfer-news/nicolas-jackson-man-united-transfer-32114939",
     "image": null,
     "date": null,
     "source": "manchestereveningnews",
     "body": [
-      "Manchester United's summer transfer plans are moving on after they completed a deal for Bryan Mbeumo on Monday.",
-      "Marcus Rashford is expected to leave Old Trafford for Barcelona this week and this will be the first piece in the puzzle for the Reds as they look to stump up funds for a new centre-forward. The sales of Alejandro Garnacho, Jadon Sancho and Antony are thought to be key for United if they are to bring in a striker that they desperate need.",
-      "However, the amount they receive will determine if they can go after an expensive option or a more cost-effective solution. One player who has pushed his way into the conversation for the Reds is RB Leipzig's Benjamin Sesko.",
-      "MEN Sport has rounded up the latest information surrounding Sesko and his potential move to Old Trafford.",
-      "Speaking to Caught Offside, journalist Christian Falk claimed on Wednesday morning that United are moving ahead in the race to sign Sesko this summer. It is claimed that RB Leipzig would be open to selling the Slovenian should they receive a reasonable offer.",
-      "According to Falk, that would be around the £60.6m mark which is rather reasonable considering Arsenal are paying £55m plus £8.7m in add-ons for Viktor Gyokeres, who is five years older than the Slovenian. And speaking of the Gunners...",
-      "It is understood that Arsenal have now withdrawn their interest in Sesko this summer. Despite their new sporting director Andrea Berta working on a move for the 22-year-old earlier in the window, it is thought the Gunners are happy to stick with just adding Gyokeres to their team.",
-      "If true, this gives United a free line to snap up Sesko, should they wish to.",
-      "Liverpool's former manager Jurgen Klopp joined the Red Bull project back in January and, understandably, he was asked about his thoughts on Sesko shortly after arriving. And the German was clear on his thoughts surrounding the 22-year-old.",
-      "\"I’ve actually known him for a while, I knew him already when he was at Salzburg,\" Klopp explained. \"I think we played a friendly game here when he was very, very young.",
-      "\"I was really impressed, I thought: 'Where do they get all these players? Ridiculous.'",
-      "\"He has space for improvement, space for development, incredible skillset, incredible potential, so I’m happy that we have him.\"",
-      "United may have a secret weapon to sign Sesko. Recruitment director Christopher Vivell is now at Old Trafford but he knows Sesko from his time at RB Leipzig.",
-      "Not only does Vivell know the pros and cons surrounding the purchase of Sesko, he should also have the personal relationships with the player and his team to hopefully create a smooth negotiating process, should that time come.",
+      "Manchester United began their pre-season with a goalless draw against Leeds United on Saturday.",
+      "United's head coach Ruben Amorim gave new signings Matheus Cunha and Diego Leon their first run out in Stockholm, both of whom impressed against the newly promoted Premier League team. Bryan Mbeumo has also joined them this summer, with United announcing his £65million transfer from Brentford on Monday.",
+      "The Reds' pre-season preparations will continue with a tour of the United States. Amorim's squad flew out to Chicago on Tuesday, where they'll be stationed for most of their three-match tour.",
+      "Below are some of the latest United headlines as well as a view on each one...",
+      "GiveMeSport claim that the priority for Man United-linked Nicolas Jackson would be to stay at Chelsea and fight for his place.",
+      "It is claimed that the Blues are open to doing business though, and that Jackson would also not close the door on United even without European football next season.",
+      "\"Jackson scored just three more goals (13) across all competitions than Hojlund and was playing in a better team than Amorim's rabble.\"",
+      "The Athletic's David Ornstein has rubbished any suggestion that Manchester United forward Jadon Sancho is closing in on a move to Juventus.",
+      "“Jadon Sancho has been heavily rumoured to be closing in on a move to Juventus,\" he told The Athletic's podcast.",
+      "\"That is not accurate as I understand it at all and I’m not quite sure where that’s emanated from.”",
+      "\"Selling him will be tricky but another loan move may not hurt to get his wages off United's books.\"",
+      "At  Reach and across our entities  we and our partners use information collected through cookies and other identifiers from your device to improve experience on our site, analyse how it is used and to show personalised advertising. You can opt out of the saleor sharing of your data, at any time clicking the &quot;Do Not Sell or Share my Data&quot; button at the bottom of the webpage. Please note that your preferences are browser specific. Use of our website and any of our services represents your acceptance of the use of cookies and consent to the practices described in our Privacy Notice and Privacy Notice."
+    ]
+  },
+  {
+    "headline": "The real life of Bryan Mbeumo - from piano and chess to Manchester United and dreaming big",
+    "tags": [
+      "Man Utd"
+    ],
+    "link": "https://www.manchestereveningnews.co.uk/sport/football/transfer-news/real-life-bryan-mbeumo-piano-32110943",
+    "image": null,
+    "date": null,
+    "source": "manchestereveningnews",
+    "body": [
+      "Bryan Mbuemo's Manchester United initiation song might sound a little different.",
+      "Footballers often integrate themselves into their new surroundings by singing a song, Mbuemo may well be playing piano.",
+      "The United new boy is a keen pianist and might even greet his new team-mates with a tune or two as he joins them in America for their pre-season tour having completed his £65million transfer this week.",
+      "Mbeumo is a keen pianist having taught himself using YouTube videos. Brentford even put a piano at the training ground to allow him to practice.",
+      "\"I discovered it a few years ago,\" he said in his first interview as a United player, speaking to club media. \"A friend of mine was playing in front of me and was amazing so I wanted to try.\"",
+      "United will be hoping to get their own tune out of him to help them rebuild and regroup after a desperate campaign last term. The Reds moved to bring in Matheus Cunha after activating his £62.5m release clause and Mbeumo has now followed as Ruben Amorim revamps his attack.",
+      "Cunha scored 15 top-flight goals last season while Mbeumo contributed 20. The Cameroon international has significantly improved his cutting edge in front of goal over the last two seasons, in keeping with a man who always wants to improve.",
+      "While at Brentford he teamed up with a posture specialist and a home-visiting physio as well as a personal chef. He worked hard to improve his finishing with club coaches and is part of Brentford's leadership group.",
+      "He sees himself as calm and confident off the pitch, and driven and determined on it.",
+      "\"I am a calm and chilled guy out of the pitch but on the pitch I change completely, determined, focussed,\" he said upon signing for United.",
+      "\"When I don't really know (people) I am quite quiet but when I get to know everyone I like to make jokes and banter.\"",
+      "Another of his hobbies is chess. \"I was playing a little bit when I was younger and suddenly two or three years ago I wanted to play and I really enjoyed it,\" he said.",
+      "\"I play online, I have a chessboard at home but no one to play against!\"",
+      "Mbeumo grew up in a small town in France, his first football shirt was a United one with Ronaldo on the back and his dream was to become a footballer. To do so for United would have felt a long way off, but it's one he has now realised.",
+      "\"As soon as I knew there was a chance to join Manchester United, I had to take the opportunity to sign for the club of my dreams,\" said Mbeumo.",
+      "\"This is a massive club, with an incredible stadium and amazing fans, we are all really determined to challenge for the biggest trophies.\"",
+      "That is music to the ears of Amorim and the United fans, so too is Mbeumo's piano playing.",
       "At  Reach and across our entities  we and our partners use information collected through cookies and other identifiers from your device to improve experience on our site, analyse how it is used and to show personalised advertising. You can opt out of the saleor sharing of your data, at any time clicking the &quot;Do Not Sell or Share my Data&quot; button at the bottom of the webpage. Please note that your preferences are browser specific. Use of our website and any of our services represents your acceptance of the use of cookies and consent to the practices described in our Privacy Notice and Privacy Notice."
     ]
   },
@@ -1032,79 +1115,43 @@
     ]
   },
   {
-    "headline": "Benjamin Sesko to Man United transfer latest - Viktor Gyokeres impact, striker shortlist",
-    "tags": [],
-    "link": "https://www.manchestereveningnews.co.uk/sport/football/transfer-news/benjamin-sesko-man-united-transfer-32113532",
-    "image": null,
-    "date": null,
-    "source": "manchestereveningnews",
-    "body": [
-      "The summer transfer window is gathering pace as teams look to strengthen their squads ahead of the new Premier League season.",
-      "Manchester United are one of the teams being active in the window. On Monday they confirmed the signing of Bryan Mbeumo from Brentford.",
-      "The forward has signed a five-year contract at Old Trafford, with the option of an additional year. The transfer will see United pay an initial fee of £65 million plus £6 million in add-ons.",
-      "He became the third new signing of the summer transfer window, following the captures of Matheus Cunha and Diego Leon.",
-      "Concentration for United will now concentrate on bringing an out-and-out striker to the club. One name to be linked is RB Leipzig’s Benjamin Sesko.",
-      "Here is a look at the latest surrounding a potential move for the Slovenian international before the end of the window.",
-      "One name who was linked with United this summer is Sporting CP striker Viktor Gyokeres. Head coach Ruben Amorim was said to be keen on a reunion with his former player.",
-      "However, the Sweden international is now closing in on a move to Arsenal with the Gunners reaching an agreement with the Portuguese club.",
-      "Earlier in the summer, Arsenal appeared to be prioritising a move for Sesko over Gyokeres, having entered talks with RB Leipzig. However, the U-turn now leaves Sesko available for United to make their move.",
-      "Journalist Ben Jacobs has reported that Sesko is ‘back on United’s radar’ as they search for a new striker in the current summer transfer window.",
-      "The forward has been watched for several years by United scouts. The club made an approach 12 months ago but was turned down by the player who opted to stay with Leipzig.",
-      "Jacobs adds that Sesko is on a shortlist of several striker targets with a centre-forward now the priority following the capture of Mbeumo. Two other names included on the list are reported to be Chelsea’s Nicolas Jackson and Aston Villa’s Ollie Watkins.",
-      "United are now expected to work through the list and identify their preferred targets.",
-      "At  Reach and across our entities  we and our partners use information collected through cookies and other identifiers from your device to improve experience on our site, analyse how it is used and to show personalised advertising. You can opt out of the saleor sharing of your data, at any time clicking the &quot;Do Not Sell or Share my Data&quot; button at the bottom of the webpage. Please note that your preferences are browser specific. Use of our website and any of our services represents your acceptance of the use of cookies and consent to the practices described in our Privacy Notice and Privacy Notice."
-    ]
-  },
-  {
-    "headline": "Alejandro Garnacho feelings already clear after Man United transfer decision",
-    "tags": [
-      "Garnacho"
-    ],
-    "link": "https://www.manchestereveningnews.co.uk/sport/football/transfer-news/alejandro-garnacho-feelings-already-clear-32113113",
-    "image": null,
-    "date": null,
-    "source": "manchestereveningnews",
-    "body": [
-      "Manchester United have confirmed a 32-man squad for the upcoming pre-season tour of the United States and there is no place for Alejandro Garnacho.",
-      "Garnacho has spent the early part of pre-season training alone at Carrington. The forward fell out with Ruben Amorim at the end of last season and is expected to leave the club before the window shuts.",
-      "The likes of Napoli, Atletico Madrid, Chelsea and Aston Villa have all been linked with a move for Garnacho. A fee of £70m has previously been touted but a smaller figure would be considered to raise funds for further additions.",
-      "Recent reports had claimed that Chelsea were planning on biding their time to pressure United in lowering their asking price. It's said the Blues consider £50m too much for the forward.",
-      "United have already bought Matheus Cunha and Bryan Mbeumo this summer for more than £120m. There is an expectation that a new centre-forward will follow them once player sales are finalised.",
-      "On Tuesday, Amorim and his players were due to travel to Chicago for their tour of the United States. A 32-man squad was confirmed and as expected, Garnacho was excluded alongside Sancho, Antony and Malacia.",
-      "Garnacho is expected to depart this summer and the forward has used social media to showcase his desire to get his move. After Mbeumo's arrival from Brentford was confirmed on Monday, the 21-year-old posted a reel on his Instagram page.",
-      "The post was his first in three weeks and included footage of him working in a gym. \"Getting ready ...\" he captioned the reel with a voiceover played over the video.",
-      "\"This is my secret,\" it begins. \"No secrets, don't exist, secrets. \"Dedication and hard work, you know? To be able to work a hundred per cent all the time. This is my secret.\" Several teammates, past and present, have liked the post; they include Antony, Ayden Heaven, Ethan Wheatley, Fernandes, Patrick Dorgu, Rashford and Willy Kambwala.",
-      "At  Reach and across our entities  we and our partners use information collected through cookies and other identifiers from your device to improve experience on our site, analyse how it is used and to show personalised advertising. You can opt out of the saleor sharing of your data, at any time clicking the &quot;Do Not Sell or Share my Data&quot; button at the bottom of the webpage. Please note that your preferences are browser specific. Use of our website and any of our services represents your acceptance of the use of cookies and consent to the practices described in our Privacy Notice and Privacy Notice."
-    ]
-  },
-  {
-    "headline": "LUCKHURST: Why Manchester United are unhappy with Brentford after Bryan Mbeumo transfer negotiations",
+    "headline": "Plettenberg confirms Tottenham ‘monitoring’ highly-rated midfielder with Fulham, Man Utd named in reports",
     "tags": [
       "Man Utd"
     ],
-    "link": "https://www.manchestereveningnews.co.uk/sport/football/manchester-united-unhappy-brentford-after-32107544",
-    "image": null,
-    "date": null,
-    "source": "manchestereveningnews",
+    "link": "https://www.football365.com/news/plettenberg-confirms-tottenham-monitoring-bayern-munich-joao-palhinha-rival-arsenal-fulham-man-utd",
+    "image": "https://images.ps-aws.com/c?url=https%3A%2F%2Fd2x51gyc4ptf2q.cloudfront.net%2Fcontent%2Fuploads%2F2025%2F05%2F01152841%2FBrentford-manager-Thomas-Frank-1320x742.jpg",
+    "date": "2025-07-23 16:51:32",
+    "source": "football365",
     "body": [
-      "Manchester United have accused Brentford of trying to pressure Bryan Mbeumo into joining Tottenham Hotspur or Newcastle United.",
-      "United are unhappy with how Brentford conducted themselves during negotiations even though Mbeumo made it clear from the outset he wanted to join United.",
-      "Arsenal expressed interest in Mbeumo and Chelsea made a late attempt to scupper United’s move but the 25-year-old completed a £65million move, rising to £71m, to United on Monday.",
-      "United sources believe the Mbeumo deal underscores their pull in the market, despite the club reeling from their worst season in 51 years. Matheus Cunha, their first addition of the summer, also generated internet from Arsenal in January.",
-      "United had two offers for Mbeumo rejected and Brentford held out for an up-front fee of £70m, which United baulked at.",
-      "Brentford changed managers last month when Keith Andrews replaced Thomas Frank, now at Tottenham, and the club took time before settling on Ipswich Town winger Omari Hutchinson as Mbeumo’s de facto replacement.",
-      "Well-placed sources also claim Brentford exerted pressure on Mbeumo to reduce his wage demands - which United figures have stressed were never an issue - seemingly in the hope it would increase the chances of Spurs or Newcastle signing the Cameroon international.",
-      "After joining United, Mbeumo said: “As soon as I knew there was a chance to join Manchester United I had to take the opportunity to sign for the club of my dreams; the team whose shirt I wore growing up.",
-      "“My mentality is to always be better than I was yesterday. I know that I have the spirit and character to reach another level here, learning from Ruben Amorim and playing alongside world-class players.",
-      "“Everybody told me about the environment that is being created here and how exciting the plans are for the future. This is a massive club, with an incredible stadium and amazing fans, we are all really determined to challenge for the biggest trophies.”",
-      "At  Reach and across our entities  we and our partners use information collected through cookies and other identifiers from your device to improve experience on our site, analyse how it is used and to show personalised advertising. You can opt out of the saleor sharing of your data, at any time clicking the &quot;Do Not Sell or Share my Data&quot; button at the bottom of the webpage. Please note that your preferences are browser specific. Use of our website and any of our services represents your acceptance of the use of cookies and consent to the practices described in our Privacy Notice and Privacy Notice."
+      "Joao Palhinha could be heading back to the Premier League just one year after leaving it, with one new suitor joining the race according to Florian Plettenberg, and Bayern Munich ready to listen to offers.",
+      "The Portugal international endured a frustrating debut season in Germany, making only six Bundesliga starts for the title winners and watching on as others took precedence in Vincent Kompany’s midfield.",
+      "His move from Fulham last summer came after a collapsed deadline-day switch the previous year, and while the eventual £46.5million deal got over the line, the fit never quite did.",
+      "Palhinha recently admitted his first year in Bavaria had been “difficult” during tentative links to Arsenal, though he reaffirmed his commitment to return for pre-season and prove himself.",
+      "Man Utd are allegedly one of the clubs considering a move. New boss Ruben Amorim worked with Palhinha during their time together at Sporting and Braga, and reports suggest the 30-year-old is being lined up to provide a defensive anchor that would allow Bruno Fernandes more attacking freedom.",
+      "Amorim’s midfield was one of the biggest concerns last season, and while much of Utd transfer focus has been on forwards, a move for Palhinha could be the next domino.",
+      "However, Utd are believed to be exploring a loan, while Bayern are reportedly pushing back against any temporary deal with the Bundesliga season fast approaching.",
+      "MORE TOTTENHAM COVERAGE ON F365…\n👉 Florian Plettenberg clears up Rodrygo to Tottenham talk amid Arsenal and Liverpool interest\n👉 Tottenham: Gibbs-White told to ‘sue’ Forest amid ‘disgrace’ as two reasons for ‘very likely’ outcome\n👉 Tottenham ‘ready to pay’ £61m in PSG hijack as Liverpool ‘offered’ Bournemouth exchange target",
+      "Fulham have also been credited with an interest in bringing Palhinha back. The Cottagers sold him for a club-record fee but are are also said to be eyeing a loan deal as part of a wider rebuild under Marco Silva.",
+      "The west London club are targeting up to five signings and view Palhinha as a potential marquee return, should Bayern allow it.",
+      "But the Germans would prefer a permanent exit and are said to have made that clear in talks with interested parties, according to reports.",
+      "Tottenham Hotspur have now entered the picture, with Sky Germany’s Florian Plettenberg revealing that the north London club are monitoring the situation.",
+      "“It is not concrete at this stage, but there is interest,” he posted on X. “Palhinha’s camp has been informed. Bayern are open to talks should suitable offers arrive for the 30 y/o.”",
+      "Spurs have already been active this summer with deals for Mohamed Kudus, Mathys Tel and Kevin Danso, but midfield reinforcements have so far taken a back seat.",
+      "Palhinha would offer something different to Yves Bissouma, Rodrigo Bentancur and Pape Matar Sarr, as a pure ball-winner with a track record of excelling in the Premier League and Champions League experience to match.",
+      "Tottenham will be given a challenge in their pursuit of a Bayern Munich star as his former side are reportedly ‘determined’ to bring him back on board.",
+      "Tottenham will reportedly ‘need’ to do one thing before they can secure the signing of a Bayern Munich star who they have been looking at for a while.",
+      "Bayern Munich midfielder Joao Palhinha has spoken out amid reports crediting Arsenal with an interest in the Portgual international.",
+      "Arsenal have walked away from deals to sign Real Madrid winger Rodrygo and Bayern Munich defensive midfielder Joao Palhinha, according to reports.",
+      "Manchester United are reportedly targeting three central midfielders as their ‘next priority’ if and when they finally complete a deal for Bryan Mbeumo.",
+      "Man Utd are eyeing Joao Palhinha as Ruben Amorim seeks physicality and experience in midfield. Bayern are reportedly open to a summer sale."
     ]
   },
   {
     "headline": "Best available strikers include Chelsea duo after Osimhen, Gyokeres, Ekitike transfer agreements",
     "tags": [],
     "link": "https://www.football365.com/news/ranking-feature-best-strikers-available-summer-transfer",
-    "image": "https://images.ps-aws.com/c?url=https%3A%2F%2Fd2x51gyc4ptf2q.cloudfront.net%2Fcontent%2Fuploads%2F2025%2F07%2F23111116%2FDarwin-Nunez-Benjamin-Sesko-Nicolas-Jackson-F365-1320x742.jpg",
+    "image": "https://images.ps-aws.com/c?url=https%3A%2F%2Fd2x51gyc4ptf2q.cloudfront.net%2Fcontent%2Fuploads%2F2025%2F07%2F23111116%2FDarwin-Nunez-Benjamin-Sesko-Nicolas-Jackson-F365-638x358.jpg",
     "date": "2025-07-23 13:30:52",
     "source": "football365",
     "body": [
@@ -1295,7 +1342,7 @@
       "Rashford"
     ],
     "link": "https://www.football365.com/news/man-utd-marcus-rashford-barcelona-loan-raphinha-lewandowski-very-old-dont-like",
-    "image": "https://images.ps-aws.com/c?url=https%3A%2F%2Fd2x51gyc4ptf2q.cloudfront.net%2Fcontent%2Fuploads%2F2025%2F07%2F23122020%2FMarcus-Rashford-Man-Utd-F365-50-638x358.jpg",
+    "image": "https://www.football365.com/content/themes/f365-sportsui/img/png/placeholder.png",
     "date": "2025-07-23 11:25:40",
     "source": "football365",
     "body": [
@@ -1925,12 +1972,12 @@
       "“In the first season, he will need to adapt. He’s tall, he’s massive, so I may get attacked for saying this but in Portugal, he had a much bigger advantage on the defenders. He will need to adapt to the Premier League defenders quickly.",
       "“There’s a chance that his second year is much stronger than his first year at Arsenal. But Arsenal will not be wanting to wait for a major trophy any longer. And the signing of a striker is seen as that last piece of the puzzle to do exactly that.",
       "“I hope that, if he comes in, he comes in and hits the ground running. We’ve all been waiting for Arsenal to sign a killer. Only time will tell if Gyokeres is an assassin in the Premier League.”",
+      "One former Arsenal player has made some bold predictions about incoming striker Viktor Gyokeres, suggesting he could match Thierry Henry.",
       "Viktor Gyokeres’ agent did not waive his fee in order to facilitate a transfer to Arsenal this summer, according to a football finance expert.",
       "Arsenal are yet to reach an agreement with Sporting CP for Viktor Gyokeres despite Fabrizio Romano’s claims on Tuesday, according to reports.",
       "Another Premier League club has discovered the joys of negotiating with Sporting, whose protracted sale of the ‘flop’ Viktor Gyokeres will not save Arsenal.",
       "Arsenal are now ‘on verge of total agreement’ with Sporting CP for the transfer of Viktor Gyokeres this summer, according to reports.",
-      "Fabrizio Romano has revealed that Sporting CP have “offered” Viktor Gyokeres to Man Utd again as there is “still no breakthrough” in talks with Arsenal.",
-      "While selling clubs prepare a wedge of Man Utd tax to put on their strikers, we’ve entered the mind of Ruben Amorim to rank their top ten targets."
+      "Fabrizio Romano has revealed that Sporting CP have “offered” Viktor Gyokeres to Man Utd again as there is “still no breakthrough” in talks with Arsenal."
     ]
   },
   {
@@ -2300,12 +2347,12 @@
       "“But it’s also very important to say that in the same moment the message from Viktor Gyokeres and his agent to Arsenal has been very clear: ‘I only want to go to Arsenal’.",
       "“The same message also sent to Sporting because Sporting have informed the player of this opportunity. The message Man Utd and Saudi clubs are also receiving is ‘Arsenal’.",
       "“So let’s see what is going to happen there because Arsenal and Sporting keep negotiating on these famous add-ons, keep negotiating on details of the deal. On Monday around lunchtime afternoon, they had new contacts, trying to advance on the structure of these. So continuing in negotiations, still no breakthrough. So Sporting did this move overnight.”",
+      "One former Arsenal player has made some bold predictions about incoming striker Viktor Gyokeres, suggesting he could match Thierry Henry.",
       "Viktor Gyokeres’ agent did not waive his fee in order to facilitate a transfer to Arsenal this summer, according to a football finance expert.",
       "Arsenal are yet to reach an agreement with Sporting CP for Viktor Gyokeres despite Fabrizio Romano’s claims on Tuesday, according to reports.",
       "Another Premier League club has discovered the joys of negotiating with Sporting, whose protracted sale of the ‘flop’ Viktor Gyokeres will not save Arsenal.",
       "Arsenal are now ‘on verge of total agreement’ with Sporting CP for the transfer of Viktor Gyokeres this summer, according to reports.",
-      "Arsenal are set to make a ‘new attack’ to sign Sporting CP striker Viktor Gyokeres as his agent ‘closes the door’ on Man Utd, according to reports.",
-      "While selling clubs prepare a wedge of Man Utd tax to put on their strikers, we’ve entered the mind of Ruben Amorim to rank their top ten targets."
+      "Arsenal are set to make a ‘new attack’ to sign Sporting CP striker Viktor Gyokeres as his agent ‘closes the door’ on Man Utd, according to reports."
     ]
   },
   {
@@ -2355,42 +2402,80 @@
       "1) Viktor Gyokeres (Sporting)\nWe’ve been treated to some intermediary sh*thousery in the last couple of days, with several Portuguese outlets informed of United coming back in for Gyokeres, which appears to be news to United, Gyokeres, Sporting and anyone else involved in his future, just to give Arsenal the willies.",
       "Like the lead in a coming-of-age high school drama imploring a love interest to ‘want me for being me’, Amorim said back in April that he would only want to sign Gyokeres if he wanted to join Manchester United for Manchester United, independent of Champions League football.",
       "Our guess is that Amorim would actually welcome a kicking and screaming Gyokeres through the Old Trafford doors in the knowledge that the Sweden international is absolutely ideal for his 3-4-3 system having thrived under him at Sporting, and Gyokeres would surely have to put a brave face on things anyway and insist that his father save further tears over a failed Arsenal move for private settings.",
+      "One former Arsenal player has made some bold predictions about incoming striker Viktor Gyokeres, suggesting he could match Thierry Henry.",
       "Arsenal and Liverpool signings have received the ‘Here we go’, which has opened the door for new faces to get into our top 10 available strikers ranking.",
       "Viktor Gyokeres’ agent did not waive his fee in order to facilitate a transfer to Arsenal this summer, according to a football finance expert.",
       "Arsenal are yet to reach an agreement with Sporting CP for Viktor Gyokeres despite Fabrizio Romano’s claims on Tuesday, according to reports.",
       "Another Premier League club has discovered the joys of negotiating with Sporting, whose protracted sale of the ‘flop’ Viktor Gyokeres will not save Arsenal.",
-      "Arsenal are now ‘on verge of total agreement’ with Sporting CP for the transfer of Viktor Gyokeres this summer, according to reports.",
-      "Man Utd are turning to Benjamin Sesko this summer as a ‘cabal of superstars’ are set to follow Marcus Rashford out of Old Trafford, according to reports."
+      "Arsenal are now ‘on verge of total agreement’ with Sporting CP for the transfer of Viktor Gyokeres this summer, according to reports."
     ]
   },
   {
-    "headline": "Ornstein reveals Man Utd ‘talks’ over three striker targets and names two other ‘main areas of focus’",
+    "headline": "Rashford joins Barcelona on loan and gets No 14 shirt",
     "tags": [
-      "Man Utd"
+      "Rashford"
     ],
-    "link": "https://www.football365.com/news/man-utd-ornstein-reveals-sesko-watkins-jackson-talks-main-areas-focus",
-    "image": "https://www.football365.com/content/themes/f365-sportsui/img/png/placeholder.png",
-    "date": "2025-07-22 07:24:24",
-    "source": "football365",
+    "link": "https://www.skysports.com/football/news/11095/13399346/marcus-rashford-joins-barcelona-man-utd-forward-completes-season-long-loan-move-to-laliga-club",
+    "image": "https://e0.365dm.com/25/07/768x432/skysports-football-premier-league_6956865.jpg?20250704105434",
+    "date": null,
+    "source": "skysports",
     "body": [
-      "The Athletic’s David Ornstein has revealed the three strikers Man Utd have held ‘talks’ about after also enquiring over Hugo Ekitike and Viktor Gyokeres.",
-      "The Red Devils have made three new signings so far this summer with Matheus Cunha arriving from Wolves, Bryan Mbeumo coming in from Brentford and Diego Leon joining from Cerro Porteno.",
-      "Man Utd are now turning their attention towards bringing in a new centre-forward after finishing 15th in the Premier League last season under Ruben Amorim.",
-      "Only four Premier League sides scored fewer goals than Man Utd last season with Joshua Zirkzee and Rasmus Hojlund coming in for a lot of criticism.",
-      "The Red Devils duo only scored seven Premier League goals between them and there are rumours that one of them will now leave before the end of the transfer window.",
-      "And The Athletic‘s Ornstein has brought an update on Man Utd transfer activity on Tuesday morning and claims ‘the main areas of focus are up front, defensive midfield and the goalkeeping department’.",
-      "READ: Arsenal face four-word question over Gyokeres as clown car Man Utd circle and Liverpool move quickly",
-      "With details on their pursuit of a striker, Ornstein adds: ‘United tried to enter the race for Hugo Ekitike last week, but the Eintracht Frankfurt attacker had committed to Liverpool. They then enquired to Sporting Lisbon about Viktor Gyokores, though the striker has made clear he is interested only in joining Arsenal, and United do not intend to advance on anyone unless the desire is mutual.",
-      "‘Benjamin Sesko, Ollie Watkins and Nicolas Jackson are names that feature on recruitment lists at many leading clubs, and each has recently been linked to United. Talks have taken place in relation to that trio, which is normal, but they are not currently being actively pursued due to the costs involved.’",
-      "Sky Germany reporter Florian Plettenberg also brought a similar update minutes after Ornstein with the German giving details of all of Man Utd’s striker targets.",
-      "Plettenberg wrote on X: ‘As reported last week, Manchester United were trying to get a chance in the race for Hugo #Ekitike, but Ekitike was already clear at that stage that he wanted Liverpool. Medical today if all goes to plan.",
-      "‘Manchester United are still looking for a number 9. Understand there are still attempts to bring Nicolas #Jackson to Manchester United, also because Ruben Amorim is said to prefer a striker with Premier League experience. There is still a big chance that Benjamin #Sesko stays at RB Leipzig. #MUFC.’",
-      "Arsenal and Liverpool signings have received the ‘Here we go’, which has opened the door for new faces to get into our top 10 available strikers ranking.",
-      "Man Utd are turning to Benjamin Sesko this summer as a ‘cabal of superstars’ are set to follow Marcus Rashford out of Old Trafford, according to reports.",
-      "Manchester United are free to sign Nicolas Jackson once the ‘floodgates’ suddenly and randomly open, but their ‘shock bid’ for Emi Martinez was rejected.",
-      "Man Utd are reportedly now moving to seal their next two signings this summer after getting a deal for Bryan Mbeumo over the line on Monday.",
-      "While selling clubs prepare a wedge of Man Utd tax to put on their strikers, we’ve entered the mind of Ruben Amorim to rank their top ten targets.",
-      "Chelsea striker Nicolas Jackson is open to joining Premier League rivals Man Utd in the summer transfer window, according to reports."
+      "Man Utd's Marcus Rashford has joined Barcelona on a season-long loan; the deal gives Barca the option to buy the England international,  27, at the end of the season; the forward's Man Utd career has appeared over since a public fallout with manager Ruben Amorim last winter",
+      "Wednesday 23 July 2025 18:02, UK",
+      "Manchester United forward Marcus Rashford has completed a season-long loan move to Barcelona.",
+      "Rashford will wear the No 14 shirt.",
+      "A Barcelona statement said: \"FC Barcelona and Manchester United have reached an agreement for the loan of the player Marcus Rashford until 30 June 2026. The agreement also establishes an option to buy the English forward.",
+      "\"The player has signed his contract as a Barça player this afternoon at a private meeting in the presence of the FC Barcelona president, Joan Laporta; the director of the Football Area, and other Board members.\"",
+      "Barcelona are expected to cover all of Rashford's wages during the proposed loan, although they are currently unable to register the forward due to LaLiga's financial rules.",
+      "The Spanish champions are deemed to have spent more on signings and wages than they made in revenue for the 2024/25 season.",
+      "LaLiga's rules dictate that clubs can only spend as much as they generate, so Barcelona will be required to make sales, cut wages or increase their revenue streams to make space for new signings.",
+      "The deadline for this issue to be resolved is the end of August. Barcelona are confident of registering Rashford and their other new signings in time for the new season.",
+      "Despite their long-standing financial issues, the Catalan club have always eventually been able to register their new signings in time despite these challenges.",
+      "England international Rashford had publicly said he would like to play for the Catalans this summer and had been interested in a move to the LaLiga champions in January, before joining Aston Villa on loan.",
+      "Rashford's move is understood to have been given the green light by Barca head coach Hansi Flick after he spoke with the player.",
+      "It is thought Liverpool forward Luis Diaz was a priority target, but Barcelona's advances were rejected earlier in the window.",
+      "The academy graduate is one of five players who have been given extra time off to explore potential moves away this summer.",
+      "Rashford's career at Old Trafford has appeared to be over since Ruben Amorim claimed he would rather put his 63-year-old goalkeeper coach on the bench than the forward because of what he considers a lack of effort.",
+      "Manchester United get a player with no future under Ruben Amorim off their books and free up considerable space on their wage bill. Barcelona acquire a potentially world-class forward without having to commit to signing him on a permanent deal.",
+      "But the biggest winner in Marcus Rashford's move from Old Trafford to Camp Nou on loan with an option to buy is the player himself. He swaps a side that finished 15th in the Premier League last term for one which won a domestic double and rank among this season's favourites to win the Champions League.",
+      "Read more here...",
+      "AccaFreeze lets you lock in one winning leg of your football acca, so a late goal won't ruin your bet!"
+    ]
+  },
+  {
+    "headline": "Rashford the big winner as he leaves Man Utd for Barcelona",
+    "tags": [
+      "Man Utd",
+      "Rashford"
+    ],
+    "link": "https://www.skysports.com/football/news/11833/13399585/marcus-rashford-man-utd-forward-is-the-big-winner-of-proposed-loan-deal-taking-him-from-old-trafford-to-barcelona",
+    "image": "https://e0.365dm.com/25/07/768x432/skysports-premier-league-laliga_6970543.jpg?20250722100147",
+    "date": null,
+    "source": "skysports",
+    "body": [
+      "Marcus Rashford has completed a medical at Barcelona ahead of a proposed season-long loan move with an option to buy for £26m; Rashford fell out of favour under Ruben Amorim and spent the second half of last season on loan at Aston Villa",
+      "Tuesday 22 July 2025 10:36, UK",
+      "Manchester United get a player with no future under Ruben Amorim off their books and free up considerable space on their wage bill. Barcelona acquire a potentially world-class forward without having to commit to signing him on a permanent deal.",
+      "But the biggest winner in Marcus Rashford's move from Old Trafford to Camp Nou on loan with an option to buy is the player himself. He swaps a side that finished 15th in the Premier League last term for one which won a domestic double and rank among this season's favourites to win the Champions League.",
+      "He gets to play with Lamine Yamal, a wish made public during an interview Spanish influencer Javi Ruiz last month. It seemed he might not get the chance when Barcelona subsequently tried to sign Athletic Club's Nico Williams then Liverpool's Luis Diaz but it all came together for him after those moves failed to materialise.",
+      "It is not what anyone at Manchester United envisioned back in 2023, when he signed a five-year contract worth £325,000 a week on the back of an outstanding, 30-goal season under Erik ten Hag. The idea was that his boyhood club would enjoy his peak years.",
+      "But Rashford's output dropped dramatically in the following campaign and despite early encouragement after Amorim's appointment last year, in the form of three goals in his first three games in charge, he was soon dropped by the new head coach due to disciplinary issues and poor performances in training.",
+      "In what might turn out to be his final appearance in a Manchester United shirt, away to Europa League opponents Viktoria Plzen in December of last year, Rashford was hooked after only 56 minutes and booed by some supporters as he made his way off.",
+      "A lot may have changed by the time his loan spell ends next summer. It is not inconceivable that a change of manager could reopen the door to him at Old Trafford. But it is nigh-on impossible to see a way back for him under this one. It feels a necessary parting of ways. He needs a fresh start and so do his club.",
+      "It is on him now to show Barcelona that he is worth signing permanently. If he can reach the heights of his best seasons, in 2019/20 and 2022/23, it will be an easy decision for them, especially with the purchase clause set at just £26m. He is still only 27.",
+      "His challenge is to finally deliver consistency, on and off the pitch, but his time on loan at Aston Villa in the second half of last season offers encouragement. Rashford appeared rejuvenated under Unai Emery, contributing four goals and five assists in 17 games in all competitions before his campaign was ended by injury.",
+      "His performances earned him an England recall from Thomas Tuchel and it was not just in an attacking capacity that he impressed.",
+      "Rashford's off-the-ball work was notably improved too. He averaged nearly four times as many tackles per 90 minutes for Aston Villa as in the first half of the campaign for Manchester United.",
+      "He showed his versatility too, initially playing on the left flank then usurping Ollie Watkins in the No 9 role. He ended up playing more minutes up front than he did as a winger, producing a standout performance in the role in Villa's Champions League quarter-final second leg against Paris Saint-Germain in April.",
+      "Those displays no doubt helped convince Barcelona of his enduring capacity to hurt top opposition. \"We like Rashford,\" confirmed their sporting director Deco a month later.",
+      "It will be interesting to see how they use him.",
+      "Barcelona will hope he proves useful to them in both roles but having previously tried to sign Williams and Diaz, it seems likely that he is primarily seen as someone to provide competition for Raphinha on the left wing.",
+      "It will not be easy to usurp the Brazil international, who ranks as one of Barcelona's most important players. He was named LaLiga player of the year last season and scored 34 goals in 57 games in all competitions.",
+      "Rashford might not start every game but Barcelona would not have taken on his huge wages if they did not see him forming a significant part of their plans. At the very least he will add attacking depth and allow head coach Hansi Flick to rotate up front as well as on the left.",
+      "Robert Lewandowski continues to defy his years. He produced his highest-scoring season yet for the club last term, with 42 goals. But he turns 37 next month. His minutes will need to be managed. Their new arrival can provide an alternative option in his position.",
+      "For Rashford, the challenge is simply to make the most of any opportunities he gets and prove to Barcelona that he is worth extracting from Old Trafford on a permanent basis.",
+      "But by moving from an ailing European giant in Manchester United to one in a position of Champions League-level strength in Barcelona, and getting a chance to prove himself again at the very top, he already looks like the biggest winner of the deal.",
+      "AccaFreeze lets you lock in one winning leg of your football acca, so a late goal won't ruin your bet!"
     ]
   },
   {
@@ -2460,43 +2545,7 @@
     "date": null,
     "source": "skysports",
     "body": [
-      "Wednesday 23 July 2025 14:41, UK"
-    ]
-  },
-  {
-    "headline": "Rashford the big winner as he leaves Man Utd for Barcelona",
-    "tags": [
-      "Man Utd",
-      "Rashford"
-    ],
-    "link": "https://www.skysports.com/football/news/12037/13399585/marcus-rashford-man-utd-forward-is-the-big-winner-of-proposed-loan-deal-taking-him-from-old-trafford-to-barcelona",
-    "image": "https://e0.365dm.com/25/07/768x432/skysports-premier-league-laliga_6970543.jpg?20250722100147",
-    "date": null,
-    "source": "skysports",
-    "body": [
-      "Marcus Rashford has completed a medical at Barcelona ahead of a proposed season-long loan move with an option to buy for £26m; Rashford fell out of favour under Ruben Amorim and spent the second half of last season on loan at Aston Villa",
-      "Tuesday 22 July 2025 10:36, UK",
-      "Manchester United get a player with no future under Ruben Amorim off their books and free up considerable space on their wage bill. Barcelona acquire a potentially world-class forward without having to commit to signing him on a permanent deal.",
-      "But the biggest winner in Marcus Rashford's move from Old Trafford to Camp Nou on loan with an option to buy is the player himself. He swaps a side that finished 15th in the Premier League last term for one which won a domestic double and rank among this season's favourites to win the Champions League.",
-      "He gets to play with Lamine Yamal, a wish made public during an interview Spanish influencer Javi Ruiz last month. It seemed he might not get the chance when Barcelona subsequently tried to sign Athletic Club's Nico Williams then Liverpool's Luis Diaz but it all came together for him after those moves failed to materialise.",
-      "It is not what anyone at Manchester United envisioned back in 2023, when he signed a five-year contract worth £325,000 a week on the back of an outstanding, 30-goal season under Erik ten Hag. The idea was that his boyhood club would enjoy his peak years.",
-      "But Rashford's output dropped dramatically in the following campaign and despite early encouragement after Amorim's appointment last year, in the form of three goals in his first three games in charge, he was soon dropped by the new head coach due to disciplinary issues and poor performances in training.",
-      "In what might turn out to be his final appearance in a Manchester United shirt, away to Europa League opponents Viktoria Plzen in December of last year, Rashford was hooked after only 56 minutes and booed by some supporters as he made his way off.",
-      "A lot may have changed by the time his loan spell ends next summer. It is not inconceivable that a change of manager could reopen the door to him at Old Trafford. But it is nigh-on impossible to see a way back for him under this one. It feels a necessary parting of ways. He needs a fresh start and so do his club.",
-      "It is on him now to show Barcelona that he is worth signing permanently. If he can reach the heights of his best seasons, in 2019/20 and 2022/23, it will be an easy decision for them, especially with the purchase clause set at just £26m. He is still only 27.",
-      "His challenge is to finally deliver consistency, on and off the pitch, but his time on loan at Aston Villa in the second half of last season offers encouragement. Rashford appeared rejuvenated under Unai Emery, contributing four goals and five assists in 17 games in all competitions before his campaign was ended by injury.",
-      "His performances earned him an England recall from Thomas Tuchel and it was not just in an attacking capacity that he impressed.",
-      "Rashford's off-the-ball work was notably improved too. He averaged nearly four times as many tackles per 90 minutes for Aston Villa as in the first half of the campaign for Manchester United.",
-      "He showed his versatility too, initially playing on the left flank then usurping Ollie Watkins in the No 9 role. He ended up playing more minutes up front than he did as a winger, producing a standout performance in the role in Villa's Champions League quarter-final second leg against Paris Saint-Germain in April.",
-      "Those displays no doubt helped convince Barcelona of his enduring capacity to hurt top opposition. \"We like Rashford,\" confirmed their sporting director Deco a month later.",
-      "It will be interesting to see how they use him.",
-      "Barcelona will hope he proves useful to them in both roles but having previously tried to sign Williams and Diaz, it seems likely that he is primarily seen as someone to provide competition for Raphinha on the left wing.",
-      "It will not be easy to usurp the Brazil international, who ranks as one of Barcelona's most important players. He was named LaLiga player of the year last season and scored 34 goals in 57 games in all competitions.",
-      "Rashford might not start every game but Barcelona would not have taken on his huge wages if they did not see him forming a significant part of their plans. At the very least he will add attacking depth and allow head coach Hansi Flick to rotate up front as well as on the left.",
-      "Robert Lewandowski continues to defy his years. He produced his highest-scoring season yet for the club last term, with 42 goals. But he turns 37 next month. His minutes will need to be managed. Their new arrival can provide an alternative option in his position.",
-      "For Rashford, the challenge is simply to make the most of any opportunities he gets and prove to Barcelona that he is worth extracting from Old Trafford on a permanent basis.",
-      "But by moving from an ailing European giant in Manchester United to one in a position of Champions League-level strength in Barcelona, and getting a chance to prove himself again at the very top, he already looks like the biggest winner of the deal.",
-      "AccaFreeze lets you lock in one winning leg of your football acca, so a late goal won't ruin your bet!"
+      "Wednesday 23 July 2025 17:57, UK"
     ]
   },
   {
@@ -2824,46 +2873,6 @@
       "Farke said on Bamford's future: \"I had an honest communication with him.",
       "\"For me, at this stage he needs to be the main man, he needs the backing, the arm around the shoulder after difficult years to rebuild his confidence.",
       "\"After the last two seasons, I wasn't willing to take him on right now as the main man in the Premier League.\"",
-      "AccaFreeze lets you lock in one winning leg of your football acca, so a late goal won't ruin your bet!"
-    ]
-  },
-  {
-    "headline": "Premier League pre-season fixtures: Man Utd in US; Arsenal, Liverpool in Asia",
-    "tags": [
-      "Man Utd",
-      "Premier League",
-      "LIVE"
-    ],
-    "link": "https://www.skysports.com/football/news/11095/13364452/premier-league-pre-season-friendlies-2025-26-fixtures-results-uk-kick-off-times-usa-asia-australia-summer-tour-schedule-and-training-camps",
-    "image": "https://e0.365dm.com/24/08/768x432/skysports-bryan-mbeumo-brentford_6672464.jpg?20240831160238",
-    "date": null,
-    "source": "skysports",
-    "body": [
-      "Wednesday 23 July 2025 16:26, UK",
-      "Premier League clubs have begun their pre-season fixtures ahead of the 2025/26 season.",
-      "Keep track below of all the friendly fixtures and results and see the latest pre-season news and goals, including Man Utd's summer tour of the US that gets under way on Tuesday July 22.",
-      "All kick-off times UK time",
-      "July 23: Arsenal 1-0 AC MilanJuly 27: Newcastle - Singapore National Stadium, kick-off 12.30pmJuly 31: Spurs - Kai Tak Stadium, Hong Kong, kick-off 12.30pmAugust 6: Villarreal - Emirates Cup, Emirates Stadium, kick-off 6pmAugust 9: Athletic Club - Emirates Cup, Emirates Stadium, kick-off 5pm",
-      "July 16: Walsall 1-0 Aston VillaJuly 19: Hansa Rostock 3-1 Aston VillaJuly 27: Eintracht Frankfurt - Louisville, Kentucky, kick-off 12amJuly 31: St Louis City SC - Energizer Park, Saint-Louis, kick-off 1.30amAugust 3: Nashville SC - Geodis Park, Nashville, kick-off 1amAugust 6: Roma - Bescot Stadium, kick-off 7.30pmAugust 9: Marseille - Stade Velodrome, kick-off 6pmAugust 10: Villarreal - Estadio de la Ceramica, kick-off 8pm",
-      "July 15: Bournemouth 2-1 HibernianJuly 26: Everton - MetLife Stadium, New Jersey, kick-off 9pm (Premier League Summer Series)July 31: Man Utd - Soldier Field, Chicago, kick-off 2.30am (Premier League Summer Series)August 3: West Ham - Mercedes-Benz Stadium, Atlanta, kick-off 7pm (Premier League Summer Series)August 9: Real Sociedad - Vitality Stadium, kick-off 5.15pm",
-      "July 25: Gil Vicente - Estadio Cidade de Barcelos, kick-off 7.30pmAugust 2: QPR - Loftus Road, kick-off 3pmAugust 8: Borussia Monchengladbach - Gtech Community Stadium, kick-off 7.30pm",
-      "July 12: Brighton 6-1 WycombeJuly 16: Brighton 3-1 StokeAugust 2: Southampton - St Mary's, kick-off 3pmAugust 9: Wolfsburg - American Express Stadium, kick-off 5pm",
-      "July 12: Burnley 1-0 FleetwoodJuly 26: Huddersfield Town - The John Smith's Stadium, kick-off 3pmJuly 26: Shrewsbury Town - Croud Meadow, kick-off 3pmAugust 2: Stoke City - bet365 Stadium, kick-off 3pmAugust 9: Lazio - Turf Moor, kick-off 3pm",
-      "August 8: Bayer Leverkusen - Stamford Bridge, kick-off 7pmAugust 10: AC Milan - Stamford Bridge, kick-off 3pm",
-      "July 12: Crystal Palace 1-0 MillwallJuly 25: Crawley Town - Broadfield Stadium, kick-off 7.30pmJuly 29: Mainz (Hans-Ludwig-Stadion), two games of 30-halves at 1pm & 2.20pmAugust 1: Augsburg (Hofmaninger Stadium), two games at 3pm & 5pmAugust 10: Liverpool (FA Community Shield) - Wembley, kick-off 3pm",
-      "July 15: Accrington Stanley 1-1 EvertonJuly 19: Blackburn 1-0 EvertonJuly 26: Bournemouth - MetLife Stadium, New Jersey, kick-off 9pm (Premier League Summer Series)July 30: West Ham - Soldier Field, Chicago, kick-off 11.30pm (Premier League Summer Series)August 3: Man Utd - Mercedes-Benz Stadium, Atlanta, kick-off 10pm (Premier League Summer Series)August 9: Roma - Hill-Dickinson Stadium, kick-off 3pm",
-      "July 26: Nottingham Forest - Estadio de Sao Luis, kick-off 8pmAugust 9: Eintracht Frankfurt - Craven Cottage, kick-off 5pm",
-      "July 19: Manchester United - Strawberry Arena, Stockholm, kick-off 2pmAugust 2: Villarreal - Elland Road, kick-off 3pmAugust 9: AC Milan - Aviva Stadium, Dublin, kick-off 12pm",
-      "July 13: Preston 1-3 LiverpoolJuly 26: AC Milan - Kai Tak Stadium, Hong Kong, 12.30pmJuly 30: Yokohama F. Marinos - Nissan Stadium, Yokohama, 11.30amAugust 4: Athletic Club (double header) - Anfield, kick off 5pm and 8pmAugust 10: Crystal Palace (FA Community Shield) - Wembley, kick-off 3pm",
-      "August 9: Palermo - Renzo Barbera Stadium, Palermo, kick-off TBC",
-      "May 28: ASEAN All Stars 1-0 Man UtdMay 30: Hong Kong 1-3 Man UtdJuly 19: Man Utd 0-0 LeedsJuly 27: West Ham - MetLife Stadium, New Jersey, kick-off 12am (Premier League Summer Series)July 31: Bournemouth - Soldier Field, Chicago, kick-off 2.30am (Premier League Summer Series)August 3: Everton - Mercedes-Benz Stadium, Atlanta, kick-off 10pm (Premier League Summer Series)August 9: Fiorentina - Old Trafford, kick-off 12.45pm",
-      "July 12: Newcastle 4-0 CarlisleJuly 19: Celtic 4-0 NewcastleJuly 27: Arsenal - Singapore National Stadium, kick-off 12.30pmJuly 30: K-League Select XI - Suwon World Cup Stadium, kick-off 12pmAugust 3: Tottenham - Seoul World Cup Stadium, kick-off 12pmAugust 8: Espanyol - St James' Park, kick-off 7.30pmAugust 9: Atletico Madrid - St James' Park, kick-off 4pm",
-      "July 12: Chesterfield 0-0 Nottingham ForestJuly 19: Monaco 0-0 Nottingham ForestJuly 26: Fulham - Estadio de Sao Luis, kick-off 8pmJuly 30: Estoril Praia - Estadio Municipal de Albufeira, kick-off 7pmAugust 2: Birmingham City - St Andrew's, kick-off 3pmAugust 5: Fiorentina - City Ground, kick-off 7.45pmAugust 9: Al Qadsiah - City Ground, kick-off 3pm",
-      "July 12: Gateshead 2-2 SunderlandJuly 12: South Shields 0-4 SunderlandJuly 19: Sevilla 1-1 SunderlandJuly 21: Sporting Lisbon 1-0 SunderlandJuly 26: Hearts - Tynecastle, kick-off 3pmJuly 29: Hull City - MKM Stadium, kick-off 7.45pmAugust 2: Real Betis - Stadium of Light, kick-off 3pmAugust 9: Augsburg - WWK Arena, kick-off 2pmAugust 10: Rayo Vallecano - Stadium of Light, kick-off 4.30pm",
-      "July 19: Reading 0-2 TottenhamJuly 26: Luton - Kenilworth Road, kick-off 3pmJuly 31: Arsenal - Kai Tak Stadium, Hong Kong, kick-off 12.30pmAugust 3: Newcastle - Seoul World Cup Stadium, kick-off 12pmAugust 7: Bayern Munich - Allianz Arena, kick-off 5.30pmAugust 13: Paris Saint-Germain (UEFA Super Cup), Stadio Friuli, Udine, kick-off TBC",
-      "July 19: Grasshopper Club Zurich 1-3 West HamJuly 27: Man Utd - MetLife Stadium, New Jersey, kick-off 12am (Premier League Summer Series)July 30: Everton - Soldier Field, Chicago, kick-off 11.30pm (Premier League Summer Series)August 3: Bournemouth - Mercedes-Benz Stadium, Atlanta, kick-off 7pm (Premier League Summer Series)August 9: Lille - London Stadium, kick-off 3pm",
-      "July 26: Stoke City - bet365 Stadium, kick-off 3pmJuly 30: Lens - Bescot Stadium, kick-off 7.30pmAugust 3: Girona - Estadi Montilivi, kick-off 7pmAugust 9: Celta Vigo - Molineux, kick-off 3pm",
-      "AccaFreeze lets you lock in one winning leg of your football acca, so a late goal won't ruin your bet!",
       "AccaFreeze lets you lock in one winning leg of your football acca, so a late goal won't ruin your bet!"
     ]
   }
