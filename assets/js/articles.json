@@ -1,12 +1,40 @@
 [
   {
+    "headline": "Man Utd transfer news: Marcus Rashford setback after huge Viktor Gyokeres development",
+    "tags": [
+      "Man Utd",
+      "Transfer News",
+      "Rashford"
+    ],
+    "link": "https://www.mirror.co.uk/sport/football/transfer-news/manchester-united-rashford-gyokeres-martinez-35598825",
+    "image": null,
+    "date": null,
+    "source": "mirror",
+    "body": [
+      "Manchester United's summer sale is now on. The Red Devils are actively working on offloading players, having finally confirmed their second major signing of the transfer window on Monday.",
+      "United welcomed Bryan Mbeumo after striking a deal with Brentford following weeks of fraught negotiations. Cameroon international Mbeumo arrives for a fixed fee of £65million plus £6m in performance related add-ons.",
+      "Mbeumo's addition follows that of Matheus Cunha, who the Red Devils had less hassle signing by triggering his £62.5million release clause at Wolves. Diego Leon is United's lesser-known third addition and the left wing-back made his non-competitive debut during Saturday's uninspiring 0-0 draw with Leeds.",
+      "Now the focus is on selling players, particularly the five members of Ruben Amorim's bomb squad: Marcus Rashford, Alejandro Garnacho, Jadon Sancho, Antony and Tyrell Malacia. Only one of those, however, looks certain to depart.",
+      "Here's a round-up of the latest transfer news from Old Trafford.",
+      "Marcus Rashford could be made to wait longer than anticipated to make his La Liga debut. Rashford, 27, will be unveiled by Barca on Wednesday, having arrived in the city on Sunday night before filming his announcement video on Tuesday.",
+      "Read the full story on Rashford here.",
+      "Will Marcus Rashford be a success at Barcelona? Give us your prediction in the comments section.",
+      "Arsenal are on the cusp of reaching a full agreement with Sporting Lisbon to sign Viktor Gyokeres, days after it was claimed that Manchester United were planning to hijack the transfer. Swedish striker Gyokeres had been tipped to reunite with Ruben Amorim, who brought him to Lisbon in 2023.",
+      "But the Athletic report that a conclusion in talks between Arsenal and Sporting is now imminent, with only the finishing touches needed. Gyokeres, 27, will be in line to make his competitive debut for the Gunners at Old Trafford on Sunday, August 17.",
+      "Read the full story on Gyokeres here.",
+      "Aston Villa will demand a cool £40million for Emiliano Martinez after rejecting Manchester United's first offer. Martinez, 32, is a target for the Red Devils, who are interested in signing a new goalkeeper.",
+      "But, of course, United are on a tight budget, so club chiefs initially made an approach to sign the Argentina international on loan. Villa rejected that offer and the the Mail report that they'll only be willing to accept a bid of at least £40m.",
+      "Read the full story on Martinez here."
+    ]
+  },
+  {
     "headline": "New Man Utd signing Bryan Mbeumo idolised Cristiano Ronaldo before ex-Chelsea icon",
     "tags": [
       "Man Utd",
       "Ronaldo"
     ],
     "link": "https://www.mirror.co.uk/sport/football/news/bryan-mbeumo-manutd-cristiano-ronaldo-35599243",
-    "image": null,
+    "image": "https://i2-prod.mirror.co.uk/incoming/article35600383.ece/ALTERNATES/n615/0_Untitled-1.jpg",
     "date": null,
     "source": "mirror",
     "body": [
@@ -53,7 +81,7 @@
       "Ferguson"
     ],
     "link": "https://www.mirror.co.uk/sport/football/news/manchester-united-sir-alex-ferguson-35599097",
-    "image": "https://i2-prod.irishmirror.ie/incoming/article30446130.ece/ALTERNATES/n615/2_GettyImages-166825047.jpg",
+    "image": null,
     "date": null,
     "source": "mirror",
     "body": [
@@ -84,7 +112,7 @@
       "Amorim"
     ],
     "link": "https://www.mirror.co.uk/sport/football/news/amorim-manchester-united-tour-squad-35598299",
-    "image": null,
+    "image": "https://i2-prod.mirror.co.uk/incoming/article35587018.ece/ALTERNATES/n615/2_GettyImages-2225972345.jpg",
     "date": null,
     "source": "mirror",
     "body": [
@@ -267,7 +295,7 @@
       "Rashford"
     ],
     "link": "https://www.mirror.co.uk/sport/football/transfer-news/marcus-rashford-man-utd-barcelona-35594928",
-    "image": "https://i2-prod.mirror.co.uk/incoming/article35539093.ece/ALTERNATES/n615/1_FBL-EUR-C3-MAN-UTD-PAOK.jpg",
+    "image": null,
     "date": null,
     "source": "mirror",
     "body": [
@@ -290,7 +318,7 @@
       "Man Utd"
     ],
     "link": "https://www.mirror.co.uk/sport/football/transfer-news/manchester-united-transfers-gyokeres-ekitike-35594854",
-    "image": null,
+    "image": "https://i2-prod.mirror.co.uk/incoming/article35592571.ece/ALTERNATES/n615/0_Manchester-United-v-Leeds-United-Pre-Season-Friendly.jpg",
     "date": null,
     "source": "mirror",
     "body": [
@@ -308,13 +336,13 @@
     ]
   },
   {
-    "headline": "Viktor Gyokeres' agent 'upset' with Manchester United boss Ruben Amorim over transfer",
+    "headline": "Viktor Gyokeres' agent 'upset' with Manchester United boss Ruben Amorim over transferVIDEO",
     "tags": [
       "Man Utd",
       "Amorim"
     ],
     "link": "https://www.mirror.co.uk/sport/football/news/viktor-gyokeres-man-utd-amorim-35595086",
-    "image": "https://i2-prod.mirror.co.uk/sport/football/news/article35595085.ece/ALTERNATES/n615/0_Boavista-FC-v-Sporting-Clube-de-Portugal-Liga-Portugal-Betclic.jpg",
+    "image": null,
     "date": null,
     "source": "mirror",
     "body": [
@@ -377,7 +405,7 @@
       "Rashford"
     ],
     "link": "https://www.mirror.co.uk/sport/football/transfer-news/marcus-rashford-barcelona-transfer-latest-35594410",
-    "image": null,
+    "image": "https://i2-prod.mirror.co.uk/incoming/article35587476.ece/ALTERNATES/n615/0_GettyImages-2204762529.jpg",
     "date": null,
     "source": "mirror",
     "body": [
@@ -420,7 +448,7 @@
       "Man Utd"
     ],
     "link": "https://www.mirror.co.uk/sport/football/news/mbeumo-manchester-united-transfer-wissa-35594289",
-    "image": "https://i2-prod.mirror.co.uk/incoming/article35578948.ece/ALTERNATES/n615/1_Wolverhampton-Wanderers-FC-v-Brentford-FC-Premier-League.jpg",
+    "image": null,
     "date": null,
     "source": "mirror",
     "body": [
@@ -452,28 +480,6 @@
       "After the match the player said: \"Up until the final I played every round helping the team, and today I play 20 minutes, I don't know. The final will influence [my decision] but the whole season, the situation of the club. I'm going to try to enjoy the summer and see what happens afterwards.\"",
       "Garnacho isn't the only player United will be prepared to lose millions on. Marcus Rashford is heading to Barcelona on loan with the Spanish club having the option to buy next summer. They can do so for £26m, despite the Red Devils telling Aston Villa just months ago the price was £40m.",
       "Jadon Sancho was signed back in 2021 from Borussia Dortmund for just over £70m. He's since had two loan spells away and the Red Devils will let him leave permanently for £15m. Antony joined United for £86m in 2022, but his value has also plummeted, with interested clubs now being quoted around £30m to sign him."
-    ]
-  },
-  {
-    "headline": "Man Utd fail with remarkable transfer offer for Aston Villa goalkeeper Emi Martinez",
-    "tags": [
-      "Man Utd",
-      "Martinez"
-    ],
-    "link": "https://www.mirror.co.uk/sport/football/transfer-news/man-utd-transfers-emi-martinez-35594237",
-    "image": null,
-    "date": null,
-    "source": "mirror",
-    "body": [
-      "Manchester United have seen a loan move for Emi Martinez quickly rejected by Aston Villa as the Red Devils look to address their goalkeeping problems.",
-      "Ruben Amorim has been linked with a move for the Argentina No.1, who helped his country win the World Cup on penalties three years ago, but his hopes of securing him on a temporary basis have been swotted away by those at Villa Park.",
-      "Martinez cut an emotional figure on his final home game last season, which saw many draw conclusions that he was set for pastures new. The ex- Arsenal goalkeeper has rejected the chance to move to Saudi Arabia this summer with Villa valuing him at £40million.",
-      "The Daily Mail reports that over the weekend discussions were held and the Manchester outfit put the idea of landing Martinez on loan to the Midlands outfit, who quickly made it clear that would not be happening.",
-      "The Villa goalkeeper's last outing ironically saw him sent-off at Old Trafford on the final day of the season. United were able to secure a 2-0 victory which meant that Unai Emery's side missed out on the Champions League, instead settling for the Europa League.",
-      "After that defeat Emery was quizzed on Martinez's future potential exit and said: “I don’t know. He has a contract with us. We are very happy and we will see how the summer goes.” Pressed on if there have been discussions over Martinez leaving, Emery added: “I don’t know. You can ask him.”",
-      "Doubts remain over Andre Onana, who is heading into his third season in Manchester, but he will miss pre-season with a hamstring injury and is in a race against time to be fit for the Premier League opener due to a torn hamstring. Amorim's side begin their season at home to Arsenal on August 17.",
-      "The Red Devils have been linked with Royal Antwerp goalkeeper Senne Lammens. The Belgian club have slapped a £17m price tag on the Belgian star amid interest from the Premier League giants. On Monday they finally announced the signing of Bryan Mbeumo after weeks on negotiating with Brentford.",
-      "He becomes the club's second summer signing, joining Matheus Cunha who headed to Manchester from Wolves. Mbeumo has cost United £71m, once add-ons are included, which makes him the most expensive player to ever leave the Bees as they maximised their profits."
     ]
   },
   {
@@ -690,6 +696,33 @@
     ]
   },
   {
+    "headline": "Manchester United's strongest starting XI after Bryan Mbeumo transfer",
+    "tags": [
+      "Man Utd"
+    ],
+    "link": "https://www.manchestereveningnews.co.uk/sport/football/football-news/manchester-uniteds-strongest-starting-xi-32114074",
+    "image": null,
+    "date": null,
+    "source": "manchestereveningnews",
+    "body": [
+      "Manchester United will step up their pre-season preparations when they face West Ham United in their opening game of the pre-season tour in New Jersey this weekend.",
+      "The squad flew out to the United States on Tuesday and are now busy preparing for their second pre-season friendly of the summer. The tour of the US will see them play three matches, all against Premier League opposition in West Ham, Bournemouth and Everton.",
+      "New signing Bryan Mbeumo will be under the spotlight at the MetLife Stadium this weekend after finalising his move to United from Brentford on Monday. He has joined the club on a five-year contract in a deal that could be worth up to £71million.",
+      "Head coach Ruben Amorim has taken 32 players to the US. So what could the starting XI look like against the Hammers this weekend? Amorim's squad features a blend of youth and experience, meaning he will have the opportunity to mix things up throughout the tour.",
+      "Goalkeeper Andre Onana is unlikely to feature because of a hamstring injury, meaning Altay Bayindir and Tom Heaton will be eyeing a starting berth.",
+      "Heaton was introduced at half-time in last Saturday's 0-0 draw with Leeds United in Stockholm and made a handful of important saves in the second half, the best of which denied Largie Ramazani. Bayindir, meanwhile, looked jittery every time the ball went into his 18-yard box.",
+      "After being introduced at the break for the second half at the Strawberry Arena, Leny Yoro and Ayden Heaven will be eyeing starts in New Jersey. They flanked Harry Maguire in the two wide centre-backs spots against Leeds.",
+      "Maguire did not travel with his teammates to the US on Tuesday for personal reasons but has confirmed he will meet up with the squad on Wednesday. Either Maguire or Matthijs de Ligt will start in the middle of the back three and the latter could be given the nod.",
+      "What Amorim will determine as Mbeumo's best position in his 3-4-2-1 system remains to be seen. Arriving as a natural winger, he will be capable of operating at either right-wing or as the right-sided No.10.",
+      "If Amorim views Mbeumo as a player that will continue to operate out wide, he should start at right wing-back, offering the United supporters a first chance to catch a glimpse of the club's latest recruit. Patrick Dorgu, who started on the bench against Leeds, will be eyeing his first start of pre-season.",
+      "Bruno Fernandes started in midfield against Leeds, partnering Casemiro, suggesting that will be his permanent position this season. Kobbie Mainoo was bright after coming on at half-time and will be itching to start against the Hammers.",
+      "If Mbeumo is deployed from the start on the flank, Amad is a logical starter as the right-sided No.10. He started at wing-back in Stockholm but was instructed to trade places with Collyer midway through the half.",
+      "Matheus Cunha is a likely starter in the other No.10 spot after storing 45 minutes under his belt last weekend. He will be hoping to bag another start and increase his minutes.",
+      "United are yet to solve their search for a striker, meaning Rasmus Hojlund and Chido Obi are competing for the No.9 spot. The former will be hoping to start and play alongside Cunha for the first time.",
+      "United's strongest XI vs West Ham: Heaton; Yoro, De Ligt, Heaven; Mbeumo, Mainoo, Fernandes, Dorgu; Amad, Cunha; Hojlund."
+    ]
+  },
+  {
     "headline": "Nicolas Jackson Man United transfer 'stance' emerges as major Jadon Sancho update issued",
     "tags": [],
     "link": "https://www.manchestereveningnews.co.uk/sport/football/transfer-news/nicolas-jackson-man-united-transfer-32114939",
@@ -831,29 +864,6 @@
       "\"As I said, the spirit is really important. Yes, creating a group and being involved as soon as possible for me, it's something really important.\"",
       "United have prioritised attacking signings this summer after finishing last season's Premier League campaign with a negative goal difference. By recruiting Cunha and Mbeumo, they have added two players who netted 35 league goals last term. And Mbeumo is confident Cunha will make his mark at Old Trafford.",
       "\"Obviously, I watched him play a lot with Wolves,\" Mbeumo said of his new teammate. \"I know he's a very good player and I'm sure he's going to bring something new in the team.\""
-    ]
-  },
-  {
-    "headline": "Benjamin Sesko to Man United transfer latest - Viktor Gyokeres impact, striker shortlist",
-    "tags": [],
-    "link": "https://www.manchestereveningnews.co.uk/sport/football/transfer-news/benjamin-sesko-man-united-transfer-32113532",
-    "image": null,
-    "date": null,
-    "source": "manchestereveningnews",
-    "body": [
-      "The summer transfer window is gathering pace as teams look to strengthen their squads ahead of the new Premier League season.",
-      "Manchester United are one of the teams being active in the window. On Monday they confirmed the signing of Bryan Mbeumo from Brentford.",
-      "The forward has signed a five-year contract at Old Trafford, with the option of an additional year. The transfer will see United pay an initial fee of £65 million plus £6 million in add-ons.",
-      "He became the third new signing of the summer transfer window, following the captures of Matheus Cunha and Diego Leon.",
-      "Concentration for United will now concentrate on bringing an out-and-out striker to the club. One name to be linked is RB Leipzig’s Benjamin Sesko.",
-      "Here is a look at the latest surrounding a potential move for the Slovenian international before the end of the window.",
-      "One name who was linked with United this summer is Sporting CP striker Viktor Gyokeres. Head coach Ruben Amorim was said to be keen on a reunion with his former player.",
-      "However, the Sweden international is now closing in on a move to Arsenal with the Gunners reaching an agreement with the Portuguese club.",
-      "Earlier in the summer, Arsenal appeared to be prioritising a move for Sesko over Gyokeres, having entered talks with RB Leipzig. However, the U-turn now leaves Sesko available for United to make their move.",
-      "Journalist Ben Jacobs has reported that Sesko is ‘back on United’s radar’ as they search for a new striker in the current summer transfer window.",
-      "The forward has been watched for several years by United scouts. The club made an approach 12 months ago but was turned down by the player who opted to stay with Leipzig.",
-      "Jacobs adds that Sesko is on a shortlist of several striker targets with a centre-forward now the priority following the capture of Mbeumo. Two other names included on the list are reported to be Chelsea’s Nicolas Jackson and Aston Villa’s Ollie Watkins.",
-      "United are now expected to work through the list and identify their preferred targets."
     ]
   },
   {
