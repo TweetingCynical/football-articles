@@ -1,9 +1,72 @@
 [
   {
+    "headline": "Price of pies and pints at Premier League games rocket for punters",
+    "tags": [
+      "Premier League"
+    ],
+    "link": "https://www.mirror.co.uk/news/uk-news/price-pies-pints-premier-league-35777830",
+    "image": null,
+    "date": null,
+    "source": "mirror",
+    "body": [
+      "Footy fans face another kicking this season as some avid football enthusiasts will be charged a whopping £7.50 per pint.",
+      "A survey of the latest costs for a pie and a pint in the Premier League has seen clubs accused of ‘pushing fan loyalty’ with the latest prices. Fulham fans will be left with light wallets if they want a a pint during a match as their team tops the Premier League price table.",
+      "Supporters of the West London club will now pay an eye-watering £7.50 for a pint of lager at Craven Cottage, which is up 4% on last year’s price of £7.20. London rivals Arsenal are runners-up in the lager league - as they have been in the Premier League for the past three seasons - charging £7.20 for a pint of Asahi.",
+      "Man Utd have increased pint prices the most, after an eye-watering 51% increase this season. Prices at Old Trafford will be £5.75 for a pint of Madri, a rise of £1.95. Arsenal have topped the table for most expensive pie. Fans will pay £8.85 for a ‘pie on its own with gravy,’ the most expensive in the Premier League, compared to £6.75 last season, a whopping 24% price hike.",
+      "Fulham is also home to the league’s second-most expensive pastry, despite dropping the price of a steak and ale pie by 50p to £6.50 - down 7%. The largest pie increases are at Everton’s new Hill Dickinson Stadium, where prices have shot up 54% compared to prices at Goodison Park.",
+      "Fans will have to fork out £6 for a pie in their new home - compared to £3.90 last season. Consumer expert Scott Dixon, said: ”Premier League clubs are pricing out the next generation of fans. Hiking lager and pie prices by 50% during a cost-of-living crisis is tone-deaf and indefensible.",
+      "“These mark-ups are less about necessity and more about blatant greed. This isn’t about inflation. It’s about clubs testing how far they can push fan loyalty. It’s time for clubs to reward loyalty and stop seeing their fans as cash cows to rip off at every opportunity.”",
+      "Premier League clubs point out that they offer early bird discounts and bundle offers on food and drinks. Last season, Fulham had pre-game and post-game offers for every match. For this Sunday’s game against manchester-united-fc>Manchester United, the club are set to offer fans pints for £5 before and after the game.",
+      "Manchester United said previous cheaper prices were part of a two-season-long discounted beer trial and that some new prices are still cheaper than they were three years ago. Everton’s pie price hikes follow a change of caterer at their new stadium.",
+      "Chelsea and West Ham fans are already celebrating as their teams are the only ones to see lager prices drop. The cheapest pint on offer comes at the home of champions Liverpool. A pint at Anfield now costs £4.50. The least expensive pie is also at Anfield, with Liverpool charging their fans £4. Fulham and Manchester City are the only clubs to drop pie prices.",
+      "Fulham - £7.50 (+30p) (+4%)",
+      "Arsenal - £7.20 (+20p) (+3%)",
+      "Chelsea - £6.85 (-15p) (-2%)",
+      "Aston Villa - £6.50 (+20p) (+3%)",
+      "West Ham - £6.45 (-5p) (-1%)",
+      "Burnley - £6.10 (-)",
+      "Man City - £6.10 (+10p) (+2%)",
+      "Brentford - £6 (+25p) (+4%)",
+      "Forest - £6 (+10p) (+2%)",
+      "Everton - £5.95 (+£1.40) (+31%)",
+      "Man Utd - £5.75 (+£1.95) (+51%)",
+      "Brighton - £5.70 (+20p) (+4%)",
+      "Palace - £5.70 (+20p) (+4%)",
+      "Newcastle - £5.55 (+30p) (+6%)",
+      "Bournemouth - £5.50 (-)",
+      "Leeds - £5.50 (+50p) (+10%)",
+      "Spurs - £5.50 (-)",
+      "Wolves - £5 (-)",
+      "Sunderland - £4.95 (+15p) (+3%)",
+      "Liverpool - £4.50 (+90p) (+25%)",
+      "Arsenal - £8.85 (+£2.10) (+24%)",
+      "Fulham - £6.50 (-50p) (-7%)",
+      "Chelsea - £6.25 (-)",
+      "Bournemouth - £6 (+50p) (+9%)",
+      "Everton - £6 (+£2.10) (+54%)",
+      "Spurs - £6 (+75p) (+14%)",
+      "Newcastle£5.80 (+30p) (+5%)",
+      "West Ham - £5.80 (+25p) (+4%)",
+      "Brighton - £5.70 (+20p) (+4%)",
+      "Aston Villa - £5.60 (+35p) (+7%)",
+      "Forest - £5.20 (+20p) (+4%)",
+      "Sunderland - £5.20 (+25p) (+5%)",
+      "Brentford - £5.10 (-)",
+      "Palace - £5.10 (+15p) (+3%)",
+      "Burnley - £5 (+40p) (+9%)",
+      "Man City - £5 (-25p) (-5%)",
+      "Leeds - £4.95 (-)",
+      "Man Utd£ - 4.90 (+10p) (+2%)",
+      "Wolves - £4.75 (+25p) (+6%)",
+      "Liverpool - £4 (+40p) (+11%)",
+      "At  Reach and across our entities  we and our partners use information collected through cookies and other identifiers from your device to improve experience on our site, analyse how it is used and to show personalised advertising. You can opt out of the saleor sharing of your data, at any time clicking the &quot;Do Not Sell or Share my Data&quot; button at the bottom of the webpage. Please note that your preferences are browser specific. Use of our website and any of our services represents your acceptance of the use of cookies and consent to the practices described in our Privacy Notice and Privacy Notice."
+    ]
+  },
+  {
     "headline": "Fulham vs Man United preview, team news and predicted lineup",
     "tags": [],
     "link": "https://www.mirror.co.uk/betting/football/fulham-man-united-team-news-35757700",
-    "image": null,
+    "image": "https://i2-prod.mirror.co.uk/sport/football/news/article35776633.ece/ALTERNATES/n615/1_Manchester-United-v-Arsenal-Premier-League.jpg",
     "date": null,
     "source": "mirror",
     "body": [
@@ -58,7 +121,7 @@
       "Man Utd"
     ],
     "link": "https://www.mirror.co.uk/sport/football/transfer-news/man-utd-transfer-breakthrough-fenerbahce-35777000",
-    "image": "https://i2-prod.mirror.co.uk/incoming/article35753882.ece/ALTERNATES/n615/1_GettyImages-2230629744.jpg",
+    "image": null,
     "date": null,
     "source": "mirror",
     "body": [
@@ -84,7 +147,7 @@
       "LIVE"
     ],
     "link": "https://www.mirror.co.uk/sport/football/news/premier-league-injury-suspensions-fpl-35774765",
-    "image": null,
+    "image": "https://i2-prod.mirror.co.uk/incoming/article35774742.ece/ALTERNATES/n615/1_Arsenal-FC-v-AFC-Bournemouth-Premier-League.jpg",
     "date": null,
     "source": "mirror",
     "body": [
@@ -310,7 +373,7 @@
       "Man Utd"
     ],
     "link": "https://www.mirror.co.uk/sport/football/transfer-news/manchester-united-hjulmand-baleba-arsenal-35771857",
-    "image": "https://i2-prod.mirror.co.uk/sport/article35649036.ece/ALTERNATES/n615/0_GettyImages-2198249204.jpg",
+    "image": null,
     "date": null,
     "source": "mirror",
     "body": [
@@ -336,7 +399,7 @@
       "Transfer News"
     ],
     "link": "https://www.mirror.co.uk/sport/football/transfer-news/arsenal-transfer-news-eberechi-eze-35769963",
-    "image": null,
+    "image": "https://i2-prod.mirror.co.uk/incoming/article35770291.ece/ALTERNATES/n615/0_GettyImages-2218937387.jpg",
     "date": null,
     "source": "mirror",
     "body": [
@@ -357,14 +420,14 @@
     ]
   },
   {
-    "headline": "Man Utd transfer news: Carlos Baleba clause emerges as Rasmus Hojlund suffers blow",
+    "headline": "Man Utd transfer news: Carlos Baleba clause emerges as Rasmus Hojlund suffers blowVIDEO",
     "tags": [
       "Man Utd",
       "Transfer News",
       "Hojlund"
     ],
     "link": "https://www.mirror.co.uk/sport/football/transfer-news/manchester-united-transfers-hojlund-baleba-35770094",
-    "image": "https://i2-prod.mirror.co.uk/incoming/article35767677.ece/ALTERNATES/n615/1_Manchester-United-v-Arsenal-Premier-League.jpg",
+    "image": null,
     "date": null,
     "source": "mirror",
     "body": [
@@ -442,7 +505,7 @@
       "Maguire"
     ],
     "link": "https://www.mirror.co.uk/sport/football/transfer-news/harry-maguire-man-utd-future-35772299",
-    "image": null,
+    "image": "https://i2-prod.mirror.co.uk/sport/football/news/article35712203.ece/ALTERNATES/n615/0_Manchester-United-v-Everton-FC-Premier-League-Summer-Series.jpg",
     "date": null,
     "source": "mirror",
     "body": [
@@ -492,7 +555,7 @@
       "Amorim"
     ],
     "link": "https://www.mirror.co.uk/sport/football/news/man-utd-wonderkid-jj-gabriel-35771663",
-    "image": "https://i2-prod.mirror.co.uk/incoming/article35771501.ece/ALTERNATES/n615/0_JJ-GABRIEL-1.jpg",
+    "image": null,
     "date": null,
     "source": "mirror",
     "body": [
@@ -534,32 +597,6 @@
       "\"I think that is the question, and this is just the ever-evolving kind of identity of a goalkeeper now is very different. I played with so many goalkeepers that could barely reach the halfway line. Couldn't pick anyone out really on a consistent basis.",
       "\"Some could kick it far, but couldn't really have the direction to pick people out. Nowadays, you've got to have like pinpoint accuracy, short and long, over varying distances to be able to understand how to play through the press. If it's two people, three people, or one player pressing, like what's going on behind that press?",
       "\"The goalkeepers now have got to see so much, they're part of the 11 now. It used to be 10 players and the keeper; it's very different now. So Donnarumma is living in a different world of goalkeepers, and I bet people like [Gianluigi] Buffon, Edwin van der Sar, [Peter] Schmeichel, the top goalkeepers of yesteryear are sitting there going, 'Wow, not in my day, that would have never have happened.'\"",
-      "Sky will show at least 215 live Premier League games next season, an increase of up to 100 more.",
-      "At  Reach and across our entities  we and our partners use information collected through cookies and other identifiers from your device to improve experience on our site, analyse how it is used and to show personalised advertising. You can opt out of the saleor sharing of your data, at any time clicking the &quot;Do Not Sell or Share my Data&quot; button at the bottom of the webpage. Please note that your preferences are browser specific. Use of our website and any of our services represents your acceptance of the use of cookies and consent to the practices described in our Privacy Notice and Privacy Notice."
-    ]
-  },
-  {
-    "headline": "Man Utd can make 'unbelievable' signing but face major issue as transfer talks begin",
-    "tags": [
-      "Man Utd"
-    ],
-    "link": "https://www.mirror.co.uk/sport/football/transfer-news/man-utd-goalkeeper-donnarumma-city-35770015",
-    "image": null,
-    "date": null,
-    "source": "mirror",
-    "body": [
-      "Michael Owen believes Manchester United should be pulling out all the stops to sign Gianluigi Donnarumma. The Italian goalkeeper has impressed with Paris Saint-Germain over the last four years, but it appears as though his stint in the French capital is drawing to a close.",
-      "Donnarumma has entered the final year of his contract at the Parc des Princes and is on the hunt for a new club after Les Parisiens enlisted the help of Lucas Chevalier and deemed him surplus to requirements. Ruben Amorim has had a largely successful maiden summer transfer window with the Red Devils, bringing in the likes of Matheus Cunha, Bryan Mbeumo and Benjamin Sesko.",
-      "\"I mean, he is unbelievable. He's literally one of, if not the best goalkeeper in the world. I mean, he would be the obvious one, but whether they can get him or not is another matter.\"",
-      "At present, United have been forced to deploy Altay Bayindir between the sticks as a result of first-choice keeper, Andre Onana, recovering from injury and lacking match sharpness. However, many fans will believe that the club need to replace Onana permanently if they hope to improve on last season's dismal 15th-place Premier League finish.",
-      "The Cameroonian has failed to live up to his £47.2million price tag since arriving at Old Trafford from Inter Milan two years ago, and has been lambasted for making a number of high-profile mistakes. While Donnarumma is a viable option at present, given that PSG are reportedly only asking for £40m for the 26-year-old, United will face stiff competition in getting a deal over the line.",
-      "Local rivals Manchester City are currently at risk of losing Ederson to Galatasaray, and despite snapping up James Trafford in a £27m move earlier this summer, the youngster may need a little more time to develop before he is a solidified starter.",
-      "As a result, the Cityzens are said to be interested in bringing Donnarumma to the Etihad Stadium ahead of deadline day, and talks are said to have commenced with the European champions. However, a reluctance to pay PSG's asking price could leave the door open to a hijacking of the keeper by their neighbours.",
-      "With a quartet of Ligue 1 titles, five domestic cups and a Champions League to his name in the French capital, Donnarumma would likely walk straight into the starting XI under Pep Guardiola or Amorim. He also conceded just 25 goals in the league last season and kept five clean sheets.",
-      "However, Owen has also highlighted other areas in which United would be wise to focus on improving should they have any hopes of working their way back to dominance in the Premier League. He added: \"Well, I mean, there are areas where they could strengthen.",
-      "\"If they want to go and be a top team again and challenge for the league, then there's loads of areas. But just to get back into that sort of European places, then they've probably got a strong enough squad.",
-      "\"The goalkeeper looks quite an obvious one that they might need to change at some point. They've not done much surgery to their team apart from right up at the top of the field. So, you know, they've got one or two ageing players in midfield that are going to need changing in time.",
-      "\"They've got a lot of defenders at the moment, whether they've got many great ones is a question mark. But I think over time they're going to need to change a fair few players, but just to get them back up in fifth, sixth place type of thing this season, I think they've got more than enough to do that.\"",
       "Sky will show at least 215 live Premier League games next season, an increase of up to 100 more.",
       "At  Reach and across our entities  we and our partners use information collected through cookies and other identifiers from your device to improve experience on our site, analyse how it is used and to show personalised advertising. You can opt out of the saleor sharing of your data, at any time clicking the &quot;Do Not Sell or Share my Data&quot; button at the bottom of the webpage. Please note that your preferences are browser specific. Use of our website and any of our services represents your acceptance of the use of cookies and consent to the practices described in our Privacy Notice and Privacy Notice."
     ]
@@ -746,7 +783,7 @@
     ],
     "link": "https://www.manchestereveningnews.co.uk/sport/football/transfer-news/man-utd-transfer-news-live-32293451",
     "image": null,
-    "date": "2025-08-22 17:16:00",
+    "date": "2025-08-22 18:01:00",
     "source": "manchestereveningnews",
     "body": [
       "Hello and welcome to our live Manchester United coverage on Friday, August 22.",
@@ -754,6 +791,11 @@
       "That match at Old Trafford saw new signings Matheus Cunha, Bryan Mbeumo and Benjamin Sesko all make their debuts for the club. While action on the pitch may have started, there is still work going on behind the scenes in the final days of the transfer window.",
       "United continue to be linked with possible incomings. With the club seemingly moving on from Brighton's Carlos Baleba, a midfield signing seems to be the priority with several names linked.",
       "Meanwhile, outgoings remain a key focus. Alejandro Garnacho, Rasmus Højlund, Antony, Jadon Sancho, and Tyrell Malacia are all expected to leave the club before the window closes.",
+      "Following the news that Fenerbahce had agree to pay £38.9m for Antony, reports in Brazil have claimed that the winger is stalling over a move to join the Turkish giants.",
+      "ESPN Brasil have reported that the 25-year-old is unconvinced over joining Jose Mourinho's side and is holding out for another team, likely to be Real Betis.",
+      "Manchester United have not entirely ruled out signing a new goalkeeper but are not planning for a headline number one to come in before the transfer deadline.",
+      "Onana is under consideration to come back into the side against Fulham on Sunday, which well-placed sources suggested would \"kill\" Bayindir's confidence. United explored the possibility of signing Emiliano Martinez on loan from Aston Villa but have scoffed at suggestions that they could make a move for Paris Saint-Germain outcast Gianluigi Donnarumma.",
+      "The MEN reported in June that Onana was expected to stay.",
       "Ruben Amorim has confirmed that Andre Onana is ready to play for Man United this weekend against Fulham.",
       "However, the United boss has not revealed who will play as his number one. Altay Bayindir started the last game but came under scrutiny after his role in Arsenal's winner.",
       "A decision over Rasmus Hojlund's future is expected to take a few more days, according to Sky Germany's Florian Plettenberg.",
@@ -865,15 +907,7 @@
       "Former Manchester United defender Brandon Williams has opened up on a 'difficult' period in his life after signing for Hull City on a free transfer.",
       "Williams came through the United youth set-up and made 51 appearances for the first team. The former England under-21 international spent loan spells away from Old Trafford with Norwich City and Ipswich Town but his career was turned upside down two years ago.",
       "Williams was involved in a high-speed car crash. Thankfully there were no fatalities or serious injuries caused by the incident.",
-      "Read more here",
-      "Parma goalkeeper Zion Suzuki has opened up on his future after transfer links with Manchester United. Previous reports from talkSPORT claimed that the Reds were stepping up their scouting of the £40million valued keeper.",
-      "The Japanese international shone for a side battling relegation in Italy's Serie A last season. The 22-year-old made 37 appearances across all competitions for Parma and played a key role in their survival campaign.",
-      "United agreed a fee with Urawa Red Diamonds to sign Suzuki on a permanent transfer in the summer of 2023. However, he rejected the move and joined Belgian side Sint-Truiden on loan.",
-      "Read more here",
-      "Manchester United's hopes of strengthening further in the summer transfer window are being severely restricted by a lack of sales at Old Trafford.",
-      "United have yet to sell any of their wantaway stars this summer, with Marcus Rashford the most notable departure - leaving on loan to join Barcelona. Rashford's exit to the Catalan capital is thought to save United around £12million in wages, but it's sales that will move the dial with PSRs (Profit and Sustainability Rules).",
-      "United's performance in defeat to Arsenal on Sunday was encouraging. Ruben Amorim's side looked a much more cohesive unit, despite beginning a crucial campaign with another loss.",
-      "Read the full piece here"
+      "Read more here"
     ]
   },
   {
@@ -1243,13 +1277,44 @@
     ]
   },
   {
+    "headline": "Romano reveals fifth summer signing ‘says yes’ to Man Utd as Red Devils star ‘offered’ to Bayern",
+    "tags": [
+      "Man Utd"
+    ],
+    "link": "https://www.football365.com/news/man-utd-transfers-romano-fifth-signing-says-yes-offered-bayern",
+    "image": "https://images.ps-aws.com/c?url=https%3A%2F%2Fd2x51gyc4ptf2q.cloudfront.net%2Fcontent%2Fuploads%2F2025%2F07%2F14110045%2FF365-Fabrizio-Romano-with-Man-UTd-badge-1-2-1320x742.jpg",
+    "date": "2025-08-22 16:22:31",
+    "source": "football365",
+    "body": [
+      "Manchester United star Rasmus Hojlund has been ‘offered’ to Bayern Munich as Fabrizio Romano reveals a top Red Devils target has ‘said yes’ to the move to Old Trafford.",
+      "Matheus Cunha, Bryan Mbeumo and Benjamin Sesko have all been signed this summer to provide Ruben Amorim with a new front three, while left-back Diego Leon has also joined the club.",
+      "Outgoings are now key for United and while they struggle to find solutions for bomb-squad members Antony, Jadon Sancho and Alejandro Garnacho, they’re also looking for an option for Rasmus Hojlund, who was left out of the squad for the opening day defeat to Arsenal and has been warned he faces limited game time this season if he remains at the club.",
+      "Earlier this week, Romano revealed Hojlund’s preference amid interest in his services.",
+      "He wrote on X: “Rasmus Højlund and his camp have made clear to Napoli, RB Leipzig, AC Milan and all clubs interested that he prefers loan with obligation to buy.",
+      "“Højlund always wanted to stay at Man United…but if he has to leave, he wants the move to be guaranteed to feel total confidence.”",
+      "A report on Friday claimed Napoli have made Hojlund a ‘priority’ target following Romelu Lukaku’s injury and are open to a loan with a €40-€45 million obligation to buy.",
+      "But in what is apparently a ‘frantic search’ for loan additions, there are ‘reservations’ over Hojlund. His inability to score goals, perhaps?",
+      "On possible incomings, after Romano said on Friday morning that United were close to an agreement with Royal Antwerp star Senne Lammens on personal terms, he’s now revealed that the goalkeeper has ‘said yes’ to the Red Devils.",
+      "He wrote on X: ‘More on Senne Lammens and Man United story revealed today. Talks are well underway with Royal Antwerp on transfer fee close to €20m, negotiations advancing. Lammens said yes to Man United, no talks with Man City as their target is Gigio Donnarumma… if Éderson leaves.’",
+      "The 23-year-old goalkeeper is viewed by many as the long-term replacement for Thibaut Courtois in the Belgium national team and could solve Amorim’s goalkeeping problem.",
+      "The manager played his cards close to his chest when asked about a new goalkeeper in his press conference on Friday.",
+      "“It’s not an idea that these guys are going to leave, to play in a different club, and then we’ll receive another player,” Amorim said. “We don’t know what is going to happen, but we’re not waiting to take out someone to get another.”",
+      "Ruben Amorim kept coy on a new Man Utd’s hunt for a new goalkeeper but warned the club’s bomb squad it’s on them to secure exits.",
+      "Rasmus Hojlund is reportedly closing in on a return to Serie A, while Manchester United are stepping up efforts to make their next signing.",
+      "Fabrizio Romano has revealed Andre Onana’s “feeling” on being left out of Manchester United’s squad to face Arsenal on Sunday afternoon.",
+      "Transfer expert Fabrizio Romano has revealed the third player that Man Utd want to sign as well as Benjamin Sesko and Carlos Baleba this summer.",
+      "Manchester United are reportedly ‘ready to step up’ their interest in a Belgian goalkeeper amid concern over an injury to No.1 Andre Onana.",
+      "Man Utd and Leeds are chasing a new number one as their long-running rivalry spills into a transfer battle over a top-performing European keeper."
+    ]
+  },
+  {
     "headline": "Man Utd: Amorim coy on incoming goalkeeper as bomb squad sent fresh warning",
     "tags": [
       "Man Utd",
       "Amorim"
     ],
     "link": "https://www.football365.com/news/man-utd-amorim-coy-incoming-goalkeeper-as-bomb-squad-sent-fresh-warning",
-    "image": "https://images.ps-aws.com/c?url=https%3A%2F%2Fd2x51gyc4ptf2q.cloudfront.net%2Fcontent%2Fuploads%2F2025%2F08%2F08085807%2FRuben-Amorim-Man-Utd-F365-54-1320x742.jpg",
+    "image": "https://images.ps-aws.com/c?url=https%3A%2F%2Fd2x51gyc4ptf2q.cloudfront.net%2Fcontent%2Fuploads%2F2025%2F08%2F08085807%2FRuben-Amorim-Man-Utd-F365-54-638x358.jpg",
     "date": "2025-08-22 15:53:38",
     "source": "football365",
     "body": [
@@ -1265,12 +1330,12 @@
       "“When the window is closed, it’s a different history. When the window is closed, we have to receive the players and in a new life, anything can happen.”",
       "The Portuguese coach also offered a brief team news update ahead of the weekend. “Onana is ready to play like last week, so we will see in the game who is going to be the goalkeeper. Licha is out, Nous is out. The rest of the guys are fit.”",
       "With the transfer deadline looming, United’s rebuild shows no sign of slowing. Amorim might not be saying it directly, but the arrival of a fifth summer signing appears to be edging closer.",
+      "A Man Utd star has been ‘offered’ to Bayern Munich as Romano reveals a top Red Devils target has ‘said yes’ to the move to Old Trafford.",
       "Rasmus Hojlund is reportedly closing in on a return to Serie A, while Manchester United are stepping up efforts to make their next signing.",
       "Manchester United are ‘accelerating’ to secure a £35m midfielder after Ruben Amorim ‘failed to convince’ the Red Devils board to sign an Aston Villa star.",
       "According to reports, Ruben Amorim “could not convince” Manchester United to “spend on a good goalkeeper” after the head coach requested a preferred target.",
       "Fabrizio Romano has revealed Andre Onana’s “feeling” on being left out of Manchester United’s squad to face Arsenal on Sunday afternoon.",
-      "Ruben Amorim is already in a battle to keep his job at Manchester United; they cannot finish outside the top six.",
-      "Ruben Amorim has had his first rant of the season after a reporter suggested Tom Heaton would have been a better choice between the sticks."
+      "Ruben Amorim is already in a battle to keep his job at Manchester United; they cannot finish outside the top six."
     ]
   },
   {
@@ -1459,7 +1524,7 @@
       "Premier League"
     ],
     "link": "https://www.football365.com/news/every-premier-league-transfer-release-completed-summer-2025",
-    "image": "https://images.ps-aws.com/c?url=https%3A%2F%2Fd2x51gyc4ptf2q.cloudfront.net%2Fcontent%2Fuploads%2F2025%2F08%2F12170348%2FCompleted-transfers-F365-1-638x358.jpg",
+    "image": "https://www.football365.com/content/themes/f365-sportsui/img/png/placeholder.png",
     "date": "2025-08-22 11:20:30",
     "source": "football365",
     "body": [
@@ -1665,12 +1730,12 @@
       "Romano claimed: “Understand Manchester United are still working on deal to sign Senne Lammens, talks underway.",
       "“Personal terms are almost agreed and Man United are in active talks for the Belgian goalkeeper.",
       "“#MUFC try to anticipate more clubs from France and Italy, also based on exits.”",
+      "A Man Utd star has been ‘offered’ to Bayern Munich as Romano reveals a top Red Devils target has ‘said yes’ to the move to Old Trafford.",
       "Ruben Amorim kept coy on a new Man Utd’s hunt for a new goalkeeper but warned the club’s bomb squad it’s on them to secure exits.",
       "Forced to watch from the stands at the weekend, Rasmus Hojlund has come around to the idea of leaving Manchester United this summer.",
       "Romano has revealed Napoli have made ‘direct contact’ with Man Utd following the injury to Lukaku as a Serie A double deal is on the cards.",
       "Fabrizio Romano has revealed Andre Onana’s “feeling” on being left out of Manchester United’s squad to face Arsenal on Sunday afternoon.",
-      "According to reports, Rasmus Hojlund is ‘close’ to leaving Manchester United, while Fabrizio Romano has revealed a significant update on Jadon Sancho.",
-      "Manchester United head coach Ruben Amorim has reportedly ‘sent a clear message’ to one current player ahead of Sunday’s match against Arsenal."
+      "According to reports, Rasmus Hojlund is ‘close’ to leaving Manchester United, while Fabrizio Romano has revealed a significant update on Jadon Sancho."
     ]
   },
   {
@@ -2566,52 +2631,38 @@
     ]
   },
   {
-    "headline": "Rasmus Hojlund sets Man Utd exit terms as Serie A club ‘intensifying’ pursuit",
+    "headline": "Man Utd in talks to sign goalkeeper Lammens",
     "tags": [
-      "Man Utd",
-      "Hojlund"
+      "Man Utd"
     ],
-    "link": "https://www.football365.com/news/rasmus-hojlund-sets-man-utd-exit-terms-as-serie-a-club-intensifying-pursuit",
-    "image": "https://www.football365.com/content/themes/f365-sportsui/img/png/placeholder.png",
-    "date": "2025-08-21 08:14:07",
-    "source": "football365",
+    "link": "https://www.skysports.com/football/news/11667/13416240/senne-lammens-transfer-news-man-utd-in-talks-to-sign-royal-antwerp-goalkeeper-in-deal-worth-17-3m",
+    "image": "https://e0.365dm.com/25/08/768x432/skysports-senne-lammens-manchester-united_6997869.jpg?20250822172629",
+    "date": null,
+    "source": "skysports",
     "body": [
-      "Rasmus Hojlund has opened the door to a Manchester United exit but told any potential suitor that a deal must have an obligation to buy.",
-      "The arrival of Benjamin Sesko looks to have been the final nail in the Dane’s United career and despite an initial desire to stay, the 22-year-old has now come around to the idea of leaving Old Trafford.",
-      "That’s according to Fabrizio Romano who said that Napoli, RB Leipzig and Milan are interested in the striker.",
-      "‘Rasmus Hojlund and his camp have made clear to Napoli, RB Leipzig, AC Milan and all clubs interested that he prefers loan with obligation to buy,” Romano said on X.",
-      "‘Hojlund always wanted to stay at Man United…",
-      "‘…but if he has to leave, want move to be guaranteed to feel total confidence.’",
-      "MORE ON UNITED ON F365\n👉 Garnacho ‘Pr*ck Protection’ grants perfect transfer compromise for Man Utd and Chelsea\n👉 Man Utd fans told they have the next Darwin Nunez as stinging verdict of £74m signing dropped\n👉 Every Premier League transfer and release confirmed in the summer of 2025",
-      "Hojlund only arrived in Manchester two years ago for a fee of £64m but has often looked out of place in the Premier League. He scored just four league goals in 32 matches last season and has only scored 26 in all 95 of his games for the club.",
-      "As to who is winning the race for his signature, reigning Serie A champions Napoli are reported to be the front runners.",
-      "Italian journalist Gianluca Di Marzio said Antonio Conte’s side is ‘intensifying its contacts’ for the player and ‘after initial discussions, negotiations with Manchester United now appear to be in a more favourable phase for the Azzurri, who see a concrete opportunity to bring the Danish striker to Antonio Conte.’",
-      "However, the southern Italian club are reported to prefer a loan with an option to buy rather than Hojlund’s desired obligation.",
-      "Napoli also face competition from Serie A rivals Milan who submitted an offer of a £4.5m loan fee with an option to buy for £39m last week.",
-      "Hojlund was left out of the squad for United’s opening day defeat to Arsenal with manager Ruben Amorim saying he must “do what’s required” if he wants to be picked.",
-      "“At United, if you don’t do what’s required, a team-mate will take your place,” Amorim said. “I’ve made a lot of mistakes, but I’ve shown that if you deserve it, you play.”",
-      "“He has to fight for his place. We will see what’s going to happen in the market. Rasmus has the same characteristics as Ben, so sometimes we need to choose.”",
-      "READ NEXT: Eze for Havertz: Berta flukes ‘big’ summer but are giddy Arsenal *actually* worse off?",
-      "",
-      "Rasmus Hojlund is reportedly closing in on a return to Serie A, while Manchester United are stepping up efforts to make their next signing.",
-      "Romano has revealed Napoli have made ‘direct contact’ with Man Utd following the injury to Lukaku as a Serie A double deal is on the cards.",
-      "According to reports, Rasmus Hojlund is ‘close’ to leaving Manchester United, while Fabrizio Romano has revealed a significant update on Jadon Sancho.",
-      "Manchester United head coach Ruben Amorim has reportedly ‘sent a clear message’ to one current player ahead of Sunday’s match against Arsenal.",
-      "Premier League side Fulham are interested in signing Man Utd striker Rasmus Hojlund this summer as they look for a goalscorer, according to reports.",
-      "Transfer expert Fabrizio Romano has revealed an agreement is ‘closer’ between AC Milan and Man Utd for the transfer of Rasmus Hojlund this summer."
+      "Manchester United progressing in talks to sign Royal Antwerp goalkeeper Senne Lammens; clubs are discussing a deal worth in the region of £17.3m; Lammens would be signed as a long-term project, rather than as new number one; there have been no offers for Andre Onana or Altay Bayindir",
+      "Friday 22 August 2025 17:50, UK",
+      "Manchester United are making progress in talks with Royal Antwerp to sign goalkeeper Senne Lammens.",
+      "Lammens was signed two years ago from Club Brugge and any sale would represent nearly 100 per cent profit for the Belgian club.",
+      "The potential arrival of the 23-year-old - if it were to go through - is seen as a long-term strategy, rather than bringing in a new number one.",
+      "United head coach Ruben Amorim has publicly said he is happy with his goalkeeping department.",
+      "Furthermore, there have been no offers for either Andre Onana or Altay Bayindir.",
+      "United are always forward planning and know Onana could be with Cameroon for the Africa Cup of Nations in December and January.",
+      "Super 6 are starting the season by guaranteeing a £1,000,000 winner! Play for free."
     ]
   },
   {
-    "headline": "Man Utd latest: United in talks over signing goalkeeper",
+    "headline": "Man Utd latest: What would Lammens deal mean for Onana?",
     "tags": [
-      "Man Utd"
+      "Man Utd",
+      "Onana"
     ],
     "link": "https://www.skysports.com/football/live-blog/11667/13025492/man-utd-transfer-news-rumours-and-gossip-live-updates-and-latest-on-deals-signings-loans-and-contracts",
     "image": "https://e0.365dm.com/25/03/768x432/skysports-ruben-amorim-man-utd_6844390.jpg?20250302164812",
     "date": null,
     "source": "skysports",
     "body": [
-      "Friday 22 August 2025 17:11, UK"
+      "Friday 22 August 2025 17:50, UK"
     ]
   },
   {
@@ -3031,55 +3082,6 @@
       "\"Going forward, competing with Liverpool and Manchester City, they seem to want to go for that second or third goal, whereas Arsenal are thinking, 'Oh, we're 1-0 up, maybe we'll hold onto it'.",
       "\"That backfired on them last year when they had too many draws. That won't win you league titles and has to improve. Arsenal need to be clinical in their play and really go for that second or third goal.\"",
       "What matters most, of course, is that Arsenal left with the result they came for. History tells us Old Trafford is not the ground for a free-wheeling approach, even at the best of times. But finding the attacking fluency to match their defensive strength is key to their title hopes this season. It remains a work in progress.",
-      "Super 6 are starting the season by guaranteeing a £1,000,000 winner! Play for free."
-    ]
-  },
-  {
-    "headline": "Amorim defends Bayindir as Neville calls for Man Utd to get a new goalkeeper",
-    "tags": [
-      "Man Utd",
-      "Amorim"
-    ],
-    "link": "https://www.skysports.com/football/news/11095/13413820/gary-neville-says-man-utd-need-a-goalkeeper-but-would-emi-martinez-or-gianluigi-donnarumma-fit",
-    "image": "https://e0.365dm.com/25/08/768x432/skysports-man-utd-altay-bayindir_6994042.jpg?20250817201331",
-    "date": null,
-    "source": "skysports",
-    "body": [
-      "Man Utd were beaten 1-0 by Arsenal in their opening Premier League game of the season; an error from Altay Bayindir led to Riccardo Calafirori's goal; Andre Onana was not in the matchday squad; Gary Neville says Man Utd need a goalkeeper, with Emi Martinez and Gianluigi Donnarumma linked",
-      "Monday 18 August 2025 15:56, UK",
-      "The stopper replaced formerly regular first choice Andre Onana - who was not in the match squad - but failed to stop a Declan Rice cross that was then nodded home by Riccardo Calafiori.",
-      "Despite an improved attacking performance from Man Utd, they were unable to answer the 13th-minute strike, with Arsenal goalkeeper David Raya given the player of the match award by Neville.",
-      "The game highlighted the difference in quality of goalkeepers between the two sides, and the former Man Utd defender is adamant that Ruben Amorim must sign a new stopper.",
-      "On the Gary Neville Podcast, he said: \"There's a glaring issue that Man Utd cannot ignore and it is the fact they need to find a goalkeeper.",
-      "\"They have to. I'm unequivocal on that because I had an experience with Man Utd for 20 years where there were two big periods of seven or eight years with Peter Schmeichel and Edwin van der Sar.",
-      "\"In between, we had seven or eight goalkeepers in a six, seven, eight-year period and it is really unsettling when you haven't got a dominant No 1, who is dominant in the air, who owns his six-yard box, comes and punches everything and makes a lot of saves to win you points when your defenders make mistakes.",
-      "\"I don't know where they are on PSR, but they might have to magic up a bit more money in the next week or two, or do something on loan.",
-      "\"The two that have been mentioned in the last two weeks have been Emi Martinez and [Gianluigi] Donnarumma.",
-      "\"The reason I think they would be good goalkeepers for Man Utd is not necessarily because they are the best goalkeepers in Europe, but they are big personalities and characters.",
-      "\"You've seen Donnarumma in a European final save those penalties for Italy. He looked like a giant. He's played for PSG in huge games under pressure. Martinez has played in the World Cup final and won it for Argentina.",
-      "\"They have played under extreme pressure and they almost walk out with that arrogance and dominance of a goalkeeper - Man Utd need that.",
-      "\"There are a number of things Man Utd need this season and Amorim is getting to that point now where he thinks he's got a team that could do something.",
-      "\"However, they need to sort the goalkeeper because they concede goals and lose points, and it continually undermines what you are doing.",
-      "\"When the goalkeeper is flapping at the ball, those 72,000 home fans are groaning and that sends a shiver through the spines of defenders. It also sends a shiver through the goalkeeper and creates an anxiety around the stadium.",
-      "\"You've got to have personality, stability and character in that position, and Man Utd are going to have to deal with it in the next couple of weeks.\"",
-      "Man Utd boss Amorim also has veteran goalkeeper Tom Heaton at his disposal, but would not be drawn on whether he is looking to sign another stopper before the end of the transfer window.",
-      "\"We need to focus and forget about the noise. We're fighting for places and that's a good thing. It doesn't matter who is playing, we want to win games.\"",
-      "Reflecting on the goal, the coach defended Bayindir, adding: \"[It was] more or less the same thing that happened at times last season.",
-      "\"For me, it's not playing the ball, it's protecting the guys they're attacking. I understand that we want goals but when you're touching the goalkeeper in that way, I think it's hard. To lose with a goal like this is hard.",
-      "\"It's hard to be strong when you have to push and go for the ball. Sometimes you are pushing and you don't have more hands to go for the ball.",
-      "\"We need to be stronger in that moment, but we need to do the same thing in the opposite side. We have to adapt to the rules and today, it's hard to accept because we were the better team.\"",
-      "More from Man Utd boss Ruben Amorim on Arsenal's winning goal:\n\n\n“You’re allowed to do a lot of things in the corner, we need to do the same. When you touch that way the goalkeeper he needs to use his hands to catch the ball, not push players, or he chooses to push players and let the ball past.\n\n\n“It is the rules, it is allowed and we need to do the same thing. No (I’m not saying he should have acted differently), I am saying you choose to push a player or to get the ball. He chose to get the ball, but he’s getting pushed so he cannot defend it.\n\n\n“That is my feeling when I see the play but again, we need to do the same thing.”",
-      "Amorim continued his defence of Bayindir and his goalkeepers in his post-match press conference.",
-      "\"He suffered a goal like this where? Against Tottenham? It was without VAR. With VAR it was a foul,\" Amorim said.",
-      "\"Then in the next game against Arsenal, who saved the penalty? Who saved the game? You don't remember the game but I remember the game and Altay was unbelievable in that game. I considered everything to put in one or another and I chose Altay…",
-      "\"I am happy with the three goalkeepers.\"",
-      "\"But he's not strong enough. It's like schoolboy stuff. Don't look at the referee, take control of it.\"",
-      "Fellow pundit Richards, though, argued Bayindir should have been better protected by his defence, saying: \"If you look at the balance between Saliba and (Mason) Mount, he's getting ragdolled everywhere.",
-      "\"I just thought (Matthijs) De Ligt could have come inside and Mount could have gone outside. I agree with Roy, Bayindir should have done a lot better, but when you've got bodies in front of you…\"",
-      "That prompted Keane to interject, with the pair raising their voices to the apparent amusement of fellow pundit Daniel Sturridge.",
-      "\"The goalkeeper's on his heels, he should be on his toes. Saliba's doing very little to him,\" retorted Keane.",
-      "\"The job of that player in that role is to protect the goalkeeper so he can come and punch it,\" hit back Richards. \"There's a lot of chaos going on.\"",
-      "Keane had the final word, adding: \"This is big boy stuff. You can't babysit a goalkeeper. He should go and play chess.\"",
       "Super 6 are starting the season by guaranteeing a £1,000,000 winner! Play for free."
     ]
   }
