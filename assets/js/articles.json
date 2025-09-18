@@ -1,12 +1,39 @@
 [
   {
+    "headline": "Jose Mourinho officially returns to former club days after Ruben Amorim comments",
+    "tags": [
+      "Amorim",
+      "Mourinho"
+    ],
+    "link": "https://www.mirror.co.uk/sport/football/news/breaking-jose-mourinho-new-job-35923613",
+    "image": null,
+    "date": null,
+    "source": "mirror",
+    "body": [
+      "Jose Mourinho is the new Benfica manager, with his latest break from the game lasting less than a month. The former Chelsea, Manchester United and Real Madrid boss was sacked by Fenerbahce at the end of August after just over a year in charge.",
+      "His swift exit came two days after the Turkish club were eliminated from the Champions League play-offs…by his new employers Benfica, who have hired him on a deal until June 2027. Mourinho’s side were beaten by former Premier League manager Bruno Lage, but he was also dismissed this week following a mixed start to the new season.",
+      "‘The Special One’, started his managerial career with Benfica in 2000 but lasted less than a season after falling out with the club’s president. Now 62, Mourinho returns to Benfica and is expected to take his first training session on Thursday.",
+      "Speaking before his appointment was made official, Mourinho revealed he had no hesitation in going back to his former club. He said: “What I can confirm is that, before I caught the plane, Benfica asked me if I was interested in coaching them.",
+      "“I said yes. I said I was abroad and that when I returned to Portugal I would have all the interest in talking with them. My nature is wanting to coach. I told myself that I wanted to balance myself emotionally.",
+      "\"I didn’t want to say yes to the wrong club, just because I am a workaholic. When asked if I wanted to coach Benfica, I did not think twice. It interests me.”",
+      "Manchester United manager Ruben Amorim's name had also come up in the wake of Lage's sacking, with his future at Old Trafford uncertain. The former Sporting manager has endured a dismal first year in England and has picked up just one win from United's opening four Premier League games.",
+      "The United hierarchy insist they are continuing to back the manager, although another meeting is planned in three games' time, during the next international break.",
+      "Capitalising on the speculation, Norohna Lopes - who is hoping to become Benfica's president - was asked about the possibility of landing the Red Devils boss.",
+      "He said: \"Ruben Amorim? He's a great coach, he has a contract with Manchester United. I won't comment on that. Of course I like him. He's a great coach and a Benfica fan. I don't have a contract for Ruben to sign.\"",
+      "Mourinho's return to Benfica also ends speculation over a move back to the English top flight. He has already had two spells with Chelsea, winning the Premier League three times, as well as managing Manchester United and Tottenham.",
+      "He had previously suggested he would be open to the idea of taking over a club not featuring in European competition, after several rows with UEFA.",
+      "\"I think the best thing I have to do is, when I leave Fenerbahce, I go to a club that does not play UEFA competitions,\" Mourinho said. \"If any club in England from the bottom of the table needs a coach in two years, I am ready to go.\"",
+      "Sky will show at least 215 live Premier League games next season, an increase of up to 100 more."
+    ]
+  },
+  {
     "headline": "5 things Ruben Amorim must immediately change at Man Utd ahead of sack meeting",
     "tags": [
       "Man Utd",
       "Amorim"
     ],
     "link": "https://www.mirror.co.uk/sport/football/news/ruben-amorim-man-utd-sack-35925587",
-    "image": null,
+    "image": "https://i2-prod.mirror.co.uk/incoming/article35925459.ece/ALTERNATES/n615/0_FBL-ENG-PR-MAN-CITY-MAN-UTD.jpg",
     "date": null,
     "source": "mirror",
     "body": [
@@ -58,7 +85,7 @@
       "Garnacho"
     ],
     "link": "https://www.mirror.co.uk/sport/football/news/alejandro-garnacho-man-united-chelsea-35925110",
-    "image": "https://i2-prod.mirror.co.uk/incoming/article35914854.ece/ALTERNATES/n615/2_Brentford-v-Chelsea-Premier-League.jpg",
+    "image": null,
     "date": null,
     "source": "mirror",
     "body": [
@@ -89,7 +116,7 @@
       "LIVE"
     ],
     "link": "https://www.mirror.co.uk/sport/football/transfer-news/wrexham-target-signing-man-utd-35924056",
-    "image": null,
+    "image": "https://i2-prod.mirror.co.uk/sport/football/transfer-news/article35924773.ece/ALTERNATES/n615/2_JS380881682jpeg.jpg",
     "date": null,
     "source": "mirror",
     "body": [
@@ -277,7 +304,7 @@
       "Ratcliffe"
     ],
     "link": "https://www.mirror.co.uk/sport/football/news/man-utd-jim-ratcliffe-amorim-35918691",
-    "image": "https://i2-prod.mirror.co.uk/incoming/article33199599.ece/ALTERNATES/n615/0_GettyImages-2152556119.jpg",
+    "image": null,
     "date": null,
     "source": "mirror",
     "body": [
@@ -306,7 +333,7 @@
       "Man Utd"
     ],
     "link": "https://www.mirror.co.uk/sport/football/news/ruben-neves-man-utd-transfer-35921699",
-    "image": null,
+    "image": "https://i2-prod.mirror.co.uk/incoming/article35921732.ece/ALTERNATES/n615/0_Fluminense-FC-v-Al-Hilal-Quarter-Final-FIFA-Club-World-Cup-2025.jpg",
     "date": null,
     "source": "mirror",
     "body": [
@@ -407,7 +434,7 @@
       "Man Utd"
     ],
     "link": "https://www.mirror.co.uk/sport/football/transfer-news/man-utd-carlos-baleba-transfer-35920441",
-    "image": null,
+    "image": "https://i2-prod.mirror.co.uk/incoming/article35920482.ece/ALTERNATES/n615/0_Brighton-Hove-Albion-v-Manchester-City-Premier-League.jpg",
     "date": null,
     "source": "mirror",
     "body": [
@@ -459,7 +486,7 @@
       "Amorim"
     ],
     "link": "https://www.mirror.co.uk/sport/football/news/man-utd-amorim-replacements-southgate-35918570",
-    "image": "https://i2-prod.mirror.co.uk/incoming/article35918188.ece/ALTERNATES/n615/0_FBL-ENG-PR-MAN-CITY-MAN-UTD.jpg",
+    "image": null,
     "date": null,
     "source": "mirror",
     "body": [
@@ -511,31 +538,6 @@
       "Carrick has previously stepped up as interim boss twice - following Mourinho and Ole Gunnar Solskjaer's departures - and remains unbeaten in temporary charge.",
       "Across three matches in the hotseat, the former midfielder secured two victories and one draw. He departed United to take over at Boro, where he spent three years managing the Championship outfit.",
       "From 136 matches in charge, Carrick claimed 63 wins, 24 draws and 49 defeats. In contrast, Amorim has had a tougher time with United, albeit under very different circumstances, with more losses than wins under his belt - 18 defeats compared to 17 victories, along with 12 draws.",
-      "Sky will show at least 215 live Premier League games next season, an increase of up to 100 more.",
-      "At  Reach and across our entities  we and our partners use information collected through cookies and other identifiers from your device to improve experience on our site, analyse how it is used and to show personalised advertising. You can opt out of the saleor sharing of your data, at any time clicking the &quot;Do Not Sell or Share my Data&quot; button at the bottom of the webpage. Please note that your preferences are browser specific. Use of our website and any of our services represents your acceptance of the use of cookies and consent to the practices described in our Privacy Notice and Privacy Notice."
-    ]
-  },
-  {
-    "headline": "Bruno Fernandes responds as Jadon Sancho speaks out on Aston Villa debut",
-    "tags": [
-      "Fernandes"
-    ],
-    "link": "https://www.mirror.co.uk/sport/football/news/bruno-fernandes-jadon-sancho-united-35917561",
-    "image": null,
-    "date": null,
-    "source": "mirror",
-    "body": [
-      "Bruno Fernandes was among the Manchester United stars, past and present, to back Jadon Sancho following his debut for Aston Villa. Sancho has had a tough spell at Old Trafford after his move from Borussia Dortmund in 2021, struggling to replicate his Bundesliga success in the Premier League.",
-      "Last season saw him loaned out to Chelsea, where he managed five goals and 10 assists in all competitions. Despite Chelsea's obligation to purchase Sancho for £25million due to their fourth-place finish, they chose to pay a £5m fee to return him to Manchester instead.",
-      "With Sancho not fitting into Ruben Amorim's vision for 2025/26, he currently finds himself on loan once more, this time at Villa Park. In his first full outing for Villa, Sancho featured in a 1-1 draw against Brentford in the Carabao Cup on Tuesday night, with Villa exiting the competition after a nail-biting penalty shootout.",
-      "Despite the disappointing result, Sancho took to Instagram to share his enthusiasm for his new beginning, posting photos from the match with the caption: \"Happy to make my debut for @avfcofficial, not the result we wanted but something to build on.\"",
-      "Young talents Ethan Wheatley, on loan at Northampton Town, and Joe Hugill, currently playing for Barnet, also showed their support, while former teammates Aaron Wan-Bissaka, Jesse Lingard and Tosin Adarabioyo were among those who also liked the post.",
-      "Aston Villa defender Ian Maatsen even left a couple of love heart emojis in the comments section. Sancho's loan move comes as he enters the final year of his contract with United, although the club can extend his deal by a year to avoid losing him on a free transfer next summer.",
-      "Sancho isn't the only player United have let go this summer after being excluded from Amorim's future plans. Rashford spent the second half of last season on loan at Villa before returning to his parent club this summer.",
-      "He is now playing for Barcelona on a season-long loan, with the Spanish giants holding an option to make the move permanent for £20m. In other news, United have successfully sold Alejandro Garnacho to Chelsea in a £40m deal.",
-      "The Argentine youngster has struggled to meet expectations at Old Trafford in 2020, with reports of a falling out with Amorim at the training ground this summer. Now, the 21-year-old is adjusting to life at Stamford Bridge, having made his debut in a 2-2 draw against Brentford over the weekend.",
-      "He may also get a run out in Chelsea's Champions League face-off with Bayern Munich on Wednesday evening, as Enzo Maresca juggles European and domestic commitments. Another player to leave United this summer was Antony, who secured a permanent move to Real Betis after a successful loan stint with the Spanish outfit last season.",
-      "During his loan period, Antony netted nine goals and provided five assists for Betis, and Manuel Pellegrini will be hoping for more of the same this campaign, having snapped up the Brazilian for an initial £19m plus add-ons.",
       "Sky will show at least 215 live Premier League games next season, an increase of up to 100 more.",
       "At  Reach and across our entities  we and our partners use information collected through cookies and other identifiers from your device to improve experience on our site, analyse how it is used and to show personalised advertising. You can opt out of the saleor sharing of your data, at any time clicking the &quot;Do Not Sell or Share my Data&quot; button at the bottom of the webpage. Please note that your preferences are browser specific. Use of our website and any of our services represents your acceptance of the use of cookies and consent to the practices described in our Privacy Notice and Privacy Notice."
     ]
@@ -646,12 +648,18 @@
     ],
     "link": "https://www.manchestereveningnews.co.uk/sport/football/transfer-news/man-united-transfer-news-live-32475243",
     "image": null,
-    "date": "2025-09-18 14:34:00",
+    "date": "2025-09-18 15:20:00",
     "source": "manchestereveningnews",
     "body": [
       "United do not play this midweek after failing to qualify for any UEFA competition last term and following their League Cup second round exit to Grimsby Town. However, there is no shortage of focus on them following their 3-0 defeat to Manchester City in the derby.",
       "Even though the summer window has closed, transfer talk has remained with Ruben Neves emerging as the latest midfielder of interest. Elliot Anderson, Carlos Baleba and Adam Wharton have also been linked with moves to Old Trafford.",
       "We will cover all the latest transfer news and rumours, plus any further developments on Amorim's future and other more general club updates with our live blog below.",
+      "Conor Gallagher is one of many midfielders Manchester United were interested in during the summer transfer window with a late approach made for the former Chelsea man.",
+      "TBR Football have now stated he is becoming irate regarding his predicament at Atletico Madrid with just two starts out of a possible five made. Their report did state he is happy, though.",
+      "This comes following updates from journalist Graeme Bailey over Gallagher possibly moving elsewhere in January.",
+      "As with many players at this moment in time, the World Cup is an added complication or worry.",
+      "Gallagher is one of those players who, if playing regularly, at his best, would be firmly in contention for his national side, so that issue can’t be overlooked.",
+      "I am told the player would dearly like to make it back into the Atletico Madrid side and that is his priority, but clubs are paying real interest to him and he is very much one to keep an eye on for January.",
       "Chelsea may be sweating on the availability of Cole Palmer ahead of their Premier League clash against Manchester United.",
       "The Blues' talisman made his first start in nearly one month against Bayern Munich and scored for the second consecutive game after grabbing a goal in the 2-2 draw with Brentford off the bench last weekend.",
       "He played the full 90 minutes at Allianz Arena and appeared to be holding his groin in the latter stages of the clash. When asked about that, Enzo Maresca said: \"Cole, I think he's okay. I asked him after the game, he said that he's okay.\"",
@@ -757,10 +765,7 @@
       "Casemiro is said to have decided to stay at United for the rest of this season after turning down an unnamed Saudi Pro League club offer.",
       "Brazilian outlet Trivela claims the final decision on his future came in recent days and instead intends to leave when his contract expires this summer.",
       "Besiktas were reportedly ready to sign Jadon Sancho permanently, only for the player to veto any move to Turkey.",
-      "In an article for GiveMeSport, Fabrizio Romano claims that Sancho was the club's top target. They were also reputedly willing to pay a significant loan fee if no permanent deal materialised.",
-      "Senne Lammens' elder brother, Tom, has acknowledged that he was initially sceptical about his sibling signing for United.",
-      "Lammens Snr has told Belgian outlet Nieuwsblad:",
-      "I was initially sceptical about a move to United, because many players there had already succumbed to the pressure and couldn't reach their full potential."
+      "In an article for GiveMeSport, Fabrizio Romano claims that Sancho was the club's top target. They were also reputedly willing to pay a significant loan fee if no permanent deal materialised."
     ]
   },
   {
@@ -798,6 +803,36 @@
       "Mainoo relocated to the deeper midfield role in pre-season this summer, but Amorim raised eyebrows when he said Mainoo was competing with Bruno Fernandes for a start.",
       "The youngster subsequently requested to leave on loan in the final days of the window, which was denied.",
       "-",
+      "At  Reach and across our entities  we and our partners use information collected through cookies and other identifiers from your device to improve experience on our site, analyse how it is used and to show personalised advertising. You can opt out of the saleor sharing of your data, at any time clicking the &quot;Do Not Sell or Share my Data&quot; button at the bottom of the webpage. Please note that your preferences are browser specific. Use of our website and any of our services represents your acceptance of the use of cookies and consent to the practices described in our Privacy Notice and Privacy Notice."
+    ]
+  },
+  {
+    "headline": "Jose Mourinho return confirmed just days after Ruben Amorim comments on job",
+    "tags": [
+      "Amorim",
+      "Mourinho"
+    ],
+    "link": "https://www.manchestereveningnews.co.uk/sport/football/football-news/jose-mourinho-return-confirmed-just-32505446",
+    "image": null,
+    "date": null,
+    "source": "manchestereveningnews",
+    "body": [
+      "Jose Mourinho has been appointed as Benfica's new manager, with his latest sabbatical from football lasting fewer than four weeks. The former Chelsea, Manchester United and Real Madrid chief was dismissed by Fenerbahce at the end of August following just over 12 months at the helm.",
+      "His rapid departure came 48 hours after the Turkish outfit were knocked out of the Champions League play-offs by his new employers Benfica.",
+      "Mourinho's team were defeated by former Premier League boss Bruno Lage, though he too was relieved of his duties this week after an inconsistent beginning to the campaign.",
+      "'The Special One' commenced his managerial journey with Benfica in 2000 but endured less than a full campaign after clashing with the club's president.",
+      "Now aged 62, Mourinho makes his return to Benfica and is anticipated to oversee his inaugural training session on Thursday.",
+      "Speaking prior to his appointment being formally confirmed, Mourinho disclosed he had no reservations about returning to his previous club.",
+      "He said: \"What I can confirm is that, before I caught the plane, Benfica asked me if I was interested in coaching them.",
+      "\"I said yes. I said I was abroad and that when I returned to Portugal I would have all the interest in talking with them. My nature is wanting to coach. I told myself that I wanted to balance myself emotionally.",
+      "\"I didn't want to say yes to the wrong club, just because I am a workaholic. When asked if I wanted to coach Benfica, I did not think twice. It interests me.\"",
+      "Ruben Amorim, the current Manchester United manager, has also been mentioned as a potential successor following Lage's dismissal, with his future at Old Trafford looking uncertain. The ex-Sporting boss has had a challenging first year in England, managing to secure only one victory from United's initial four Premier League matches.",
+      "Despite this, the United board maintains their support for the manager, with another review scheduled after three more games, during the upcoming international break.",
+      "In light of the ongoing speculation, Norohna Lopes, who is vying for the Benfica presidency, was questioned about the likelihood of securing the Red Devils' boss.",
+      "He responded: \"Ruben Amorim? He's a great coach, he has a contract with Manchester United. I won't comment on that. Of course I like him. He's a great coach and a Benfica fan. I don't have a contract for Ruben to sign.\"",
+      "The return of Mourinho to Benfica also puts an end to rumours of a comeback to the English top tier. He has already had two stints with Chelsea, clinching the Premier League title thrice, in addition to managing Manchester United and Tottenham.",
+      "Previously, he hinted at being open to leading a club not participating in European competition, following several disputes with UEFA.",
+      "\"I think the best thing I have to do is, when I leave Fenerbahce, I go to a club that does not play UEFA competitions,\" Mourinho stated. \"If any club in England from the bottom of the table needs a coach in two years, I am ready to go.\"",
       "At  Reach and across our entities  we and our partners use information collected through cookies and other identifiers from your device to improve experience on our site, analyse how it is used and to show personalised advertising. You can opt out of the saleor sharing of your data, at any time clicking the &quot;Do Not Sell or Share my Data&quot; button at the bottom of the webpage. Please note that your preferences are browser specific. Use of our website and any of our services represents your acceptance of the use of cookies and consent to the practices described in our Privacy Notice and Privacy Notice."
     ]
   },
@@ -952,28 +987,6 @@
       "\"The issue, as you say, is whether this is the thin edge of the wedge. I don't think it makes sense for a Manchester United ticket to cost less than a ticket to see Fulham.\"",
       "Told that wages are higher in London, Ratcliffe continued: \"I get that. I'm not sure there's an answer that keeps everybody happy, but we need to keep the majority happy.\"",
       "-",
-      "At  Reach and across our entities  we and our partners use information collected through cookies and other identifiers from your device to improve experience on our site, analyse how it is used and to show personalised advertising. You can opt out of the saleor sharing of your data, at any time clicking the &quot;Do Not Sell or Share my Data&quot; button at the bottom of the webpage. Please note that your preferences are browser specific. Use of our website and any of our services represents your acceptance of the use of cookies and consent to the practices described in our Privacy Notice and Privacy Notice."
-    ]
-  },
-  {
-    "headline": "Man United handed new Ruben Amorim sack verdict with extraordinary demand - 'Swallow their pride'",
-    "tags": [
-      "Amorim"
-    ],
-    "link": "https://www.manchestereveningnews.co.uk/sport/football/football-news/man-united-handed-new-ruben-32499750",
-    "image": null,
-    "date": null,
-    "source": "manchestereveningnews",
-    "body": [
-      "Former Tottenham Hotspur player Jamie O'Hara continues to call for the return of Ole Gunnar Solskjaer at Manchester United as a replacement for Ruben Amorim.",
-      "Solskjaer is currently without a club after being sacked by Besiktas late last month after losing a Conference League play-off tie to Lausanne-Sport, who are coincidently also owned by Ineos like United. They drew 1-1 in Switzerland, but the visitors won 1-0 in Istanbul a week later.",
-      "That was his first head coaching role since being sacked by United in November 2021. Solskjaer spent over three years away from management, but took charge of just 29 matches.",
-      "\"He can come in, he can be a stopgap manager, interim manager, get players back onside.\" O'Hara explained: \"I believe that Ole Gunnar Solskjaer, if you get him back in, go back to the formation that they were playing before, get the players back onside, give them a bit of freedom, and I think they can maybe just calm everything down.\"",
-      "Weeks later, O'Hara has doubled down on that stance. \"I can't believe Ruben Amorim is still in charge,\" he said on talkSPORT.",
-      "\"When are they going to let it go? When are they going to just… do what Sheffield United have done, just swallow their pride [and say] 'we got this wrong?'",
-      "\"Get Ole back in. They can't carry on doing this. They'll go down. They'll be playing Rotherham next season.\"",
-      "Sheffield United recently relieved Ruben Selles of his duties and appointed Chris Wilder three months after the latter mutually agreed to leave the Championship club, with the former replacing him.",
-      "Sky will show at least 215 live Premier League games this season, an increase of up to 100 more.",
       "At  Reach and across our entities  we and our partners use information collected through cookies and other identifiers from your device to improve experience on our site, analyse how it is used and to show personalised advertising. You can opt out of the saleor sharing of your data, at any time clicking the &quot;Do Not Sell or Share my Data&quot; button at the bottom of the webpage. Please note that your preferences are browser specific. Use of our website and any of our services represents your acceptance of the use of cookies and consent to the practices described in our Privacy Notice and Privacy Notice."
     ]
   },
@@ -1222,12 +1235,85 @@
     ]
   },
   {
+    "headline": "Man Utd legend Schmeichel had ‘never heard of’ Lammens as INEOS told who they ‘should’ve signed’",
+    "tags": [
+      "Man Utd",
+      "INEOS"
+    ],
+    "link": "https://www.football365.com/news/man-utd-legend-schmeichel-never-heard-lammens-ineos-told-shouldve-signed",
+    "image": "https://images.ps-aws.com/c?url=https%3A%2F%2Fd2x51gyc4ptf2q.cloudfront.net%2Fcontent%2Fuploads%2F2025%2F09%2F05000245%2FSenne-Lammens-Man-Utd-2-1320x742.jpg",
+    "date": "2025-09-18 14:26:40",
+    "source": "football365",
+    "body": [
+      "Legendary former Manchester United goalkeeper Peter Schmeichel has revealed he had “never heard of” Senne Lammens prior to the Red Devils being linked with him, and has told the club who they should’ve signed instead.",
+      "United were told throughout the summer that their goalkeepers were not up to scratch. For a man who reached a Champions League final with Inter Milan, it was hard to tell Andre Onana had been close to that level.",
+      "As such, in the final days of the summer, he was replaced by Lammens and loaned out to Trabzonspor.",
+      "Pior to Lammens’ signing, though, there were links with Emiliano Martinez and Gianluigi Donnarumma. The former has won the World Cup and the latter the Champions League.",
+      "Schmeichel feels those are the ilk of players United should have signed, instead of 23-year-old Lammens, from Royal Antwerp.",
+      "“We should have signed Emi Martinez. In fact, we should have gone for Gianluigi Donnarumma when we had the chance,” he said.",
+      "“With Martinez, everything was lined up and that felt like really good news, because he’s exactly the kind of goalkeeper Manchester United should have.",
+      "“As for Lammens, I’ll be honest, I’d never heard of him until the link came up.",
+      "“I know his stats are excellent across the top ten European leagues. But that was with Antwerp in Belgium, in a team that finished fifth.",
+      "“Stats don’t show how you react after a mistake, or how you cope with the pressure of Manchester United. That pressure is unlike anywhere else in football.”",
+      "Lammens has a fantastic save percentage, but has never played in a top-five league, has featured in the Champions League just once, and is yet to make his national team debut for Belgium.",
+      "He is still yet to play for United despite being in place for their last Premier League game – the 3-0 loss to Manchester City.",
+      "Indeed, Altay Bayindir was preferred between the sticks, despite rumours he could have been allowed to leave in the summer, and the goalkeeper having made mistakes during his time in the United net.",
+      "When Lammens does get his first crack is unclear, as most would have expected he’d have been in immediately after his signing.",
+      "In any case, Schmeichel was disappointed that he was the man signed, not a better option, and having one of the best players ever in your position, at the club you now play for, already on your back, is not a good start.",
+      "Peter Schmeichel has questioned Manchester United letting a pair of stars leave the club, and he “hopes” one of them scores “25 goals” to show them what they’re missing.",
+      "The brother of new Man Utd signing Senne Lammens attempted to stop him from joining the Red Devils but the Premier League club “gave him the best feeling”.",
+      "Manchester United lost their third game of the season on Sunday as rivals Manchester City beat them 3-0 in a comprehensive performance.",
+      "Man Utd legend Peter Schmeichel reckons the Red Devils could have saved £73m by keeping Rasmus Hojlund and not signing Benjamin Sesko.",
+      "Wayne Rooney hit out at one Manchester United “panic buy” after Ruben Amorim’s side suffered a one-sided 3-0 loss against Manchester City.",
+      "Man Utd head coach Ruben Amorim has confirmed that Altay Bayindir will start ahead of Senne Lammens against Man City in the Manchester Derby on Sunday."
+    ]
+  },
+  {
+    "headline": "Man Utd told to sack Amorim for former manager or ‘they’ll be playing Rotherham’ next season",
+    "tags": [
+      "Man Utd",
+      "Amorim"
+    ],
+    "link": "https://www.football365.com/news/man-utd-told-sack-amorim-solskjaer-playing-rotherham-ohara",
+    "image": "https://images.ps-aws.com/c?url=https%3A%2F%2Fd2x51gyc4ptf2q.cloudfront.net%2Fcontent%2Fuploads%2F2025%2F09%2F15123858%2FF365-One-Badge-Ruben-Amorim-Manchester-United-6-1-638x358.jpg",
+    "date": "2025-09-18 14:25:15",
+    "source": "football365",
+    "body": [
+      "Man Utd boss Ruben Amorim should be sacked and replaced by former Red Devils head coach Ole Gunnar Solskjaer, according to Jamie O’Hara.",
+      "It is similar form to that which saw them finish 15th in the Premier League last term under Amorim and miss out on European qualification.",
+      "Widespread reports indicate that Amorim is not currently under heaps of pressure from the board but that if he looks likely to fail to qualify for Europe then the Man Utd hierarchy are ready to act.",
+      "Gary Neville made a prediction after the Manchester Derby defeat that Amorim will only come under pressure if they are in a similar position going into October.",
+      "READ: Next Man Utd manager: Ranking Amorim’s replacements puts Southgate second",
+      "“City have beaten them well and comfortably. United had some good moments in the game – the first 15 minutes and the first five minutes of the second half. City, in big moments, have had better players. Foden, Doku, Haaland have stood out.",
+      "“There have been times when I have seen United lose this type of match when I feel angry and frustrated. I just feel nothing, which is even worse.",
+      "“This has been a nothing of a performance. United have just been beaten. With Chelsea next week, another defeat and big questions would start to be asked.”",
+      "He added: “Man Utd are 14th, we’re only four games in.",
+      "“We can’t be getting into October where Man Utd are 14th or 15th in the league otherwise the manager will be in trouble. They have to start winning quickly.",
+      "“Next week if they lose [against Chelsea], they would go to 15th and 16th. It’s five games in and before you know it you’re in October and they’re in the bottom half of the table. And that’s where they can’t be, having spent £200million and giving him a pre-season.",
+      "“There’s got to be a turnaround pretty quickly, and the manager’s idea has got to land very quickly with the players.”",
+      "After Solskjaer left Besiktas at the end of August, former Tottenham midfielder O’Hara insisted that Man Utd should bring their ex-player and coach back to Old Trafford.",
+      "“He can come in, he can be a stopgap manager, interim manager, get players back onside.” O’Hara elaborated: “I believe that Ole Gunnar Solskjaer, if you get him back in, go back to the formation that they were playing before, get the players back onside, give them a bit of freedom, and I think they can maybe just calm everything down.”",
+      "And following another Man Utd defeat, O’Hara has doubled down on his theory that Amorim should be sacked for former Red Devils boss Solskjaer.",
+      "O’Hara told talkSPORT: “I can’t believe Ruben Amorim is still in charge.",
+      "“When are they going to let it go? When are they going to just… do what Sheffield United have done, just swallow their pride [and say] ‘we got this wrong?’",
+      "“Sheffield United have recently made a managerial U-turn, with Chris Wilder stepping in to replace Ruben Selles, just three months after the latter’s mutual agreement to depart from the Championship club.”",
+      "O’Hara concluded: “Get Ole back in. They can’t carry on doing this. They’ll go down. They’ll be playing Rotherham [United] next season.”",
+      "READ NEXT: Man Utd ‘furious’ at latest ‘totally destructive’ leak as ‘unhappy’ Fernandes opinion is revealed",
+      "The pressure on Ruben Amorim and his sheer bloody-mindedness means we must consider his replacements. And we’ve talked ourselves on board the Gareth Southgate train…",
+      "If given a choice between Mainoo and Amorim right now, most would surely side with the guy who’s already proven himself at Manchester United.",
+      "Solskjaer to replace Amorim at Man Utd? Hey, he ‘knows the club’. But he also did the first time. Also, what happened to Lampard at Chelsea again?",
+      "Are Man United actually going to be any better this season than last season? They really might not be much better. In which case, Amorim’s in trouble.",
+      "Manchester United have been “blamed” for one Red Devils star becoming a “sacrificial lamb” during his time at Old Trafford.",
+      "It’s a rollercoaster of emotions for Manchester United fans today with ‘music to their ears’ here and ‘more embarrassment’ there."
+    ]
+  },
+  {
     "headline": "Man Utd face three-way battle to sign striker ‘who can’t stop a ball’ to replace Zirkzee with cost revealed",
     "tags": [
       "Man Utd"
     ],
     "link": "https://www.football365.com/news/man-utd-face-battle-barcelona-atletico-madrid-vlahovic-cant-stop-ball-replace-zirkzee",
-    "image": "https://images.ps-aws.com/c?url=https%3A%2F%2Fd2x51gyc4ptf2q.cloudfront.net%2Fcontent%2Fuploads%2F2025%2F02%2F03120008%2FDusan-Vlahovic-Man-Utd-F365-1320x742.jpg",
+    "image": "https://images.ps-aws.com/c?url=https%3A%2F%2Fd2x51gyc4ptf2q.cloudfront.net%2Fcontent%2Fuploads%2F2025%2F02%2F03120008%2FDusan-Vlahovic-Man-Utd-F365-638x358.jpg",
     "date": "2025-09-18 13:22:21",
     "source": "football365",
     "body": [
@@ -1276,12 +1362,12 @@
       "Hojlund scored on his Serie A debut for Napoli, playing alongside Scott McTominay – last season’s Serie A player of the year after leaving United – who also has one goal so far this season.",
       "Schmeichel seems dejected at the fact the midfielder was ever allowed to leave.",
       "“As for McTominay, I honestly can’t say anything other than: why? Why was he allowed to leave?” he said.",
+      "Legendary former Manchester United goalkeeper Peter Schmeichel has revealed he had “never heard of” Senne Lammens prior to the Red Devils being linked with him, and has told the club ...",
       "Napoli head coach Antonio Conte struggled to believe that Man Utd sold Scottish midfielder Scott McTominay to the Serie A side.",
       "Manchester United lost their third game of the season on Sunday as rivals Manchester City beat them 3-0 in a comprehensive performance.",
       "Ruben Amorim is experiencing deja vu with one Manchester United summer signing, while his predecessor shines away from the ‘graveyard’…",
       "Man Utd were given more indications over the weekend that they could be the problem as Marcus Rashford and Andre Onana shone out on loan.",
-      "Man Utd legend Peter Schmeichel reckons the Red Devils could have saved £73m by keeping Rasmus Hojlund and not signing Benjamin Sesko.",
-      "Arsenal legend Martin Keown was left fuming by former Man Utd goalkeeper Peter Schmeichel’s comments about the Gunners’ playing style."
+      "Man Utd legend Peter Schmeichel reckons the Red Devils could have saved £73m by keeping Rasmus Hojlund and not signing Benjamin Sesko."
     ]
   },
   {
@@ -1327,7 +1413,7 @@
       "Man Utd"
     ],
     "link": "https://www.football365.com/news/man-utd-conte-questions-mctominay-transfer-napoli",
-    "image": "https://images.ps-aws.com/c?url=https%3A%2F%2Fd2x51gyc4ptf2q.cloudfront.net%2Fcontent%2Fuploads%2F2025%2F09%2F18085337%2FAntonio-Conte-Napoli-F365-638x358.jpg",
+    "image": "https://www.football365.com/content/themes/f365-sportsui/img/png/placeholder.png",
     "date": "2025-09-18 08:05:54",
     "source": "football365",
     "body": [
@@ -1361,7 +1447,7 @@
       "Amorim"
     ],
     "link": "https://www.football365.com/news/next-man-utd-manager-candidates-ranked-if-amorim-sacked-southgate-xavi-pochettino",
-    "image": "https://images.ps-aws.com/c?url=https%3A%2F%2Fd2x51gyc4ptf2q.cloudfront.net%2Fcontent%2Fuploads%2F2025%2F09%2F17214910%2FNext-Man-Utd-managers-ranked-1-638x358.jpg",
+    "image": "https://www.football365.com/content/themes/f365-sportsui/img/png/placeholder.png",
     "date": "2025-09-18 06:32:34",
     "source": "football365",
     "body": [
@@ -1415,12 +1501,12 @@
       "Xavi has already managed one giant basket case. Quite successfully too. While juggling financial levers, the Catalan guided his boyhood team to the La Liga title in his first full season in charge.",
       "He left after his second, initially of his own accord then the club’s, and Xavi spent last season on sabbatical. The 45-year-old is ready, though, for his next gig having used his break to broaden his coaching horizons.",
       "Yeah, why not? Xavi has a track record with one of the game’s big beasts and as one of the greatest midfielders in the modern game, his playing career ought to make him beyond reproach among the players.",
+      "Man Utd boss Ruben Amorim should be sacked and replaced by former Red Devils head coach Ole Gunnar Solskjaer, according to reports.",
       "Unless it’s against European elite, Champions League games have become basically like playing Bournemouth now for Premier League teams.",
       "While Liverpool dominate the narrative, one Chelsea fan wants to talk about Enzo Maresca ‘making it up as he goes along’.",
       "Screaming obscenities until an emotional football manager loses his temper does not a Liverpool hero make. Or at least it shouldn’t.",
       "Are those late Liverpool winners sustainable after all? Unlike Arsenal, this Liverpool side are never boring.",
-      "Manchester United will be weighing up the ‘eye-watering’ severance fee due to Ruben Amorim, but it wouldn’t even be in the top ten biggest manager pay-offs.",
-      "There is no point pretending we didn’t all laugh at Newcastle this summer, but they have emerged from that mess stronger and Eddie Howe has what he needs."
+      "Manchester United will be weighing up the ‘eye-watering’ severance fee due to Ruben Amorim, but it wouldn’t even be in the top ten biggest manager pay-offs."
     ]
   },
   {
@@ -1578,12 +1664,12 @@
       "The obvious suggestion amid United’s poor start to the season and the decision not to grant Mainoo’s wish to leave the club on loan at the end of the transfer window is that he need only wait out Amorim to play regular football again.",
       "Guardiola’s admiration, along with longstanding interest from Chelsea, links to Real Madrid and recent rumours of a January move for his services by Newcastle suggests Amorim is one of very few managers not valuing Mainoo’s quality enough to rely on him as a key cog in a starting lineup.",
       "Most, we suspect, would be building the team around him.",
+      "Man Utd boss Ruben Amorim should be sacked and replaced by former Red Devils head coach Ole Gunnar Solskjaer, according to reports.",
       "The pressure on Ruben Amorim and his sheer bloody-mindedness means we must consider his replacements. And we’ve talked ourselves on board the Gareth Southgate train…",
       "Solskjaer to replace Amorim at Man Utd? Hey, he ‘knows the club’. But he also did the first time. Also, what happened to Lampard at Chelsea again?",
       "Manchester United have been told to sell Bruno Fernandes and build around Kobbie Mainoo, but they face the ‘most excruciating’ outcome.",
       "Are Man United actually going to be any better this season than last season? They really might not be much better. In which case, Amorim’s in trouble.",
-      "Manchester United have been “blamed” for one Red Devils star becoming a “sacrificial lamb” during his time at Old Trafford.",
-      "It’s a rollercoaster of emotions for Manchester United fans today with ‘music to their ears’ here and ‘more embarrassment’ there."
+      "Manchester United have been “blamed” for one Red Devils star becoming a “sacrificial lamb” during his time at Old Trafford."
     ]
   },
   {
@@ -1674,12 +1760,12 @@
       "“I’m not getting ahead of myself,” Lampard said when asked about what the future might hold at the end of the 2022/2023 season. “I want to do the best I can to impact the club in this period and we will see what happens afterwards.”",
       "He arrived believing it possible he would be handed a permanent contract. He won one and lost eight of his 11 games in charge and Chelsea scored just nine goals, and left that role with many of us wondering whether that would be that for him in management before showing his worth at Championship level with Coventry.",
       "We imagine Solskjaer is poised for the United call. We can’t imagine a world in which he refuses an offer to return. But while the worst outcome for United would be another terrible season, the worst for him would be the demolition of an already broken reputation, and the best merely a few months of paid work and the Stretford End chanting his name before he’s out on his ear looking for further employment.",
+      "Man Utd boss Ruben Amorim should be sacked and replaced by former Red Devils head coach Ole Gunnar Solskjaer, according to reports.",
       "The pressure on Ruben Amorim and his sheer bloody-mindedness means we must consider his replacements. And we’ve talked ourselves on board the Gareth Southgate train…",
       "If given a choice between Mainoo and Amorim right now, most would surely side with the guy who’s already proven himself at Manchester United.",
       "Are Man United actually going to be any better this season than last season? They really might not be much better. In which case, Amorim’s in trouble.",
       "Manchester United have been “blamed” for one Red Devils star becoming a “sacrificial lamb” during his time at Old Trafford.",
-      "It’s a rollercoaster of emotions for Manchester United fans today with ‘music to their ears’ here and ‘more embarrassment’ there.",
-      "According to reports, a Manchester United ‘midfielder transfer’ is ‘gaining momentum’ ahead of the winter transfer window for four reasons."
+      "It’s a rollercoaster of emotions for Manchester United fans today with ‘music to their ears’ here and ‘more embarrassment’ there."
     ]
   },
   {
@@ -1794,12 +1880,12 @@
       "Southgate has been pretty clear about feeling mighty comfortable about never taking another managerial job. That hasn’t stopped him being described as a “master of manipulation” and being tipped for the big job, mind.",
       "",
       "That FA Cup win with Crystal Palace has taken the Austrian high up all the lists, and now right to the very top of the silliest of all of them with Spurs off the table for at least the next few months.",
+      "Man Utd boss Ruben Amorim should be sacked and replaced by former Red Devils head coach Ole Gunnar Solskjaer, according to reports.",
       "The pressure on Ruben Amorim and his sheer bloody-mindedness means we must consider his replacements. And we’ve talked ourselves on board the Gareth Southgate train…",
       "If given a choice between Mainoo and Amorim right now, most would surely side with the guy who’s already proven himself at Manchester United.",
       "Solskjaer to replace Amorim at Man Utd? Hey, he ‘knows the club’. But he also did the first time. Also, what happened to Lampard at Chelsea again?",
       "Manchester United have been “blamed” for one Red Devils star becoming a “sacrificial lamb” during his time at Old Trafford.",
-      "It’s a rollercoaster of emotions for Manchester United fans today with ‘music to their ears’ here and ‘more embarrassment’ there.",
-      "According to reports, a Manchester United ‘midfielder transfer’ is ‘gaining momentum’ ahead of the winter transfer window for four reasons."
+      "It’s a rollercoaster of emotions for Manchester United fans today with ‘music to their ears’ here and ‘more embarrassment’ there."
     ]
   },
   {
@@ -1863,12 +1949,12 @@
       "“I was initially sceptical about a move to United, because many players there had already succumbed to the pressure and couldn’t reach their full potential.”",
       "He added: “Ultimately, it was Senne who had to make the decision. United gave him the best feeling. Partly because Tony Coton, United’s goalkeeping scout, had been following him for almost a year and was very convinced of his qualities.",
       "“It would also be great if the club could return to its former glory and if Senne could contribute to that.”",
+      "Man Utd boss Ruben Amorim should be sacked and replaced by former Red Devils head coach Ole Gunnar Solskjaer, according to reports.",
       "The pressure on Ruben Amorim and his sheer bloody-mindedness means we must consider his replacements. And we’ve talked ourselves on board the Gareth Southgate train…",
       "If given a choice between Mainoo and Amorim right now, most would surely side with the guy who’s already proven himself at Manchester United.",
       "Solskjaer to replace Amorim at Man Utd? Hey, he ‘knows the club’. But he also did the first time. Also, what happened to Lampard at Chelsea again?",
       "Are Man United actually going to be any better this season than last season? They really might not be much better. In which case, Amorim’s in trouble.",
-      "It’s a rollercoaster of emotions for Manchester United fans today with ‘music to their ears’ here and ‘more embarrassment’ there.",
-      "According to reports, a Manchester United ‘midfielder transfer’ is ‘gaining momentum’ ahead of the winter transfer window for four reasons."
+      "It’s a rollercoaster of emotions for Manchester United fans today with ‘music to their ears’ here and ‘more embarrassment’ there."
     ]
   },
   {
@@ -1928,12 +2014,12 @@
       "Little thought experiment for you. What word would you use to describe the idea of Kobbie Mainoo joining Newcastle from Manchester United in January?",
       "Feasible? Logical? Understandable? Loads of viable options, we think, to describe the potential mid-season transfer of a player who is barely figuring at all for his current team in a season where he desperately needs minutes with the World Cup on the horizon.",
       "If, however, you chose the word ‘Shock’ then congratulations, you are Tom Coley of The Sun.",
+      "Man Utd boss Ruben Amorim should be sacked and replaced by former Red Devils head coach Ole Gunnar Solskjaer, according to reports.",
       "Unless it’s against European elite, Champions League games have become basically like playing Bournemouth now for Premier League teams.",
       "While Liverpool dominate the narrative, one Chelsea fan wants to talk about Enzo Maresca ‘making it up as he goes along’.",
       "Screaming obscenities until an emotional football manager loses his temper does not a Liverpool hero make. Or at least it shouldn’t.",
       "Are those late Liverpool winners sustainable after all? Unlike Arsenal, this Liverpool side are never boring.",
-      "The pressure on Ruben Amorim and his sheer bloody-mindedness means we must consider his replacements. And we’ve talked ourselves on board the Gareth Southgate train…",
-      "Manchester United will be weighing up the ‘eye-watering’ severance fee due to Ruben Amorim, but it wouldn’t even be in the top ten biggest manager pay-offs."
+      "The pressure on Ruben Amorim and his sheer bloody-mindedness means we must consider his replacements. And we’ve talked ourselves on board the Gareth Southgate train…"
     ]
   },
   {
@@ -2092,12 +2178,12 @@
       "The report claims:",
       "‘Newcastle and Tottenham will also likely be in contention as long-time admirers of Neves, but there’s also a particularly strong interest from United boss Ruben Amorim.",
       "‘My source added that Neves could also move on the cheap, perhaps as little as €20m, which will likely make him a tempting market opportunity. Still, it’s worth emphasising that there haven’t been any talks yet, or any offers made, so it’s just one to keep an eye on.’",
+      "Man Utd boss Ruben Amorim should be sacked and replaced by former Red Devils head coach Ole Gunnar Solskjaer, according to reports.",
       "The pressure on Ruben Amorim and his sheer bloody-mindedness means we must consider his replacements. And we’ve talked ourselves on board the Gareth Southgate train…",
       "If given a choice between Mainoo and Amorim right now, most would surely side with the guy who’s already proven himself at Manchester United.",
       "Solskjaer to replace Amorim at Man Utd? Hey, he ‘knows the club’. But he also did the first time. Also, what happened to Lampard at Chelsea again?",
       "Are Man United actually going to be any better this season than last season? They really might not be much better. In which case, Amorim’s in trouble.",
-      "Manchester United have been “blamed” for one Red Devils star becoming a “sacrificial lamb” during his time at Old Trafford.",
-      "It’s a rollercoaster of emotions for Manchester United fans today with ‘music to their ears’ here and ‘more embarrassment’ there."
+      "Manchester United have been “blamed” for one Red Devils star becoming a “sacrificial lamb” during his time at Old Trafford."
     ]
   },
   {
@@ -2152,97 +2238,6 @@
       "Munich is preparing to stage the Champions League final this weekend. Can you recall the other host cities for every final this century?",
       "Only one player in this 10 is still adding to their total – can you name him and the other nine stars with most Champions League minutes?",
       "These are the champions! The group stage begins tonight, but how many of the 36 competing clubs can you recall?"
-    ]
-  },
-  {
-    "headline": "Champions League final: Name every host city this century…",
-    "tags": [
-      "Champions League"
-    ],
-    "link": "https://www.football365.com/news/football-quiz-trivia-champions-league-final-host-city-cities-since-2000",
-    "image": "https://www.football365.com/content/themes/f365-sportsui/img/png/placeholder.png",
-    "date": "2025-09-17 08:57:11",
-    "source": "football365",
-    "body": [
-      "Munich is preparing to stage the Champions League final this weekend. Can you recall the other host cities for every final this century?",
-      "The Allianz Arena is the venue for PSG’s clash with Inter Milan – the second final to take place in Bavaria since 2000. You’re welcome.",
-      "We’ve given you the finalists, now we need the host city for each final. We reckon 2004 might wreck a few heads.",
-      "You’ve got 365 seconds. As ever, record your scores on the leaderboard and drop them Below The Line.",
-      "God speed!",
-      "If you enjoyed that and need more reasons to dodge work, we’ve got plenty more quizzes here. And our friends at Planet Football have even more.",
-      "In the meantime, make sure you don’t miss these…",
-      "MUST-READ FROM F365\n👉 Stat leaders in Europe: Mbappe Golden Boot winner, Salah most assists, Yamal most take-ons\n👉 Paris Saint-Germain vs Inter Milan prediction, expected line-ups, how to watch and stats",
-      "More CL quizzes: Name every winner | Highest scorers | Missing Men: AC Milan’s 2005 losers",
-      "Newcastle’s clash with Barcelona inevitably prompts memories of Tino Asprilla’s hat-trick in 1997. But can you recall his 10 Toon team-mates?",
-      "Alisson is closing in on the top 10 for Champions League clean sheets. Can you identify the goalkeepers already in there?",
-      "Harder than it sounds, this… how quickly can you recall all 24 European Cup and the Champions League winners?",
-      "There are 12 deadly marksmen on this list of the Champions League top scorers. Can you guess them all inside 365 seconds?",
-      "Only one player in this 10 is still adding to their total – can you name him and the other nine stars with most Champions League minutes?",
-      "These are the champions! The group stage begins tonight, but how many of the 36 competing clubs can you recall?"
-    ]
-  },
-  {
-    "headline": "Arsenal second XI would finish in top six as Premier League back-ups ranked",
-    "tags": [
-      "Premier League"
-    ],
-    "link": "https://www.football365.com/news/arsenal-second-xi-premier-league-back-ups-ranked",
-    "image": "https://www.football365.com/content/themes/f365-sportsui/img/png/placeholder.png",
-    "date": "2025-09-17 07:36:50",
-    "source": "football365",
-    "body": [
-      "The return of European football this week means the phony war phase of the 25/26 season is over and real test now begins with a diet of two games a week the order of the day for all the big clubs apart from Manchester United between now and the Busy Festive Period.",
-      "Squad depth inevitably becomes a key factor over these next few months, so let’s take the opportunity to rank the Premier League’s ‘Big Eight’ based on their preparedness for the task.",
-      "Obviously Manchester United don’t really belong here, but it’s still fun to look at their second XI anyway, isn’t it? Shut up, it is. And let us tell you this: it’s just as well they haven’t got two games a week.",
-      "There are, inevitably, fudges here. There is not really such a thing as ‘first XI’ and ‘second XI’ in the modern squad game. So just try and remember that it’s all a bit of fun, yeah? A distraction from the bad things that happen.",
-      "Among the biggest fudges we’ve made are those around injured players. On the one hand it felt daft to include, say, James Maddison even in a hypothetical Tottenham team. But at the same time it seemed silly to deny ourselves Noni Madueke in Arsenal’s back-up XI just because Bukayo Saka is out for a few weeks.",
-      "The rough rule of thumb is that injured players expected to be back before 2026 are included; those not expected to be seen until next year are not.",
-      "",
-      "Marco Bizot; Andres Garcia, Pau Torres, Victor Lindelof, Ian Maatsen; Boubacar Kamara, Ross Barkley; Emi Buendia, Harvey Elliott, Donyell Malan; Evann Guessand",
-      "Starts off well enough, but quickly disintegrates in front of your eyes. It’s a stark reminder of just how hard teams like Villa have it in trying to compete with the country’s elite in terms of squad depth and composition.",
-      "And while we do think it’s past time they stopped whingeing about PSR and got on with it, it’s still easy enough to share or at least understand their frustration. The Thursday-Sunday workload for a team that have already made an alarmingly poor Premier League start could be killer looking at this lack of squad depth. We’ve had to include more injured players than would ideally have been the case as well, although that does at least mean we all avoid the indignity of Lindelof in midfield. Every cloud.",
-      "",
-      "Aaron Ramsdale; Emil Krafth, Malik Thiaw, Sven Botman, Lewis Hall; Jacob Ramsey, Joe Willock, Lewis Miley; Harvey Barnes, William Osula, Anthony Elanga",
-      "It’s not the worst defence around, and by going with the back four Newcastle have predominantly used we do get to have Sven Botman as a high-class back-up because it’s impossible on this season’s current numbers to leave out either Dan Burn or Fabian Schar.",
-      "The midfield looks a touch flimsy, and goals may well be the problem for this team. We also retain the right to change this team about a bit once we know how exactly Newcastle plan to deploy Nick Woltemade and Yoane Wissa, but our current best guess is that both are in that first-choice XI, which does at least give this underpowered Newcastle team a couple of useful wide players.",
-      "",
-      "Senne Lammens; Tyler Fredricson, Harry Maguire, Ayden Heaven; Diogo Dalot, Casemiro, Kobbie Mainoo, Tyrell Malacia; Mason Mount, Amad Diallo, Joshua Zirkzee",
-      "It’s not just the first XI being screwed up by Ruben Amorim’s absolute insistence on his precious back three. In the real world, of course, one imagines he’d sooner actually deploy Casemiro back there than go with two rookies flanking poor old Harry Maguire, but it only shifts the problem elsewhere with Lisandro Martinez out of contention for the foreseeable.",
-      "Diogo Dalot being in the second XI feels like a quirk given he nearly always plays when available, but it does always feel like that’s because he’s actually first reserve in about six different positions rather than first choice anywhere.",
-      "READ: Is this the team that takes Man Utd back into Europe? With or without Amorim…",
-      "",
-      "Filip Jorgensen; Malo Gusto, Wesley Fofana, Benoit Badiashile, Jorrel Hato; Romeo Lavia, Andrey Santos; Estevao, Facundo Buonanotte, Jamie Gittens; Liam Delap",
-      "Can argue around the fringes of a few of these, especially Gittens v Garnacho, but it’s a solid enough team. As it ought to be for the BlueCo Player Trading Facility. It’s going to feel very odd when Liam Delap is fit again and Chelsea have two actual strikers to choose from.",
-      "What does quickly become clear with a lot of these second XIs is that the defence is very often the primary cause of concern, and that’s definitely the case here. Doesn’t help when even your first-choice keeper is no confidence-inspirer, mind.",
-      "",
-      "Antonin Kinsky; Archie Gray, Kevin Danso, Ben Davies, Destiny Udogie; Lucas Bergvall, Yves Bissouma; Brennan Johnson, Wilson Odobert, Randal Kolo Muani; Dominic Solanke",
-      "Spurs’ lack of defensive numbers are writ large here in a squad where Djed Spence has now surely usurped Destiny Udogie as first-choice left-back but also remains first understudy to Pedro Porro on the opposite flank. That means poor old Archie Gray gets shoehorned into this fictitious team just as he was shoehorned into so many actual Spurs teams last season.",
-      "Ben Davies as a first reserve in big 2025 is a hilarious situation, and Spurs fans will just have to keep everything crossed that Frankball continues to place far less stress on Micky van de Ven’s twangy hamstrings than Angeball did.",
-      "Further forward… it’s not too bad, although Xavi Simons’ status as the only real lock-picker in the long-term absence of both Dejan Kulusevski and James Maddison leaves a front four where perspiration would appear to significantly outdo inspiration.",
-      "We’ve had to go for a 4-2-3-1 here rather than Frank’s preferred 4-3-3 just on a numbers game; and even then we’ve had to include the apparently discarded Yves Bissouma, who was not named in Spurs’ Champions League squad.",
-      "READ: Spurs stumble through ‘miracle’ Champions League return as Frank’s side powered by Arsenal boos",
-      "",
-      "Giorgi Mamardashvili; Jeremie Frimpong, Joe Gomez, Giovanni Leoni, Andrew Robertson; Wataru Endo, Stefan Bajcetic; Federico Chiesa, Curtis Jones, Rio Nguhoma; Hugo Ekitike",
-      "Arne Slot attempting to solve his Trent Alexander-Arnold problem by playing Dominik Szoboszlai as his first-choice right-back gives us a strong start to this XI, with Liverpool having once again secured themselves A+ goalkeeping back-up after Caoimhin Kelleher’s years of top service.",
-      "That hole left at centre-back by the failure to get Marc Guehi over the line really is a large one, though. Really does feel like Liverpool are one halfway serious injury away from a crisis in there.",
-      "",
-      "James Trafford; Matheus Nunes, Nathan Ake, Abdukodir Khusanov, Rico Lewis; Nico Gonzalez, Nico O’Reilly, Mateo Kovacic; Savinho, Rayan Cherki, Omar Marmoush",
-      "It’s an XI that wouldn’t feel entirely absurd to see in action, and you can’t really ask for much more than that. Rico Lewis shuttled over to left-back is a bit of a positional fudge and there’s no denying it’s a midfield three that tends toward the dreary.",
-      "If you want an XI with more creative oomph, then Oscar Bobb could come in for O’Reilly and turn it into more of a 4-2-3-1, we guess. But the front three is good fun regardless. So it balances out. Kind of.",
-      "",
-      "Kepa Arrizabalaga; Ben White, Piero Hincapie, Cristhian Mosquera, Myles Lewis-Skelly; Christian Norgaard, Mikel Merino; Noni Madueke, Ethan Nwaneri, Gabriel Martinelli; Kai Havertz",
-      "Come on, now. That’s just daft, isn’t it? That’s just… just a completely fine top-six Premier League starting XI. There is not one conspicuous point of weakness, no fudge where a player is shoehorned into a secondary role to fill a gap and do a job.",
-      "Not one player you’d have any concerns about fulfilling the exact role they’re occupying here in any game.",
-      "We’d be genuinely interested to see where this hypothetical team might finish for Arsenal across a whole Premier League season, and there really would only need to be the slightest distorting of reality to arrive at our preferred banter answer of second.",
-      "If this title-chasing Arsenal Reserve team did need to freshen up their attack, they’ve still got Leandro Trossard and Max Dowman to call on. Silly.",
-      "READ: Arsenal have ‘two things’ needed to win Champions League despite Viktor Gyokeres ‘problem’",
-      "",
-      "On-loan Chelsea striker Nicolas Jackson was blown away by new Arsenal signing Noni Madueke during his time at Stamford Bridge.",
-      "Unless it’s against European elite, Champions League games have become basically like playing Bournemouth now for Premier League teams.",
-      "While Liverpool dominate the narrative, one Chelsea fan wants to talk about Enzo Maresca ‘making it up as he goes along’.",
-      "Screaming obscenities until an emotional football manager loses his temper does not a Liverpool hero make. Or at least it shouldn’t.",
-      "Are those late Liverpool winners sustainable after all? Unlike Arsenal, this Liverpool side are never boring.",
-      "The pressure on Ruben Amorim and his sheer bloody-mindedness means we must consider his replacements. And we’ve talked ourselves on board the Gareth Southgate train…"
     ]
   },
   {
