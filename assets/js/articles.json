@@ -1,11 +1,34 @@
 [
   {
+    "headline": "Ruben Amorim drops big hint on January transfer plans after new Man Utd injury scare",
+    "tags": [
+      "Man Utd",
+      "Amorim"
+    ],
+    "link": "https://www.mirror.co.uk/sport/football/transfer-news/man-utd-january-transfer-hint-36214435",
+    "image": null,
+    "date": null,
+    "source": "mirror",
+    "body": [
+      "Ruben Amorim has acknowledged Manchester United might need to bolster their forward line in January, with the decision hinging on how serious Benjamin Sesko's injury proves to be following the clash with Tottenham Hotspur on Saturday",
+      "The manager addressed the striker's fitness concerns during his post-match media briefing after the 2-2 draw. \"We have to check,\" he said. \"He had something in his knee, let's see. Pressed on whether the issue was significant, Amorim responded: \"I have no idea. Because it's the knee, we never know.\"",
+      "Sesko squandered two promising opportunities against Spurs when presented with decent scoring chances, though Amorim dismissed suggestions that a confidence crisis was the root cause. He remarked: \"No, I think... I think that is not the biggest concern now.",
+      "\"That happened in the same way that he is not scoring and then he scores two goals in the next two games [Brentford and Sunderland ], so that happens, especially with a striker. I'm more concerned with an injury because it's in the knee and I don't know. We need Ben to be a better team.\"",
+      "United face the prospect of losing Bryan Mbeumo, Amad and Noussair Mazraoui to the Africa Cup of Nations in December, a situation that has led Amorim to suggest the club might enter the January transfer market. Amorim acknowledged that the seriousness of Sesko's knee problem might affect their strategy.",
+      "\"We have to check everything, we have to check what has happened with Ben,\" he said.",
+      "\"Of course, we are going to have a problem there [with AFCON], but we already knew. Then you can prepare that in the summer, but then you have a lot of players in the summer who are not going to play because it's one game per week. So the management of that situation is going to be hard.",
+      "\"But let's see when the window is open, if we can improve the team and try to prepare something that happened. Until then, we have to take the chance.\"",
+      "Sky will show at least 215 live Premier League games next season, an increase of up to 100 more.",
+      "At  Reach and across our entities  we and our partners use information collected through cookies and other identifiers from your device to improve experience on our site, analyse how it is used and to show personalised advertising. You can opt out of the sale or sharing of your data, at any time clicking the \"Do Not Sell or Share my Data\" button at the bottom of the webpage. Please note that your preferences are browser specific. Use of our website and any of our services represents your acceptance of the use of  cookies  and consent to the practices described in our Privacy Notice and Terms and Conditions."
+    ]
+  },
+  {
     "headline": "Bryan Mbeumo likened to Mohamed Salah after latest Man Utd goal vs Tottenham",
     "tags": [
       "Man Utd"
     ],
     "link": "https://www.mirror.co.uk/sport/football/news/man-utd-bryan-mbeumo-salah-36214224",
-    "image": null,
+    "image": "https://i2-prod.mirror.co.uk/incoming/article36214245.ece/ALTERNATES/n615/0_Untitled-1.jpg",
     "date": null,
     "source": "mirror",
     "body": [
@@ -54,7 +77,7 @@
       "Man Utd"
     ],
     "link": "https://www.mirror.co.uk/sport/football/news/tottenham-players-were-mad-after-36214062",
-    "image": "https://i2-prod.mirror.co.uk/incoming/article36214290.ece/ALTERNATES/n615/0_Tottenham-Hotspur-v-Manchester-United-Premier-League.jpg",
+    "image": null,
     "date": null,
     "source": "mirror",
     "body": [
@@ -77,7 +100,7 @@
       "Man Utd"
     ],
     "link": "https://www.mirror.co.uk/sport/football/news/man-utd-injury-sekou-kone-36214063",
-    "image": null,
+    "image": "https://i2-prod.mirror.co.uk/sport/football/news/article36182569.ece/ALTERNATES/n615/1_Manchester-United-Training-Session.jpg",
     "date": null,
     "source": "mirror",
     "body": [
@@ -305,7 +328,7 @@
       "Man Utd"
     ],
     "link": "https://www.mirror.co.uk/sport/football/match-reports/tottenham-vs-man-utd-goal-36213305",
-    "image": "https://i2-prod.mirror.co.uk/incoming/article36213588.ece/ALTERNATES/n615/0_BANNER-Mirror-ManUtd3.jpg",
+    "image": null,
     "date": null,
     "source": "mirror",
     "body": [
@@ -345,7 +368,7 @@
     "headline": "Tottenham fans get immediate response after booing unpopular Thomas Frank decision",
     "tags": [],
     "link": "https://www.mirror.co.uk/sport/football/news/breaking-tottenham-frank-man-utd-36212606",
-    "image": null,
+    "image": "https://i2-prod.mirror.co.uk/sport/article36213460.ece/ALTERNATES/n615/0_GettyImages-2245072766.jpg",
     "date": null,
     "source": "mirror",
     "body": [
@@ -371,7 +394,7 @@
       "Maguire"
     ],
     "link": "https://www.mirror.co.uk/sport/football/news/breaking-man-utd-harry-maguire-36213392",
-    "image": "https://i2-prod.mirror.co.uk/incoming/article36213395.ece/ALTERNATES/n615/1_G5PNcyJXMAAID_pjpeg.jpg",
+    "image": null,
     "date": null,
     "source": "mirror",
     "body": [
@@ -443,7 +466,7 @@
       "Man Utd"
     ],
     "link": "https://www.mirror.co.uk/sport/football/news/breaking-man-utd-jack-fletcher-36212552",
-    "image": null,
+    "image": "https://i2-prod.mirror.co.uk/incoming/article36212656.ece/ALTERNATES/n615/0_GettyImages-2209601241.jpg",
     "date": null,
     "source": "mirror",
     "body": [
@@ -494,7 +517,7 @@
       "Man Utd"
     ],
     "link": "https://www.mirror.co.uk/sport/adam-wharton-man-utd-transfer-36212288",
-    "image": "https://i2-prod.mirror.co.uk/incoming/article36212314.ece/ALTERNATES/n615/0_Crystal-Palace-FC-v-Nottingham-Forest-FC-Premier-League.jpg",
+    "image": null,
     "date": null,
     "source": "mirror",
     "body": [
@@ -540,37 +563,6 @@
       "\"Thomas Frank, I've been impressed with him, there was an incident after the game where the players refused to shake his hand.",
       "\"I'm not even sure Thomas Frank should have been on the pitch at that point, because this might have worked at Brentford but when you're playing Chelsea, they're an nemesis team for Spurs, you think about when they denied them winning the league all those years ago.",
       "\"He probably shouldn't have been there, they were hurting and rightly so, but I like Thomas Frank. But there's an intensity or lack of intensity at home which they're suffering from at the moment.\"",
-      "Sky will show at least 215 live Premier League games next season, an increase of up to 100 more.",
-      "At  Reach and across our entities  we and our partners use information collected through cookies and other identifiers from your device to improve experience on our site, analyse how it is used and to show personalised advertising. You can opt out of the sale or sharing of your data, at any time clicking the \"Do Not Sell or Share my Data\" button at the bottom of the webpage. Please note that your preferences are browser specific. Use of our website and any of our services represents your acceptance of the use of  cookies  and consent to the practices described in our Privacy Notice and Terms and Conditions."
-    ]
-  },
-  {
-    "headline": "Thomas Frank called out for Spurs moment vs Chelsea ahead of pivotal Man Utd clash",
-    "tags": [
-      "Man Utd"
-    ],
-    "link": "https://www.mirror.co.uk/sport/football/news/frank-spurs-chelsea-man-utd-36212272",
-    "image": null,
-    "date": null,
-    "source": "mirror",
-    "body": [
-      "Martin Keown has called out Thomas Frank for walking onto the pitch following Tottenham Hotspur's defeat to Chelsea. The Dane marched onto the field only to be snubbed by Micky van de Ven and Djed Spence.",
-      "Frank downplayed the incident in his post-match press conference, and he later claimed to have accepted an apology from the duo. Red mist descended over north London last weekend, with the humiliating defeat to Enzo Maresca's side highlighting the Lilywhites' poor home record in the Premier League.",
-      "Spurs have managed just three victories in their last 19 Premier League matches on home turf. Ange Postecoglou coached wins over Manchester United in February and Southampton in April.",
-      "Frank kicked off the new season with a commanding 3-0 home victory against Burnley. The Dane hasn't celebrated a home league win since, with Tottenham suffering defeats to Bournemouth, Aston Villa and Chelsea, while sharing the points with Wolves.",
-      "The Spurs boss will be desperate to fix this worrying pattern when he faces Ruben Amorim on Saturday afternoon. Speaking to talkSPORT, Keown addressed the north London outfit's problem.",
-      "As quoted by football.london, the Arsenal legend said: \"It seems strange that Spurs are struggling to win a home game. I think it's only one win in five. Away from home, they've been quite magnificent.",
-      "\"I've just sat down in the last hour and watched the game last week against Chelsea, and honestly, stop-start, no intensity, not pressing from the front. Thomas Frank, I've been impressed with him. There was an incident after the game where the players refused to shake his hands.",
-      "\"I'm not even sure Thomas Frank should've been on the pitch at that point because that might've worked at Brentford, but when you're playing against Chelsea, their nemesis team, isn't it for Spurs – they denied them from winning the league all those years ago.",
-      "\"He probably shouldn't have been there. They were hurting, and rightly so. I like Thomas Frank, but there's a lack of intensity at home, which they're suffering from at the moment.\"",
-      "Fanatics has slashed up to 60% off football kits and merch. Until Sunday, fans can find discounts on products from Premier League clubs including Man United, Man City, Liverpool, Everton, Arsenal, Spurs and more.",
-      "Manchester United have been in excellent form, winning four of their last six matches. Amorim was named manager of the month in October for his efforts, while Bryan Mbeumo scooped up the player of the month award.",
-      "The red Devils have risen to eighth in the Premier League, with just two points separating them from Manchester City in second place. Keown added: \"We have to say it's an improvement.",
-      "\"Finally, the players are taking on board what the manager is asking them to do. [Matheus] Cunha and Mbeumo, the amount of work that they're doing is absolutely ridiculous.",
-      "\"They retreat to the edge of their own box. They're able to get three players on the sides. And, also, what's happening is, if you look at Luke Shaw, he'll come out now from the back-three to go and press, and Amad on the right will form a back-four.",
-      "\"So, there's a lot of information for those players. It seems to have taken them a hell of a long time, but now you look at the number of chances that they're creating.",
-      "\"If you look at what happened to Arsenal at the start of the season, they had eight shots on target against Arsenal. I think since then, it's maybe eight from all the opponents that Arsenal have played since.",
-      "\"So, that gives you an idea that this is a Manchester United team that is improving, but there's still some way to go.\"",
       "Sky will show at least 215 live Premier League games next season, an increase of up to 100 more.",
       "At  Reach and across our entities  we and our partners use information collected through cookies and other identifiers from your device to improve experience on our site, analyse how it is used and to show personalised advertising. You can opt out of the sale or sharing of your data, at any time clicking the \"Do Not Sell or Share my Data\" button at the bottom of the webpage. Please note that your preferences are browser specific. Use of our website and any of our services represents your acceptance of the use of  cookies  and consent to the practices described in our Privacy Notice and Terms and Conditions."
     ]
@@ -824,6 +816,28 @@
     ]
   },
   {
+    "headline": "Harry Maguire and Casemiro respond amid injury scares over three Man United players",
+    "tags": [
+      "Maguire",
+      "Casemiro"
+    ],
+    "link": "https://www.manchestereveningnews.co.uk/sport/football/football-news/man-united-injury-maguire-casemiro-32838725",
+    "image": null,
+    "date": null,
+    "source": "manchestereveningnews",
+    "body": [
+      "Casemiro has described the 2-2 draw with Tottenham Hotspur as a battle after three Manchester United players came off injured.",
+      "The midfielder was one of those, substituted at the same time as Harry Maguire came off midway through the second half. Matheus Cunha was also withdrawn, with Diogo Dalot coming off soon after as Ruben Amorim made his fifth and final change.",
+      "One of those substitutes, Benjamin Sesko, then went down mere minutes later and was unable to continue. He then had to hobble off the pitch and down the tunnel, reducing United to ten players for the remainder of the match in north London.",
+      "Sesko has yet to post on social media after the match, but both Casemiro and Maguire have. The latter said: \"What a battle in London, lads!!\"",
+      "Maguire also shared one of his own. \"Frustrated we couldn't bring the 3 points back with us, but the lads showed spirit and fight till the end,\" it reads.",
+      "Amorim spoke about all three players after the match. \"When we have to take out Maguire and Casemiro at the same time, then suffer two goals, then losing Ben, you have to overcome everything,\" the head coach said.",
+      "Then on Sesko, he said: \"I'm concerned with an injury, because it is in the knee, and I don't know. We need Ben [Sesko] to be a better team. We have to check. He has something in his knee. Let's see.\"",
+      "Sky will show at least 215 live Premier League games this season, an increase of up to 100 more.",
+      "At  Reach and across our entities  we and our partners use information collected through cookies and other identifiers from your device to improve experience on our site, analyse how it is used and to show personalised advertising. You can opt out of the sale or sharing of your data, at any time clicking the \"Do Not Sell or Share my Data\" button at the bottom of the webpage. Please note that your preferences are browser specific. Use of our website and any of our services represents your acceptance of the use of  cookies  and consent to the practices described in our Privacy Notice and Terms and Conditions."
+    ]
+  },
+  {
     "headline": "Maguire, Sesko, Mainoo, Casemiro - Man United injury news after Tottenham draw",
     "tags": [
       "Maguire",
@@ -960,26 +974,6 @@
       "Reds head coach Ruben Amorim named Kone in the USA pre-season tour squad, but the youngster did not make an appearance. Amorim named Kone in three Premier League matchday squads last season - against Tottenham Hotspur, Everton and Nottingham Forest - without giving him his debut for the club.",
       "United paid around £1million to sign Kone from Malian club Guidars FC in August 2024.",
       "Sky will show at least 215 live Premier League games this season, an increase of up to 100 more.",
-      "At  Reach and across our entities  we and our partners use information collected through cookies and other identifiers from your device to improve experience on our site, analyse how it is used and to show personalised advertising. You can opt out of the sale or sharing of your data, at any time clicking the \"Do Not Sell or Share my Data\" button at the bottom of the webpage. Please note that your preferences are browser specific. Use of our website and any of our services represents your acceptance of the use of  cookies  and consent to the practices described in our Privacy Notice and Terms and Conditions."
-    ]
-  },
-  {
-    "headline": "Why Jack Fletcher is in Man United squad vs Tottenham as Ruben Amorim explains shock call",
-    "tags": [
-      "Amorim"
-    ],
-    "link": "https://www.manchestereveningnews.co.uk/sport/football/jack-fletcher-man-united-squad-32837242",
-    "image": null,
-    "date": null,
-    "source": "manchestereveningnews",
-    "body": [
-      "Ruben Amorim believes Jack Fletcher is ready to make the step up to the first team having been named in the Manchester United squad against Tottenham.",
-      "Kobbie Mainoo picked up a knock in the build-up to the clash and did not travel with his teammates to the capital on Friday night.",
-      "\"It is really important,\" Amorim said. \"If we are going to take some corners to try and succeed right away it is the wrong thing. There are some special things in our club that we need to be bulletproof.",
-      "\"It's the way we behave, the way we play, the small things, we are not going to stop with the academy players. It doesn't matter the results, it doesn't matter anything else, we need to continue with the small details that are the foundations of our club.",
-      "\"We have that record, we are not going to break that record. Jack is ready to help us so we put two things together. We show that our academy is the future, that our players from the academy need to be ready because we are going to need them at some point. Jack is ready.\"",
-      "Amorim has rung the changes for the game, with Noussair Mazraoui, Harry Maguire and Patrick Dorgu coming into the side. Diogo Dalot, Benjamin Sesko and Leny Yoro have dropped to the bench.",
-      "You can follow the action with MEN Sport right here.",
       "At  Reach and across our entities  we and our partners use information collected through cookies and other identifiers from your device to improve experience on our site, analyse how it is used and to show personalised advertising. You can opt out of the sale or sharing of your data, at any time clicking the \"Do Not Sell or Share my Data\" button at the bottom of the webpage. Please note that your preferences are browser specific. Use of our website and any of our services represents your acceptance of the use of  cookies  and consent to the practices described in our Privacy Notice and Terms and Conditions."
     ]
   },
@@ -1223,6 +1217,46 @@
     ]
   },
   {
+    "headline": "Manchester United problem player obvious as Amorim obsession hinders far more than it helps",
+    "tags": [
+      "Man Utd",
+      "Amorim"
+    ],
+    "link": "https://www.football365.com/news/amorim-must-drop-manchester-united-problem-player-obvious-replacement",
+    "image": "https://images.ps-aws.com/c?url=https%3A%2F%2Fd2x51gyc4ptf2q.cloudfront.net%2Fcontent%2Fuploads%2F2025%2F11%2F08181806%2FManuel-Ugarte-Wilson-Odobert-F365-1320x742.jpg",
+    "date": "2025-11-08 18:33:53",
+    "source": "football365",
+    "body": [
+      "Manchester United fans are losing patience with £51million midfielder Manuel Ugarte, while Casemiro’s stock continues to rise.",
+      "Ugarte came off the bench in United’s 2-2 draw at Tottenham on Saturday afternoon with his side 1-0 up.",
+      "Thomas Frank’s side equalised 12 minutes after the Uruguayan’s introduction, and seven minutes later, the Red Devils were 2-1 down.",
+      "United did salvage a draw in the 96th minute thanks to Matthijs de Ligt, but it was another poor performance from Ugarte, who was beaten too easily by Wilson Odobert for Spurs’ equaliser and played Richarlison onside for his 91st-minute header.",
+      "There’s no doubt that Casemiro is a vastly superior option to Ugarte in Ruben Amorim’s midfield, with a defensive-minded midfielder needed for the role next to Bruno Fernandes.",
+      "But as Ugarte is earning £120,000 a week, cost the club £51m from Paris Saint-Germain, and Amorim is obsessed with making substitutions – whether necessary or not – he will continue to come off the bench.",
+      "At this point, his involvement is hurting Manchester United, not helping them.",
+      "Ugarte is meant to bring solidity to the middle of the park and help see out games. Instead, he’s literally doing the opposite, acting more like a super sub for the opposition than the Red Devils.",
+      "Odobert glided past him as if he wasn’t there for Spurs’ equaliser, and Ugarte stepping up for Richarlison’s go-ahead goal was incredibly lazy, showing a lack of concentration and awareness.",
+      "Don’t just take our word for it; the proof is in the pudding.",
+      "In the Premier League, Manchester United haven’t won during Ugarte’s time on the pitch, and their +/- goals is -6, with a +/- points per 90 minutes of 1.89.",
+      "Furthermore, United have conceded nine goals in only 285 minutes with Ugarte on the pitch, while Casemiro has been on for only five of the 18 goals conceded in 543 minutes this season.",
+      "In terms of goals scored, United have netted 12 with Casemiro on the pitch and only three with Ugarte.",
+      "Looking at specific examples:",
+      "We haven’t even mentioned that Ugarte started in the Carabao Cup at Grimsby Town and was hooked at half-time with Amorim’s men 2-0 down.",
+      "Casemiro’s game by numbers vs. Spurs:",
+      "100% long pass accuracy\n100% cross accuracy\n83% pass accuracy\n56% ground duels won\n44 touches\n5 passes into the final third\n5 ball recoveries\n4 tackles\n4 clearances",
+      "Having a brilliant season. 👏 pic.twitter.com/TjWuEIGqsl",
+      "— Statman Dave (@StatmanDave) November 8, 2025",
+      "There’s still time for Ugarte to come good. After all, Casemiro was world class, then abysmal, and is now one of United’s most important players – definitely Amorim’s biggest success story in the squad.",
+      "Ugarte is more of a hindrance than a help defensively, and is obviously limited going forward, so it’s surely time for Amorim to properly trial a partnership of Kobbie Mainoo and Fernandes if he doesn’t want to keep Casemiro on for the full 90 minutes.",
+      "Substituting Casemiro off seems to be a habit for Amorim. Unnecessary substitutions are becoming one of his strongest ‘attributes’.",
+      "The Portuguese manager constantly changes his centre-backs mid-game, bringing off Harry Maguire against Spurs, for example, despite him playing well.",
+      "According to reports, two ‘struggling’ Manchester United stars face being offloaded next year, while the Red Devils could seal a bargain transfer.",
+      "Man Utd face ‘decision time’ on the futures of Kobbie Mainoo, Manuel Ugarte and Harry Maguire, according to transfer expert Fabrizio Romano.",
+      "One of Erik ten Hag’s signings at Man Utd has been labelled a “wet blanket” by Craig Burley, who would put them “in with the kids”.",
+      "Manchester United didn’t buy a midfielder because they felt they have ‘strong and versatile’ options. Ruben Amorim needs Manuel Ugarte to shape up sharpish as one of them…"
+    ]
+  },
+  {
     "headline": "Amorim blushes spared by De Ligt as Frank outclasses Man Utd boss from the touchline",
     "tags": [
       "Man Utd",
@@ -1230,7 +1264,7 @@
       "De Ligt"
     ],
     "link": "https://www.football365.com/news/opinion-amorim-blushes-spared-de-ligt-frank-outclased-man-utd-touchline",
-    "image": "https://images.ps-aws.com/c?url=https%3A%2F%2Fd2x51gyc4ptf2q.cloudfront.net%2Fcontent%2Fuploads%2F2025%2F11%2F08145854%2F3D43E53-2-1320x742.jpg",
+    "image": "https://images.ps-aws.com/c?url=https%3A%2F%2Fd2x51gyc4ptf2q.cloudfront.net%2Fcontent%2Fuploads%2F2025%2F11%2F08145854%2F3D43E53-2-638x358.jpg",
     "date": "2025-11-08 15:10:25",
     "source": "football365",
     "body": [
@@ -1370,7 +1404,7 @@
     "headline": "Party’s over, Pep: Five tactical throwbacks we want to see follow long throws",
     "tags": [],
     "link": "https://www.football365.com/news/five-tactical-throwbacks-premier-league-long-throws-set-pieces",
-    "image": "https://images.ps-aws.com/c?url=https%3A%2F%2Fd2x51gyc4ptf2q.cloudfront.net%2Fcontent%2Fuploads%2F2025%2F11%2F06222435%2FPep-Guardiola-Sam-Allardyce-638x358.jpg",
+    "image": "https://www.football365.com/content/themes/f365-sportsui/img/png/placeholder.png",
     "date": "2025-11-08 07:25:03",
     "source": "football365",
     "body": [
@@ -2160,83 +2194,6 @@
     ]
   },
   {
-    "headline": "Champions League prize money table calculated as Liverpool leapfrog Real Madrid with win",
-    "tags": [
-      "Champions League",
-      "LIVE"
-    ],
-    "link": "https://www.football365.com/news/champions-league-2025-26-prize-money-table-arsenal-liverpool",
-    "image": "https://www.football365.com/content/themes/f365-sportsui/img/png/placeholder.png",
-    "date": "2025-11-04 23:07:34",
-    "source": "football365",
-    "body": [
-      "A perfect Champions League record would land clubs a minimum of £115m this season, with Arsenal, Chelsea, Liverpool and Man City due more with TV payments.",
-      "There is a reason that eight of Europe’s biggest spenders in the 2025 transfer window came from the Premier League, including all six Champions League qualifiers: prize money.",
-      "The levels of money on offer in numerous competitions are preposterous and perhaps no more so than in the Champions League, in which clubs can earn well in excess of nine figures.",
-      "",
-      "As part of the revamped formats for their three main competitions, UEFA have announced a revenue distribution system for how the total prize money of around £2.88billion would be allocated each season up to 2026/27.",
-      "Just over £2.1bn (74.38%) will be distributed to clubs competing in the Champions League and Super Cup, £490.7m (17.02%) to teams participating in the Europa League, and £247.5m (8.6%) split between those in the Europa Conference League.",
-      "In the Champions League, the pot is further broken down into:",
-      "1) Equal shares (£581.7m/27.5%) – a set ‘starting fee’ of £16.2m for all 36 clubs which qualify for the league phase, who are guaranteed this money regardless of subsequent results in the competition.",
-      "2) Performance-related fixed amounts (£793.6m/37.5%) – £1.8m per each league phase win, £608,000 per each league phase draw and £238,000 per each league phase position, going up in increments from the team in 36th receiving £238,000 and the team in 1st receiving £8.57m.",
-      "Undistributed amounts from each league phase draw – £608,000 – are also allocated proportionately to these ranking payments at the end of the league phase, so the prize money for positions will be higher.",
-      "There is also extra money on offer for finishing in the top eight and for coming between 9th and 16th. This is how Liverpool made a fortune despite being knocked out in the last 16.",
-      "3) The ‘value pillar’ (£740.6m/35%) – a combination of payments based on club coefficient rankings and the TV pool. This can be harder to accurately calculate but will naturally reward the ‘bigger’ clubs and traditional elite.",
-      "Paris Saint-Germain, Bayern Munich, Real Madrid and the Premier League’s four regular European qualifiers in Manchester City, Liverpool, Chelsea and Arsenal would be the biggest winners here, with Qarabag, Pafos and Kairat due more modest sums.",
-      "A rough estimation of all 36 participating clubs’ value pillar payments will be factored into the final prize money total, which for a few clubs should far exceed £100m.",
-      "There is also a fixed fee of £3.73m for all clubs eliminated in the qualification play-offs before the commencement of the league phase. That is for the Celtics and Rangers’ of this world.",
-      "",
-      "The following is an estimated breakdown of how much prize money each team has already earned from participating in the Champions League in 2025/26, before matchday revenue and other factors are taken into account.",
-      "1) Bayern Munich – £60.74m",
-      "2) Paris Saint-Germain – £59.9m",
-      "3) Manchester City – £59.82m",
-      "4) Liverpool – £58.5m",
-      "5) Real Madrid – £57.55m",
-      "6) Arsenal – £55.53m",
-      "7) Chelsea – £54.44m",
-      "8) Borussia Dortmund – £52.36m",
-      "9) Barcelona – £51.32m",
-      "10) Inter – £50.25m",
-      "11) Atletico Madrid – £48.28m",
-      "12) Spurs – £47.92m",
-      "13) Bayer Leverkusen – £47.01m",
-      "14) Eintracht Frankfurt – £41.26m",
-      "15) Juventus – £40.76m",
-      "16) Monaco – £40.12m",
-      "17) Marseille – £39.71m",
-      "18) Atalanta – £39.44m",
-      "19) Villarreal – £38.83m",
-      "20) Benfica – £37.21m",
-      "21) Napoli – £37.09m",
-      "22) PSV – £35.09m",
-      "23) Newcastle – £33.95m",
-      "24) Ajax – £32.44m",
-      "25) Club Brugge – £31.98m",
-      "26) Sporting – £31.17m",
-      "27) Olympiacos – £28.6m",
-      "28) Athletic Bilbao – £28.51m",
-      "29) Bodo/Glimt – £27.82m",
-      "30) FC Copenhagen – £26.9m",
-      "31) Galatasaray – £25.96m",
-      "32) Slavia Prague – £24.95m",
-      "33) Qarabag – £24.05m",
-      "34) Union Saint-Gilloise – £22.17m",
-      "35) Pafos – £19.31m",
-      "36) Kairat – £18.19m",
-      "",
-      "Beyond the payments for each league phase win and draw, league phase positions can be remarkably lucrative.",
-      "There is an extra £1.74m on offer for finishing in the top eight and £868,000 for coming between 9th and 16th, with each league phase position worth £238,000 going up in increments to the team in 1st receiving £8.57m.",
-      "That money should break down as follows, before the undistributed amounts from each league phase draw are taken into account:",
-      "1st) £8.57m\n2nd) £8.33m\n3rd) £8.09m\n4th) £7.85m\n5th) £7.62m\n6th) £7.38m\n7th) £7.14m\n8th) £6.9m\n9th) £6.66m\n10th) £6.43m\n11th) £6.19m\n12th) £5.95m\n13th) £5.71m\n14th) £5.47m\n15th) £5.24m\n16th) £4.99m\n17th) £4.76m\n18th) £4.52m\n19th) £4.28m\n20th) £4.05m\n21st) £3.81m\n22nd) £3.57m\n23rd) £3.33m\n24th) £3.09m\n25th) £2.86m\n26th) £2.62m\n27th) £2.38m\n28th) £2.14m\n29th) £1.9m\n30th) £1.67m\n31st) £1.43m\n32nd) £1.19m\n33rd) £952,000\n34th) £714,000\n35th) £476,000\n36th) £238,000",
-      "On top of the payments for each league phase win, draw and placement, there are also significant amounts on offer for progressing through the Champions League.",
-      "Each knockout round is worth more money:",
-      "Reaching the knockout round play-offs – £868,000\nReaching the last 16 – £9.55m\nReaching the quarter-finals – £10.85m\nReaching the semi-finals – £13.02m\nRunners-up – £16.06m\nWinners – £21.7m",
-      "Reaching the Super Cup final is also worth another £3.47m, with an additional £868,000 for winning it. Well in, Spurs.",
-      "So winning every league phase game en route to lifting the trophy itself should bank a minimum £115.56m even before TV and coefficient money is factored in. Which is daft.",
-      "READ NEXT: Premier League prize money table calculated: What each team should earn"
-    ]
-  },
-  {
     "headline": "Stoppage-time chaos as Man Utd snatch late draw at Spurs",
     "tags": [
       "Man Utd"
@@ -2246,32 +2203,30 @@
     "date": null,
     "source": "skysports",
     "body": [
-      "Report as stoppage-time goals from Matthijs de Ligt and Richarlison cancel each other out in a frantic finale between Man Utd and Spurs; Bryan Mbeumo's first-half header had the visitors in front before Mathys Tel's late equaliser sparked comeback for Spurs",
-      "Saturday 8 November 2025 17:15, UK",
+      "Report as stoppage-time goals from Matthijs de Ligt and Richarlison cancel each other out in a frantic finale between Man Utd and Spurs; Bryan Mbeumo's first-half header had the visitors in front before Mathys Tel's equaliser sparked comeback for Spurs, now unbeaten in eight against United",
+      "Saturday 8 November 2025 18:50, UK",
       "Matthijs de Ligt's last-gasp header rescued a 2-2 draw for Manchester United at Tottenham after Richarlison thought he had scored a stoppage-time winner in a chaotic finale.",
-      "United led through Bryan Mbeumo's first-half header until substitute Mathys Tel's impressive 84th-minute equaliser kickstarted a late comeback for Spurs, who led through Richarlison seven minutes later only to let a second home league win of the season slip away.",
-      "A knee injury to substitute Benjamin Sesko - after he wasted a glorious chance immediately following Spurs' equaliser - left United down to 10, but they somehow clawed their way back as De Ligt headed in at the back post from a corner in the sixth and final minute of stoppage time.",
+      "United led through Bryan Mbeumo's first-half header until the 84th minute when substitute Mathys Tel's impressive equaliser kick-started a late comeback for Spurs, who led through Richarlison seven minutes later only to let a second home league win of the season slip away.",
+      "A knee injury to substitute Benjamin Sesko - after he wasted a glorious chance immediately following Spurs' equaliser - left United down to 10, but they somehow clawed their way back as De Ligt headed in from a corner in the sixth and final minute of stoppage time.",
       "Benjamin Sesko suffered a knee injury at Tottenham and could miss Slovenia's upcoming World Cup qualifiers. The striker will be assessed in the coming days.",
       "Spurs had never taken the lead after the regulation 90 minutes in a Premier League game and not won, while United became the first team in the competition since August 2012 to score the opening goal, go behind and not lose in successive games.",
-      "Victory would have taken either side up to second in the table, but neither showed enough to be worthy of that position in a strange game between last season's Europa League finalists. Spurs move up to third, while United are seventh for now.",
-      "United gave up a lead by conceding two quickfire goals, just as they did at Nottingham Forest, while Spurs looked toothless for long periods - as they had in that wretched defeat to Chelsea - failing to register a shot on target until the 54th minute.",
+      "Victory would have taken either side up to second in the table, but neither showed enough to be worthy of that position in a low-quality game reminiscent of last season's Europa League final. Spurs move up to third, while United are seventh for now.",
       "Spurs won all four meetings between the sides last season, including the Europa League final in Bilbao, and continue to be a bogey team for United, whose winless run against this opposition now extends to eight games.",
-      "Although Spurs avoided defeat and showed spirit to fight back, their wretched home form in the league remains a big concern, having claimed just one victory from six, which came against Burnley on the opening weekend.",
+      "Although Spurs avoided defeat showing spirit to fight back, their wretched home form in the league remains a concern, having claimed just one victory from six against Burnley this season. No ever-present side has fewer home points in the Premier League in 2025.",
       "Spurs fans booed head coach Thomas Frank's decision to remove Xavi Simons when United were leading, only for his replacement, Tel, to bring them level four minutes and 45 seconds after coming on.",
       "\"Sometimes you're lucky,\" said Frank of his substitution. \"Every single time I take a decision to sub a player, it is only with one aim: to win the game.\"",
       "It was another toothless performance from Tottenham for most of the game, as they failed to register a shot on target until the 54th minute, but Frank remained upbeat with United held to a season-low five shots.",
       "\"To play against a Man Utd team that play with confidence with Matheus Cunha, Amad Diallo, Mbeumo and Benjamin Sesko coming on, and we kept them down to five shots,\" he said.",
-      "\"That's just another example the other way around. It's not that easy just to create in the Premier League, even when they had all their big boys out there. That said, our second-half response I was extremely happy with.\"",
-      "\"We're playing home, of course, we all want to win and don't talk too much about home form,\" added Frank, whose side have taken five points from their six league matches.",
-      "\"I know we need to win before we don't talk about it. But the way we turned around to stay in the game, kept doing the right thing throughout the second half, very, very happy with that.",
-      "\"So close to winning it and on any other day, we win it.\"",
-      "United boss Ruben Amorim says the loss of Harry Maguire and Casemiro, subbed off with less than 20 minutes to go when his side were leading 1-0, was a big factor behind their second consecutive collapse.",
-      "Nottingham Forest scored twice in two minutes to overturn United's advantage in the second half last Saturday before Amad Diallo's stunning volley clawed back a point late on.",
-      "Amorim's side repeated that mistake, and rescue act, at Tottenham and he feels that despite being on a five-game unbeaten run, his longest in charge, there is still plenty of work to do.",
+      "\"It's not that easy just to create in the Premier League, even when they had all their big boys out there. That said, our second-half response I was extremely happy with.\"",
+      "\"We're playing home, of course, we all want to win and don't talk too much about home form,\" added Frank, whose side have taken five points from their six league matches at home.",
+      "\"I know we need to win before we don't talk about it. But the way we turned around to stay in the game, kept doing the right thing throughout the second half, very, very happy with that. So close to winning it and on any other day, we win it.\"",
+      "United boss Ruben Amorim was disappointed not to take all three points despite his team being on a five-game unbeaten run, the longest since he has taken charge.",
+      "Nottingham Forest scored twice in two minutes to overturn United's advantage in the second half last Saturday before Amad Diallo's stunning volley clawed back a point late on in a 2-2 draw.",
+      "It was a case of deja vu at Spurs and Amorim's response delivered a reality check for United, who once again struggled after Casemiro was taken off.",
       "\"We have a lot of problems,\" said Amorim. \"We are just in the beginning. I know that sometimes the results show to people that we are improving, but we have a lot to do.",
       "\"You can divide the game in the final 10 minutes, also when we have to take out Harry Maguire and Casemiro at the same time, then suffer two goals, then losing [Sesko], even before the second goal with a big opportunity.",
-      "\"To play with 10 men, but then to overcome everything and to manage to score, is a good thing.",
-      "\"But if you look at the rest of the game, we were comfortable in the game, but I think we should do better, be more aggressive, feeling the environment in the stadium.",
+      "\"To play with 10 men, but then to overcome everything and to manage to score, is a good thing, but if you look at the rest of the game, we were comfortable.",
+      "\"I think we should do better, be more aggressive, feeling the environment in the stadium.",
       "\"The three points were there, the space was there, and I think we felt too comfortable during the game, and we need to expect that in one play anything can happen and change the mood of the stadium, and today was that.",
       "\"We controlled the game well, but we need to do better, because the game was there for the taking.\"",
       "Super 6 are starting the season by guaranteeing a £1,000,000 winner! Play for free."
@@ -2339,55 +2294,7 @@
     "date": null,
     "source": "skysports",
     "body": [
-      "Saturday 8 November 2025 16:49, UK"
-    ]
-  },
-  {
-    "headline": "PL Predictions: Back Sunderland to snap Arsenal's winning streak",
-    "tags": [],
-    "link": "https://www.skysports.com/football/news/11095/13465409/premier-league-predictions-and-best-bets-back-sunderland-to-snap-arsenals-winning-streak",
-    "image": "https://e0.365dm.com/25/08/768x432/skysports-premier-league-football_6991468.jpg?20250815120459",
-    "date": null,
-    "source": "skysports",
-    "body": [
-      "Saturday 8 November 2025 16:33, UK",
-      "Our football betting expert Jones Knows provides his insight across the Premier League and explains why Arsenal's winning streak will be under threat at Sunderland.",
-      "Remember, football is defined by fine margins and is a very low-scoring sport.",
-      "No matter how good of a team you are, a bit of variance and misfortune is going to hit you at some point. Arsenal are a fantastic team, keeping eight clean sheets in a row and winning the last 10 - it's incredible stuff but this isn't an unbeatable outfit. They have flaws.",
-      "The outcomes in football are too volatile to allow perfection to persist.",
-      "And when it comes to betting on football, the shrewdest of gamblers out there understand this and instead of chasing the streak, they are looking for opportunities for when it snaps.",
-      "And at the prices here I want to be with Sunderland to end the Arsenal streak at the prices on offer.",
-      "Sunderland are a fiercely organised side who are defensively secure. Robin Roefs has commanded his box very efficiently in goal to the extent that Sunderland have the second-best record in the Premier League when it comes to goals conceded from set-pieces. Arsenal can be very difficult to stop from such scenarios but Sunderland look well placed to deal with the set-piece machine.",
-      "This is the time to be brave, sail against the market and get ahead of the 'bad day at the office for Arsenal' curve where all their streaks end.",
-      "My main play is to back both teams to score at 6/5 with Sky Bet with eyes also on Sunderland to win at 7/1 and Sunderland to win to nil at 12/1.",
-      "A nervous referee is a card-happy referee. We have an inexperienced one in charge here with Andrew Kitchen overseeing just his fourth Premier League game. This is the biggest and highest profile one he's been assigned to.",
-      "With these inexperienced referees the pressure of refereeing by the law, not the spirit of the game, often takes over when the Premier League microscope zooms in. A tactical foul that in the Championship might have been managed with a word suddenly becomes a nailed-on booking in the Premier League.",
-      "And Chelsea are just crazy for cards since the start of last season. Their games are averaging 4.9 yellows per game in that period - that's the highest of any team. Furthermore, this fixture does have lots of spice attached to it with the last six averaging 6.9 total cards per game, including the most recent Carabao Cup tie which saw nine yellows and a red shown.",
-      "I'm very keen on backing the cards line with 11/10 with Sky Bet on offer for over 4.5 cards shown.",
-      "Bournemouth will be rested, organised and fully revved under Andoni Iraola - and will surely fancy their chances of turning over an Aston Villa side running on European fumes. The Premier League calendar hasn't been kind to Aston Villa - facing Iraola's team after a midweek game is a brutal examination.",
-      "Thursday nights in Europe are still glamorous but they take a toll. For all of Unai Emery's tactical acumen, his squad isn't yet deep enough to juggle the workload without something giving.",
-      "Bournemouth have had a full week to prepare, to rest legs and to fine tune a high-tempo, front-foot plan under Iraola. They're one of the league's fittest sides, pressing with purpose and breaking with pace. All this hasn't been factored into the match prices enough so the Cherries look a nice price on the draw no bet at 11/8 with Sky Bet.",
-      "Newcastle were \"unrecognisable\" according to their boss Eddie Howe in their 3-1 defeat to West Ham. The lack of intensity and attacking threat felt very un-Newcastle-like.",
-      "Just a one-off then? No, it's not.",
-      "Having looked a little deeper, these underwhelming displays and results away from St James' Park are an issue under Howe.",
-      "At home Newcastle feel empowered - they press, they go at you and they look expansive and confident. On the road it's different. They're more cautious and Howe has struggled to find a formula that allows them to flourish away from the magic of St James' Park.",
-      "The defeat at the London Stadium means Newcastle are now eight league games without a win on the road stretching across the summer. Jacob Murphy's strike on Sunday was also just their fourth goal scored across those eight matches and their expected goals data across that winless run is trending at a paltry 1.2 per 90. Horrendous numbers.",
-      "Therefore, it's very surprising to see them chalked up as favourites to win at Brentford with the home side available at Evens on the draw no bet.",
-      "Writing about Danny Welbeck being in the form of his life in 2025 was not on my radar - but here we are.",
-      "The Brighton front man is purring with confidence, looking sharper, hungrier and crucially for punters, more productive than ever. He's clocked up six goal involvements in his last six appearances, and if you zoom in on his recent minutes against Palace, it's even more impressive: three goal involvements in his last 150 minutes.",
-      "These aren't streaky stats, they're signs of a player who's thriving in Fabian Hurzeler's fluid attacking structure. So, at 7/4 with Sky Bet for a goal or an assist? That's value.",
-      "Sean Dyche is certainly getting to work. His fingerprints are already all over Forest's recent performances. There's been a higher ratio of long passes, more pressures in the final third and already the quality of chances Forest are facing is much lower than when under the gaze of Ange Postecoglou.",
-      "Dyche is doing the sensible thing and making Forest much harder to score against.",
-      "It's that defensive improvement shown under Dyche and Leeds' flakiness in attack that makes a Forest clean sheet easy to fancy here. They are actually 18 Premier League games without one - the club's worst run since 1960. And Dyche will be losing sleep over something like that.",
-      "If you look back at Dyche's last 18 games as a manager, 15 of those landed for punters backing 'no' in the both teams to score market.",
-      "It's 10/11 with Sky Bet to go in again.",
-      "For punters eyeing up the first goalscorer market this weekend with Erling Haaland in their sights, it's worth asking whether the Norwegian's price truly stacks up at 3/1 with Sky Bet. Spoiler alert: it doesn't.",
-      "The bookies dangle Haaland up at skinny odds and the rest of City's attacking talent gets priced as if they're supporting actors. That might make sense when City are bullying lesser sides but Liverpool are not that. And against Virgil van Dijk, Haaland's aura tends to dim.",
-      "The goalscoring machine has malfunctioned when faced with Van Dijk, scoring just two goals in seven appearances for club and country.",
-      "When Haaland can't dominate physically, City often find joy elsewhere and that's where the value creeps in.",
-      "Step forward Phil Foden, who is back to his best and brimming with confidence.",
-      "From October onwards in the 23/24 season, Foden was one of the hottest players on the planet, scoring 25 goals in all competitions during that period - a ratio of 0.7 goals per 90. His two goals in midweek pointed towards a return of those numbers which makes his 7/1 with Sky Bet quotes for the first goal look rather generous in a game that looks so difficult to call from an outright perspective.",
-      "Super 6 are starting the season by guaranteeing a £1,000,000 winner! Play for free."
+      "Saturday 8 November 2025 18:49, UK"
     ]
   },
   {
@@ -2650,6 +2557,71 @@
       "\"You cannot say every time that you touch the ball it is not a penalty. He blocked Bowen from getting to the ball, so it is a penalty!\"",
       "The decision took over three minutes - was that too long?",
       "DERMOT SAYS: \"It was quite protracted and that is why I do not want to see more intrusion [by the VAR], it can be slicker.\"",
+      "Super 6 are starting the season by guaranteeing a £1,000,000 winner! Play for free."
+    ]
+  },
+  {
+    "headline": "Hits and misses: Gyokeres shines | 'World-class' Caicedo is a monster",
+    "tags": [],
+    "link": "https://www.skysports.com/football/news/11667/13462022/pl-hits-and-misses-viktor-gyokeres-shines-for-arsenal-and-world-class-chelsea-midfielder-moises-caicedo-is-a-monster",
+    "image": "https://e0.365dm.com/25/11/768x432/skysports-premier-league-arsenal_7069212.jpg?20251101210032",
+    "date": null,
+    "source": "skysports",
+    "body": [
+      "Sunday 2 November 2025 13:35, UK",
+      "",
+      "There has been so much noise around Viktor Gyokeres this season.",
+      "Is he good enough? Is he scoring enough? Is he doing enough?",
+      "However, the Sweden striker has quietly been going about his business and at Burnley, he produced his best 45 minutes in an Arsenal shirt so far - before he was forced off at the break with a muscular injury.",
+      "Gyokeres struck the opener from a corner as Mikel Arteta's side also improved on their league-leading set-piece goals tally before the striker's brilliant pass freed Leandro Trossard in the build up to Declan Rice's superb header.",
+      "It was an all-action display that showed his strength, his power, his pace, and his instinct to be in the right place at the right time to score, which is what ultimately Arsenal bought him to the club to do.",
+      "\"Everything,\" Mikel Arteta said when asked what impressed him about Gyokeres's display. \"His high press, his position and his touches. His threat in behind, the way he linked play, the way he gets us from these situations to transition moments. I think he was in a really good moment. It's a shame that he felt something.\"",
+      "Gyokeres' injury will now be the concern for Arsenal - as will concerns over Martin Zubimendi, who was replaced in the second half.",
+      "With Kai Havertz, Martin Odegaard, Noni Madueke and Gabriel Jesus still out after long-term injuries, the Gunners can't afford to lose much more quality, especially in the centre-forward position.Oliver Yew",
+      "Sometimes this job is a real privilege. Watching Moises Caicedo up close was a real thrill - even the Tottenham fans would have to agree. This was a performance that showcased everything you want from a world-class midfielder. Tenacious, intelligent, full of quality and affecting the game in the final third. Jamie Redknapp called him \"world class, perhaps the best of his type in world football.\"",
+      "It's hard to argue.",
+      "The £115m price tag had seemed to hang around his neck like a glittering weight in his early days at Chelsea but we're now seeing the player that bulldozed opposition players at Brighton.",
+      "There's something N'Golo Kanté-esque about him, not just in engine or energy, but in humility. He doesn't crave the spotlight, he craves the ball. And when he gets it, the whole game dances to his tune. Xavi Simons looked almost frightened at times to dribble near the Chelsea enforcer such was the domination in the duels.",
+      "He has that fear factor now. And that's one of the main reasons why he's the best in the world at what he does.Lewis Jones",
+      "To beat Tottenham looks simple at the moment: defend set pieces properly and you're onto a winner. Chelsea, who before this game had conceded the most expected goals from set pieces this season, stood up and were counted against the Spurs set piece machine that had blown away Everton last weekend.",
+      "Enzo Maresca's side didn't concede a single shot from set piece situations as Robert Sanchez commanded his area like he was the king of the skies. Yes, Spurs' delivery was unusually poor but the goalkeeper time-after-time took the pressure off his defenders by coming to catch and purposefully punch clear high balls.",
+      "In a season where being able to defend your box under pressure from dead balls counts for a lot, Chelsea took a huge step in the right direction with this resolute defensive showing.Lewis Jones",
+      "Jefferson Lerma had only made one Premier League start since the start of the season before the visit of Brentford to Selhurst Park - but he took his chance with both hands after Adam Wharton was ruled out through illness.",
+      "The Colombian played a pivotal role in Crystal Palace's opener, latching onto a floated free-kick from Yeremy Pino and guiding a header into the path of Jean-Philippe Mateta, who did the rest. For their second, it was his long throw that Nathan Collins headed into the back of his own net.",
+      "The nature of the second was ironic, given just how much of a threat the Bees have been from long throws this term. But Lerma was adept in that area before it was on trend.",
+      "He won five of his seven duels on the day, too, and overall proved to Oliver Glasner that, while he is playing a bit-part role at the moment, he is ready and waiting to step up from the off whenever he's required.Dan Long",
+      "Manchester United's winning run in the Premier League was brought to a halt at three at the City Ground as Nottingham Forest's quick start to the second half proved to be enough for the spoils to be shared. And in truth, Ruben Amorim's side only had themselves to blame.",
+      "The Red Devils had gone into half-time with an albeit controversial lead, but were good value for their advantage. But what happened when the teams returned to the pitch was nothing short of a disaster.",
+      "By minute 50, Morgan Gibbs-White and Nicolo Savona turned the game on its head. And the United players just didn't look like they were with it in the slightest.",
+      "It forced them to be in a position they haven't been in over the course of the last three matches - chasing a goal. And more often than not, Amorim's men have struggled in this very circumstance as when teams set up against them in a low block, they just can't break them down.",
+      "Thanks to Forest's set-piece woes and a wonderful strike from Amad Diallo, they took something back up north with them. But it could've been more if they hadn't stayed asleep at the start of the second 45.",
+      "Post-match, Amorim bemoaned his team's lack of energy away from home, saying that they \"need to work on bringing the same away from home,\" as they do at Old Trafford. They may be showing signs of improvement, but this is one bad habit that they are clearly yet to shake.Callum Bishop",
+      "Morgan Gibbs-White said he and his Nottingham Forest team-mates were frustrated not to take three points against Man Utd. It's been a long wait for a second Premier League win of the season, with their first coming way back on the opening weekend on August 17.",
+      "They were good value for the win, too, looking comfortable until Amad Diallo's wonderstrike. Igor Jesus and Callum Hudson-Odoi went close to extending their advantage before that late equaliser and the Expected Goals data shows in their favour as well - 2 vs 1.15.",
+      "But until Forest solve their set-piece problems, they are going to find winning matches hard. For all the controversy about the award of United's corner for Casemiro's opener, the defending from it was poor. Forest were static, the Brazilian given too much space to rise and head in.",
+      "Amad's strike also came from a corner, when the ball was only half-cleared. That makes it 16 Premier League goals from set-piece situations conceded by Forest in 2025. That's the most of any other side in the competition.",
+      "It's an obvious weakness. At least boss Sean Dyche can be encouraged that, if he solves that issue, he is developing promising signs elsewhere in Forest's play.Peter Smith",
+      "Brighton's dominant win over Leeds saw them pick up their first clean sheet of the season - but Fabian Hurzeler's side provided a masterclass in defending from the front.",
+      "The Seagulls' press was frenetic from the first whistle to the last, and didn't give the Leeds defence a moment of peace with the ball.",
+      "The first shot on target for the visitors didn't come until the 85th minute - according to manager Fabian Hurzeler, that was just as much the result of the attack as the resolute defence.",
+      "\"The clean sheet was well deserved. Everyone worked hard for it - not just the midfielders, but the defenders and the strikers.\"",
+      "Consistency is the key from here on out for Hurzeler - but if the high press is this effective every week, the sky is the limit for his team.Noah Langford",
+      "Leeds' struggles away from Elland Road continued with a limp performance on their way to a comprehensive defeat at Brighton, and this was perhaps the worst of the bunch.",
+      "Their ineffective attack has been a key theme away from home this season - their only goals on the road came in their win against 20th placed Wolves.",
+      "Leeds had only converted a staggering six per cent of their shots in October compared to 23 per cent for their opponents. November didn't start much better, as they only managed their first shot on target in the 85th minute against Brighton.",
+      "Dominic Calvert-Lewin looked lost at sea once again at the head of the Leeds attack - his only half-decent chance came from a 25-yard effort that was always veering wide. Brendon Aaronson and Noah Okafor, his partners in attack, looked nowhere near as dangerous as they did against at home against West Ham.",
+      "A ferocious West Yorkshire atmosphere has been able to spur Leeds to home victories this season - but a boost in attacking quality is needed if they want to pick up points on the road.Noah Langford",
+      "Despite having just watched his win-less side lose 3-0 loss at Fulham to remain rooted to the foot of the Premier League, beleaguered Wolves boss Vitor Pereira was still in a defiant post-match mood down by the River Thames, insisting they were capable of avoiding relegation.",
+      "The Portuguese pointed to last season, when he replaced Gary O'Neil at Molineux with Wolves having also not won any of their opening 10 league games of the campaign, as is the case this season, only for them to then embark on a six-match winning run that saw them finish in 16th.",
+      "However, things feel different this time, not only because no team in Premier League history has ever stayed up with just two points from their opening 10 matches [Wolves had picked up three under O'Neil at the same stage last season], but also more pertinently because of the quality of the three promoted sides this campaign.",
+      "Pereira said he has tried everything to get back to winnings ways - a new shape and different players at Craven Cottage - but admitted after what he called his side's worst display since he took over last December, he still \"does not have the answer.\"",
+      "For his and Wolves' sake, let's hope he finds it soon…Rich Morgan",
+      "Hits and misses is a fun concept but Liverpool's win over Aston Villa highlighted the fine margins. Arne Slot's side ended their four-game winless streak as their pressing was rewarded for the opening goal, Villa making what Unai Emery called \"a huge mistake.\"",
+      "The natural conclusion to draw was that Villa were foolish to attempt to pass out from the back, especially against a Liverpool side that have struggled against the long ball. But Villa came close to opening the scoring as a result of passing out from the back.",
+      "Morgan Rogers struck the post with that chance, the move having been started by Emi Martinez in the Villa goal - the culprit for the error that led to Mohamed Salah's breakthrough strike. Matty Cash also struck the frame of the goal in the first half.",
+      "\"The first 30 minutes we were fantastic continuing the way we did against Tottenham and Man City showing our capacity to dominate some times and create chances,\" explained Emery, adding: \"Of course, we need goals, but we hit two posts today.\"",
+      "Slot acknowledged his team's fortune on the night. \"Maybe we were a bit more on the lucky side than we have been in the last few weeks. a mistake of their goalkeeper and a deflection led to two of our goals but these are the margins we are talking about.\"",
+      "He added: \"In other games, we have created more in open play than we did today but football is about results not the chances you create from open play.\" Slot and Liverpool have found that out the hard way lately. This was Villa's turn to be on the receiving end.Adam Bate",
       "Super 6 are starting the season by guaranteeing a £1,000,000 winner! Play for free."
     ]
   }
