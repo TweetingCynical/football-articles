@@ -1,12 +1,41 @@
 [
   {
+    "headline": "LiveTransfer news LIVE: Salah drops Liverpool bombshell, Mainoo in Man Utd plea plus Semenyo latest",
+    "tags": [
+      "Man Utd",
+      "Transfer News",
+      "Mainoo",
+      "LIVE"
+    ],
+    "link": "https://www.mirror.co.uk/sport/football/transfer-news/transfer-news-live-manutd-liverpool-36363314",
+    "image": null,
+    "date": null,
+    "source": "mirror",
+    "body": [
+      "Mo Salah has put clubs in Saudi Arabia on red alert with his explosive comments regarding his future at Liverpool. The Egyptian forward was already a target for multiple Saudi Pro League clubs before dropping a bombshell on Saturday night by revealing that he feels he's been 'thrown under the bus' by Liverpool, adding that he has 'no relationship' with boss Arne Slot.",
+      "Someone who could replace him at Anfield is Bournmeouth's Antoine Semenyo, who's been tipped for a transfer by his own manager - at international level, that is. Manchester United have also been linked but they've got their own want-away star, as Kobbie Mainoo continues to search for regular playing time.",
+      "The January transfer window may not be open for another 24 days but things are heating up, even as we remain in the thick of an action-packed Premier League season.",
+      "Bournemouth star Antoine Semenyo has been heavily linked with leaving in January.",
+      "Manchester United, Manchester City, Liverpool and Tottenham are all said to be interested, with the 25-year-old forward having a £65million release clause.",
+      "Semenyo's manager for Ghana, Otto Addo, told The Athletic at Friday's World Cup draw: \"He has done very well at Bournemouth, but with all the respect for Bournemouth and what they're doing, surely it is natural for him to take the next step.",
+      "\"Whether its in the winter or summer, it is a difference question but it won’t make a difference for us. I'm looking forward to him showing more of what he can to the world.\"",
+      "Kobbie Mainoo is reportedly desperate to leave Manchester United next month in a bid to save his World Cup hopes.",
+      "Mainoo, 20, has only started one game this season and Italian champions Napoli are interested in signing him, according to the Mail.",
+      "The midfielder's contract with United expires in 2027.",
+      "Remarkable stuff from Mo Salah last night.",
+      "The Liverpool star admits that he could suddenly leave Anfield after his relationship with Arne Slot broke down.",
+      "Salah, 33, has also claimed that the club have 'thrown him under bus', hinting that his final game for Liverpool could be as soon as NEXT WEEK.",
+      "Read Salah's full quotes here."
+    ]
+  },
+  {
     "headline": "Man Utd news: Marcus Rashford status confirmed as loanee suffers 'quite a big' injury",
     "tags": [
       "Man Utd",
       "Rashford"
     ],
     "link": "https://www.mirror.co.uk/sport/football/news/manchester-united-marcus-rashford-injury-36361817",
-    "image": null,
+    "image": "https://i2-prod.mirror.co.uk/sport/football/news/article36286334.ece/ALTERNATES/n615/1_FC-Barcelona-v-Olympiacos-FC-UEFA-Champions-League-202526-League-Phase-MD3.jpg",
     "date": null,
     "source": "mirror",
     "body": [
@@ -56,7 +85,7 @@
       "Man Utd"
     ],
     "link": "https://www.mirror.co.uk/3am/celebrity-news/angry-ginges-wild-links-manchester-36362531",
-    "image": "https://i2-prod.mirror.co.uk/sport/article33920966.ece/ALTERNATES/n615/1_BANNER-PICS-GRABS-Wayne-Rooney-calls-Angry-Ginge-ginger-c-as-he-makes-debut-for-his-new-Pr.jpg",
+    "image": null,
     "date": null,
     "source": "mirror",
     "body": [
@@ -70,7 +99,7 @@
       "Rashford"
     ],
     "link": "https://www.mirror.co.uk/sport/football/news/marcus-rashford-man-utd-barcelona-36362339",
-    "image": null,
+    "image": "https://i2-prod.mirror.co.uk/incoming/article36362355.ece/ALTERNATES/n615/0_JS385275788-1.jpg",
     "date": null,
     "source": "mirror",
     "body": [
@@ -266,7 +295,7 @@
       "Beckham"
     ],
     "link": "https://www.mirror.co.uk/sport/football/news/david-beckham-real-madrid-carlos-36346277",
-    "image": "https://i2-prod.dailystar.co.uk/incoming/article22052413.ece/ALTERNATES/n615/1_GettyImages-2509873.jpg",
+    "image": null,
     "date": null,
     "source": "mirror",
     "body": [
@@ -297,7 +326,7 @@
       "Mainoo"
     ],
     "link": "https://www.mirror.co.uk/sport/football/news/manchester-united-mainoo-transfer-amorim-36356204",
-    "image": null,
+    "image": "https://i2-prod.mirror.co.uk/incoming/article36355011.ece/ALTERNATES/n615/2_GettyImages-2232842019.jpg",
     "date": null,
     "source": "mirror",
     "body": [
@@ -324,7 +353,7 @@
       "Man Utd"
     ],
     "link": "https://www.mirror.co.uk/sport/football/news/rio-ferdinand-world-cup-draw-36360044",
-    "image": "https://i2-prod.mirror.co.uk/incoming/article36360086.ece/ALTERNATES/n615/0_JS389893426.jpg",
+    "image": null,
     "date": null,
     "source": "mirror",
     "body": [
@@ -407,7 +436,7 @@
       "Premier League"
     ],
     "link": "https://www.mirror.co.uk/sport/football/news/breaking-hannibal-fa-fine-spitting-36358481",
-    "image": null,
+    "image": "https://i2-prod.mirror.co.uk/incoming/article36229243.ece/ALTERNATES/n615/0_GettyImages-2244113169.jpg",
     "date": null,
     "source": "mirror",
     "body": [
@@ -458,7 +487,7 @@
       "Mainoo"
     ],
     "link": "https://www.mirror.co.uk/sport/football/news/kobbie-mainoo-manchester-united-amorim-36357107",
-    "image": "https://i2-prod.mirror.co.uk/incoming/article36357303.ece/ALTERNATES/n615/0_Manchester-United-v-West-Ham-United-Premier-League.jpg",
+    "image": null,
     "date": null,
     "source": "mirror",
     "body": [
@@ -504,33 +533,6 @@
       "\"I think we should support each other because, in the end, we have our friends, we have our club but, in the end, we are the guys who can change everything.\"",
       "United return to action this weekend and will hope to get back to winning ways when they take on a struggling Wolves side at Molineux. Then, the run-up to Christmas will be in full swing with tricky tests against Bournemouth and Aston Villa.",
       "Sky will show at least 215 live Premier League games next season, an increase of up to 100 more.",
-      "At  Reach and across our entities  we and our partners use information collected through cookies and other identifiers from your device to improve experience on our site, analyse how it is used and to show personalised advertising. You can opt out of the sale or sharing of your data, at any time clicking the \"Do Not Sell or Share my Data\" button at the bottom of the webpage. Please note that your preferences are browser specific. Use of our website and any of our services represents your acceptance of the use of  cookies  and consent to the practices described in our Privacy Notice and Terms and Conditions."
-    ]
-  },
-  {
-    "headline": "Man Utd sent new red card verdict as referee mistake made in West Ham draw",
-    "tags": [
-      "Man Utd"
-    ],
-    "link": "https://www.mirror.co.uk/sport/football/news/manchester-united-west-ham-referee-36357051",
-    "image": null,
-    "date": null,
-    "source": "mirror",
-    "body": [
-      "Former referee Keith Hackett believes Aaron Wan-Bissaka ought to have received a red card in the dying moments of Manchester United's draw with West Ham. The second half contained all the game's significant incidents, with Diogo Dalot and Soungoutou Magassa finding the net, while Wan-Bissaka was lucky to escape a dismissal.",
-      "United opened the scoring shortly before the hour when Dalot struck home after controlling a mis-hit from Casemiro inside West Ham's penalty area. The away side levelled matters in the 83rd minute when Magassa converted a rebound after Jarrod Bowen's header from a set piece was cleared off the goal line by Noussair Mazraoui.",
-      "Shortly after the Hammers' equaliser, Wan-Bissaka was late with a sliding challenge on Patrick Dorgu, but as United retained possession, referee Andrew Kitchen waved play on. Mere moments earlier, he had cautioned the former United full-back for catching Mason Mount with his studs.",
-      "The choice to let play continue following Wan-Bissaka's second careless tackle has been criticised by United supporters. They believe he ought to have been shown a second yellow card, and Hackett shares this view.",
-      "He told Football Insider: \"Whilst I think that Andrew Kitchen had a very good game, I would like him to review the two Wan-Bissaka challenges, particularly the last one. On a yellow card, you put in a reckless challenge, he should have had a second yellow followed by the red.\"",
-      "\"He's a lucky guy. Andrew, you've got to keep focused up until the final whistle.\"",
-      "The draw has lifted United to eighth position, though it will be viewed as a squandered chance given that victory would have propelled them to fifth, leapfrogging Crystal Palace, whom they defeated last weekend.",
-      "Predictably, Ruben Amorim was visibly displeased during his post-match media briefing, with the United manager particularly incensed by claims that performances had stagnated or regressed.",
-      "He said: \"It's not going backwards. The results are going backwards. We had some moments. That can happen.",
-      "\"You were talking about when we had that run that team was really perfect and saying we are not that far from being in the perfect moment. We are really inconsistent.",
-      "\"But if you look at the goal, 83 minutes, we have a long ball, we have everything under control and we need to do better.\"",
-      "United will get the opportunity to bounce back immediately from that disappointment when they take on the Premier League's bottom side Wolves next Monday evening.",
-      "Amorim anticipates having Matthijs de Ligt available again for the encounter, with Ayden Heaven, who deputised for the Dutch defender against the Hammers, substituted at the interval.",
-      "A silver lining for Amorim and United was Matheus Cunha's comeback, with additional encouragement coming as neither Dorgu nor Casemiro collected yellow cards that would trigger a ban for the Molineux fixture.",
       "At  Reach and across our entities  we and our partners use information collected through cookies and other identifiers from your device to improve experience on our site, analyse how it is used and to show personalised advertising. You can opt out of the sale or sharing of your data, at any time clicking the \"Do Not Sell or Share my Data\" button at the bottom of the webpage. Please note that your preferences are browser specific. Use of our website and any of our services represents your acceptance of the use of  cookies  and consent to the practices described in our Privacy Notice and Terms and Conditions."
     ]
   },
@@ -699,6 +701,33 @@
     ]
   },
   {
+    "headline": "Man United latest: Loanee suffers injury setback as Marcus Rashford status changed",
+    "tags": [
+      "Rashford"
+    ],
+    "link": "https://www.manchestereveningnews.co.uk/sport/football/football-news/manchester-united-rashford-collyer-injury-33013648",
+    "image": null,
+    "date": null,
+    "source": "manchestereveningnews",
+    "body": [
+      "Despite any existing friction between Manchester United and Marcus Rashford, the Premier League heavyweights clearly hold their player in high regard. Rashford has experienced a resurgence while on loan at Barcelona this season and could make his move to the Spanish giants permanent in the summer.",
+      "However, United have made a bold move by bestowing a new title upon the player mid-season. This could potentially stir up controversy among some supporters given his standing with the club at the time of his departure.",
+      "In other news, United have been dealt a blow with the news that another academy graduate could be facing a stint on the sidelines due to a \"quite serious\" injury. The MEN delves into all the latest happenings at Old Trafford ahead of Monday's trip to Wolverhampton.",
+      "There was a point when Rashford seemed a cert for legendary status at Old Trafford after he first broke into the first team in early 2016. Much has happened over the past decade, and his bond with the club seemed to break when he first went on loan to Aston Villa nearly a year ago.",
+      "The relationship became even more complex when his loan to Barca, complete with an affordable purchase option, was confirmed in the summer. However, United have demonstrated their spirit by listing Rashford under the 'Legends' section on their official website.",
+      "The 28-year-old enters elite territory, joining the ranks of Sir Bobby Charlton, Roy Keane, Bryan Robson, Wayne Rooney and Denis Irwin in that exclusive group. The move reflects how United view the player, regardless of recent events.",
+      "It had been claimed Rashford's rapport with manager Ruben Amorim deteriorated at some stage as his fortunes in England declined. Yet while he may not currently be performing at his peak for United, it evidently hasn't overshadowed his considerable achievements while wearing the famous red.",
+      "Before departing on loan, Rashford contributed to the club winning two FA Cups, a Europa League trophy and two League Cups. Whilst others in the Legends category may have triumphed during more successful periods, Rashford is still acknowledged for playing a crucial role in keeping the club competitive during the post-Sir Alex Ferguson years.",
+      "It may not be the Camp Nou, but United youngster Toby Collyer had demonstrated genuine potential on loan at the Hawthorns this campaign. The 21-year-old moved to West Brom during the summer, with the intention of accumulating vital game time before returning to Old Trafford next season.",
+      "Unfortunately, Collyer has made his way back to Manchester earlier than anticipated following an injury Baggies manager Ryan Mason described as \"quite a big\" one. This now casts doubt over his remaining time with the Championship outfit.",
+      "\"It's quite a big injury,\" Mason told BBC Radio WM. \"He's at United at the minute where they're assessing him and then in the coming weeks we'll decide his plan regarding his rehab.",
+      "\"We've got him on loan for the season and normally any loan player that gets an injury that's a bit more than a small one, more a significant one, it's only right for the parent club to look at them, check them over, and we're in dialogue and hopefully he can do his rehab and come back better.\"",
+      "Collyer has featured 13 times for United's senior side and was regarded as someone with the capability to secure a position under Amorim's management. He's made 12 appearances for West Brom thus far and had a short stint in the starting XI back in October.",
+      "Sky will show at least 215 live Premier League games this season, an increase of up to 100 more.",
+      "At  Reach and across our entities  we and our partners use information collected through cookies and other identifiers from your device to improve experience on our site, analyse how it is used and to show personalised advertising. You can opt out of the sale or sharing of your data, at any time clicking the \"Do Not Sell or Share my Data\" button at the bottom of the webpage. Please note that your preferences are browser specific. Use of our website and any of our services represents your acceptance of the use of  cookies  and consent to the practices described in our Privacy Notice and Terms and Conditions."
+    ]
+  },
+  {
     "headline": "MARSHALL: Ruben Amorim delivers brutal Kobbie Mainoo message in spiky Manchester United press conference",
     "tags": [
       "Man Utd",
@@ -830,47 +859,6 @@
       "Mainoo has managed 261 minutes for his boyhood club with his only start coming in the Carabao Cup against Grimsby Town.",
       "Reports have suggested that the midfielder is seeking a loan move away from United during the January transfer window, after becoming frustrated over a lack of first-team action.",
       "The Athletic have suggested the club will not take action until after the Africa Cup of Nations, which starts this month, before the final takes place on January 17. As it stands, United will lose three players, Amad, Bryan Mbeumo and Noussair Mazraoui, with the deadline for the tournament in Morocco on December 15.",
-      "At  Reach and across our entities  we and our partners use information collected through cookies and other identifiers from your device to improve experience on our site, analyse how it is used and to show personalised advertising. You can opt out of the sale or sharing of your data, at any time clicking the \"Do Not Sell or Share my Data\" button at the bottom of the webpage. Please note that your preferences are browser specific. Use of our website and any of our services represents your acceptance of the use of  cookies  and consent to the practices described in our Privacy Notice and Terms and Conditions."
-    ]
-  },
-  {
-    "headline": "RAILSTON: Furious reaction in the Manchester United dugout spoke volumes vs West Ham",
-    "tags": [
-      "Man Utd"
-    ],
-    "link": "https://www.manchestereveningnews.co.uk/sport/football/furious-reaction-manchester-united-dugout-33003004",
-    "image": null,
-    "date": null,
-    "source": "manchestereveningnews",
-    "body": [
-      "Manchester United drew 1-1 with West Ham in the Premier League on Thursday night. United got back to winning ways in the Premier League against Crystal Palace last weekend but they failed to build on that victory.",
-      "Here are the talking points and moments you might have missed:",
-      "Anger on the touchline",
-      "United were on course to claim back-to-back Premier League victories, but they conceded from a corner with just eight minutes remaining.",
-      "Carlos Fernandes, United's set-piece coach, stands up on the touchline to oversee every set play, and he angrily reacted to Magassa's goal by storming back to his seat on the bench.",
-      "Fernandes looked furious as he returned to his seat. United have majorly improved their threat from attacking set-pieces this season - no team in the league has scored more - but they must improve defensively.",
-      "Magassa equalised because he was the most player alert in the box, which will irk Fernandes.",
-      "Amorim was happy with Dalot",
-      "Dalot was recalled to the starting team last weekend and delivered an improved display at left wing-back after briefly losing his starting role to Patrick Dorgu. Dalot made his 150th appearance in the Premier League at Selhurst Park and followed that milestone by scoring his 10th goal for United.",
-      "Casemiro's shot fortuitously made its way to Dalot in the box and he finished well. Once the team celebrations were over, Dalot roared to the Stretford End and pumped his fists.",
-      "Amorim made the decision to replace Dalot with Dorgu in the 68th minute, and it was interesting to see Dalot exchange words with his manager as he left the field. The United boss appeared to explain why Dalot had been taken off, and he nodded in approval of his performance.",
-      "The gloves came off",
-      "Joshua Zirkzee was given the nod to start again after scoring against Crystal Palace last weekend and looked sharp in the first half, linking up intelligently with his teammates around the box.",
-      "He had a chance of his own, which was headed wide, but picked up where he left off when play resumed following half-time, combining brilliantly with Bryan Mbeumo to create a chance in front of the Stretford End.",
-      "It came to nothing. Zirkzee reacted by removing his gloves, throwing them to the side, which felt like he meant business. Although Zirkzee did not score, his display was pleasing, and he brought gasps from the crowd when he brought the ball down dead with a superb first touch. \"What a touch,\" a fan said near the press box.",
-      "The problem is that Zirkzee is not a natural goalscorer, and United might have put the game to bed if he'd scored before he was brought off for Mason Mount in the second half.",
-      "Hellish start from Heaven",
-      "Ayden Heaven was selected to start his first Premier League game since the final day of last season due to Matthijs de Ligt's absence. The youngster started in the centre of the back three and made a poor start to the game, picking up a yellow card in just the seventh minute for a clumsy tackle.",
-      "Callum Wilson has entered the winter of his career but he had the better of Heaven when he picked up the ball. The former England international drove at Heaven at every opportunity.",
-      "Heaven almost brought Wilson down in the box with an outstretched leg, which made Amorim react as he sent Leny Yoro to warm up on the byline just 17 minutes into the game.",
-      "Yoro warmed up for the rest of the half, which suggested Heaven would be hooked. Then Yoro emerged to warm up during half-time - this time without his jumper - and the change was made by Amorim.",
-      "Heaven has been given limited minutes this season and he was, understandably, rusty.",
-      "Vivell in the directors' box",
-      "Christopher Vivell was spotted in the directors' box. Vivell joined United on a temporary basis last year and was appointed permanently as the director of recruitment in February.",
-      "The German slid over in the directors' box, seemingly to look at which scouts and agents were present at the game, and he will be hugely influential again when the January transfer window opens.",
-      "Amorim recently confirmed that United could be active in the market, although the club spent £215million (excluding add-ons) in the summer window and funds will be limited in January.",
-      "A lot will depend on what happens with Zirkzee and Kobbie Mainoo. Zirkzee retained his starting role against West Ham, but Mainoo is still yet to start a Premier League game this season.",
-      "Mainoo requested to leave on loan in the final week of the summer window and is expected to do the same next month. Whether such a request is entertained remains to be seen.",
       "At  Reach and across our entities  we and our partners use information collected through cookies and other identifiers from your device to improve experience on our site, analyse how it is used and to show personalised advertising. You can opt out of the sale or sharing of your data, at any time clicking the \"Do Not Sell or Share my Data\" button at the bottom of the webpage. Please note that your preferences are browser specific. Use of our website and any of our services represents your acceptance of the use of  cookies  and consent to the practices described in our Privacy Notice and Terms and Conditions."
     ]
   },
@@ -2254,7 +2242,7 @@
     "date": null,
     "source": "skysports",
     "body": [
-      "Saturday 6 December 2025 19:35, UK",
+      "Sunday 7 December 2025 06:46, UK",
       "Our football betting expert Jones Knows provides his insight across the Premier League weekend card...",
       "Freddie Potts has made a big impression since stepping into the West Ham midfield, adding much needed steel, aggression and tenacity to an area that was lacking under Graham Potter. The midfielder has been fouled eight times in his last four starts and across his last 31 club starts he's averaging 1.8 fouls won per-game.",
       "Only three teams have made more fouls since the start of last season than Brighton, who play a very high-tempo and aggressive game in midfield. Potts to be fouled at least twice at 5/4 with Sky Bet is a tasty prop to attack.",
