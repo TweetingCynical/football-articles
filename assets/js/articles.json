@@ -1,11 +1,46 @@
 [
   {
+    "headline": "LiveTransfer news LIVE: Liverpool's Salah plan, Amorim drops Mainoo hint, Man Utd target speaks out",
+    "tags": [
+      "Man Utd",
+      "Transfer News",
+      "Amorim",
+      "Mainoo",
+      "LIVE"
+    ],
+    "link": "https://www.mirror.co.uk/sport/football/transfer-news/transfer-news-live-liverpool-mufc-36401430",
+    "image": null,
+    "date": null,
+    "source": "mirror",
+    "body": [
+      "The January transfer window is just over a fortnight away and Premier League clubs are beginning to get the wheels turning. No player's future has had quite the amount of attention as Mo Salah's so far this winter, having plunged his Liverpool career into jeopardy with an explosive interview.",
+      "Showdown talks with Arne Slot saw him return and provide an assist in Liverpool's 2-0 win against Brighton on Saturday, but it could go down as his final appearance at Anfield. A number of clubs from Asia and North America are monitoring the Egypt captain's situation, as he's now at the Africa Cup of Nations.",
+      "At Manchester United, there's also one name dominating the headlines: Kobbie Mainoo. His lack of action under Ruben Amorim points towards a departure but the United manager may've just hinted at a lifeline for the World Cup hopeful.",
+      "Hello and welcome to Monday's live blog.",
+      "Stay tuned throughout the day, as we bring you the latest transfer news.",
+      "Here we go.",
+      "Brighton star Carlos Baleba has finally broken his silence on interest from Manchester United.",
+      "The Red Devils approached Brighton in August to discuss the £100million-rated midfielder, who admits that he's felt the pressure of being linked with United and being valued at such a price.",
+      "\"Every day I try to work hard and get back to my level. Did I put too much pressure on myself? Yes, I think so, but I think it's good.",
+      "\"It's good for me, because now I have to get through this slightly stressful period, get back on the horse and continue working hard.\"",
+      "Ruben Amorim has hinted that he could change Manchester United's formation and hand Kobbie Mainoo a lifeline.",
+      "Mainoo, 20, has been heavily linked with a move away in January, as Napoli keep a close eye on developments.",
+      "Amorim said: \"The problem is we are playing with two [in midfield] and you guys see Kobbie in a different way than I'm seeing. Maybe if you play with three midfielders, not with just two, Kobbie will have more minutes.",
+      "\"Imagine that this happens. Someone in front is going to lose their spot. Sometimes it's just the moment.",
+      "\"I think I proved that if you change my mind [you can get into the team]. Casemiro is the biggest example. He was behind Toby [Collyer] and now he is a starter.\"",
+      "Read the full story here.",
+      "Liverpool have no intention of letting Mo Salah leave next month and remain committed to resolving the situation.",
+      "That's according to the Mail, who report that despite his recall, Salah's future at Anfield remains uncertain.",
+      "Saudi Pro League clubs remain confident that they can sign the 33-year-old, who they value at around £100million."
+    ]
+  },
+  {
     "headline": "How Man Utd could line up without three AFCON stars vs Bournemouth",
     "tags": [
       "Man Utd"
     ],
     "link": "https://www.mirror.co.uk/sport/football/news/man-united-bournemouth-amorim-afcon-36399709",
-    "image": null,
+    "image": "https://i2-prod.mirror.co.uk/incoming/article36399697.ece/ALTERNATES/n615/0_GettyImages-2251126352.jpg",
     "date": null,
     "source": "mirror",
     "body": [
@@ -60,7 +95,7 @@
       "Maguire"
     ],
     "link": "https://www.mirror.co.uk/sport/football/news/man-utd-latest-maguire-bournemouth-36399867",
-    "image": "https://i2-prod.mirror.co.uk/incoming/article35260070.ece/ALTERNATES/n615/1_Manchester-United-Training-Session-And-Press-Conference-UEFA-Europa-League-Final-2025.jpg",
+    "image": null,
     "date": null,
     "source": "mirror",
     "body": [
@@ -92,7 +127,7 @@
       "Onana"
     ],
     "link": "https://www.mirror.co.uk/sport/football/news/andre-onana-man-utd-lammens-36400925",
-    "image": null,
+    "image": "https://i2-prod.mirror.co.uk/incoming/article36400869.ece/ALTERNATES/n615/0_Manchester-United-v-Brighton-Hove-Albion-Premier-League.jpg",
     "date": null,
     "source": "mirror",
     "body": [
@@ -278,7 +313,7 @@
       "Ratcliffe"
     ],
     "link": "https://www.mirror.co.uk/sport/football/news/man-utd-sir-jim-ratcliffe-36396725",
-    "image": "https://i2-prod.mirror.co.uk/incoming/article36234884.ece/ALTERNATES/n615/1_GettyImages-2234842604.jpg",
+    "image": null,
     "date": null,
     "source": "mirror",
     "body": [
@@ -305,7 +340,7 @@
       "Man Utd"
     ],
     "link": "https://www.mirror.co.uk/sport/football/news/man-utd-ferguson-hierarchy-ronaldo-36396389",
-    "image": null,
+    "image": "https://i2-prod.mirror.co.uk/incoming/article36396428.ece/ALTERNATES/n615/0_GettyImages-82019822.jpg",
     "date": null,
     "source": "mirror",
     "body": [
@@ -331,7 +366,7 @@
       "Rashford"
     ],
     "link": "https://www.mirror.co.uk/sport/football/news/marcus-rashford-man-utd-barcelona-36396253",
-    "image": "https://i2-prod.mirror.co.uk/sport/football/news/article36396252.ece/ALTERNATES/n615/0_Training-Day-Of-FC-Barcelona-Ahead-The-Spanish-League-La-Liga-EA-Sports-Football-Match-Against-CA-Osasuna.jpg",
+    "image": null,
     "date": null,
     "source": "mirror",
     "body": [
@@ -386,7 +421,7 @@
       "LIVE"
     ],
     "link": "https://www.mirror.co.uk/sport/football/transfer-news/transfer-news-live-liverpool-salah-36395070",
-    "image": null,
+    "image": "https://i2-prod.mirror.co.uk/incoming/article36395591.ece/ALTERNATES/n615/0_DRMP776340472_45464TLB.jpg",
     "date": null,
     "source": "mirror",
     "body": [
@@ -446,7 +481,7 @@
       "LIVE"
     ],
     "link": "https://www.mirror.co.uk/money/shopping-deals/premier-league-man-united-liverpool-36389837",
-    "image": null,
+    "image": "https://i2-prod.mirror.co.uk/incoming/article36392923.ece/ALTERNATES/n615/0_Kitbag_1.png",
     "date": null,
     "source": "mirror",
     "body": [
@@ -498,7 +533,7 @@
       "Man Utd"
     ],
     "link": "https://www.mirror.co.uk/sport/football/news/man-utd-transfer-luke-littler-36392350",
-    "image": "https://i2-prod.mirror.co.uk/incoming/article36392984.ece/ALTERNATES/n615/2_GettyImages-2250951778.jpg",
+    "image": null,
     "date": null,
     "source": "mirror",
     "body": [
@@ -547,28 +582,6 @@
       "\"I have not spoken to him until now,\" he said in September.",
       "\"I have not spoken to him or his camp. My understanding was that he tries to play for Jamaica so we didn't give it another thought.",
       "\"He was not in the mix at the moment and he is not in our thoughts for our team.\"",
-      "At  Reach and across our entities  we and our partners use information collected through cookies and other identifiers from your device to improve experience on our site, analyse how it is used and to show personalised advertising. You can opt out of the sale or sharing of your data, at any time clicking the \"Do Not Sell or Share my Data\" button at the bottom of the webpage. Please note that your preferences are browser specific. Use of our website and any of our services represents your acceptance of the use of  cookies  and consent to the practices described in our Privacy Notice and Terms and Conditions."
-    ]
-  },
-  {
-    "headline": "FA Cup third round TV schedule revealed as Liverpool, Man Utd and Arsenal selected",
-    "tags": [
-      "Man Utd",
-      "LIVE"
-    ],
-    "link": "https://www.mirror.co.uk/sport/football/news/fa-cup-third-round-schedule-36392642",
-    "image": null,
-    "date": null,
-    "source": "mirror",
-    "body": [
-      "The Premier League's big guns are included in the pick of the FA Cup third round TV selections, which include Chelsea's London derby with Charlton Athletic and Arsenal's trip to Portsmouth.",
-      "Third round fixtures, which take place over the second weekend in January, were confirmed at the start of this week. Broadcasters have now made their selections - and to nobody's surprise, the biggest clubs from the Premier League are amongst those which have been picked for television.",
-      "Tottenham's all Premier League clash with Aston Villa will also be broadcast on Saturday January 10, as will Charlton vs Chelsea.",
-      "Friday 9 January",
-      "Saturday 10 January",
-      "Sunday 11 January",
-      "Monday 12 January",
-      "Sky will show at least 215 live Premier League games next season, an increase of up to 100 more.",
       "At  Reach and across our entities  we and our partners use information collected through cookies and other identifiers from your device to improve experience on our site, analyse how it is used and to show personalised advertising. You can opt out of the sale or sharing of your data, at any time clicking the \"Do Not Sell or Share my Data\" button at the bottom of the webpage. Please note that your preferences are browser specific. Use of our website and any of our services represents your acceptance of the use of  cookies  and consent to the practices described in our Privacy Notice and Terms and Conditions."
     ]
   },
@@ -667,13 +680,22 @@
     ],
     "link": "https://www.manchestereveningnews.co.uk/sport/football/transfer-news/live-man-united-transfer-news-33056754",
     "image": null,
-    "date": "2025-12-15 07:11:00",
+    "date": "2025-12-15 08:20:00",
     "source": "manchestereveningnews",
     "body": [
       "With European qualification firmly in their sights, there's plenty of speculation about whether United will look to bolster their squad or stick with their current squad when the January transfer window rolls around.",
       "Names like Sunderland midfielder Noah Sadiki, Atletico Madrid and England star Conor Gallagher, AZ Alkmaar's Kees Smit and Bournemouth winger Antoine Semenyo are just some of those rumoured to be on United's mid-season shopping list.",
       "Meanwhile, there's been no shortage of chatter about possible departures from Old Trafford, with particular attention being paid to Kobbie Mainoo, Joshua Zirkzee and captain Bruno Fernandes.",
       "Follow below for all the latest Man United updates, reactions, analysis and opinions throughout the day...",
+      "Ruben Amorim said he had no problem with taking criticism from former Manchester United players in the media and accepted the fact that he is underperforming meant much of it was warranted. There has been conflict between former club greats and the current crop of players, as well as recent managers, in the last few years over some heavy-handed criticism from the comfort of TV studios and podcast booths.",
+      "Read more here",
+      "Manchester United could be without six players for Monday night's clash at home to Bournemouth. The Reds are aiming to keep the availability of Noussair Mazraoui, Amad and Bryan Mbeumo under wraps as they prepare to jet off to the Africa Cup of Nations.",
+      "FIFA has set a release date of Monday, December 15, for clubs to release players for the tournament, which kicks off in Morocco on Sunday. This, however, has created a predicament for United, as their match against the Cherries is scheduled just five days before the tournament kicks off.",
+      "Club officials have been in discussions with the football federations of Cameroon, Morocco, and the Ivory Coast regarding all three players in an attempt to secure an extension. The extension would allow them to participate in the Bournemouth match before jetting off to the tournament.",
+      "Read more here",
+      "According to CaughtOffside, United chiefs are 'increasingly open' to selling club captain Bruno Fernandes in the near future.",
+      "He may have the most combined goals and assists of any player at the club this season, however at 31 years of age a lucrative sale would allow for reinvestment in potential transfer targets such as Nottingham Forest's Elliot Anderson and Brighton's Carlos Baleba.",
+      "The report suggests 'strong interest' will arrive from Saudi Arabia, in particular from Al-Hilal and Al-Ittihad.",
       "Ruben Amorim labelled Antoine Semenyo a \"special player\" ahead of Manchester United's Premier League fixture with Bournemouth at Old Trafford on Monday night. United showed an interest in the forward during the summer before making moves for Bryan Mbeumo and Matheus Cunha to strengthen their attack.",
       "Semenyo remained with the Cherries and enjoyed another strong start to the season, although his form has wavered in the past few weeks. The 25-year-old hasn't scored or assisted in any of his last seven games, although a return of six goals and three assists in 14 Premier League games is still impressive.",
       "The Ghana international, who will remain available for Bournemouth for the next month after his country failed to qualify for the Africa Cup of Nations (AFCON), will be a threat to United tonight. Amorim spoke highly of Bournemouth, Semenyo, and their head coach, Andoni Iroala, despite their failure to win any of their last six games.",
@@ -735,6 +757,36 @@
     ]
   },
   {
+    "headline": "Manchester United's full squad expected vs Bournemouth amid ACFON decision",
+    "tags": [
+      "Man Utd"
+    ],
+    "link": "https://www.manchestereveningnews.co.uk/sport/football/football-news/man-united-bryan-mbeumo-afcon-33056849",
+    "image": null,
+    "date": null,
+    "source": "manchestereveningnews",
+    "body": [
+      "Manchester United could be without six players for Monday night's clash at home to Bournemouth. The Reds are aiming to keep the availability of Noussair Mazraoui, Amad and Bryan Mbeumo under wraps as they prepare to jet off to the Africa Cup of Nations.",
+      "FIFA has set a release date of Monday, December 15, for clubs to release players for the tournament, which kicks off in Morocco on Sunday. This, however, has created a predicament for United, as their match against the Cherries is scheduled just five days before the tournament kicks off.",
+      "Club officials have been in discussions with the football federations of Cameroon, Morocco, and the Ivory Coast regarding all three players in an attempt to secure an extension. The extension would allow them to participate in the Bournemouth match before jetting off to the tournament.",
+      "United head coach Ruben Amorim expressed his uncertainty in Friday's pre-match press conference over whether the trio would be able to play in the game when asked for an update on the situation.",
+      "The former Sporting boss confessed his frustration with the situation, just three days before the match. Elsewhere, defenders Matthijs de Ligt and Harry Maguire are out injured, while striker Benjamin Sesko remains a doubt due to food poisoning, despite having returned to first-team training after a knee injury.",
+      "Kitbag has slashed the price of Man United kits and merch with up to 65% off select items.",
+      "When asked about United's unavailable players on Friday, Amorim admitted there could be last-minute decisions on players. He said: “Maguire is out, De Ligt is out. Ben [Sesko], we have to see.",
+      "“We have to see if he’s available. He had some [food] poisoning, but we’ll see. Let’s wait.",
+      "“We have two trainings still. The other two are out, Benjamin, we will assess.”",
+      "Amorim later expanded on the nature of De Ligt’s injury, after he sat out of the draw against West Ham and last Monday night's win at Wolverhampton Wanderers.",
+      "\"I think he has something in his back, I don’t know for sure,\" he said. \"Sometimes you see it’s not a big injury because he finished the game quite well against Crystal Palace, but he has some pain.",
+      "\"You sometimes think it will be solved during this week, but sometimes he feels a little bit of pain, and we have to be a little careful with that.\"",
+      "On those going to AFCON, he added: “I expect today [Friday] to have a decision or maybe tomorrow, but we are waiting until the last moment to have all the players available, to choose the best team to start the game.\"",
+      "Goalkeepers: Senne Lammens, Altay Bayındır",
+      "Defenders: Leny Yoro, Luke Shaw, Ayden Heaven, Diogo Dalot, Noussair Mazraoui, Patrick Dorgu, Tyrell Malacia",
+      "Midfielders: Amad, Casemiro, Manuel Ugarte, Mason Mount, Bruno Fernandes, Kobbie Mainoo",
+      "Attackers: Bryan Mbeumo, Benjamin Sesko, Matheus Cunha, Joshua Zirkzee",
+      "At  Reach and across our entities  we and our partners use information collected through cookies and other identifiers from your device to improve experience on our site, analyse how it is used and to show personalised advertising. You can opt out of the sale or sharing of your data, at any time clicking the \"Do Not Sell or Share my Data\" button at the bottom of the webpage. Please note that your preferences are browser specific. Use of our website and any of our services represents your acceptance of the use of  cookies  and consent to the practices described in our Privacy Notice and Terms and Conditions."
+    ]
+  },
+  {
     "headline": "MARSHALL: Amorim responds to Manchester United criticism from Class of 92 pundits - 'the issue'",
     "tags": [
       "Man Utd",
@@ -754,6 +806,29 @@
       "Amorim is self-critical as a head coach and said he needs to improve United's play in several areas to deliver more wins and make the team more consistent.",
       "\"I just watch the games and sometimes we play well,\" he said. \"Sometimes we are not consistent. I think we need to work on the variability of the way we play, especially in the build-up. I think I need to find different ways to take all the juice from the team, from the squad.",
       "\"I think I need to inspire a lot of players that are not playing in a different way and that's maybe something about the way we play. So I'm just trying to find out solutions to win more games.\"",
+      "At  Reach and across our entities  we and our partners use information collected through cookies and other identifiers from your device to improve experience on our site, analyse how it is used and to show personalised advertising. You can opt out of the sale or sharing of your data, at any time clicking the \"Do Not Sell or Share my Data\" button at the bottom of the webpage. Please note that your preferences are browser specific. Use of our website and any of our services represents your acceptance of the use of  cookies  and consent to the practices described in our Privacy Notice and Terms and Conditions."
+    ]
+  },
+  {
+    "headline": "French media hail 'unstoppable' Mason Greenwood as he rescues Marseille again",
+    "tags": [],
+    "link": "https://www.manchestereveningnews.co.uk/sport/football/football-news/mason-greenwood-marseille-monaco-reaction-33056870",
+    "image": null,
+    "date": null,
+    "source": "manchestereveningnews",
+    "body": [
+      "Deja vu struck at the Stade Velodrome as Mason Greenwood took the spotlight in another December win over Monaco. Just like he did almost exactly 12 months ago, the ex-Manchester United prospect stepped up to deliver the deciding strike against Les Monegasques on Sunday.",
+      "Greenwood, 24, scored the only goal of the game in the 82nd minute after latching onto Pierre Emile-Hojbjerg's pass just inside the box. He proceeded to unleash a ferocious finish into the top-right corner, sending the home fans at the Velodrome into raptures.",
+      "The result keeps Marseille in the hunt for the Ligue 1 title, five points off leaders Lens and only four from titleholders PSG. And the reaction from the French media largely centred around Greenwood's saviour status, albeit with additional praise devoted to Marseille goalkeeper Geronimo Rulli.",
+      "Le Figaro described Greenwood as \"indispensable\" following his late intervention, and not for the first time of late after his brace against Union Saint-Gilloise rescued a 3-2 Champions League result last week. A glowing report read: \"Lively at times, then quiet, the English striker once again produced a moment of brilliance to rescue his team.\"",
+      "Rulli and Nayef Aguerd had their own moments of heroism in the closing stages to preserve the clean sheet. Yet again, Foot Mercato's most prominent plaudits were saved for Greenwood following his moment of magic.",
+      "A passage from its match recap read: \"Under pressure for much of the match, Marseille secured this hard-fought win and can thank Rulli and Greenwood for this laborious victory.\"",
+      "Le Phoceen was even more gushing in its praise of the former England international. Greenwood was awarded a match rating of 8.5 out of 10, level with Rulli as the highest rank of any player at the Velodrome.",
+      "\"Another commanding performance from Greenwood, who played with the impression that he could decide the fate of a play at will,\" read the match summary. \"His first half was bursting with activity: he dropped deep, accelerated 20 metres, broke lines, and forced Monaco to defend deep.\"",
+      "Marseille manager Roberto De Zerbi, who recently backed Greenwood to challenge for the Ballon d'Or, confirmed after the game he was close to taking him off moments before his decider. And he highlighted the player's unpredictability as a result, able to flip the switch almost at will.",
+      "\"Even when the team was under pressure, he continued to create danger with his dribbling and changes of pace. And then there was that clinical goal: control, a quick finish, top corner, no question about it,\" his boss said.",
+      "Le Meridional went one step further in its acclamation and dubbed Greenwood \"unstoppable,\" even if only in that clutch moment. The reward was Marseille keeping third place in Ligue 1, made all the more satisfying given the key moment came against a fierce rival.",
+      "\"Unstoppable, 1-0 to Marseille,\" read its report on the defining goal. \"The goalscorer takes off his shirt in euphoria, receives a yellow card, but most importantly scores his 11th Ligue 1 goal of the season, cementing his status as the linchpin of Marseille's attack. His 32nd goal in 49 league matches.\"",
       "At  Reach and across our entities  we and our partners use information collected through cookies and other identifiers from your device to improve experience on our site, analyse how it is used and to show personalised advertising. You can opt out of the sale or sharing of your data, at any time clicking the \"Do Not Sell or Share my Data\" button at the bottom of the webpage. Please note that your preferences are browser specific. Use of our website and any of our services represents your acceptance of the use of  cookies  and consent to the practices described in our Privacy Notice and Terms and Conditions."
     ]
   },
@@ -835,49 +910,6 @@
       "Just the one goal and one assist to his name from 13 matches will be frustrating for the Brazilian as well as his manager. But, with Mbeumo gone, United need someone to step up to the plate and become the Reds' main man.",
       "Cunha is set up perfectly to do just that. Amorim will likely call upon the 26-year-old to lead the line as well as playing in the No.10 role when Sesko is back to full sharpness.",
       "With all eyes on him, it will be up to Cunha to boost those numbers over the festive period and become United's main man while Mbeumo is away.",
-      "At  Reach and across our entities  we and our partners use information collected through cookies and other identifiers from your device to improve experience on our site, analyse how it is used and to show personalised advertising. You can opt out of the sale or sharing of your data, at any time clicking the \"Do Not Sell or Share my Data\" button at the bottom of the webpage. Please note that your preferences are browser specific. Use of our website and any of our services represents your acceptance of the use of  cookies  and consent to the practices described in our Privacy Notice and Terms and Conditions."
-    ]
-  },
-  {
-    "headline": "Man United latest: Ruben Amorim keeps quiet as Harry Maguire calls out manager treatment",
-    "tags": [
-      "Amorim",
-      "Maguire"
-    ],
-    "link": "https://www.manchestereveningnews.co.uk/sport/football/football-news/man-united-harry-maguire-amorim-33055536",
-    "image": null,
-    "date": null,
-    "source": "manchestereveningnews",
-    "body": [
-      "Manchester United will look to maintain their Premier League momentum when they welcome Bournemouth on Monday evening. Ruben Amorim's side returned to winning form in their most recent outing against Wolves.",
-      "Following a disappointing previous season, Amorim's first full campaign at the helm got off to an underwhelming start. However, those early concerns have now been put to rest, with his squad positioned close to the top of the table.",
-      "Victory on Monday night could see United break into the top six, though Andoni Iraola's Cherries, despite sitting in 14th position, will pose a stern test. Amorim may be without several important players for the match, with Harry Maguire definitely ruled out.",
-      "The injured Maguire has struggled for regular minutes under Amorim this term, with just four Premier League starts to his name. Speaking to discovery+, he suggested that one of his previous managers, Ole Gunnar Solskjaer, didn't receive sufficient credit during his spell in charge at United.",
-      "\"Ole was brilliant, I think Ole was so underappreciated,\" Maguire said. \"He never got the recognition for what he was doing. It felt like, again, it was at Manchester United. If he was doing it at any other club he would have had recognition.",
-      "\"It felt like everyone was waiting for the moment to kick him down, and he never allowed it. He was a real good manager. He had real good staff around him with Kieran [McKenna] and [Michael] Carrick, a fantastic man-manager, he knew how to look after his team and his players.",
-      "\"It felt like he never really got the recognition and it was a shame really. Ultimately that third season we didn't do enough, the balance of the team wasn't what we had the previous two years, but I can't speak highly enough of Ole.\"",
-      "Looking ahead to Bournemouth's meeting with United, Cherries manager Iraola has highlighted two potential opponents who could pose significant problems for his side. He said: \"Players like Amad, who is now even more important.",
-      "\"He is an even bigger threat, and we have to be ready to defend difficult duels for the full-backs and for the centre-backs because you have to defend some very good players in open spaces.",
-      "\"Mason Mount is a very smart player,\" he added. \"He always takes up good positions. I think he understands and analyses the game really well, to take up spaces on the pitch that he can exploit better.",
-      "\"Sometimes he plays higher, sometimes lower, sometimes wider, sometimes inside, and obviously, there is a reason he does that. Then he is also a lovely player on the ball if we allow him a lot of time.\"",
-      "Patrick Dorgu has frequently been utilised by Amorim as a left-sided wing-back, but his playing time has diminished in recent matches, with Diogo Dalot being favoured.",
-      "The 21-year-old may feature in the upcoming match against Bournemouth, either starting or coming off the bench, but he'll need to avoid receiving a yellow card.",
-      "So far this season, Dorgu has been cautioned in Premier League games against Arsenal, Brentford, Brighton and Tottenham. If he receives a fifth yellow card before the 20th game of the season, he will face a one-match suspension.",
-      "According to The FA's disciplinary rules, a player who accumulates five yellow cards in the first 19 matches of a season will be suspended for one match. These suspensions do not extend to the EFL Cup or the FA Cup and must be served in the Premier League.",
-      "Dorgu isn't the only player at risk of suspension in Monday's match. Midfielder Casemiro is also on thin ice.",
-      "Amorim is keeping his plans regarding the trio of Amad, Bryan Mbeumo and Noussair Mazraoui under wraps. The three players are due to participate in the Africa Cup of Nations.",
-      "However, it remains unclear whether they will depart before or after tonight's match. This uncertainty is likely to persist until closer to kick-off, leaving United's opponents guessing about their availability.",
-      "At  Reach and across our entities  we and our partners use information collected through cookies and other identifiers from your device to improve experience on our site, analyse how it is used and to show personalised advertising. You can opt out of the sale or sharing of your data, at any time clicking the \"Do Not Sell or Share my Data\" button at the bottom of the webpage. Please note that your preferences are browser specific. Use of our website and any of our services represents your acceptance of the use of  cookies  and consent to the practices described in our Privacy Notice and Terms and Conditions."
-    ]
-  },
-  {
-    "headline": "Man United vs Bournemouth AFCON latest, Bryan Mbeumo discussions, release date set",
-    "tags": [],
-    "link": "https://www.manchestereveningnews.co.uk/sport/football/football-news/man-utd-players-afcon-mbeumo-33056594",
-    "image": null,
-    "date": null,
-    "source": "manchestereveningnews",
-    "body": [
       "At  Reach and across our entities  we and our partners use information collected through cookies and other identifiers from your device to improve experience on our site, analyse how it is used and to show personalised advertising. You can opt out of the sale or sharing of your data, at any time clicking the \"Do Not Sell or Share my Data\" button at the bottom of the webpage. Please note that your preferences are browser specific. Use of our website and any of our services represents your acceptance of the use of  cookies  and consent to the practices described in our Privacy Notice and Terms and Conditions."
     ]
   },
@@ -1103,26 +1135,55 @@
     ]
   },
   {
-    "headline": "Bruno Fernandes claims spot in Premier League XI of season so far",
+    "headline": "Haaland v Declan Rice for PFA Player of the Year in 2025/26",
+    "tags": [],
+    "link": "https://www.football365.com/news/who-will-win-pfa-player-year-2025-26-premier-league",
+    "image": "https://images.ps-aws.com/c?url=https%3A%2F%2Fd2x51gyc4ptf2q.cloudfront.net%2Fcontent%2Fuploads%2F2025%2F09%2F21184940%2FHaalandRice-1320x742.jpg",
+    "date": "2025-12-15 07:22:47",
+    "source": "football365",
+    "body": [
+      "The PFA Player of the Year award for the 2024/25 season was given as expected to Mo Salah, who also won the Golden Boot, the Premier League and a massive new contract.",
+      "This season it might go to Erling Haaland for scoring all of the goals, or an Arsenal player for the first time since Robin van Persie.",
+      "",
+      "These are the current 50/1 shots: Dominik Szoboszlai (Liverpool), Bruno Fernandes (Manchester United), Cole Palmer (Chelsea), William Saliba, Martin Zubimendi and Mikel Merino (Arsenal).",
+      "",
+      "Began the season as poorly as his club but has since made himself central to this remarkable season for Aston Villa, scoring five goals and claiming three assists.",
+      "",
+      "His odds shorted on the back of that match-winning performance against Tottenham. But then it turned out that, well, lads it’s Tottenham.",
+      "",
+      "A phenomenal performance against Liverpool was enough to shorten the odds of the Belgian winger to win the PFA award while Manchester City’s chances of winning the Premier League title were massively boosted. But let’s face it, if it’s a City player, it won’t be Doku or…",
+      "",
+      "A former winner, he has returned to the kind of form that made him one of the best players in the Premier League just two seasons ago. He is in our Premier League team of the season so far, having fought off Eberechi Eze among others.",
+      "",
+      "Still Arsenal’s most reliable source of creativity, though he has actually only claimed four Premier League goals and one assist this season. It seems unlikely that he will be the key to Arsenal finally winning the Premier League, though his popularity might earn him a few votes.",
+      "",
+      "If Arsenal do win the Premier League, it is likely to be on the foundations of their defence. And Gabriel is key to that defence. Jamie Carragher calls him ‘the most influential player in the Premier League’.",
+      "",
+      "If Arsenal do win the Premier League, it is likely to be on the foundations of their set-pieces. And Declan Rice is key to those set-pieces. He might also be the best midfielder in Europe bar none on current form.",
+      "",
+      "The runaway favourite to win the Golden Boot is a former winner; will his goals be enough to put the Premier League trophy back into Manchester City’s sticky mitts again?"
+    ]
+  },
+  {
+    "headline": "Chelsea player gatecrashes Premier League XI of season so far",
     "tags": [
-      "Premier League",
-      "Fernandes"
+      "Premier League"
     ],
     "link": "https://www.football365.com/news/premier-league-team-season-25-26",
-    "image": "https://images.ps-aws.com/c?url=https%3A%2F%2Fd2x51gyc4ptf2q.cloudfront.net%2Fcontent%2Fuploads%2F2025%2F12%2F09002343%2FPremier-League-XI-F365-1320x742.jpg",
-    "date": "2025-12-09 00:26:06",
+    "image": "https://images.ps-aws.com/c?url=https%3A%2F%2Fd2x51gyc4ptf2q.cloudfront.net%2Fcontent%2Fuploads%2F2025%2F12%2F15071324%2FChelsea-celebrate-638x358.jpg",
+    "date": "2025-12-15 07:12:06",
     "source": "football365",
     "body": [
       "We’re basing this Premier League XI on WhoScored ratings, which essentially means Opta statistics and algorithms that generally reward ‘doing stuff’, so aerially dominant centre-halves are far more likely to be included than calm passers.",
-      "Anyway, here we go. At this stage, all candidates must have started 10 of 15 Premier League games.",
+      "Anyway, here we go. At this stage, all candidates must have started 11 of 16 Premier League games.",
       "",
-      "David Raya is sitting on his hands as he earns the Golden Glove and Dean Henderson has prevented the most goals, but the algorithms make Pope the leading goalkeeper in the Premier League this season, taking over from Robin Roefs after his Sunderland side got a mini-paddling from Manchester City.",
+      "David Raya is sitting on his hands as he earns the Golden Glove and Dean Henderson has prevented the most goals, but the algorithms make Pope the leading goalkeeper in the Premier League this season, taking over from Robin Roefs after his Sunderland side got a mini-paddling from Manchester City. Retains his place in absentia.",
       "",
-      "There was no right-back in the PFA Team of the Year for 2024/25 season but Arsenal’s Jurrien Timber might be impossible to ignore this season. But the numbers but Munoz ahead so far…he claimed his third goal of the season in the 1-0 win at Burnley. He is quietly (well, not so quietly) showing Manchester United’s wing-backs how to do the job.",
+      "There was no right-back in the PFA Team of the Year for 2024/25 season but Arsenal’s Jurrien Timber might be impossible to ignore this season. But the numbers put Munoz ahead so far…he claimed his third goal of the season in the 1-0 win at Burnley. He is quietly (well, not so quietly) showing Manchester United’s wing-backs how to do the job.",
       "",
       "At this stage of the season, there is a bias in favour of defenders with goal contributions, and Gabriel has one goal and two assists. But he is also the best centre-half in the Premier League bar none. Though Arsenal are having to learn to cope without him right now.",
       "",
-      "Only Arsenal have a better defensive record than Palace this season, who now have two players in this Premier League XI after a 1-0 win over Burnley brought their seventh clean sheet of the campaign. Guehi then scored the winner against Fulham to lift Palace into the Champions League places. Liverpool really should have got their arses in gear in the summer.",
+      "Had we said in August that Chelsea would have one man in this team by mid-December, you might have had a punt at Cole Palmer or perhaps Moises Caicedo. But only Arsenal have conceded fewer goals than Chelsea this season and Chalobah has been central to that record, with three Premier League goals a bonus.",
       "",
       "Slim pickings at left-back – unlike at right-back – with O’Reilly emerging from the pack with a goal and three assists from left-back. It’s also booked him a place to the World Cup with England.",
       "",
@@ -1130,19 +1191,19 @@
       "",
       "Much maligned but once again, the numbers are on his side. We keep being told that the United formation is curtailing his attacking output, and yet nobody in the Premier League has more assists (six) than Bruno, who has now scored four Premier League goals this season.",
       "",
-      "Another excellent game for Saka v Tottenham in which he really showed Mohammed Kudus how to be a Premier League right winger. He is defensively diligent as well as insanely productive. After a slow start to the season, Saka is flying once again and now has four Premier League goals.",
+      "Another excellent game for Saka v Tottenham in which he really showed Mohammed Kudus how to be a Premier League right winger. He is defensively diligent as well as insanely productive. After a slow start to the season, Saka is flying once again and now has four Premier League goals. He was the pick of a poor bunch v Wolves.",
       "",
-      "Move over Eberechi Eze. Foden now has six Premier League goals this season after a double in that mental game v Fulham and another v Sunderland. He was also defensively diligent in that game; his busy-ness is a gift to the algorithm. It’s interesting that three City players emerge at the top of WhoScored’s players of the season. But then they have scored the most goals this season…",
+      "Move over Eberechi Eze. Foden now has seven Premier League goals this season after a double in that mental game v Fulham, another v Sunderland and another brace at Crystal Palace. It’s interesting that three City players emerge at the top of WhoScored’s players of the season. But then they have scored the most goals this season…",
       "",
       "Absolutely phenomenal against Liverpool, he scored a goal, won a penalty, dribbled past seven players and created three chances. He then created four chances against Newcastle United but was overshadowed by Harvey Barnes. Only Kudus dribbles past more players but Doku has more end product this season and loses the ball a whole lot less.",
       "",
-      "Just casually strolling towards the Golden Boot with 15 Premier League goals in his first 15 games. He looks sharp and he looks absolutely brilliant, clearly taking the summer spend on outrageously expensive strikers as a personal affront. Still the best? Absolutely.",
+      "Just casually strolling towards the Golden Boot with 17 Premier League goals in his first 16 games. He looks sharp and he looks absolutely brilliant, clearly taking the summer spend on outrageously expensive strikers as a personal affront. Still the best? Absolutely.",
+      "Viktor Gyokeres is ‘the worst footballer that I’ve seen at Arsenal since Lee Chapman’, says one Arsenal fan. Does Mikel Arteta need to make a choice?",
       "Erling Haaland has been a Premier League player for barely three seasons but has already outscored a legion of legends and is firing Norway to the World Cup.",
       "Sources close to both Marc Guehi and Liverpool believe they know what the final outcome will be after Bayern Munich interest.",
       "This means more when it’s Liverpool, whose fans are the only ones to back their managers, according to Jamie Carragher.",
       "Mohamed Salah and Arne Slot are no longer BFFs but their fall-out is a mere tiff compared to some of these bust-ups between managers and their players…",
-      "Viktor Gyokeres is splitting Arsenal fans between those who believe he is a massive waste of money and his loyal defenders.",
-      "Sunderland v Newcastle is back on the Premier League fixture list after almost a decade away, and have Aston Villa set themselves up for a fall?"
+      "Viktor Gyokeres is splitting Arsenal fans between those who believe he is a massive waste of money and his loyal defenders."
     ]
   },
   {
@@ -1251,7 +1312,7 @@
       "LIVE"
     ],
     "link": "https://www.football365.com/news/liverpool-carragher-hits-back-man-of-people-ferdinand-salah-dig",
-    "image": "https://images.ps-aws.com/c?url=https%3A%2F%2Fd2x51gyc4ptf2q.cloudfront.net%2Fcontent%2Fuploads%2F2025%2F12%2F14110720%2FF365-Jamie-Carragher-with-Rio-Ferdinand-1-638x358.jpg",
+    "image": "https://www.football365.com/content/themes/f365-sportsui/img/png/placeholder.png",
     "date": "2025-12-14 11:08:56",
     "source": "football365",
     "body": [
@@ -1908,12 +1969,12 @@
       "Having asked Wolves to start the season ‘properly’ they have instead out-Wolvesed even their own propensity for bad starts by delivering the worst Premier League start ever.",
       "Turns out there really was a Derby-botherer among us this season after all.",
       "",
+      "Had we said in August that Chelsea would have one man in this team by mid-December, you probably wouldn’t have picked this guy.",
       "Erling Haaland has been a Premier League player for barely three seasons but has already outscored a legion of legends and is firing Norway to the World Cup.",
       "Sources close to both Marc Guehi and Liverpool believe they know what the final outcome will be after Bayern Munich interest.",
       "This means more when it’s Liverpool, whose fans are the only ones to back their managers, according to Jamie Carragher.",
       "Mohamed Salah and Arne Slot are no longer BFFs but their fall-out is a mere tiff compared to some of these bust-ups between managers and their players…",
-      "Viktor Gyokeres is splitting Arsenal fans between those who believe he is a massive waste of money and his loyal defenders.",
-      "Sunderland v Newcastle is back on the Premier League fixture list after almost a decade away, and have Aston Villa set themselves up for a fall?"
+      "Viktor Gyokeres is splitting Arsenal fans between those who believe he is a massive waste of money and his loyal defenders."
     ]
   },
   {
@@ -2119,52 +2180,12 @@
       "",
       "Suspicions that those questioning Kudus’ price tag after a very ordinary output of five goals and three assists last season were missing the obvious ‘but he was playing for West Ham’ caveat have been confirmed through his displays for Spurs.",
       "He was ploughing a lone furrow as Spurs’ only real attacking outlet for much of the season before Simons’ recent improvement and before Richarlison uncovered a knack of scoring goals while being pants.",
+      "Had we said in August that Chelsea would have one man in this team by mid-December, you probably wouldn’t have picked this guy.",
       "Erling Haaland has been a Premier League player for barely three seasons but has already outscored a legion of legends and is firing Norway to the World Cup.",
       "Viktor Gyokeres was the top scorer of 2024, ending the year on 52 goals, but a rampant Kylian Mbappe appears to have the 2025 prize sewn up.",
       "Arsenal legend Martin Keown thinks Viktor Gyokeres is still some way off “the fitness level you would expect” as the Gunners edged out Wolves on Saturday.",
       "Arsenal summer signing Viktor Gyokeres has been warned that he could soon find himself on the bench as Noni Madueke has been backed to replace him.",
-      "Will club chiefs be scouring the January transfer market to fix problems they thought they had only just sorted? These ten summer ‘fixes’ already look like they could do with ...",
-      "Sources close to both Marc Guehi and Liverpool believe they know what the final outcome will be after Bayern Munich interest."
-    ]
-  },
-  {
-    "headline": "Spurs told to snub Rashford but Man Utd deal would be no-brainer if Barcelona gift them opportunity",
-    "tags": [
-      "Man Utd",
-      "Rashford"
-    ],
-    "link": "https://www.football365.com/news/opinion-spurs-snub-rashford-man-utd-transfer-no-brainer-barcelona",
-    "image": "https://www.football365.com/content/themes/f365-sportsui/img/png/placeholder.png",
-    "date": "2025-12-11 14:21:11",
-    "source": "football365",
-    "body": [
-      "Spurs legend Chris Waddle has explained why he thinks his former club should snub Marcus Rashford, but he would actually be a no-brainer signing…",
-      "Few could have foreseen Rashford‘s summer move to Barcelona going as well as it has, with the Manchester United outcast being one of the window’s best signings across Europe.",
-      "The 28-year-old has featured far more consistently for Barcelona than most imagined he would, with his tally of six goals and eleven assists in 21 appearances a stunning return in his first six months.",
-      "The Spanish giants have an opportunity to make Rashford’s move permanent for a cut-price fee of around £26m next summer, with his stellar form ensuring the club’s complicated financial situation may be the only remaining barrier in the way of this transfer.",
-      "And were Barcelona’s long-term financial troubles to ruin their hopes of retaining Rashford beyond this summer, the door would open to a potential return to the Premier League next summer.",
-      "READ: Xavi Simons clicking Spurs attack into gear to become Frank’s biggest undroppable",
-      "In that context, Spurs would be one of the contenders to sign him as they have previously been linked with the forward, while his relationship with Man Utd is likely beyond repair.",
-      "Given how well Rashford has performed for Barcelona and Aston Villa over the past year, Spurs, especially for the fee involved, should snap Man Utd’s hands off if gifted the opportunity to land the England international.",
-      "Spurs legend Waddle is against this potential signing, though his reasoning is somewhat flawed.",
-      "“Spurs have failed to replace Harry Kane. They now seem to be too interested in only signing young players like Archie Gray, Lucas Bergvall and Wilson Odobert and trying to develop them. It’s about time they started signing ready-made players,” Waddle said in an interview with WhichBookie.",
-      "“They have been linked with Marcus Rashford and although he’s better than what they’ve got, I’m not too sure they really need another left-winger.”",
-      "MORE SPURS COVERAGE ON F365…\n👉 Semenyo to replace Salah at Liverpool as 10 likeliest January transfers ranked\n👉 Hoddle feels ‘world-class’ Tottenham star won’t sign contract as Man City, Liverpool claim made\n👉 Premier League player power rankings: Fernandes up to third, Foden in top 10, no Salah or Van Dijk",
-      "So, Rashford is “better than what they have got”, but Spurs do not “need another left winger”… Eh?",
-      "Spurs are not short of options in wide areas, but their current options are at a certain level and certainly worth being replaced with an upgrade if a player of Rashford’s ability becomes available.",
-      "Rashford’s versatility is another positive. He should not be deemed a replacement for Kane, but he would be a great option for the No.9 role and increase Tottenham’s output from up front/out wide.",
-      "He also fits the bill as a “ready-made player”, even though Waddle thinks otherwise…",
-      "“He’s not shown enough in the Premier League for Manchester United. He had one good season a few years ago, but apart from that he’s been quite inconsistent. I personally wouldn’t be trying to sign him,” Rashford added.",
-      "“Spurs should be looking at somebody who is proven in this league. They shouldn’t be put off trying to sign players from other Premier League clubs who have performed well.",
-      "“I know they’ll be doing their scouting far and wide across Europe and elsewhere, but sometimes I think they just need to buy somebody who is ready-made for the league and is already performing week in, week out.”",
-      "There is no doubt that he had plenty of dips in his career, but he showed what he is capable of in his 30-goal campaign for Man Utd and during last season’s loan at Aston Villa.",
-      "Very few of Tottenham’s realistic alternatives would be quite as “ready-made” and a sure-fire upgrade as Rashford, who would be a no-brainer signing if the opportunity arose.",
-      "Former Tottenham scout Bryan King has suggested Spurs are “scraping around for players” amid links to Marcus Rashford, who he wouldn’t sign given a lack of loyalty.",
-      "A very silly report has claimed that FC Barcelona have decided to include Marcus Rashford in a swap deal with La Liga rivals Atletico Madrid.",
-      "Man Utd forward Marcus Rashford could now return to Old Trafford as Barcelona are ‘not convinced’ by the England international, according to reports.",
-      "Barcelona are uncertain about signing Marcus Rashford permanently and could send him back to Manchester United, according to reports in Spain.",
-      "According to reports, FC Barcelona loanee Marcus Rashford has been ‘offered’ a swap deal involving Manchester United and Paris Saint-Germain.",
-      "Rashford may not get his permanent move to Barcelona in the summer but PSG have ‘tested’ the Man Utd waters with an intriguing swap offer amid interest from Arsenal."
+      "Will club chiefs be scouring the January transfer market to fix problems they thought they had only just sorted? These ten summer ‘fixes’ already look like they could do with ..."
     ]
   },
   {
@@ -2236,12 +2257,12 @@
     ]
   },
   {
-    "headline": "Man Utd latest: I suffer the most from our defeats, says Amorim",
+    "headline": "Man Utd latest: Amorim accepts pundit criticism as he's 'not doing good enough'",
     "tags": [
       "Man Utd",
       "Amorim"
     ],
-    "link": "https://www.skysports.com/football/live-blog/11095/13025492/man-utd-transfer-news-rumours-and-gossip-live-updates-and-latest-on-deals-signings-loans-and-contracts",
+    "link": "https://www.skysports.com/football/live-blog/11667/13025492/man-utd-transfer-news-rumours-and-gossip-live-updates-and-latest-on-deals-signings-loans-and-contracts",
     "image": "https://e0.365dm.com/25/10/768x432/skysports-man-utd-news-club_7039262.jpg?20251002160459",
     "date": null,
     "source": "skysports",
